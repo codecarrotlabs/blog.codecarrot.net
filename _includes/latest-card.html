@@ -1,0 +1,28 @@
+<section class="latest-post">
+  <div class="container">
+
+    <!-- Cards -->
+    <ul class="cards-container">
+
+        {% for card in site.posts %}
+          <li class="card">
+            <div class="card-content">
+              <a href="{{site.baseurl}}{{ card.url }}">
+                <div class="card-content-image" style="background-image: url({{ card.image }})"></div>
+              </a>
+              <div class="card-content-text">
+                <a href="{{site.baseurl}}{{ card.url }}">
+                  <h2>
+                    {{ card.title | truncate: 60, "..." }}
+                  </h2>
+                </a>
+                <p>{{ card.description | truncate: 121, "..." }}</p>
+              </div>
+              <a class="read-more" href="{{site.baseurl}}{{ card.url }}">READ MORE</a>
+            </div>
+          </li>
+        {% endfor %}
+    </ul>
+
+  </div>
+</section>

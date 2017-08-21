@@ -1,0 +1,24 @@
+
+title: CodeCarrot Garage - Online Marketing, Web Design, and Small Business Blog
+email: contact@codecarrot.net
+description: The CodeCarrot Garage offers in-depth articles about websites, online marketing, business and more.
+baseurl: ""
+url: "http://www.codecarrot.net"
+twitter_username: codecarrotnet
+github_username:  codecarrotnet
+permalink: /:title/
+paginate: 9
+paginate_path: /page/:num/
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# plugins: [jekyll-paginate]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,52 @@
+---
+layout: category
+---
+
+
+    <ul>
+      {% for card in site.categories.podcast limit:1 %}
+       <section style="background-image: url({{ card.image }})" class="background-img">
+        <div class="container">
+          <div class="featured-background">
+                <li>
+                  <div class="category-tag">
+                    <a href="#">Tag</a>
+                  </div>
+                  <div class="featured-title">
+                    <a href="{{site.baseurl}}{{ card.url }}">{{ card.title }}</a>
+                  </div>
+                </li>
+          </div>
+        </div>
+      </section>
+      {% endfor %}
+    </ul>
+     
+    <section class="latest-post">
+      <div class="latest-post-container">
+
+        <!-- Cards -->
+        <ul class="cards-container">
+
+            {% for card in site.categories.podcast %}
+              <li class="card">
+                <div class="card-content">
+                  <a href="{{site.baseurl}}{{ card.url }}">
+                    <img class="card-content-image" src="{{ card.image }}" alt="{{ card.title }}">
+                  </a>
+                  <div class="card-content-text">
+                    <a href="{{site.baseurl}}{{ card.url }}">
+                      <h2>
+                        {{ card.title }}
+                      </h2>
+                    </a>
+                    <p>{{ card.description }}</p>
+                  </div>
+                  <a class="read-more" href="{{site.baseurl}}{{ card.url }}">READ MORE</a>
+                </div>
+              </li>
+            {% endfor %}
+        </ul>
+
+      </div>
+    </section>
