@@ -7,6 +7,7 @@ description: If you sell jewelry online, chances are you do it through a marketp
 image: ../images/women-wearing-jewellery.jpg
 ---
 
+
 https://www.godaddy.com/garage/industry/retail/clothing/do-you-need-your-own-website-to-sell-jewelry-online/
 
 If you sell jewelry online, chances are you use one of the many eCommerce platforms for makers, such as Flipkart or Amazon. So is it even worth spending the time and effort to create your own eCommerce website when you have so many big-name platforms to choose from? In a word, yes. Maintaining your own site is a fantastic way to sell jewelry online.
