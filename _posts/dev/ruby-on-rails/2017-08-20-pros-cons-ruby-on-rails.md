@@ -2,7 +2,7 @@
 layout: post
 title:  Ruby on Rails - Pros & Cons. What You Should Know Before Choosing The Technology
 date:   2017-08-20 10:00:00
-categories: ruby-on-rails
+categories: dev ruby-on-rails
 description: Selecting a technology to develop a web app is difficult. A wrong decision may cost much. Learn what are the pros and cons of Ruby on Rails and choose wisely.
 image: http://blog.codecarrot.net/images/pros-cons-ruby-on-rails.jpg
 ---

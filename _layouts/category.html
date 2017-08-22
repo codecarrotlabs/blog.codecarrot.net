@@ -4,15 +4,11 @@
 	</head>
 
 	<body>
-	    {% include navigation.html %}
-	    
-	    {% if paginator.page == 1 %}
-	      {% include header-post.html %}
-	    {% else %}
-	      {% include header-page.html %}
-	    {% endif %}
+    {% include navigation.html %}
 
-	    {% include subnav.html %}
+		{% include header-post.html %}
+
+		{% include subnav.html %}
 
 		{{content}}
 
