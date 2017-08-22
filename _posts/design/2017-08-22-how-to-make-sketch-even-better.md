@@ -126,7 +126,7 @@ Most software utilizes this simple trick, making the life of millions of people 
 
 ## 7. Spacebar for moving a created patch point
 
-![Spacebar for moving a created patch point in sketch](http://blog.codecarrot.net/images/image02-4.png)
+![Spacebar for moving a created patch point in sketch](http://blog.codecarrot.net/images/patch-point-in-sketch.png)
 
 What if you want to change the position of the created point?
 
