@@ -7,7 +7,14 @@
   <body>
     {% include navigation.html %}
 
-    {% include header-post.html %}
+    {% if paginator.page == 1 %}
+      {% include header-post.html %}
+    {% else %}
+      {% include header-page.html %}
+    {% endif %}
+
+    {% include subnav.html %}
+
 
     {{ content }}
 

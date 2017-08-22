@@ -1,14 +1,17 @@
+<html>
+	<head>
+		{% include meta.html %}
+	</head>
 
- <html>
-  <head>
-    {% include meta.html %}
-  </head>
-  
-  <body>
-    {% include navigation.html %}
-    
-    {{content}}
-    
-    {% include footer.html %}
-  </body>
+	<body>
+	    {% include navigation.html %}
+	    
+		{% include header-page.html %}
+
+		{% include subnav.html %}
+
+		{{content}}
+
+		{% include footer.html %}
+	</body>
 </html>
