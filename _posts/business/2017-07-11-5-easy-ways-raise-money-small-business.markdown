@@ -4,12 +4,12 @@ title:  5 Easy Ways to Raise Money for Your Small Business
 date: 2017-07-11 12:00:00
 categories: business
 description: Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think.
-image: ../images/raise-money-for-your-small-business.jpg
+image: http://blog.codecarrot.net/images/raise-money-for-your-small-business.jpg
 ---
 
 Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think. Here are five easy ways to raise money for your small business:
 
-![Paisa Paisa](../images/paisa-paisa.gif)
+![Paisa Paisa](http://blog.codecarrot.net/images/paisa-paisa.gif)
 
 ## Do it On Your Own
 
@@ -47,7 +47,7 @@ Some non-profit organizations or NGOs also [support small businesses financially
 
 Angel investors and VCs are very similar. Both are interested in investing in your business, both want a share of your business and profits in return. The only difference is, VCs also want a seat in your office – they want a seat in your board or have some managing rights in your company.
 
-![Throwing Money](../images/throwing-money.gif)
+![Throwing Money](http://blog.codecarrot.net/images/throwing-money.gif)
 
 Angel investors need to be registered with the Securities Exchange Commission of India and need to have a net worth of at least Rs.20 Lakhs. You can look for Angel Investors at forums like [Angellist](https://angel.co/) and [MicroVentures](http://www.microventures.com/). VCs are usually large companies that are ready to fund you. [Here](https://inc42.com/resources/top-47-active-venture-capital-firms-india-startups/) is a list of famous VCs in India.
 
@@ -63,7 +63,7 @@ While Accelerators don’t offer office space and other physical amenities to a 
 
 **Contests** are another way of securing funding for your business. This includes winning a reality show or a startup event, also probably organized by an angel or VC. A prize money is declared on winning a competition, which can be used as seed funding for your business.
 
-![Money Falling](../images/money-falling.gif)
+![Money Falling](http://blog.codecarrot.net/images/money-falling.gif)
 
 Think your business is not worth taking the risk for? If these stupid businesses can make millions, so can yours!
 

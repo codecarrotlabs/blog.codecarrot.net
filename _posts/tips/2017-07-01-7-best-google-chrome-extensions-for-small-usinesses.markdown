@@ -4,7 +4,7 @@ title: 7 Best Google Chrome Extensions for Small Businesses
 date: 2017-07-01 12:00:00
 categories: tips
 description: Here are some handy chrome extensions for small businesses online. It makes life so much easier for anyone on the internet. Browser extensions and plugins or tools that help with managing tasks online.
-image: ../images/google-chrome-extensions.png
+image: http://blog.codecarrot.net/images/google-chrome-extensions.png
 ---
 
 It’d be fair to say Chrome extensions are the best thing since sliced bread! It makes life so much easier for anyone on the internet. Browser extensions and plugins or tools that help with managing tasks online. Google Chrome has an extension for everything you want to do online; some great chrome extensions for small businesses too.

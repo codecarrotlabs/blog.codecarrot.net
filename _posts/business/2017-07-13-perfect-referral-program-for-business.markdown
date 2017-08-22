@@ -4,7 +4,7 @@ title:  A Guide to Finding the Perfect Referral Program for Your Business
 date:   2017-07-13 12:00:00
 categories: business
 description: Do you want your costumers to sell your products and services for your business? Have you been thinking of starting a refer and earn program for your business?
-image: ../images/speaking-referral-with-loud-speaker.png
+image: http://blog.codecarrot.net/images/speaking-referral-with-loud-speaker.png
 ---
 
 Have you been thinking of starting a refer and earn program for your business but aren’t sure about where to get started? We have you covered! Here is a beginners’ guide to a refer and earn scheme that will work for your business.

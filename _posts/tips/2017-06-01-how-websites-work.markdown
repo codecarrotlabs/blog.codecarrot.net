@@ -4,7 +4,7 @@ title:  How Websites Work?
 date:   2017-06-01 12:00:00
 categories: tips
 description: How websites works and why domain name and hosting is important for your website. We'll run down the basics - without getting too technical, promise! - on web servers and domain names
-image: ../images/how-websites-work.jpg
+image: http://blog.codecarrot.net/images/how-websites-work.jpg
 ---
 
 We'll run down the basics - without getting too technical, promise! - on web servers and domain names, what they do for you and how to find what you need to get started. Before that,
@@ -31,7 +31,7 @@ It's called a server because it 'serves' up the right content when requested - t
 
 There are many companies and services that will rent you space on a server and host your website. Think of it like a bricks and mortar shop, you pay an ongoing hosting fee, which is a bit like paying rent, leaving them to take care the technical aspects of running a server so you don't have to.
 
-![Web Hosting like Real E-State](../images/web-hosting-like-real-e-state.png)
+![Web Hosting like Real E-State](http://blog.codecarrot.net/images/web-hosting-like-real-e-state.png)
 
 **Online real E-State**
 

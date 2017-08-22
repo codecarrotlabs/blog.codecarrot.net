@@ -4,7 +4,7 @@ title:  How to Market Your Small Business in India
 date:   2017-07-05 12:00:00
 categories: market
 description: Any successful business owner will tell you; marketing is the key to a growing business, here are some ideas to market your small business.
-image: ../images/market-your-small-business.png
+image: http://blog.codecarrot.net/images/market-your-small-business.png
 ---
 
 Any successful business owner will tell you; marketing is the key to a growing business. And, as Constantin Stanislavsky said, "there are no small parts, only small actors". So whether you’re selling books out on the street or coaching material on the internet, here are some ideas to market your small business:

@@ -4,7 +4,7 @@ title:  Beginner's guide to starting an email list
 date:   2017-06-26 12:00:00
 categories: market
 description: Learn why starting an email list is key to building business, how to get and keep subscribers, and what to avoid. No experience necessary.
-image: ../images/starting-an-email-list.jpg
+image: http://blog.codecarrot.net/images/starting-an-email-list.jpg
 ---
 
 If you’re like most people, you started blogging to share information and make money while at it. But to make money with your blog, you need to get visitors to your site. And how can you drive traffic to your blog to show off all that glorious new content? It’s all about starting an email list.
@@ -33,7 +33,7 @@ OK, here’s how you do NOT get people on your list: buy them. That’s right �
 To put it mildly, sending random emails to people these days pisses them off. No one likes to be added to a list without their permission. It’s the fastest way to tick off potential readers and to get your address sent over to spamville.
 </blockquote>
 
-![No Junk Mail](../images/no-junk-mail.jpg)
+![No Junk Mail](http://blog.codecarrot.net/images/no-junk-mail.jpg)
 
 You want to create a list of people who actually agree to be on your list. The best way to get them to agree? Make it easy! Include a big, fat sign-up button on your blog. Most good email marketing programs also enable you to add a sign-up form to your Facebook page.
 

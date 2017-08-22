@@ -4,7 +4,7 @@ title:  "Google’s mobile-first index: How you can prepare your website"
 date:   2017-08-20 12:00:00
 categories: tips
 description: You may or may not have heard the Google is switching to mobile-first index in the near future. What does that mean for your website &amp; how can you prepare?
-image: ../images/mobile-on-book.jpg
+image: http://blog.codecarrot.net/images/mobile-on-book.jpg
 ---
 
 You may have heard that Google will be switching to a mobile-first index in the near future, but if you’re not sure what this means or how it will affect your site, don’t panic. With a little preparation, you won’t have to worry about Google turning your rankings upside down. The following information explains the basics of the update and walks you through the steps you should take to get ready.
@@ -19,7 +19,7 @@ Recently, however, mobile use has started overtaking desktop use.
 
 In May 2015, Google announced that more searches were conducted from mobile devices than from desktop computers in 10 countries around the world, including the U.S. In November 2016, StatCounter reported that more than half of worldwide internet usage was conducted on smartphones and tablets.
 
-![Internet Usage Worldwide](../images/internet-usage-worldwide.png)
+![Internet Usage Worldwide](http://blog.codecarrot.net/images/internet-usage-worldwide.png)
 
 This shift toward mobile shows no signs of slowing down, and Google wants to make sure it’s providing a good user experience for mobile users, as well as desktop users. Switching to a mobile-first index will help them do that.
 
@@ -55,7 +55,7 @@ Take these steps to prep if your current website is not mobile-friendly:
 
 First things first: Consider switching to responsive web design ASAP. Responsive web design is useful because it keeps your site consistent, no matter what device someone is using to view it. Your HTML stays the same across all devices. The only thing that changes is your CSS, so your site looks nice on a variety of screen sizes. Below is an example of how responsive design adjusts your site’s appearance on a smartphone.
 
-![Responsive Mobile Design](../images/mobile-friendly-website.png)
+![Responsive Mobile Design](http://blog.codecarrot.net/images/mobile-friendly-website.png)
 
 <div class="callout">
 Responsive design is one of the most practical ways to make your site mobile-friendly.
@@ -87,11 +87,11 @@ Make sure your schema markup is consistent between your desktop site and your mo
 
 Don’t use unnecessary markup, though, since that might slow your site down. If you need help updating your structured data, Google’s markup helper will guide you through the process. To go through your website pages, type in your mobile URLs.
 
-![Structured Data Markup Helper](../images/structured-data-markup-helper.png)
+![Structured Data Markup Helper](http://blog.codecarrot.net/images/structured-data-markup-helper.png)
 
 Last but not least, if you haven’t done so yet, verify your mobile site on Google Search Console. This makes it so Google can find and index your mobile site instead of your desktop site.
 
-![Welcome to Search Console](../images/welcome-to-search-console.png)
+![Welcome to Search Console](http://blog.codecarrot.net/images/welcome-to-search-console.png)
 
 **Run tests**
 

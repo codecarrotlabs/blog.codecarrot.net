@@ -1,10 +1,14 @@
+---
+layout: default
+---
+
 <section class="latest-post">
   <div class="container">
 
     <!-- Cards -->
     <ul class="cards-container">
 
-        {% for card in site.posts %}
+        {% for card in paginator.posts %}
           <li class="card">
             <div class="card-content">
               <a href="{{site.baseurl}}{{ card.url }}">

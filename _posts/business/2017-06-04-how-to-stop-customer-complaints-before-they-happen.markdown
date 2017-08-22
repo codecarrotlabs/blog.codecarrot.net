@@ -4,7 +4,7 @@ title: How to stop customer complaints before they happen
 date: 2017-06-03 12:00:00
 categories: business
 description: The most common causes behind customer complaints and how to fix them. No, we’re not suggesting you break out the Ouija board just yet. 
-image: ../images/stop-customer-complaints-before-they-happen.jpg
+image: http://blog.codecarrot.net/images/stop-customer-complaints-before-they-happen.jpg
 ---
 
 No one wants to hear bad news. **Especially if it's a customer complaint**

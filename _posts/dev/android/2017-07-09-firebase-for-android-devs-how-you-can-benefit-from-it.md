@@ -4,7 +4,7 @@ title:  Firebase for Android Devs - How You Can Benefit from It
 date:   2017-07-09 12:00:00
 categories: android
 description: Firebase offers different services such as app testing, backend options and more. It’s integrated with Android Studio. See all the benefits of using Firebase.
-image: ../images/firebase-for-android-dev.png
+image: http://blog.codecarrot.net/images/firebase-for-android-dev.png
 ---
 
 Every one of us wants the same for our apps. We want them to contain a richer feature set, appear more stable, and be used by more users, not to mention having quicker development cycles. This can cost a lot of your most important resources: time and money. Wouldn’t it be perfect if someone has already made the solution ready to be used as a service?

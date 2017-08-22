@@ -4,7 +4,7 @@ title:  Introducing CodeCarrot Podcast - A New Podcast With Yashu Mittal
 date:   2017-06-28 05:00:00
 categories: podcast
 description: Each week, our Founder &amp; CEO - Yashu Mittal will be sharing one thing he’s learned throughout his career as a entrepreneur.
-image: ../images/codecarrot-podcast-banner.png
+image: http://blog.codecarrot.net/images/codecarrot-podcast-banner.png
 ---
 
 It's summer time, so why not start a new podcast?

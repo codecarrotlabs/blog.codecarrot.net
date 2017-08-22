@@ -1,18 +1,19 @@
 
  <html>
   <head>
-    {% include nav-header.html %}
+    {% include meta.html %}
   </head>
 
   <body>
-    {% include nav-top.html %}
+    {% include navigation.html %}
 
-    {% include featured.html %}
+    {% include header-post.html %}
 
-    {% include latest-card.html %}
+    {{ content }}
 
-    <!-- {% include pagination.html %} -->
+    {% include pagination.html %}
 
-    {% include nav-bottom.html %}
+    {% include footer.html %}
+
   </body>
 </html>

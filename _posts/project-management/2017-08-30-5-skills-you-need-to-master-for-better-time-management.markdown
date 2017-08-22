@@ -4,7 +4,7 @@ title:  5 Skills You Need to Master for Better Time Management
 date:   2017-08-30 12:00:00
 categories: project-management
 description: Strategies for better time management - S.M.A.R.T. method, Pomodoro timer, Prioritizing matrix and tips for better tasks planning and staying focused.
-image: ../images/calendar-app-business-time-management-workspace.jpg
+image: http://blog.codecarrot.net/images/calendar-app-business-time-management-workspace.jpg
 ---
 
 We all complain about the lack of time. We don’t have enough time at work and weekends are always too short. So invest some time, read this article and learn the most crucial skills needed to manage time efficiently and have more time to do the things you love.
@@ -35,7 +35,7 @@ The most basic skill that will help you manage your time better is time tracking
 
 **Eat That Frog technique: do the biggest, most scary task first**. This method is designed to help with procrastination. If you start by doing million small tasks, you might end up not having time for the most important one. Imagine you have big stones and a bag of sand that you have to put inside the jar. If you put the stones first, then you can easily fill it up with sand, but if you put the sand first, there might not be enough space for the stones! To prioritize your tasks, you can use this matrix:
 
-![Prioritize Your Smart Task](../images/prioritize-your-smart-tasks.png)
+![Prioritize Your Smart Task](http://blog.codecarrot.net/images/prioritize-your-smart-tasks.png)
 
 **Quadrant I** is for tasks that are urgent and important. They need to be done now.
 

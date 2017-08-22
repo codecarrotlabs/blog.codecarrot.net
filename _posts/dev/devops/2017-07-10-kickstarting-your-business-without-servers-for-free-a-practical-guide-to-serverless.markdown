@@ -4,7 +4,7 @@ title:  Kickstarting Your Business without Servers for Free - A Practical Guide 
 date:   2017-07-10 12:00:00
 categories: devops
 description: What's serverless? It doesn't mean your app won't need any servers. Recently, the trend for “serverless” started gaining a lot of traction both among developers and business people.
-image: ../images/kickstart-your-business-without-servers.jpg
+image: http://blog.codecarrot.net/images/kickstart-your-business-without-servers.jpg
 ---
 
 Recently, the trend for “serverless” started gaining a lot of traction both among developers and business people. As you’re reading this, you might be wondering, what on Earth does the new buzzword, **serverless**, even mean.

@@ -2,13 +2,13 @@
  <html>
   <head>
 
-    {% include nav-header.html%}
+    {% include meta.html %}
 
   </head>
 
   <body>
 
-    {% include nav-top.html %}
+    {% include navigation.html %}
 
     <section class="container">
       <div class="article-content">
@@ -23,8 +23,6 @@
               <img class="post-image-img" src="{{page.image}}" alt="{{page.title}}">
             </div>
           </div>
-
-
 
           {{content}}
 
@@ -91,6 +89,6 @@
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-590a3c202dedf7a6"></script>
 
-    {% include nav-bottom.html%}
+    {% include footer.html %}
   </body>
 </html>
