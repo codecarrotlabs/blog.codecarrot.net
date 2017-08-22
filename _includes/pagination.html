@@ -9,17 +9,15 @@
         <span style="display: none" class="page-numbers current">Previous</span>
       {% endif %}
 
-
-<!--       {% if paginator.previous_page %}
-        <a href="{{ (paginator.previous_page_path - 2) }}" class="page-numbers">{{ paginator_page - 2 }}</a>
-        <a href="{{ (paginator.previous_page_path }}" class="page-numbers">{{ paginator_page - 3 }}</a>
-        <a href="/page/{{ paginator.page-1 }}" class="page-numbers">{{ paginator.page | replace: "- 1" }}</a>
-      {% else %}
-        <span class="page-numbers current">({{ paginator.page }} - 1)</span>
-        <span class="page-numbers current">({{ paginator.page }} - 2)</span>
-        <span class="page-numbers current">{{ previous.page - 1 }}</span>
-      {% endif %} -->
-
+      <!-- {% for page in paginator.previous_page limit: 3 %}
+        {% if page == paginator.page %}
+          <span class="page-numbers current">{{ page }}</span>
+        {% elsif page == 1 %}
+          <a href="{{ paginator.previous_page_path }}" class="page-numbers">{{ page }}</a>
+        {% else %}
+          <a href="{{ paginator.previous_page_path }}" class="page-numbers">{{ page }}</a>
+        {% endif %}
+      {% endfor %} -->
 
       <span class="page-numbers current">{{ paginator.page }}</span>
 
@@ -40,17 +38,3 @@
     </div>
   </div>
 </section>
-
-<!-- <div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div> -->
