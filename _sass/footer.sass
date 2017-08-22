@@ -3,53 +3,92 @@
   .footer-container
     padding: 45px 20px 65px
 
-  .footer-list
-    float: none
-    margin: 20px 0
-    text-align: center
+    .footer-nav
 
-  .footer-junk
-    text-align: center
+      li
+        float: none
+        margin: 20px 0
+        text-align: center
+
+    p
+      text-align: center
 
 @media (min-width: 769px)
 
   .footer-container
     padding: 70px 0
 
-  .footer-nav, .footer-junk
-    max-width: 1048px
-    padding: 0 20px
-    margin: 0 auto
+    p
+      max-width: 1048px
+      padding: 0 20px
+      margin: 0 auto
 
-  .footer-item
-    margin: 20px 0
+    ul
+      max-width: 1048px
+      padding: 0 20px
 
-  .footer-list
-    display: inline-block
+    .footer-nav
+      margin: 20px auto
+
+      li
+        display: inline-block
 
 .footer-container
   background: #f6f9fa
   clear: both
 
-.footer-item
-  text-align: center
+  .codecarrot-logo
+    background:
+      repeat: no-repeat
+      size: cover
+      position: center center
+      image: url(../images/codecarrot-with-name-horizontal.svg)
+    margin: 10px auto
+    width: 190px
+    height: 30px
 
-.footer-item a
-  text-decoration: none
-  margin: 0 10px 0 0
-  color: #2e353b
+  p
+    color: #3a4142 //rgb(211, 217, 221)
+    font-size: 14px
+    text-align: center
 
-.footer-item a:hover
-  color: #00d664
+  .footer-nav
+    text-align: center
 
-.footer-list
-  list-style: none
-  transition: 0.3s ease
-  font:
-    size: 20px
-    weight: bold
+    li
+      list-style: none
+      color: #3a4142
+      font:
+        size: 14px
 
-.footer-junk
-  color: #576366
-  font-size: 15px
-  text-align: center
+      a
+        text-decoration: none
+        color: #2e353b
+
+        &:hover
+          color: #3a4142
+    
+    .dot
+      font-size: 10px
+      position: relative
+      top: -2px
+
+  .social
+    margin: 0 auto
+    list-style: none
+    text-align: center
+
+    li
+      display: inline-block
+
+      a
+        background: #d3d9dd
+        background-size: 24px 24px
+        border-radius: 50%
+        
+        svg
+          width: 16px
+          height: 16px
+          fill: #fff
+          margin: 0 5px
+

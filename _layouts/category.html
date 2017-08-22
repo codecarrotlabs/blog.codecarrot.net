@@ -6,9 +6,13 @@
 	<body>
 	    {% include navigation.html %}
 	    
-		{% include header-page.html %}
+	    {% if paginator.page == 1 %}
+	      {% include header-post.html %}
+	    {% else %}
+	      {% include header-page.html %}
+	    {% endif %}
 
-		{% include subnav.html %}
+	    {% include subnav.html %}
 
 		{{content}}
 
