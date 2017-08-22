@@ -3,9 +3,16 @@ title: CodeCarrot Garage - Online Marketing, Web Design, and Small Business Blog
 email: contact@codecarrot.net
 description: The CodeCarrot Garage offers in-depth articles about websites, online marketing, business and more.
 baseurl: ""
-url: "http://www.codecarrot.net"
-twitter_username: codecarrotnet
-github_username:  codecarrotnet
+url: "http://blog.codecarrot.net/"
+twitter:
+  username: codecarrotnet
+github:
+  username:  codecarrotnet
+logo: "http://www.codecarrot.net/assets/images/footer/codecarrot.png"
+webmaster_verifications:
+  google: 4YT4xkzM4wsDqWQY6J6LQplYCKTXAgI410kIAGE22VA
+facebook:
+ app_id: 181159655729057
 permalink: /:title/
 paginate: 9
 paginate_path: /page/:num/
