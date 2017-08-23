@@ -93,7 +93,7 @@ Even if you have a payment gateway set up with a secure third-party provider, yo
 
 ## 3. Fill your jewelry cases
 
-![Sell Jewelry Online Ring](http://codecarrot.net/images/sell-jewelry-online-ring.jpg)
+![Sell Jewelry Online Ring](http://blog.codecarrot.net/images/sell-jewelry-online-ring.jpg)
 
 Now that your store is set up, it’s time to fill it with your beautiful, handmade jewelry! Be sure to use well-lit, high-resolution photos to highlight your pieces. Add in compelling sales copy and use language that will resonate with your ideal customer. Try to incorporate relevant keywords when you can to increase your chances of being found in search results.
 
