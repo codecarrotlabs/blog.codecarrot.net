@@ -1,7 +1,7 @@
 
 //Top Navigation Bar
 
-@media (max-width: 768px)
+@media (max-width: 767px)
 
   .nav
     position: fixed
@@ -12,45 +12,91 @@
     background-color: #333
     box-shadow: 0 1px 4px rgba(0,0,0,.4)
 
+    .nav-container
+
+      .mobile-nav-toggle
+        background:
+          image: url(../images/menu.svg)
+          repeat: no-repeat
+          size: cover
+          position: center center
+        width: 25px
+        height: 25px
+        cursor: pointer
+        float: right
+        margin-top: 16px
+        margin-right: 20px
+
+      .nav-list
+        background-color: #fff
+        width: 100%
+        box-shadow: 0 10px 20px rgba(0,0,0,.1)
+        text-align: center
+        list-style: none
+        position: relative
+        top: 19px
+
+        li
+          margin: 25px 12px 0 12px
+
+          &:last-child
+            margin-bottom: 30px
+
+      .is-close
+        display: none
+
+@media (min-width: 768px)
+  
   .nav-list
-    float: none
-    padding-top: 0
-    padding-bottom: 10px
-    padding-left: 0
+    margin-top: 20px
+      
+    li
+      display: inline-block
+      list-style: none
+      margin-left: 40px
+
+      &:last-child
+        margin-right: 20px
+
+      .cta
+        color: #00d664
 
 .nav
   height: 60px
-  position: relative
+  position: fixed
   background-color: #fff
   list-style: none
   z-index: 999
-  // border-bottom: solid 1px #e9f0f3
+  width: 100%
+  top: 0
   box-shadow: 0 0 4px rgba(0,0,0,.4)
 
-.nav-container
-  list-style: none
-  margin: 0
-  color: #fff
+  .nav-container
+    list-style: none
+    margin: 0 auto
+    max-width: 68rem
+
+    .codecarrot-icon
+      float: left
+      position: relative
+      top: 21px
+      margin-left: 20px
+
+      svg
+        width: 130px
 
 .nav-list
-  padding: 5px 10%
+  float: right
 
-.nav-item
-  display: inline-table
-  list-style: none
-  font-size: 22px
-  vertical-align: middle
+  li
 
-  img
-    width: 50px
+    a
+      color: #1c2021
+      font:
+        weight: 800
+        size: 16px
+      text-decoration: none
+      cursor: pointer
 
-.nav-link
-  text-decoration: none
-  margin: 10px
-  color: #2e353b
-  font-weight: 700
-  transition: 0.3s ease
-
-.nav-link:hover
-  color: #00d664
-  transition: 0.3s ease
+    .cta
+      color: #00d664
