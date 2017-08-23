@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  How to Install Rails 5 on Linux
-date:   2017-08-23 03:00:00
+title: How to Install Rails 5 on Linux
+date: 2017-08-23 03:00:00
 categories: dev ruby-on-rails
 description: As a little nudge for those of you who still haven't discovered how awesome Rails is, here's how to install Rails 5 on Linux.
 image: http://blog.codecarrot.net/images/148.jpeg
@@ -90,3 +90,7 @@ There’s one last thing we need to take care of… Some libraries that Rails de
 `sudo apt-get install nodejs`
 
 You’ll be prompted for your system password again, and then Node.js will be installed.
+
+## P.S. Can we send you an email?
+
+Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
