@@ -71,3 +71,7 @@ Now it’s time to install Rails. Rails comes as a Ruby “gem”. A gem is a li
 `gem install rails --version 5.0.0`
 
 The “gem” program will download and install that version of the Rails gem, along with all the other gems Rails depends on.
+
+## P.S. Can we send you an email?
+
+Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
