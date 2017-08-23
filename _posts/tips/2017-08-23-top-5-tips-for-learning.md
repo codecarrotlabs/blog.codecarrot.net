@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 5 Tips for Learning
-date:   2017-08-23 10:00:00
+date: 2017-08-23 10:00:00
 categories: tips
 description: Learning is hard. It takes time and effort and is a never ending pursuit. So how do we make the most out of our time and effort? Here are my Top 5 Tips for Learning.
 image: http://blog.codecarrot.net/images/pexels-photo-68562.jpeg
@@ -48,3 +48,7 @@ This might be my favorite tip. Did you know that sleep actually helps you learn 
 **Action:** If you’re struggling with something that is particularly challenging, step away and do something else to take your mind off the problem. Or better yet, sleep on it.
 
 Hopefully, these tips help you make the most of your time and effort while you’re learning. I am constantly tweaking my own goals and routines to fit with my current situation and help me pursue life to the fullest. Have additional tips you’d like to share? We’d love to hear about them in the comments below.
+
+## P.S. Can we send you an email?
+
+Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
