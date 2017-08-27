@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  How Websites Work?
-date:   2017-06-01 12:00:00
+title: How Websites Work?
+date: 2017-06-01 12:00:00
 categories: tips
 description: How websites works and why domain name and hosting is important for your website. We'll run down the basics - without getting too technical, promise! - on web servers and domain names
 image: http://blog.codecarrot.net/images/how-websites-work.jpg

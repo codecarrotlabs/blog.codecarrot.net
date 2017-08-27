@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  How to Start Freelancing - 5 Steps to go from 0 to Rs.50,000 per month
+title: How to Start Freelancing - 5 Steps to go from 0 to Rs.50,000 per month
 date: 2017-04-30 12:00:00
 categories: growth
-description: Show off your skills by working as a freelancer. Sometimes you might feel like you're wasting your time, earning nothing. This is why you need to know about freelance jobs. 
+description: Show off your skills by working as a freelancer. Sometimes you might feel like you're wasting your time, earning nothing. This is why you need to know about freelance jobs.
 image: http://blog.codecarrot.net/images/start-freelancing-work.png
 ---
 
@@ -15,7 +15,7 @@ I think you'll agree with me when I say:
 Earning money online is hard.
 </div>
 
-You'll come across fraudsters asking for registration fees & surveys/PTC sites which never pay you. Sometimes you might feel like you're wasting your time, earning nothing. This is why you need to know about freelance jobs. 
+You'll come across fraudsters asking for registration fees & surveys/PTC sites which never pay you. Sometimes you might feel like you're wasting your time, earning nothing. This is why you need to know about freelance jobs.
 
 Freelance is where you solve a client's problems or needs with your skills and get paid for it.
 
@@ -105,7 +105,7 @@ Before you give your proposal, it's very important to understand the biggest con
 "Can you deliver?"
 </blockquote>
 
-or 
+or
 
 <blockquote>
 "Do you have the ability to do what the job requires?"

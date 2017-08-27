@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  How to Install Rails 5 on Windows
-date:   2017-08-23 01:00:00
+title: How to Install Rails 5 on Windows
+date: 2017-08-23 01:00:00
 categories: dev ruby-on-rails
 description: As a little nudge for those of you who still haven't discovered how awesome Rails is, here's how to install Rails 5 on Windows.
 image: http://blog.codecarrot.net/images/screen-shot-10.21.38.png

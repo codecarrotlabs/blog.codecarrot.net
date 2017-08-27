@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  How to Make Sketch Even Better?
-date:   2017-08-22 12:00:00
+title: How to Make Sketch Even Better?
+date: 2017-08-22 12:00:00
 categories: design
 description: A designer's tour on making Sketch more functional and convenient. Sketch is one of the best UI design tools at the moment. It is the first design tool
 image: http://blog.codecarrot.net/images/image00-11.png

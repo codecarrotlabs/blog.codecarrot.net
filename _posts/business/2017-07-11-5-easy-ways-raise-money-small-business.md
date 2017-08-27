@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  5 Easy Ways to Raise Money for Your Small Business
+title: 5 Easy Ways to Raise Money for Your Small Business
 date: 2017-07-11 12:00:00
 categories: business
 description: Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think.

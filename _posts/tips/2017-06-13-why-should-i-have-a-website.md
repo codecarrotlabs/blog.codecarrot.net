@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Why should I have a website?
-date:   2017-06-13 12:00:00
+title: Why should I have a website?
+date: 2017-06-13 12:00:00
 categories: tips
 description: By creating a website, you are creating an online presence. This allows you to connect with people that you might not otherwise be able to reach. Whether you’re making a basic website with contact
 image: http://blog.codecarrot.net/images/why-should-i-have-a-website.png

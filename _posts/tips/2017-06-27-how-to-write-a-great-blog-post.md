@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  How to write a great blog post
-date:   2017-06-27 12:00:00
+title: How to write a great blog post
+date: 2017-06-27 12:00:00
 categories: tips
 description: Knowing how to write a great blog post can be a challenge for beginning bloggers. Get organized from the start with these tips.
 image: http://blog.codecarrot.net/images/how-to-write-a-great-blog-post.jpg
 ---
 
-Blogs have become the go-to for sharing information, whether on a product, service or general topic of interest. 
+Blogs have become the go-to for sharing information, whether on a product, service or general topic of interest.
 
 As of late 2016, data showed that 77 percent of online users read blogs, and companies that maintain a blog have 55 percent more website visitors. If you’re a professional looking to build authority, a business trying to boost content marketing, or an expert hoping to share insights, knowing how to write a great blog post can be extremely valuable.
 

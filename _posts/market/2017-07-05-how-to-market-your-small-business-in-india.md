@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  How to Market Your Small Business in India
-date:   2017-07-05 12:00:00
+title: How to Market Your Small Business in India
+date: 2017-07-05 12:00:00
 categories: market
 description: Any successful business owner will tell you; marketing is the key to a growing business, here are some ideas to market your small business.
 image: http://blog.codecarrot.net/images/market-your-small-business.png
@@ -45,7 +45,7 @@ The details that one should keep include the full names, email, postal address a
 
 This way, any time you have new products or promotions on offer, you can send the information to all your current clientele.
 
-If you want to get a bit more advanced, you can run drip marketing campaigns. Drip marketing helps you stay in touch with your leads, prospects and customers in an automated way. Drip email marketing is the most common form of drip marketing. 
+If you want to get a bit more advanced, you can run drip marketing campaigns. Drip marketing helps you stay in touch with your leads, prospects and customers in an automated way. Drip email marketing is the most common form of drip marketing.
 
 ## 6. Outsource
 

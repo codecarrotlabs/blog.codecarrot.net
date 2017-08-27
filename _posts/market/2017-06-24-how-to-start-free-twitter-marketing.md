@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  How to Start Free Twitter Marketing
-date:   2017-06-24 12:00:00
+title: How to Start Free Twitter Marketing
+date: 2017-06-24 12:00:00
 categories: market
 description: Twitter makes it easy for you to engage directly with the target audience. It helped the online ecosystem transform brand communication into brand conversion.
 image: http://blog.codecarrot.net/images/start-free-twitter-marketing.jpg

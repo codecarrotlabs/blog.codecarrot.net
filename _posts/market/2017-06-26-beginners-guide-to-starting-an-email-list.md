@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Beginner's guide to starting an email list
-date:   2017-06-26 12:00:00
+title: Beginner's guide to starting an email list
+date: 2017-06-26 12:00:00
 categories: market
 description: Learn why starting an email list is key to building business, how to get and keep subscribers, and what to avoid. No experience necessary.
 image: http://blog.codecarrot.net/images/starting-an-email-list.jpg
@@ -13,7 +13,7 @@ Yep, you’ve probably heard this from Internet marketers and fancy-shmancy peep
 
 Why is starting an email list so important?
 
-Let me guess, if you’re just starting out in the blogosphere you probably don’t have the cash for promotion. 
+Let me guess, if you’re just starting out in the blogosphere you probably don’t have the cash for promotion.
 
 But you need to promote your blog content to get new readers, which will attract potential sponsors and make all kinds of good stuff happen as your blog readership grows.
 
