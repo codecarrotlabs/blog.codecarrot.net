@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  5 Skills You Need to Master for Better Time Management
-date:   2017-08-30 12:00:00
+title: 5 Skills You Need to Master for Better Time Management
+date: 2017-08-24 12:00:00
 categories: project-management
 description: Strategies for better time management - S.M.A.R.T. method, Pomodoro timer, Prioritizing matrix and tips for better tasks planning and staying focused.
 image: http://blog.codecarrot.net/images/calendar-app-business-time-management-workspace.jpg
