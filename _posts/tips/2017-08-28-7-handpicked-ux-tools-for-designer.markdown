@@ -3,7 +3,7 @@ layout: post
 title: 7 Handpicked UX tools for designers
 date: 2017-08-28 01:00:00
 categories: tips
-description: A master of UX design needs to master many skillsets: graphic design, prototyping, user research, and design collaboration.
+description: A master of UX design needs to master many skillsets - graphic design, prototyping, user research, and design collaboration.
 image: http://blog.codecarrot.net/images/jo-szczepanska-57782.jpg
 ---
 
