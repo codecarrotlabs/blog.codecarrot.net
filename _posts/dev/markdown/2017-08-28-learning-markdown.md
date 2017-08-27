@@ -13,7 +13,9 @@ Markdown is a simple text-based markup language and conversion tool that allows 
 
 **Note:** Markdown wasn’t really designed as a language for creating complete web pages. It’s more suitable for just content areas like the body of a blog post, an article or web page copy.
 
-Markdown files use the `.md` or `.text` extensions
+Markdown files use the `.md` or `.text` extensions.
+
+***
 
 A common problem that faces HTML is that having all those tags in your markup makes it hard to actually read the content without viewing the page in a web browser. Markdown aims to solve this problem by providing a simple, unobtrusive syntax for marking up content elements such as headings, links, lists, images and more!
 
