@@ -26,3 +26,7 @@ There’s no guaranteed formula for building a flawless landing page, but it’s
 6. **Interactivity:** Interactivity stimulates interest, and there are so many unique ways to keep your users engaged on the site: Try scroll storytelling like Tumblr or video surfing like Leap Second.
 
 7. **Offer:** Free stuff and discounts rock! Your visitors might be more inclined to sign up or drop their e-mail in exchange for an e-book, a free trial or a percentage off their first purchase.
+
+## P.S. Can we send you an email?
+
+Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
