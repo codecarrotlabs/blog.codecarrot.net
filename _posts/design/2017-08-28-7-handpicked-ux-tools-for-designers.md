@@ -49,10 +49,9 @@ For a minor fee, [UserTesting](https://www.usertesting.com/) handles all the tim
 
 One of their advantages is their flexible options.You can test either pre-existing sites/apps, or experimental prototypes. The level of service is also scalable — you can design the test yourself or pay for the experienced UserTesting in-house team to do it. You can even hire one of their project managers to come on and oversee your progress.
 
-
 **5. [Optimizely](https://www.optimizely.com/)**
 
-![Optimizely | The World's Leading Experimentation](http://blog.codecarrot.net/images/optimizely-the-worlds-leading-experimentation.png)
+![Optimizely - The World's Leading Experimentation](http://blog.codecarrot.net/images/optimizely-the-worlds-leading-experimentation.png)
 
 While UserTesting is a general user research aid, [Optimizely](https://www.optimizely.com/) specializes in a single type of test, [A/B testing](https://www.optimizely.com/ab-testing/), and perfects it. This service shows two variant screens to a pool matching your target users and records the statistics of which they prefer. You can test anything from color schemes, layouts, photo choices, or placements of calls-to-action.
 
@@ -62,13 +61,13 @@ Minor details like the time of day can corrupt the data of A/B tests, so a knowl
 
 **6. [XMind](http://www.xmind.net/)**
 
-![XMind | The Most Popular Mind Mapping Software](http://blog.codecarrot.net/images/xmind-the-most-popular-mind-mapping-software.png)
+![XMind - The Most Popular Mind Mapping Software](http://blog.codecarrot.net/images/xmind-the-most-popular-mind-mapping-software.png)
 
 Organize both your thoughts and your team with [XMind](http://www.xmind.net/), a visual organization aid and team task-manager.
 
 Its Mind Mapping feature illustrates your project’s goals, timeline, progress, and requirements in a visually comprehensive way, and avoids a lot of the miscommunication when working across large groups — and with automatic cloud storage, it doesn’t matter where in the world group members are.
 
-7. [Mural](https://mural.ly/)
+**7. [Mural](https://mural.ly/)**
 
 ![Mural Collaboration Tool](http://blog.codecarrot.net/images/mural-collaboration-tool.png)
 
