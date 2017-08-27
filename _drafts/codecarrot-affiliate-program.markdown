@@ -3,8 +3,8 @@ layout: post
 title: Love CodeCarrot? Spread the Word and Earn Money with the CodeCarrot Affiliate Program!
 date:   2017-08-26 12:00:00
 categories: update
-description: Let's be honest, web developers and designers aren't particularly known for maintaining great work/life balance. Images of hackathons and intense work sessions come to mind easily.
-image: http://blog.codecarrot.net/images/shutterstock_78457369.jpg
+description:
+image: http://blog.codecarrot.net/images/
 ---
 
 http://blog.teamtreehouse.com/treehouse-affiliate-program
