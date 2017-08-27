@@ -1,1 +1,0 @@
-https://www.netguru.co/blog/effective-teamwork-starts-with-shared-terms-rules-and-goals
