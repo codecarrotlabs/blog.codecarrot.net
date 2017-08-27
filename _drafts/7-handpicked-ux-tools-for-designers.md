@@ -1,4 +1,11 @@
-7 Handpicked UX Tools for Designers
+---
+layout: post
+title: 7 handpicked UX tools for designers
+date:   2017-08-26 12:00:00
+categories: design
+description: A master of UX design needs to master many skillsets: graphic design, prototyping, user research, and design collaboration. Here are 7 tools we’ve found useful for mastering UX design.
+image: http://blog.codecarrot.net/images/jo-szczepanska-57782.jpg
+---
 
 A master of UX design needs to master many skillsets: graphic design, prototyping, user research, and design collaboration.
 
@@ -8,7 +15,7 @@ Luckily, there’s no shortage of tools to help these individual skills. Here ar
 
 **1. [Sketch](http://www.sketchapp.com/)**
 
-![Sketch Professional Digital Design for Mac](sketch-professional-digital-design-for-mac.png)
+![Sketch Professional Digital Design for Mac](http://blog.codecarrot.net/images/sketch-professional-digital-design-for-mac.png)
 
 If Photoshop were made for interface digital design — websites, mobile UIs, etc. — it would be [Sketch](http://www.sketchapp.com/). This Mac app works like a Photoshop-esque image editor, but with special features, digital designers will appreciate.
 
@@ -16,7 +23,7 @@ For starters, it integrates CSS logic at the beginning, which works wonders when
 
 **2. [PhotoLine](http://www.pl32.com/)**
 
-![Photoline Image Processing Design Software](photoline-image-processing-design-software.png)
+![Photoline Image Processing Design Software](http://blog.codecarrot.net/images/photoline-image-processing-design-software.png)
 
 [PhotoLine](http://www.pl32.com/) may not be as well known as other image editors (it’s been called “[one of the web’s best kept secrets](https://forums.creativecow.net/thread/244/865892)”), but what it offers can rival the best. You’ll find the common features digital designers love: photo manipulation, vector editing, desktop publishing, nondestructive layers, and more. But fans love the app’s exclusive features that can’t be elsewhere, such as multi-layered [EXR](http://www.openexr.com/) importing and exporting
 
@@ -26,7 +33,7 @@ The German team behind PhotoLine designed it with code efficiency as the goal, a
 
 **3. [UXPin](https://www.uxpin.com/)**
 
-![UXPin I The Full-Stack UX Design Platform](uxpin-the-full-stack-ux-design-platform.png)
+![UXPin I The Full-Stack UX Design Platform](http://blog.codecarrot.net/images/uxpin-the-full-stack-ux-design-platform.png)
 
 Named one of .net Magazine’s hottest new prototyping tool for 2015, [UXPin](https://www.uxpin.com/) is a full-fidelity collaborative design platform. From lo-fi wireframes to hi-fi prototypes, this tool lets you handle every stage of the design process in a single place with the team.
 
@@ -36,7 +43,7 @@ The app also allows seamless integration with Photoshop and Sketch files, so you
 
 **4. [UserTesting](https://www.usertesting.com/)**
 
-![UserTesting I User Experience Research Platform](usertesting-user-experience-research-platform.png)
+![UserTesting I User Experience Research Platform](http://blog.codecarrot.net/images/usertesting-user-experience-research-platform.png)
 
 For a minor fee, [UserTesting](https://www.usertesting.com/) handles all the time-consuming aspects of collecting user research. They recruit the users, administer the tests remotely, analyze the data, and deliver the results directly to you — within an hour, if you choose. The tests are also recorded, both the users’ faces and their screens, so you observe the tests as if you were actually there.
 
@@ -45,7 +52,7 @@ One of their advantages is their flexible options.You can test either pre-existi
 
 **5. [Optimizely](https://www.optimizely.com/)**
 
-![Optimizely | The World's Leading Experimentation](optimizely-the-worlds-leading-experimentation.png)
+![Optimizely | The World's Leading Experimentation](http://blog.codecarrot.net/images/optimizely-the-worlds-leading-experimentation.png)
 
 While UserTesting is a general user research aid, [Optimizely](https://www.optimizely.com/) specializes in a single type of test, [A/B testing](https://www.optimizely.com/ab-testing/), and perfects it. This service shows two variant screens to a pool matching your target users and records the statistics of which they prefer. You can test anything from color schemes, layouts, photo choices, or placements of calls-to-action.
 
@@ -55,7 +62,7 @@ Minor details like the time of day can corrupt the data of A/B tests, so a knowl
 
 **6. [XMind](http://www.xmind.net/)**
 
-![XMind | The Most Popular Mind Mapping Software](xmind-the-most-popular-mind-mapping-software.png)
+![XMind | The Most Popular Mind Mapping Software](http://blog.codecarrot.net/images/xmind-the-most-popular-mind-mapping-software.png)
 
 Organize both your thoughts and your team with [XMind](http://www.xmind.net/), a visual organization aid and team task-manager.
 
@@ -63,7 +70,7 @@ Its Mind Mapping feature illustrates your project’s goals, timeline, progress,
 
 7. [Mural](https://mural.ly/)
 
-![Mural Collaboration Tool](mural-collaboration-tool.png)
+![Mural Collaboration Tool](http://blog.codecarrot.net/images/mural-collaboration-tool.png)
 
 Another great collaboration tool for remote group members, [Mural](https://mural.ly/) is a lot like a digital whiteboard you can share from multiple locations. It actually has a lot more potential than the one you have in your boardroom, for example, it can support video files and documents from Youtube, Vimeo Slideshare, Google Drive, and Evernote
 
