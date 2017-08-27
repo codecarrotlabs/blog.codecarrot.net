@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 reasons website needs mobile optimized
-date: 2017-08-28 00:10:00
+date: 2017-08-28 12:00:00
 categories: design
 description: It’s no secret that mobile is here to stay. So here are 10 reasons your website can’t afford to remain unresponsive.
 image: http://blog.codecarrot.net/images/shutterstock_268450493.jpg
