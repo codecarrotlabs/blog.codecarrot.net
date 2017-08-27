@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 SEO Tips to Improve Website Performance and Drive More Traffic
-date: 2017-08-24 12:00:00
+date: 2017-08-23 12:00:00
 categories: dev seo
 description: SEO is really important for many projects. It can increase the number of people who view your application or even boost conversions allowing the user to buy products straight from the search engine.
 image: http://blog.codecarrot.net/images/pexels-photo-67112.jpeg
@@ -19,7 +19,7 @@ Breadcrumbs give web crawlers an idea of how your website is structured. In the 
 
 ![Using Breadcrumbs for SEO Tips](http://blog.codecarrot.net/images/seotips.png)
 
-## 3. Make Sure You Have Text on Your Website 
+## 3. Make Sure You Have Text on Your Website
 
 Text is the kind of information that computers and, consequently, search engine robots find the easiest to aggregate. It’s quite easy for such websites as the Guardian or the New York Times, since they offer mostly articles, but it can be different on e-commerce sites, which chiefly consist of photos of products. It’s a good practice to make sure that each product has a unique description. Another way to improve SEO in e-commerce is to implement a blog in your application, where you will report the updates of your application. The more text there is in your app, the easier it will be to aggregate the content on your website.
 
@@ -27,7 +27,7 @@ Text is the kind of information that computers and, consequently, search engine 
 
 Mobile is a major platform on the web these days. According to TechCrunch, 51% of Internet traffic comes from mobile devices. To make sure that your application is mobile-friendly, you should implement responsive designs (look up “responsive web design”), which will ensure that your webpage can adjust to the given screen’s viewport, be it mobile, tablet, desktop, or a high-DPI display.
 
-## 5. Make Your App PWA 
+## 5. Make Your App PWA
 
 Progressive Web Apps (PWA) is quite a new technology introduced by Google to bring native experience to web applications. They mostly consist of a JavaScript web worker caching the content from your application and manifest file, which can provide a more native experience without the need for building a separate application.
 
@@ -37,12 +37,12 @@ Images are what the web is all about now. Well, almost. Instagram is an example 
 
 ## 7. Translate Your Routes
 
-Web search engines like to have different paths for content in different languages. If your application is served in many different languages it’s good to translate the paths leading to them, for example: 
+Web search engines like to have different paths for content in different languages. If your application is served in many different languages it’s good to translate the paths leading to them, for example:
 
 ```
-https://www.my-website.co/products/t-shirts/fox-cool-designer - English version 
+https://www.my-website.co/products/t-shirts/fox-cool-designer - English version
 
-https://www.my-webstie.pl/produkty/t-shirts/lis-fajny-projektant – Polish version 
+https://www.my-webstie.pl/produkty/t-shirts/lis-fajny-projektant – Polish version
 ```
 
 Additionally, adding hreflang tags to your site will inform web crawlers of the language of a given link.
