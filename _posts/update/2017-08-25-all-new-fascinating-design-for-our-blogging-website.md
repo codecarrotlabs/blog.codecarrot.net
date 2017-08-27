@@ -9,7 +9,7 @@ image: http://blog.codecarrot.net/images/new-codecarrot-blog-look.png
 
 We started our [first blog](/welcome-to-codecarrot-environment/) in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe we thought of redesigning the blog website with a new face.
 
-![New CodeCarrot Blog Wireframe](http://blog.codecarrot.net/images/new-codecarrot-blog-wireframe.png)
+[Click here](https://www.behance.net/gallery/56071769/CodeCarrot-Blog) to see the new design.
 
 ## P.S. Can we send you an email?
 
