@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Finding the Time to Focus on Your Code
-date:   2017-08-28 12:00:00
+title: Finding the Time to Focus on Your Code
+date: 2017-08-25 12:00:00
 categories: project-management
 description: Trying to focus on two things at once is hard. You may be able to eat and drive or listen to music while working. But it’s another thing to listen and talk at the same time.
 image: http://blog.codecarrot.net/images/StockSnap_BKC8Y8VF8K.jpg
