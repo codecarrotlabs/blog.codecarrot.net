@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "How To Turn Your Webinar Into A Magnet For New Customers"
-date:   2017-06-30 12:00:00
+title: How To Turn Your Webinar Into A Magnet For New Customers
+date: 2017-06-30 12:00:00
 categories: market
 description: Running webinars? Here's how we've turned them into one of our top marketing channels. Learn the 6 keys to running a webinar that will make you money.
-image: 
+image: http://blog.codecarrot.net/images/webinar-blog-post-illustration.jpg
 ---
-
-
 
 Now I know what you might be thinking…
 
@@ -192,3 +190,7 @@ So that’s a breakdown of the playbook that we’ve been using for running webi
 Now that I’ve told you all about how we run webinars, I have to ask:
 
 [Want to join us on our next webinar? Click here to grab your spot today](https://www.drift.com/webinar/).
+
+## P.S. Can we send you an email?
+
+Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
