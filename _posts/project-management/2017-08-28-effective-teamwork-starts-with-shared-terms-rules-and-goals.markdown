@@ -3,7 +3,7 @@ layout: post
 title: Effective Teamwork Starts with Shared Terms, Rules and Goals
 date: 2017-08-28 03:00:00
 categories: project-management
-description: A project fails or succeeds based on stakeholders' engagement and communication. Learn how to make sure your team will work well together.
+description: A project fails or succeeds based on stakeholders' engagement and communication. Learn how to make sure
 image: http://blog.codecarrot.net/images/rawpixel-com-250087.jpg
 ---
 
