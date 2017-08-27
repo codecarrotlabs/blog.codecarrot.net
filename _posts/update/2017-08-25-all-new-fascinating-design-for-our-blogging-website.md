@@ -7,7 +7,7 @@ description: Giving a mask to our blog website with a new design. We started our
 image: http://blog.codecarrot.net/images/new-codecarrot-blog-look.png
 ---
 
-We started our blog in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe we thought of redesigning the blog website with a new face.
+We started our [first blog](/welcome-to-codecarrot-environment/) in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe we thought of redesigning the blog website with a new face.
 
 ![New CodeCarrot Blog Wireframe](http://blog.codecarrot.net/images/new-codecarrot-blog-wireframe.png)
 
