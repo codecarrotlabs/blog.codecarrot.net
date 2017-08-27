@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 handpicked UX tools for designers
-date:   2017-08-26 12:00:00
+date:   2017-08-28 12:00:00
 categories: design
 description: A master of UX design needs to master many skillsets: graphic design, prototyping, user research, and design collaboration. Here are 7 tools we’ve found useful for mastering UX design.
 image: http://blog.codecarrot.net/images/jo-szczepanska-57782.jpg
@@ -75,3 +75,7 @@ Its Mind Mapping feature illustrates your project’s goals, timeline, progress,
 Another great collaboration tool for remote group members, [Mural](https://mural.ly/) is a lot like a digital whiteboard you can share from multiple locations. It actually has a lot more potential than the one you have in your boardroom, for example, it can support video files and documents from Youtube, Vimeo Slideshare, Google Drive, and Evernote
 
 It doesn’t do much more than that, but that’s enough. When most of the trouble with collaboration is getting everyone together in the same place, this tool saves you a lot of time and hassle.
+
+## P.S. Can we send you an email?
+
+Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
