@@ -1,0 +1,1 @@
+https://www.netguru.co/tips/how-to-integrate-rails-with-paypal

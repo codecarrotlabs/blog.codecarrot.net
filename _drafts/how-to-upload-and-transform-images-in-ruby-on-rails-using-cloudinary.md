@@ -1,0 +1,1 @@
+https://www.netguru.co/tips/how-to-upload-and-transform-images-in-ruby-on-rails-using-cloudinary

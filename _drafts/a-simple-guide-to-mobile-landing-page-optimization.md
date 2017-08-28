@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/a-simple-guide-to-mobile-landing-page-optimization

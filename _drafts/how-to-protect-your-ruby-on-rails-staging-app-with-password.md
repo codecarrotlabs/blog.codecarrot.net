@@ -1,0 +1,1 @@
+https://www.netguru.co/tips/how-to-protect-your-ruby-on-rails-staging-app-with-password

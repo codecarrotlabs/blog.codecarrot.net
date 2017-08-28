@@ -1,0 +1,1 @@
+https://www.netguru.co/tips/javascript-vs-coffeescript-in-ruby-on-rails-applications

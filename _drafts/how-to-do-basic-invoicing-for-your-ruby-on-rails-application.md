@@ -1,0 +1,1 @@
+https://www.netguru.co/tips/how-to-do-basic-invoicing-for-your-ruby-on-rails-application

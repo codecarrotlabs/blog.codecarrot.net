@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/beginner-web-design-mistakes-avoid
