@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/jquery-popular-javascript-library
