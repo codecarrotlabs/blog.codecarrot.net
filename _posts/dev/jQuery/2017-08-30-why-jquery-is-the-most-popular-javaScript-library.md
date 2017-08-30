@@ -3,7 +3,7 @@ layout: post
 title: Why jQuery is the Most Popular JavaScript Library
 date: 2017-08-30 12:50:00
 categories: dev jQuery
-description: John Resig released jQuery on August 26th, 2006 and changed the front-end development landscape forever. jQuery quickly arose to be the go to JavaScript framework. A number of other libraries came out around the same time such as MooTools and...
+description: John Resig released jQuery on August 26th, 2006 and changed the front-end development landscape forever. jQuery quickly arose to be the go to JavaScript framework.
 image: http://blog.codecarrot.net/images/jquery-popular-javascript-library.png
 ---
 
