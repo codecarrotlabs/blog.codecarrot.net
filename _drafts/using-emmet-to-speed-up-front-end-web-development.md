@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/using-emmet-speed-front-end-web-development
