@@ -1,1 +1,0 @@
-https://www.netguru.co/tips/how-to-upload-images-to-filestack-with-rails
