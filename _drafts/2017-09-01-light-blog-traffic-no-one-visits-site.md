@@ -8,3 +8,6 @@ image: http://blog.codecarrot.net/images/man-sitting-alone-in-stadium.jpg
 ---
 
 https://www.godaddy.com/garage/industry/tech-svcs/wordpress/light-blog-traffic-no-one-visits-site/
+
+
+If you have a blog website and want to light up your blog traffic, go ahead read the article but if you don't have and want to get one, [click here](http://codecarrot.net/).
