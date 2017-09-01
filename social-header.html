@@ -8,7 +8,7 @@ layout: embed
       Check out our blog:
 
       {% for card in site.posts limit:1 %}
-        <a href="{{site.baseurl}}{{ card.url }}">{{ card.title | truncate: 60, "..." }}</a>
+        <a target="_blank" href="{{site.baseurl}}{{ card.url }}">{{ card.title | truncate: 60, "..." }}</a>
       {% endfor %}
     </div>
 
