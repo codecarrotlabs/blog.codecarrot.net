@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/10-tips-going-freelance-first-time
