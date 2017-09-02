@@ -2,7 +2,7 @@
 layout: post
 title: The Best Chrome Extensions for Web Professionals
 date: 2017-08-30 16:00:00
-categories: tips
+categories: dev
 description: The Chrome DevTools provide lots of built-in functionality, but if you still feel like there's something missing, Chrome Extensions can fill in the gap.
 image: http://blog.codecarrot.net/images/best-chrome-extensions-web-professionals.png
 ---
