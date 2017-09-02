@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Write a Blog Post People Want to Read
-date: 2017-09-03 00:00:18
+date: 2017-09-03 00:00:46
 categories: tips
 description: Get people to read your blog post by following this method by writing a blog post which people actually want to read.
 image: http://blog.codecarrot.net/images/prasanna-kumar-218699.jpg
