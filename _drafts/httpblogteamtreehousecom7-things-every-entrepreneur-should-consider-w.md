@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/7-things-every-entrepreneur-should-consider-when-setting-up-social-media-accounts

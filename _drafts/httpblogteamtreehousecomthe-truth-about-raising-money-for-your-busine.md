@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/the-truth-about-raising-money-for-your-business

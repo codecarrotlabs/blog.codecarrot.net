@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/writing-your-own-jquery-plugins
