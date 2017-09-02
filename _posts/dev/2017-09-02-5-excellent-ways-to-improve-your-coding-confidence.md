@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 5 Excellent Ways to Improve Your Coding Confidence
-date: 2017-02-30 12:00:00
-categories:
+date: 2017-09-02 15:21:00
+categories: dev
 description: Being confident in coding is one of the ways to a expert developer, here are the 5 expert tips on how to improve your coding confidence.
 image: http://blog.codecarrot.net/images/mia-baker-322586.jpg
 ---
@@ -23,7 +23,7 @@ Is it a web site? Is it a mobile app? Is it a Ruby Gem? Seeing people use your c
 
 ## 3. Contribute on Github
 
-Contributing to other Open Source projects on Github can be a great way to get additional experience and confidence. You can learn from other’s code and feedback on your commits.
+Contributing to other Open Source projects on [Github](https://github.com/codecarrotnet) can be a great way to get additional experience and confidence. You can learn from other’s code and feedback on your commits.
 
 Your contributions don’t even have to be in code. You can modify a wiki or update documentation. This shows you understand the code and can articulate how to use it!
 
