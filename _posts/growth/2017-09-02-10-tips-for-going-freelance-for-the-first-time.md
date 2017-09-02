@@ -48,3 +48,5 @@ You may be able to claim, in full or in part some of your business expenses. Thi
 ## Line Up Enough Work
 
 Finally and probably most importantly, make sure you have enough work when you go self employed. Line up a couple of projects before you quit your day job so you’re not wasting precious time and runway in your first couple of months flying solo. Get a head start.
+
+**Pro Tip:** Get more clients with your own [personal website](http://codecarrot.net/).
