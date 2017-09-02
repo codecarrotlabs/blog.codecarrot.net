@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/psd-to-html-is-dead
