@@ -55,6 +55,4 @@ It's a mobile world, so make sure the website you end up with will be viewable o
 
 Once your website is live, show it off! Add your web address to your business card, resume, email signature and social media profile. Keep your site up to date, even after you've landed the new job. You never know when a hiring manager might be looking for someone like you to fill an even better position.
 
-## P.S. Can we send you an email?
-
-Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
+Do you also [want a website](http://codecarrot.net) for yourself? Get a successful project with [Codecarrot](http://codecarrot.net).
