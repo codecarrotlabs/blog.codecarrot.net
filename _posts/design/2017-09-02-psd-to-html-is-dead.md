@@ -9,7 +9,7 @@ image: http://blog.codecarrot.net/images/psd-to-html-is-dead.png
 
 PSD to HTML tutorials are all over the web. In fact, many people have asked me why there’s not a PSD to HTML tutorial on Treehouse. In addition to the tutorials, there are lots of companies that will accept a PSD and convert it to a webpage for roughly $100 USD.
 
-![Google Search on PSD to HTML](google-search-on-psd2html.png)
+![Google Search on PSD to HTML](http://blog.codecarrot.net/images/google-search-on-psd2html.png)
 
 *Google returns more than 48 million results for a “psd to html” search. It’s popular, but not the best way to make websites.*
 
@@ -25,7 +25,7 @@ In general, “PSD to HTML” is a workflow. First, a web page is designed in a 
 
 At first glance, this might seem like a good idea. It can be difficult to start coding if you don’t know what the final result is going to look like, so experimenting in Photoshop first and then “exporting” it to HTML sounds like a granular and sensible process.
 
-![Exporting the file for web in Photoshop](exporting-the-file-for-web-in-photoshop.png)
+![Exporting the file for web in Photoshop](http://blog.codecarrot.net/images/exporting-the-file-for-web-in-photoshop.png)
 
 *In Photoshop, the slices feature in the save for web dialog used to be an essential tool for designers saving assets from a PSD. It made it easy to “slice” a design into images and then layout in a web page using HTML and CSS.*
 
@@ -49,7 +49,7 @@ When pitted against other areas of art and technology, the web is a relatively y
 
 First, there are now a myriad of methods for browsing the web. Phones, tablets, desktops, notebooks, televisions, and more. There is no single screen resolution that a designer can target. Taking that idea a few steps further, there’s really no number of screen resolutions that you can safely “target” anymore.
 
-![Different screen sizes website screen shot](different-screensizes-website-screenshot.png)
+![Different screen sizes website screen shot](http://blog.codecarrot.net/images/different-screensizes-website-screenshot.png)
 
 I’m not going to delve into the finer details of [responsive web design](/10-reasons-website-needs-mobile-optimized) or scalable design, but the point is that Photoshop is pixel based. Web pages are fluid and change.
 
@@ -75,3 +75,5 @@ These two examples have a key difference from the PSD to HTML way of thinking. H
 ## Different Strokes
 
 Everyone’s workflow is different and nobody knows how to make the perfect website. You should always do whatever is most effective for you and your colleagues. Pushing pixels around in Photoshop is a ton of fun, but I can admit to many occasions when I’ve pushed the pixels too far. The key is to know yourself and what makes you perform at your best.
+
+Looking for a **customized website** for your business or project. Let's make it possible with [Codecarrot](http://codecarrot.net/).
