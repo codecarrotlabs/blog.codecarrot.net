@@ -9,6 +9,10 @@ image: http://blog.codecarrot.net/images/john-salzarulo-27847.jpg
 
 Whether you’re blogging for yourself or a client, I’m sure you know the importance of images.
 
+<blockquote>
+Want a start a new blogging website. Get started today with [10% OFF](http://codecarrot.net/).
+</blockquote>
+
 On a high level, gorgeous photos help bring your blog’s brand to life. Photos also break up text, making your content skimmable and shareable.
 
 But where to find these photos? Image licensing is a tricky beast and stock photos are expensive.
@@ -134,3 +138,5 @@ You’re welcome to use any of this site’s images for non-commercial purposes,
 Organized by location, BigFoto is perfect for travel bloggers. If your recent trip resulted in grainy photos, use BigFoto to download images of almost any attraction. BigFoto uses photos by amateurs, but they’re high quality and well-organized.
 
 Photos are free to use, even for commercial purposes. The site asks for a link back to BigFoto.
+
+Start using these images in your [new blogging website](http://codecarrot.net/).
