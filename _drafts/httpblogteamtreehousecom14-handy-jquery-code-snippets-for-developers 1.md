@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/14-handy-jquery-code-snippets-for-developers

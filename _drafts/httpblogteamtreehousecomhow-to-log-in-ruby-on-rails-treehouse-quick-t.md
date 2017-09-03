@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/how-to-log-in-ruby-on-rails-treehouse-quick-tips

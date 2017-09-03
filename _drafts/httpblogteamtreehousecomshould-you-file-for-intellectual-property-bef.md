@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/should-you-file-for-intellectual-property-before-you-start

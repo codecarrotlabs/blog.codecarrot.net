@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/things-to-do-before-publishing-first-post

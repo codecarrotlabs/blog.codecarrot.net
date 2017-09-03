@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/applying-normalize-css-reset-quick-tip
