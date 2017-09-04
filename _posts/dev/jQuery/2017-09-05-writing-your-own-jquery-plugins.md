@@ -5,7 +5,7 @@ title: Writing Your Own jQuery Plugins
 date: 2017-09-05 02:06:50
 categories: dev jQuery
 description: Learn how to write your own jQuery plugins, complete with options and callbacks in this step-by-step tutorial.
-image: http://blog.codecarrot.net/images/jquery-popular-javascript-library.png
+image: http://blog.codecarrot.net/images/writing-your-own-jquery-plugin.png
 ---
 
 [jQuery](http://jquery.com/) is great. It’s cross-browser, easy to learn, and makes adding interactivity to your website a breeze. It also comes with plenty of [plugins](http://plugins.jquery.com/) to do almost whatever you need it to do.
