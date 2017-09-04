@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/5-advanced-photoshop-techniques-for-web-designers

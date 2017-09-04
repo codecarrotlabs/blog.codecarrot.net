@@ -1,0 +1,1 @@
+http://blog.teamtreehouse.com/how-to-create-a-memorable-super-secure-password
