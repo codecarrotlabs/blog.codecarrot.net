@@ -4,7 +4,7 @@ author: yashumittal
 title: 50 Ways To Increase Your Twitter Followers
 date: 2017-09-04 23:35:10
 categories: tips
-description: Twitter is a powerful tool to promote their businesses. Here are 50 ways to increase your twitter followers and take advantage of the many benefits of Twitter/
+description: Twitter is a powerful tool to promote their businesses. Here are 50 ways to increase your twitter followers and take advantage of the many benefits of Twitter.
 image: http://blog.codecarrot.net/images/lots-of-twitter-logo-in-the-image.png
 ---
 
