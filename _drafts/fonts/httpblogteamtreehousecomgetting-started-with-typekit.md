@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/getting-started-with-typekit
