@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: All new fascinating design for our blogging website
 date: 2017-08-25 12:00:00
 categories: update

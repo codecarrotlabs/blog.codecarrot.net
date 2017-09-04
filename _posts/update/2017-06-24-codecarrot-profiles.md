@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Introducing CodeCarrot Profiles - A Whole New Way To Connect With People
 date: 2017-06-24 12:00:00
 categories: update

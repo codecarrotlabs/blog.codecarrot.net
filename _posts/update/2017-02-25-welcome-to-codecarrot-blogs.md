@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Welcome to CodeCarrot Blogs
 date: 2017-02-25 12:00:00
 categories: update
