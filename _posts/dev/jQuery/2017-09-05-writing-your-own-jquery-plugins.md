@@ -73,7 +73,7 @@ When we’re invoking the plugin by attaching it to a jQuery selector, the objec
 
 Suppose we wanted to change the text of all of our `<h2>` headers on the following page:
 
-![Static view of html file in writing your own jquery plugin](static-view-of-html-file-in-writing-your-own-jquery-plugin.png)
+![Static view of html file in writing your own jquery plugin](http://blog.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin.png)
 
 We would invoke the plugin as you’re already familiar, like so:
 
@@ -87,7 +87,7 @@ $(document).ready( function() {
 
 To yield this:
 
-![Static view of html file in writing your own jquery plugin after adding custom js script](static-view-of-html-file-in-writing-your-own-jquery-plugin-after-adding-custom-js-script.png)
+![Static view of html file in writing your own jquery plugin after adding custom js script](http://blog.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-after-adding-custom-js-script.png)
 
 We’re not quite done yet. While our plugin technically works, it’s living in its own little isolated world. That is, if you try and chain another jQuery action onto it, nothing’s going to happen because our plugin has led to a dead end. To fix this, be sure to return the results of the plugin as it loops through the DOM elements:
 
@@ -139,7 +139,7 @@ $(document).ready( function() {
 
 Our web page now looks like this:
 
-![Screenshot of the folder creating new jquery plugin translate to spanish](static-view-of-html-file-in-writing-your-own-jquery-plugin-translate-to-spanish.png)
+![Screenshot of the folder creating new jquery plugin translate to spanish](http://blog.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-translate-to-spanish.png)
 
 Complete Customization FTW
 
@@ -196,7 +196,7 @@ $('h2').helloWorld({
 });
 ```
 
-![Screenshot of the folder creating new jquery plugin speaking french](static-view-of-html-file-in-writing-your-own-jquery-plugin-speaking-french.png)
+![Screenshot of the folder creating new jquery plugin speaking french](http://blog.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-speaking-french.png)
 
 *Et voilà!* We now have a plugin with a number of possible objects, and the ability to easily add more (or subtract what’s there) in the future without impacting legacy users of the plugin. Hooray for maintainability!
 
@@ -241,7 +241,7 @@ $('h2').helloWorld({
 
 And as a result, we see our callback as our plugin is executed:
 
-![Screenshot of the folder creating new jquery plugin displaying alert](static-view-of-html-file-in-writing-your-own-jquery-plugin-display-alert.png)
+![Screenshot of the folder creating new jquery plugin displaying alert](http://blog.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-display-alert.png)
 
 ## Conclusion
 
