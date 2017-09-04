@@ -13,4 +13,4 @@ CodeCarrot Blogs - Ruby on Rails, Web Development, Designing, Startups, Outsourc
 *  [LinkedIn](https://www.linkedin.com/company-beta/13356075/)
 *  [Facebook](https://www.twitter.com/codecarrotinc)
 *  [YouTube](https://www.youtube.com/channel/UCjFUbHlDQK11Bt_GhFEoPcQ)
-*  [Instagram](https://www.instagram.com/codecarrotnet)
+*  [Instagram](https://www.instagram.com/codecarrot)
