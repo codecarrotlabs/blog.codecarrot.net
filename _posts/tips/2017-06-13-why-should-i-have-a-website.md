@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Why should I have a website?
 date: 2017-06-13 12:00:00
 categories: tips
