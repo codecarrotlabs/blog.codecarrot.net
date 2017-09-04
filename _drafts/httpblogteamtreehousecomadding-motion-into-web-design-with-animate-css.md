@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/adding-motion-into-web-design-with-animate-css
