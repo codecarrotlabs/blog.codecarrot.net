@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to bridge the gap between Design and Development
 date: 2017-09-04 18:25:00
 categories: design

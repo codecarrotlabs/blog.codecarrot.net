@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Make Sketch Even Better?
 date: 2017-08-22 12:00:00
 categories: design

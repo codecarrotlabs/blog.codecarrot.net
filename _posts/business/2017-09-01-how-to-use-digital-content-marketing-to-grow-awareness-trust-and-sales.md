@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to use digital content marketing to grow awareness, trust and sales
 date: 2017-09-01 22:55:00
 categories: business

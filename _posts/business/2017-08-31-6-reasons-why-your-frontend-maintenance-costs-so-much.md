@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 6 Reasons Why Your Frontend Maintenance Costs So Much
 date: 2017-08-31 00:23:00
 categories: business

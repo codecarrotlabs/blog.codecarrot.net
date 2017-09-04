@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Why jQuery is the Most Popular JavaScript Library
 date: 2017-08-30 12:50:00
 categories: dev jQuery

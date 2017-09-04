@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How To Upload Images To Filestack With Rails
 date: 2017-08-31 22:18:00
 categories: dev ruby-on-rails

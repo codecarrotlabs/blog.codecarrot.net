@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 5 Great Hidden Features in the Chrome DevTools
 date: 2017-08-31 00:00:10
 categories: dev

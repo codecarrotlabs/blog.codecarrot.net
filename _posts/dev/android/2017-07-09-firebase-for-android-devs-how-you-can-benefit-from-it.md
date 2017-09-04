@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Firebase for Android Devs - How You Can Benefit from It
 date: 2017-07-09 12:00:00
 categories: dev android

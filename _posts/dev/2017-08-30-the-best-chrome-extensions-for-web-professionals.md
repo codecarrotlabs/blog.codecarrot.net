@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: The Best Chrome Extensions for Web Professionals
 date: 2017-08-30 16:00:00
 categories: dev

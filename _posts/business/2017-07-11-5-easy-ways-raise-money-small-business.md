@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 5 Easy Ways to Raise Money for Your Small Business
 date: 2017-07-11 12:00:00
 categories: business

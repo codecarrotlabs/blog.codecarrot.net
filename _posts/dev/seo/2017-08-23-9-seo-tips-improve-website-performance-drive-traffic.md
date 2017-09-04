@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 9 SEO Tips to Improve Website Performance and Drive More Traffic
 date: 2017-08-23 12:00:00
 categories: dev seo

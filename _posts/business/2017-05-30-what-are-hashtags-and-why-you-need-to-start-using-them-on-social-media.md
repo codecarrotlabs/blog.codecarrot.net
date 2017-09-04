@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: What are hashtags and why you need to start using them on social media
 date: 2017-05-30 12:00:00
 categories: business

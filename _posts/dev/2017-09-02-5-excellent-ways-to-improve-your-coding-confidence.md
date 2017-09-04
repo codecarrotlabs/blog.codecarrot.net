@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 5 Excellent Ways to Improve Your Coding Confidence
 date: 2017-09-02 15:21:00
 categories: dev

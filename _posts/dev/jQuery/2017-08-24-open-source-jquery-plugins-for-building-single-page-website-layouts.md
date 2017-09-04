@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Open Source jQuery Plugins for Building Single-Page Website Layouts
 date: 2017-08-24 12:00:00
 categories: dev jQuery

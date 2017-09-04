@@ -1,15 +1,16 @@
 ---
 layout: post
+author: yashumittal
 title: How to stop customer complaints before they happen
 date: 2017-06-03 12:00:00
 categories: business
-description: The most common causes behind customer complaints and how to fix them. No, we’re not suggesting you break out the Ouija board just yet. 
+description: The most common causes behind customer complaints and how to fix them. No, we’re not suggesting you break out the Ouija board just yet.
 image: http://blog.codecarrot.net/images/stop-customer-complaints-before-they-happen.jpg
 ---
 
 No one wants to hear bad news. **Especially if it's a customer complaint**
 
-But what if you could stop customer complaints before they happen? No, we’re not suggesting you break out the Ouija board just yet. 
+But what if you could stop customer complaints before they happen? No, we’re not suggesting you break out the Ouija board just yet.
 
 All it actually takes is a little empathy and foresight.
 
@@ -59,7 +60,7 @@ Try to see things from your customers’ perspectives: **What would you want to 
 
 There’s nothing worse than placing an order, waiting 5-7 business days for it to show up, and then realizing it doesn’t fit properly.
 
-When product and service doesn't look, feel, or fit the way your customers imagined that they would, it’s easy to understand their disappointment. 
+When product and service doesn't look, feel, or fit the way your customers imagined that they would, it’s easy to understand their disappointment.
 
 Writing product and services descriptions with important details is a great way to accurately describe your product and services and give your customers a reasonable idea of what they should expect when placing an order.
 

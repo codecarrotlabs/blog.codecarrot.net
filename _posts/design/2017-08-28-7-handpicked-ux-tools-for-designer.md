@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 7 Handpicked UX tools for designers
 date: 2017-08-28 01:00:00
 categories: design

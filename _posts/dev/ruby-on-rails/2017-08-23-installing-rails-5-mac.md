@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Install Rails 5 on Mac
 date: 2017-08-23 02:00:00
 categories: dev ruby-on-rails

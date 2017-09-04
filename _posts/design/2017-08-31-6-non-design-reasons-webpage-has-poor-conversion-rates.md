@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 6 Non-design Reasons Why Your Webpage Has Poor Conversion Rates
 date: 2017-08-31 00:48:00
 categories: design

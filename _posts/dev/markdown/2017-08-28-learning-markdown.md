@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Learning Markdown
 date: 2017-08-28 04:14:00
 categories: dev markdown

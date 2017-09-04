@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Turn Your Small Business Into a Brand
 date: 2017-07-03 12:00:00
 categories: business

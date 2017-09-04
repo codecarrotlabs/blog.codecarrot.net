@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: What is HTML5?
 date: 2017-09-02 17:55:00
 categories: dev html

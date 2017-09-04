@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Using Emmet to Speed Up Front-End Web Development
 date: 2017-08-30 13:10:00
 categories: dev html

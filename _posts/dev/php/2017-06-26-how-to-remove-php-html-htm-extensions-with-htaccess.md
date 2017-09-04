@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to remove .php, .html, .htm extensions with .htaccess
 date: 2017-06-26 12:00:00
 categories: dev php

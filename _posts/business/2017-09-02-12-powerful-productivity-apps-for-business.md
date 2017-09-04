@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 12 powerful productivity apps for business
 date: 2017-09-02 15:46:00
 categories: business

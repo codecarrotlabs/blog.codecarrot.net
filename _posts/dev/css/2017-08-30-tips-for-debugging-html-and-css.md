@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Tips for Debugging HTML & CSS
 date: 2017-08-30 15:02:00
 categories: dev css

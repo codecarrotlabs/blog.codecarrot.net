@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Do you need your own website to sell jewelry online?
 date: 2017-08-21 12:00:00
 categories: business

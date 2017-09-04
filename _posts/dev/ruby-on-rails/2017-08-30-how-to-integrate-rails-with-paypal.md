@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How To Integrate Rails With PayPal
 date: 2017-08-30 12:10:00
 categories: dev ruby-on-rails

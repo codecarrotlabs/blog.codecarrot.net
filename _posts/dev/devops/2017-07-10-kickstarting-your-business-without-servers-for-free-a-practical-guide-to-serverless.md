@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Kickstarting Your Business without Servers for Free - A Practical Guide to Serverless
 date: 2017-07-10 12:00:00
 categories: dev devops

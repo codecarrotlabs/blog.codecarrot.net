@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Write a Perfect ReadMe
 date: 2017-08-31 00:53:00
 categories: dev markdown

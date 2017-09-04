@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 7 reasons your small business needs a website
 date: 2017-09-02 00:30:00
 categories: business

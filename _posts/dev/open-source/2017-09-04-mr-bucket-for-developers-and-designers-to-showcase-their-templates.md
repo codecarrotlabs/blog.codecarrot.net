@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Mr.Bucket for developers and designers to showcase their templates
 date: 2017-09-04 18:59:00
 categories: dev open-source

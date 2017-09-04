@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How Developers Can Impact Your SEO Ranking?
 date: 2017-07-10 12:00:00
 categories: dev seo

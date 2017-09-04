@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How To Integrate Intercom With Ruby on Rails
 date: 2017-08-30 11:40:00
 categories: dev ruby-on-rails

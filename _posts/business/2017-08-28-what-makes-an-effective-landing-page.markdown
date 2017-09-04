@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: What makes an effective landing page?
 date: 2017-08-28 02:30:00
 categories: business

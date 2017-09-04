@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Why website design is important?
 date: 2017-06-23 12:00:00
 categories: design

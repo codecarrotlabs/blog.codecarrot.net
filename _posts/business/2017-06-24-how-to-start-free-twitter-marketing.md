@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Start Free Twitter Marketing
 date: 2017-06-24 12:00:00
 categories: business

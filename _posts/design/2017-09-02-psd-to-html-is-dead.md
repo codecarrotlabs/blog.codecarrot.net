@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: PSD to HTML is Dead
 date: 2017-09-02 17:25:00
 categories: design
