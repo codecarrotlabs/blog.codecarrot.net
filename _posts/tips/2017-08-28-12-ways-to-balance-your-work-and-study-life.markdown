@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 12 Ways to Balance Your Work and Study Life
 date: 2017-08-28 02:51:00
 categories: tips

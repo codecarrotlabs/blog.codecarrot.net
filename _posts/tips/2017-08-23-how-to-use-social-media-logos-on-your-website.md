@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Use Social Media Logos on Your Website
 date: 2017-08-23 12:00:00
 categories: tips

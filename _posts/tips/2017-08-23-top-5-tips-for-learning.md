@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Top 5 Tips for Learning
 date: 2017-08-23 10:00:00
 categories: tips

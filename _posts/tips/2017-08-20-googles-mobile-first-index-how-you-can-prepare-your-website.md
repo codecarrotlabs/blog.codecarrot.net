@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Google's mobile-first index - How you can prepare your website
 date: 2017-08-20 12:00:00
 categories: tips

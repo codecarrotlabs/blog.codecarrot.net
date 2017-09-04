@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How Websites Work?
 date: 2017-06-01 12:00:00
 categories: tips

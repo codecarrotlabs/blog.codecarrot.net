@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 10 Ways You Can Be Happier at Your Job
 date: 2017-09-02 14:58:00
 categories: tips

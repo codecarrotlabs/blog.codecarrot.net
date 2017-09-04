@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Beginner's guide to starting an email list
 date: 2017-06-26 12:00:00
 categories: tips

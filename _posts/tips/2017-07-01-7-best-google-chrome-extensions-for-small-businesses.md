@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 7 Best Google Chrome Extensions for Small Businesses
 date: 2017-07-01 12:00:00
 categories: tips

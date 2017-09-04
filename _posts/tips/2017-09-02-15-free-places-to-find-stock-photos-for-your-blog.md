@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 15 Free Places to Find Stock Photos for Your Blog
 date: 2017-06-13 12:00:00
 categories: tips

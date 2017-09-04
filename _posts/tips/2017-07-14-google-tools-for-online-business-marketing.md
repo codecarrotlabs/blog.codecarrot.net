@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Google Tools Every Online Business Should Know
 date: 2017-07-14 12:00:00
 categories: tips

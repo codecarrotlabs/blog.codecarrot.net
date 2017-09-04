@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Write a Blog Post People Want to Read
 date: 2017-09-03 00:00:46
 categories: tips

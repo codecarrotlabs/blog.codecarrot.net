@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Start a Blog - A Step-by-Step Guide for Writers
 date: 2017-09-03 00:00:18
 categories: tips
