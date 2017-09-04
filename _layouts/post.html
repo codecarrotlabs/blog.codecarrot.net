@@ -29,7 +29,11 @@
           <!-- {% include tag-bar.html %} -->
 
           <div class="post-authors">
-            {% include author/yashumittal.html %}
+            {% if page.author %}
+              {% include author/{{page.author}}.html %}
+            {% else %}
+              {% include author/codecarrot.html %}
+            {% endif %}
           </div>
 
         </main>
