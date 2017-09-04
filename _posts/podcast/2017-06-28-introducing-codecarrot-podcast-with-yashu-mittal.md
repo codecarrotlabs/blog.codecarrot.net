@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Introducing CodeCarrot Podcast - A New Podcast With Yashu Mittal
 date: 2017-06-28 05:00:00
 categories: podcast

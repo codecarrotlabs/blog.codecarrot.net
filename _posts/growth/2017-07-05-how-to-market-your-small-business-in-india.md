@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Market Your Small Business in India
 date: 2017-07-05 12:00:00
 categories: growth

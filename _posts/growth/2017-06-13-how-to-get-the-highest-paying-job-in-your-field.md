@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to get the highest paying job in your field
 date: 2017-06-13 15:00:00
 categories: growth

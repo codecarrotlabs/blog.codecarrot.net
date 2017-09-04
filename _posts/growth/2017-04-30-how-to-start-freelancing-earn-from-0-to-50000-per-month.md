@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Start Freelancing - 5 Steps to go from 0 to Rs.50,000 per month
 date: 2017-04-30 12:00:00
 categories: growth

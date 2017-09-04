@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 5 meaningful ways to make money blogging
 date: 2017-08-28 04:00:00
 categories: growth

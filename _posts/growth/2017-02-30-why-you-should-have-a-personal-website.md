@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Why you should have a personal website?
 date: 2017-02-30 12:00:00
 categories: growth

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 10 Tips for Going Freelance for the First Time
 date: 2017-09-02 14:39:00
 categories: growth

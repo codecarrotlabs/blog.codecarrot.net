@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Using Instagram to drive traffic to your website
 date: 2017-09-01 23:30:00
 categories: growth

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to increase website traffic with existing content
 date: 2017-08-31 23:58:00
 categories: growth
