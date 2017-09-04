@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How to Become a Digital Marketing Expert Through Blogging
 date: 2017-09-03 23:19:00
 categories: growth
