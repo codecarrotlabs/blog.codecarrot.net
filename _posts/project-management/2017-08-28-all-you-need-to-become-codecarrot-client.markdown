@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: All you need to become Codecarrot client
 date: 2017-08-28 03:30:00
 categories: project-management

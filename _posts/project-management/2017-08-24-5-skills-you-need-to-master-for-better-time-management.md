@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: 5 Skills You Need to Master for Better Time Management
 date: 2017-08-24 12:00:00
 categories: project-management

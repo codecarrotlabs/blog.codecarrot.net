@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Finding the Time to Focus on Your Code
 date: 2017-08-25 10:00:00
 categories: project-management

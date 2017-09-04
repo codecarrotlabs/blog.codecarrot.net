@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Effective Teamwork Starts with Shared Terms, Rules and Goals
 date: 2017-08-28 03:00:00
 categories: project-management
