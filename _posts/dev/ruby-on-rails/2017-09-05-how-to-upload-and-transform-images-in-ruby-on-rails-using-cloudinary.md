@@ -8,8 +8,6 @@ description: Upload And Transform Images - Short and great guide to setup and co
 image: http://blog.codecarrot.net/images/ruby-on-rails.png
 ---
 
-https://www.netguru.co/tips/how-to-upload-and-transform-images-in-ruby-on-rails-using-cloudinary
-
 Cloudinary is the image back-end for web and mobile developers. In other words, it allows you to upload images to the cloud (let's say it's something similar to S3), but in addition it allows you to do many different image (and video!) transformations on the fly, just by changing URL params.
 
 ## These are few things that Cloudinary can handle for you:
