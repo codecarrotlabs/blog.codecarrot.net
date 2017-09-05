@@ -10,7 +10,7 @@ image: http://blog.codecarrot.net/images/thomas-kvistholt-191153.jpg
 
 How do we decide if a web host is good? Do bandwidth and disk storage features still matter these days? Which type of hosting service should you go with? In this article, we will get these questions answered with the following walk-through and a 15-point checklist.
 
-In brief –
+**In brief –**
 
 1. Know your hosting needs.
 2. Investigate on host reliability and uptime guarantees.
@@ -21,7 +21,7 @@ In brief –
 7. Read hosting company’s ToS to find out more about account suspension and server usage policy.
 8. Other supporting features (ie. site backup, environmental friendliness, etc)
 
-Knowing Your Hosting Needs
+### Knowing Your Hosting Needs
 
 You can never get the right web host without knowing what you need. So before you go any further – put everything aside (including this guide you are reading) and think thoroughly on your own needs.
 
