@@ -4,7 +4,7 @@ author: yashumittal
 title: Sell more properties with these real estate website design tips
 date: 2017-09-05 00:35:00
 categories: business
-description: Attention real estate agents: Want more solid leads? Use these real estate website design tips to create your own lead generation machine.
+description: Attention real estate agents - Want more solid leads? Use these real estate website design tips to create your own lead generation machine.
 image: http://blog.codecarrot.net/images/sell-more-properties.jpg
 ---
 
