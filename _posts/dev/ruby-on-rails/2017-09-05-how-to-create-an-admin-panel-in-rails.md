@@ -4,7 +4,7 @@ author: yashumittal
 title: How To Create An Admin Panel In Rails
 date: 2017-09-05 16:13:10
 categories: dev ruby-on-rails
-description: How to create an admin panel in Rails using these different admin panel tools like: RailsAdmin, ActiveAdmin and Administrate.
+description: How to create an admin panel in Rails using these different admin panel tools like - RailsAdmin, ActiveAdmin and Administrate.
 image: http://blog.codecarrot.net/images/ruby-on-rails.png
 ---
 
