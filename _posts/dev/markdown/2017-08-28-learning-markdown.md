@@ -421,4 +421,6 @@ The main drawback of Markdown is that you are confined to a fairly limited subse
 
 If you haven’t tried using Markdown before I encourage you to check it out. If you regularly write content for the web you could find that it makes your writing experience much more enjoyable.
 
-Image taken from [dribbble](https://dribbble.com/shots/2558289-Markoff-Icon)
+***
+
+Image taken from [dribbble](https://dribbble.com/shots/2558289-Markoff-Icon).
