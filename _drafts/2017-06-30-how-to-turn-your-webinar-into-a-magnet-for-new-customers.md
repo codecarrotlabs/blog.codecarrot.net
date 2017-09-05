@@ -187,10 +187,6 @@ There’s no better way to write copy than to use potential customer’s actual 
 
 So that’s a breakdown of the playbook that we’ve been using for running webinars. Hopefully there’s at least one new idea that you can steal and test from this post.
 
-Now that I’ve told you all about how we run webinars, I have to ask:
-
-[Want to join us on our next webinar? Click here to grab your spot today](https://www.drift.com/webinar/).
-
 ## P.S. Can we send you an email?
 
 Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
