@@ -10,7 +10,7 @@ image: http://blog.codecarrot.net/images/prasanna-kumar-218699.jpg
 
 If you have some blog and want to share it with world. Get your own blogging website with [Codecarrot](http://codecarrot.net).
 
-Creating a [perfect blog post](/how-to-start-a-blog) is so much more than slapping a few hundred words on a document, uploading it to your website and them [making money from it](/5-meaningful-ways-to-make-money-blogging).
+Creating a [perfect blog post](/how-to-start-a-blog-a-step-by-step-guide-for-writer) is so much more than slapping a few hundred words on a document, uploading it to your website and them [making money from it](/5-meaningful-ways-to-make-money-blogging).
 
 There’s a craft to writing blog posts that are engaging and fun but also [optimized for search engines](/9-seo-tips-improve-website-performance-drive-traffic) in a way that’ll bring you more traffic.
 
