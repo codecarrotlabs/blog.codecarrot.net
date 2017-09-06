@@ -8,7 +8,7 @@ description: Being a small business owner requires multitasking and juggling to-
 image: http://blog.codecarrot.net/images/rami-al-zayat-170349.jpg
 ---
 
-Small business owners wear many different hats throughout the day. The constant juggling between tasks can be overwhelming. As a result, it’s possible for important details to get lost in the shuffle. Rein in your tasks and make room to earn more with these 15 powerful productivity apps for business.
+Small business owners wear many different hats throughout the day. The constant juggling between tasks can be overwhelming. As a result, it’s possible for important details to get lost in the shuffle. Rein in your tasks and make room to earn more with these 12 powerful productivity apps for business.
 
 ## 12 productivity apps for business
 
