@@ -10,87 +10,33 @@
 
     {% include navigation.html %}
 
-    <section style="margin-top: 60px;" class="container">
-      <div class="article-content">
-        <main class="article">
+    <div style="background-image: url({{page.image}})" class="post-header">
 
-          <div>
-            <div class="post-heading">
-              <h1>{{page.title}}</h1>
-            </div>
-
-            <div class="post-image">
-              <img class="post-image-img" src="{{page.image}}" alt="{{page.title}}">
-            </div>
-          </div>
-
-          {{content}}
-
-          <!-- {% include tag-bar.html %} -->
-
-          <div class="post-authors">
-            {% if page.author %}
-              {% include author/{{page.author}}.html %}
-            {% else %}
-              {% include author/codecarrot.html %}
-            {% endif %}
-          </div>
-
-        </main>
-
-        <aside class="sidebar">
-
-          <div id="subscribe" class="join-newsletter">
-            <div class="join-newsletter-subheading">
-              <span>Follow CodeCarrot</span>
-            </div>
-            <div class="join-newsletter-heading">
-              <span>Join our Newsletter</span>
-            </div>
-
-<!--
-            <div class="join-newsletter-form">
-              <form action="//codecarrot.us16.list-manage.com/subscribe/post?u=9d8dae2c91fa473f581a304f5&amp;id=1ab1bbf2d8" method="post" target="_blank">
-                <div class="join-newsletter-form_field">
-                  <input type="email" name="email" placeholder="Email" required>
-                </div>
-                <div class="join-newsletter-submit">
-                  <input type="submit" value="Sign Up">
-                </div>
-              </form>
-            </div>
--->
-
-            <div class="join-newsletter-form">
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<form action="//codecarrot.us16.list-manage.com/subscribe/post?u=9d8dae2c91fa473f581a304f5&amp;id=1ab1bbf2d8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll" class="join-newsletter-form_field">
-
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9d8dae2c91fa473f581a304f5_1ab1bbf2d8" tabindex="-1" value=""></div>
-    <div class="join-newsletter-submit">
-    <input type="submit" value="Subscribe" name="subscribe" class="button">
-    </div>
-    </div>
-</form>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup-->
-            </div>
-
-          </div>
-
-        </aside>
-
+      <div class="container">
+        <p>
+          <a href="#">{{ page.categories }}</a>
+        </p>
+        <h1>{{page.title}}</h1>
       </div>
-    </section>
+    </div>
+
+    <div class="container">
+      <main class="article">
+
+        {{content}}
+
+        <div class="post-authors">
+          {% if page.author %}
+            {% include author/{{page.author}}.html %}
+          {% else %}
+            {% include author/codecarrot.html %}
+          {% endif %}
+        </div>
+
+        <!-- {% include tag-bar.html %} -->
+
+      </main>
+    </div>
 
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-590a3c202dedf7a6"></script>
