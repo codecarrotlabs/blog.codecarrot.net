@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How To Turn Your Webinar Into A Magnet For New Customers
-date: 2017-06-30 12:00:00
-categories: market
+date: 2017-09-08 20:02:00
+categories: business
 description: Running webinars? Here's how we've turned them into one of our top marketing channels. Learn the 6 keys to running a webinar that will make you money.
 image: http://blog.codecarrot.net/images/webinar-blog-post-illustration.jpg
 ---
@@ -27,7 +27,7 @@ This post will break down the exact process that we use to run webinars and a ha
 
 ## The 6 Keys To Running A Webinar That Will Make You Money
 
-**1) Get your audience involved ASAP.**
+### 1) Get your audience involved ASAP.
 
 There’s one big mistake many people make when they are hosting webinars: they kickoff the webinar, talk for 40 minutes straight, and then bring in the audience for Q&A.
 
@@ -45,23 +45,9 @@ Once you see all of the responses come in through chat, you’ll be confident th
 
 More involvement = more people that will stick around until the end of the webinar — and that’s when your big payoff CTA is anyway, right?
 
-**PS.** If you [register for our next webinar](https://www.drift.com/webinar/?utm_source=drift-blog&utm_medium=webinar-post), you can see this in action (see what I did there?)
-
-We also offer Drift swag to the first 10 people who tweet that they’re live with us on the Drift webinar:
-
-![Webinar Swag](https://blog.drift.com/wp-content/uploads/2017/05/webinar-swag-1024x495.png)
-
-Which also ends up spreading the word for our next webinar:
-
-![No Forms](https://blog.drift.com/wp-content/uploads/2017/05/no-forms.png)
-
-**2) Tell a story that gets people to stick around.**
+### 2) Tell a story that gets people to stick around.
 
 Getting the audience involved early is just the beginning.
-
-Here’s what will separate your average webinar from one that will leave people saying things like this:
-
-![Totall sold me](https://blog.drift.com/wp-content/uploads/2017/05/totall-sold-me.png)
 
 You need to tell a story.
 
@@ -85,7 +71,7 @@ So start with a story, and then you can follow this simple framework to guide th
 
 Oh and one more thing here: it’s so easy to be boring on a webinar. Especially since you don’t have the ability to actually make eye contact and read your audience, so you need to bring the energy even more than you would in person.
 
-3) Give your webinar the promotion it deserves.
+### 3) Give your webinar the promotion it deserves.
 
 Outside of getting people involved early and telling a great story, one of the mistakes people make over and over is webinar promotion.
 
@@ -99,11 +85,9 @@ A few of the channels that have worked well for us include:
 
 * Reaching out to our most active blog subscribers and asking them to share the webinar first with a click-to-tweet link to get the ball rolling (it helps with social proof when your audience sees everyone else tweeting about your webinar before they signup)
 * Adding a PS to all of our onboarding emails so all new Drift signups have the option to join the webinar
-* Creating an [in-app message](http://help.drift.com/targeting/in-app-targeted-messages) targeting all new users who (most likely) haven’t gotten the full tour of Drift yet
+* Creating an in-app message targeting all new users who (most likely) haven’t gotten the full tour of Drift yet
 
-And then once we started to get some traction with webinars after the first few months (aka they started working) we updated our homepage to add a link to the webinar in the header:
-
-![Webinar](https://blog.drift.com/wp-content/uploads/2017/05/Webinar-1024x408.png)
+And then once we started to get some traction with webinars after the first few months (aka they started working).
 
 That’s my favorite method of webinar promotion because it’s just always capturing new webinar registrations vs. us having to do the “how many emails are sending to people?” dance.
 
@@ -113,7 +97,7 @@ So if your goal is to get 100 people on a webinar, you’d need to get 300 peopl
 
 And that lead us perfectly into webinar tip #4 — reminder emails.
 
-## 4) Don’t underestimate the power of reminder emails.
+### 4) Don’t underestimate the power of reminder emails.
 
 I know you’ve been there before. Scrambling before a call to try and find the dial-in number…
 
@@ -127,21 +111,11 @@ So here’s a simple playbook for reminder emails leading up to **your** webinar
 * Send a reminder an hour before
 * Send a reminder 10 minutes before
 
-Here’s an example of an “hour before” reminder we’ve sent:
-
-![Hour Before](https://blog.drift.com/wp-content/uploads/2017/05/hour-before.png)
-
-And here’s one of the “last call” 10-minute reminders (this is the highest performing reminder we send):
-
-![Last call](https://blog.drift.com/wp-content/uploads/2017/05/last-call.png)
-
 Every webinar attendee counts. And the best way to get more people into your webinar is to remind them 10-minutes before.
 
 The 10-minute reminder email gets **more than 2x** the number of clicks than the hour before reminder:
 
-![10 minutes CTA](https://blog.drift.com/wp-content/uploads/2017/05/10-minute-CTA-1024x426.png)
-
-## 5) Don’t be afraid to ask for the sale.
+### 5) Don’t be afraid to ask for the sale.
 
 It’s not about what your product does — it’s about what people can do with your product.
 
@@ -149,13 +123,16 @@ And if you can tell a great story about how your product can improve people’s 
 
 After all, the goal of the webinar is to get people interested in your product anyway, right? So at Drift, at the end of the webinar, the CTA we use is to go to our website right now and start a conversation _with_ the sales team.
 
-It doesn’t get much more straightforward than that: if you saw something you liked on this webinar, go to [our website](http://www.codecarrot.net/) and talk to the sales team right now (here’s the slide we use).
+It doesn’t get much more straightforward than that: if you saw something you liked on this webinar, go to [our website](http://www.codecarrot.net/) and talk to our team right now.
 
-![]()
+If you don't have a website for your business. You can get one, [right now](http://codecarrot.net/).
 
-Instead of filling out a form and waiting to hear back, they can talk to our sales team and ask questions about what they just saw live — even while the webinar is still going on.
+[![Make your business online with a website](http://blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](http://codecarrot.net/)
 
-## 6) Don’t forget to ask for feedback.
+
+Instead of filling out a form and waiting to hear back, they can talk to our team and ask questions about what they just saw live — even while the webinar is still going on.
+
+### 6) Don’t forget to ask for feedback.
 
 Assuming that you’ve just delivered a killer webinar by following a few of the tips above, there’s a big opportunity that will be waiting for you:
 
@@ -163,7 +140,7 @@ The follow-up email.
 
 This is the single most important email you can send.
 
-(Most people mail it in and  just send over the recording.)
+(Most people mail it in and just send over the recording.)
 
 But this is the perfect time to ask for feedback, so we send a quick three question survey with every webinar follow up email that asks:
 
@@ -171,22 +148,8 @@ But this is the perfect time to ask for feedback, so we send a quick three quest
 * Do you have any feedback? Was there anything you wished we covered?
 * Would you like to a get a 1:1 demo of Drift?
 
-Here’s what the email looks like:
-
-![Feedback email](https://blog.drift.com/wp-content/uploads/2017/05/feedback-email.png)
-
 The best part of this feedback survey isn’t the score, and it’s not whether or not people want demos (although that definitely helps and we’ve found it’s a nice low-pressure way of asking).
 
-It’s the text feedback you get from the webinar attendees:
-
-![Gold](https://blog.drift.com/wp-content/uploads/2017/05/gold.png)
-
-These responses can be pure gold for marketing (and they influence a lot of the marketing copy that we use today).
+Responses can be pure gold for marketing (and they influence a lot of the marketing copy that we use today).
 
 There’s no better way to write copy than to use potential customer’s actual words, and the webinar follow-up survey has been one great way to, well — get those words.
-
-So that’s a breakdown of the playbook that we’ve been using for running webinars. Hopefully there’s at least one new idea that you can steal and test from this post.
-
-## P.S. Can we send you an email?
-
-Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
