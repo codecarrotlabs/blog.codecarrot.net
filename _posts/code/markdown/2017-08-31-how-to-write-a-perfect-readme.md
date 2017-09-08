@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: How to Write a Perfect ReadMe
 date: 2017-08-31 00:53:00
-categories: dev markdown
+categories: code markdown
 description: Solving the non-design issues will help you boost conversion rates and will also take less time, money and effort than redesign and implementation.
 image: http://blog.codecarrot.net/images/joseph-chan-256778.jpg
 ---
