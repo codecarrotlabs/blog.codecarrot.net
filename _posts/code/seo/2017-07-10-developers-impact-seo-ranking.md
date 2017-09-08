@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: How Developers Can Impact Your SEO Ranking?
 date: 2017-07-10 12:00:00
-categories: dev seo
+categories: code seo
 description: A big potential for improving SEO is hidden in a code. Take care of its quality to get measurable results for website accessibility and drive traffic to the app.
 image: http://blog.codecarrot.net/images/developers-impact-seo-ranking.jpg
 ---
