@@ -28,7 +28,7 @@
         margin-right: 20px
 
       .nav-list
-        background-color: #fff
+        background-color: $white
         width: 100%
         box-shadow: 0 10px 20px rgba(0,0,0,.1)
         text-align: center
@@ -60,12 +60,12 @@
         margin-right: 20px
 
       .cta
-        color: #00d664
+        color: $primary
 
 .nav
   height: 60px
   position: fixed
-  background-color: #fff
+  background-color: $white
   list-style: none
   z-index: 9999
   width: 100%
@@ -80,11 +80,11 @@
     .codecarrot-icon
       float: left
       position: relative
-      top: 21px
+      top: 17px
       margin-left: 20px
 
       svg
-        width: 130px
+        width: 160px
 
 .nav-list
   float: right
@@ -100,4 +100,7 @@
       cursor: pointer
 
     .cta
-      color: #00d664
+      color: $primary
+
+      &:hover
+        color: darken($primary, 10%)
