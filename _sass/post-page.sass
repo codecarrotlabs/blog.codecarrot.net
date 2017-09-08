@@ -1,84 +1,87 @@
 @media (max-width: 768px)
 
+  .post-header
+    padding: 130px 0 110px
+
+    .container
+
+      h1
+        font-size: 28px
+
   .article
     padding-top: 40px
-    width: 320px
     margin: 0 auto 35px
-
-  .sidebar
-    float: none
-    width: 320px
-    margin: 0 auto 35px
-
-  .sidebar-ad-img
-    margin-top: 10px
-
-
-  .article
 
     h2, h3
       margin-bottom: 15px
 
-@media (min-width: 979px)
-
-  .article
-    width: 658px
+// @media (min-width: 979px)
+//
+//   .article
+//     width: 658px
 
 @media (min-width: 768px)
 
+  .post-header
+    padding: 240px 0 190px
+
+    .container
+
+      h1
+        font-size: 40px
+
   .article
-    float: left
-    display: block
-    width: 470px
+    width: 66%
 
     h2, h3
       margin: 45px 0 25px 0
-
-  .sidebar
-    float: right
-    width: 320px
-
-aside
-  display: block
 
 .post-header
   margin: 0 auto
   width: 100%
   position: relative
+  overflow: hidden
+  text-align: center
   background:
     size: cover
     position: 50%
-    overflow: hidden
-
-.post-heading
-  font-size: 25px
-  color: #000
-  margin-bottom: 30px
-  line-height: 1
-
-.post-image
   position: relative
-  z-index: 2000
 
-.post-image-img
-  width: 100%
-  height: 225px
-  position: relative
-  overflow: hidden
-  margin-bottom: 50px
-  border-radius: 6px
-  box-shadow: 0 36px 64px 0 rgba(0,0,0,.2)
-  background-size: cover
-  background-repeat: no-repeat
-  background-position: 50%
+  &:before
+    content: ""
+    background: rgba(153, 167, 177, 0.75)
+    position: absolute
+    top: 0
+    left: 0
+    right: 0
+    bottom: 0
+    z-index: 1
 
-.sidebar
-  margin-bottom: 30px
+  .container
+    position: relative
+    z-index: 10
 
-.article-content
-  padding: 60px 0
+    p
+      a
+        text-transform: uppercase
+        cursor: pointer
+        color: $white
+        text-decoration: none
+        font-size: 16px
+
+        &:hover
+          font:
+            weight: bold
+
+    h1
+      color: $white
+      margin-top: 15px
+      font:
+        weight: 700
 
 .article
+  padding: 30px 0
+  margin: 0 auto
 
   p
     margin: 0 0 20px 0
@@ -113,7 +116,7 @@ aside
 
   li
     font-size: 18px
-    color: #000
+    color: #576366
     margin-bottom: 10px
 
   blockquote
@@ -159,6 +162,18 @@ aside
     height: 0
     margin: 65px 0
 
+  .callout
+    font:
+      size: 24px
+      weight: 800
+    padding: 25px
+    text-align: center
+    border:
+      top: 4px solid #00d664
+      radius: 0 0 4px 4px
+    background-color: #eee
+    margin-bottom: 20px
+
 .post-authors
   position: relative
   margin-top: 50px
@@ -200,86 +215,6 @@ aside
 
 .post-author-social:hover
   fill: #00d664
-
-.join-newsletter
-  margin: 0 auto
-  padding: 30px 20px 20px
-  max-width: 540px
-  border: 1px solid #f0f0f0
-  border-radius: 6px
-  background-position: -350px 60px
-  background-image: url(http://www.codecarrot.net/contact_map.png)
-  background-repeat: no-repeat
-  background-size: 730px
-  min-height: 232px
-  max-width: 320px
-
-.join-newsletter-subheading
-  font-size: 16px
-  font-weight: 600
-  color: #cdcdcd
-  text-align: center
-  padding: 10px 0 0 0
-
-.join-newsletter-heading
-  font-size: 24px
-  text-align: center
-  padding: 10px 0 0 0
-
-.join-newsletter-form
-  padding: 30px
-  text-align: center
-
-.join-newsletter-form_field
-  margin-top: 10px
-
-  input
-    width: 100%
-    padding: 0 0 11px
-    border: 0
-    border-bottom: 1px solid #e5e5e5
-    font-size: 18px
-    background: none
-    color: #000
-    text-align: center
-    border-color: #cdcdcd
-
-.join-newsletter-submit
-  margin-top: 35px
-
-  input
-    color: #000
-    background: #fff
-    padding: 10px 40px
-    transition: 0.3s ease
-    border: 2px solid #e5e5e5
-    font-family: "Nunito", sans-serif
-    font:
-      weight: 700
-      size: 16px
-    border-radius: 50px
-
-  input:hover
-    color: #fff
-    background-color: #00d664
-    border-color: #00d664
-
-.callout
-  font:
-    size: 24px
-    weight: 800
-  padding: 25px
-  text-align: center
-  border-top: 4px solid #00d664
-  border-radius: 0 0 4px 4px
-  background-color: #EEE
-  margin-bottom: 20px
-
-.article-text
-
-  iframe
-    width: 100%
-    height: 400px
 
 //Share this Post
 
