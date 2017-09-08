@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: What is HTML5?
 date: 2017-09-02 17:55:00
-categories: dev html
+categories: code html
 description: In this article, you will get an overview of HTML5, including a look at some of the new tags now available to designers and developers.
 image: http://blog.codecarrot.net/images/what-is-html5.png
 ---

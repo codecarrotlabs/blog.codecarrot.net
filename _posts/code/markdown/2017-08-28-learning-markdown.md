@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: Learning Markdown
 date: 2017-08-28 04:14:00
-categories: dev markdown
+categories: code markdown
 description: Learn how to use Markdown in order to write great web content without needing to be a HTML rockstar.
 image: http://blog.codecarrot.net/images/learning-markdown.png
 ---
