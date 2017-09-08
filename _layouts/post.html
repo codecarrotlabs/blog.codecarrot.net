@@ -23,8 +23,6 @@
     <div class="container">
       <main class="article">
 
-        {{content}}
-
         <div class="post-authors">
           {% if page.author %}
             {% include author/{{page.author}}.html %}
@@ -32,6 +30,8 @@
             {% include author/codecarrot.html %}
           {% endif %}
         </div>
+
+        {{content}}
 
         <!-- {% include tag-bar.html %} -->
 
