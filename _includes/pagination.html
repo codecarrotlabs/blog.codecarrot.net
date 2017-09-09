@@ -9,7 +9,13 @@
         <span style="display: none" class="page-numbers current">Previous</span>
       {% endif %}
 
-      <!-- Previous Page Button -->
+      {% if paginator.page >= 3 %}
+        <a href="/" class="page-numbers">1</a>
+
+        <span class="page-numbers dots">...</span>
+      {% endif %}
+
+      <!-- Previous Page Number Button -->
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="page-numbers">{{ paginator.previous_page }}</a>
       {% else %}
@@ -19,7 +25,7 @@
       <!-- Current Page Button -->
       <span class="page-numbers current">{{ paginator.page }}</span>
 
-      <!-- Next Page Button -->
+      <!-- Next Page Number Button -->
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="page-numbers">{{ paginator.next_page }}</a>
       {% else %}
@@ -28,6 +34,13 @@
 
       <!-- <span class="page-numbers dots">...</span>
       <a href="/page/{{ paginator.total_pages }}/" class="page-numbers">{{ paginator.total_pages }}</a> -->
+
+      {% assign page_end = paginator.total_pages | minus: 1 %}
+      {% if paginator.page < page_end %}
+        <span class="page-numbers dots">...</span>
+
+        <a href="/page/{{ paginator.total_pages }}/" class="page-numbers">{{ paginator.total_pages }}</a>
+      {% endif %}
 
       <!-- Next Button -->
       {% if paginator.next_page %}
