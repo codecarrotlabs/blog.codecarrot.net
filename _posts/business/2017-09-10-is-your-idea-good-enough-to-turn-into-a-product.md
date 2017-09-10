@@ -4,7 +4,7 @@ author: yashumittal
 title: Is your idea good enough to turn into a Product?
 date: 2017-09-10 15:02:00
 categories: business
-description: Question: How can you make an incredibly dangerous, misguided and high-risk bet with a single sentence? Answer: “I have an idea for an app
+description: Question - How can you make an incredibly dangerous, misguided and high-risk bet with a single sentence? Answer - “I have an idea for an app
 image: http://blog.codecarrot.net/images/patrick-tomasso-319754.jpg
 ---
 
