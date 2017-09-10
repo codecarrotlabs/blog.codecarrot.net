@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How To Turn Your Webinar Into A Magnet For New Customers
 date: 2017-09-08 20:02:00
 categories: business
