@@ -5,7 +5,7 @@ title: Copyright - Get to Know the Facts
 date: 2017-09-10 22:00:00
 categories: tips
 description: They say that imitation is the sincerest form of flattery, and its not uncommon for successful sites and designers to find their work being appropriated by others, but when the hard work you've put into a project is blatantly ripped-off
-image: http://blog.codecarrot.net/images/copyright-56a830573df78cf7729ce504.jpg
+image: http://blog.codecarrot.net/images/copyright-1.jpg
 ---
 
 They say that imitation is the sincerest form of flattery, and its not uncommon for successful sites and designers to find their work being appropriated by others, but when the hard work you've put into a project is blatantly ripped-off elsewhere it can really hurt, not to mention potentially cause damage your business.
