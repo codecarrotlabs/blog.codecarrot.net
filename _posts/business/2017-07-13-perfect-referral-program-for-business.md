@@ -4,6 +4,7 @@ author: yashumittal
 title: A Guide to Finding the Perfect Referral Program for Your Business
 date: 2017-07-13 12:00:00
 categories: business
+tags: referral-program marketing sell products customer
 description: Do you want your costumers to sell your products and services for your business? Have you been thinking of starting a refer and earn program for your business?
 image: http://blog.codecarrot.net/images/speaking-referral-with-loud-speaker.png
 ---

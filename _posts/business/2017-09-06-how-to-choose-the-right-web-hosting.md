@@ -4,6 +4,7 @@ author: yashumittal
 title: How to Choose the Right Web Hosting
 date: 2017-09-06 00:41:20
 categories: business
+tags: hosting website business smallbiz
 description: How do we decide if a web host is good? Do bandwidth and disk storage features still matter these days? Which type of hosting service should you go with? In this article, we will get these questions answered with the following walk-through and a 15-point checklist.
 image: http://blog.codecarrot.net/images/thomas-kvistholt-191153.jpg
 ---

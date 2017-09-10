@@ -4,6 +4,7 @@ author: yashumittal
 title: 6 Reasons Why Your Frontend Maintenance Costs So Much
 date: 2017-08-31 00:23:00
 categories: business
+tags: frontend costs website money
 description: The most popular reasons for the dropping productivity and increasing costs of frontend maintenance. Stop spending so much time and money on app maintenance.
 image: http://blog.codecarrot.net/images/igor-ovsyannykov-342517.jpg
 ---
