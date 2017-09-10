@@ -1,7 +1,7 @@
 <ul class="tag-bar">
   {% for tags in page.tags | split: "," %}
   <li>
-    {{  tags }}
+    <a href="#">{{  tags }}</a>
   </li>
   {% endfor %}
 </ul>
