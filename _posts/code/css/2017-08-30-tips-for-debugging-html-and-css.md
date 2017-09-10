@@ -3,7 +3,8 @@ layout: post
 author: yashumittal
 title: Tips for Debugging HTML & CSS
 date: 2017-08-30 15:02:00
-categories: code css
+categories: code
+tags: debugging html css tips
 description: Debugging HTML and CSS problems can ruin creative momentum, but if you know how to debug rendering issues, building
 image: http://blog.codecarrot.net/images/lights.jpg
 ---

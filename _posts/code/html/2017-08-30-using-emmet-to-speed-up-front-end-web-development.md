@@ -3,7 +3,8 @@ layout: post
 author: yashumittal
 title: Using Emmet to Speed Up Front-End Web Development
 date: 2017-08-30 13:10:00
-categories: code html
+categories: code
+tags: html front-end development web emmet plugin
 description: Learn how to use Emmet, a plugin for your text editor that allows you to quickly generate HTML and CSS.
 image: http://blog.codecarrot.net/images/emmet.jpg
 ---
