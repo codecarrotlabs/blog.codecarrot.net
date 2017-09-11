@@ -3,7 +3,8 @@ layout: post
 author: yashumittal
 title: How to Install Rails 5 on Linux
 date: 2017-08-23 03:00:00
-categories: code ruby-on-rails
+categories: code
+tags: ruby-on-rails ruby rails linux
 description: As a little nudge for those of you who still haven't discovered how awesome Rails is, here's how to install Rails 5 on Linux.
 image: http://blog.codecarrot.net/images/148.jpeg
 ---

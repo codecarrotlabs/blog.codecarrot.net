@@ -4,6 +4,7 @@ author: yashumittal
 title: 6 Non-design Reasons Why Your Webpage Has Poor Conversion Rates
 date: 2017-08-31 00:48:00
 categories: design
+tags: designer conversion money webpage
 description: Solving the non-design issues will help you boost conversion rates and will also take less time, money and effort than redesign and implementation.
 image: http://blog.codecarrot.net/images/i-think-i-like-you-steven-scott.jpg
 ---

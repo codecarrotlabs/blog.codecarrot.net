@@ -4,6 +4,7 @@ author: yashumittal
 title: How to bridge the gap between Design and Development
 date: 2017-09-04 18:25:00
 categories: design
+tags: designer development
 description: It’s well known that the clash between Design and Development is not simply just a clash between people who do different stuff.
 image: http://blog.codecarrot.net/images/designer-rotating-head-and-developer-up-down.gif
 ---

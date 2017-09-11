@@ -3,7 +3,8 @@ layout: post
 author: yashumittal
 title: How To Upload Images To Filestack With Rails
 date: 2017-08-31 22:18:00
-categories: code ruby-on-rails
+categories: code
+tags: ruby-on-rails ruby rails filestack images
 description: Filestack (formerly Filepicker) is a service that allows users to store files in a cloud. Here’s how to use Filestack in a Rails app.
 image: http://blog.codecarrot.net/images/how-to-upload-images-to-filestack-with-rails.png
 ---

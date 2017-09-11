@@ -3,7 +3,8 @@ layout: post
 author: yashumittal
 title: How to remove .php, .html, .htm extensions with .htaccess
 date: 2017-06-26 12:00:00
-categories: code php
+categories: code
+tags: php htm html htaccess seo extensions url search-engine-optimization
 description: When you have newly uploaded your website on servers you don't want to see those extensions along with your, in order to make the URLs more user and search engine friendly.
 image: http://blog.codecarrot.net/images/remove-extensions-with-htaccess.png
 ---

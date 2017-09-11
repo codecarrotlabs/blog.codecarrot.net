@@ -4,6 +4,7 @@ author: yashumittal
 title: Why standards still matter?
 date: 2017-09-10 21:25:00
 categories: design
+tags: standards designer website
 description: Throughout my Web design and development career I have found incredible amounts of valuable help and fantastic resources while searching for solutions to various problems. In the last few years I have found most of this helpful information on Web
 image: http://blog.codecarrot.net/images/hands-measuring-a-gear.jpg
 ---

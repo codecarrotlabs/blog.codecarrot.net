@@ -3,7 +3,8 @@ layout: post
 author: yashumittal
 title: How To Integrate Rails With PayPal
 date: 2017-08-30 12:10:00
-categories: code ruby-on-rails
+categories: code
+tags: ruby-on-rails ruby rails paypal payment-gateway
 description: If you are looking for solutions to implement payment gateways in your Rails app, you've found the right place. Here's a quick guide for PayPal integration.
 image: http://blog.codecarrot.net/images/integrate-rails-with-paypal.png
 ---

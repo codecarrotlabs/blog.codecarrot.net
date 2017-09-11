@@ -4,6 +4,7 @@ author: yashumittal
 title: 5 Excellent Ways to Improve Your Coding Confidence
 date: 2017-09-02 15:21:00
 categories: code
+tags: coding developer
 description: Being confident in coding is one of the ways to a expert developer, here are the 5 expert tips on how to improve your coding confidence.
 image: http://blog.codecarrot.net/images/mia-baker-322586.jpg
 ---
