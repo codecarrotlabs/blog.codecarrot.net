@@ -4,6 +4,7 @@ author: yashumittal
 title: How to Become a Digital Marketing Expert Through Blogging
 date: 2017-09-03 23:19:00
 categories: growth
+tags: blogging blog seo search-engine-optimization
 description: Search Engine Optimization, popularly known as SEO is the most sought after and the most difficult skill to master.
 image: http://blog.codecarrot.net/images/serpstat-356218.jpg
 ---

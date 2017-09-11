@@ -4,6 +4,7 @@ author: yashumittal
 title: Introducing CodeCarrot Podcast - A New Podcast With Yashu Mittal
 date: 2017-06-28 05:00:00
 categories: podcast
+tags: podcast entrepreneur tricks tips
 description: Each week, our Founder &amp; CEO - Yashu Mittal will be sharing one thing he’s learned throughout his career as a entrepreneur.
 image: http://blog.codecarrot.net/images/codecarrot-podcast-banner.png
 ---

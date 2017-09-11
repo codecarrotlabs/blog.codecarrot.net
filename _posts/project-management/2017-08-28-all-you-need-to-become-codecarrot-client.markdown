@@ -4,6 +4,7 @@ author: yashumittal
 title: All you need to become Codecarrot client
 date: 2017-08-28 03:30:00
 categories: project-management
+tags: client business market marketplace
 description: When starting your journey to a great product you look for a team like Codecarrot to make it happen. From the post you'll find out how to become Codecarrot's client.
 image: http://blog.codecarrot.net/images/high-status-clients-fi.jpg
 ---

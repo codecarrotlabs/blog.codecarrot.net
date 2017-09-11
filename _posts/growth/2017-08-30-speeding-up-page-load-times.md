@@ -4,6 +4,7 @@ author: yashumittal
 title: Speeding Up Page Load Times
 date: 2017-08-30 16:00:00
 categories: growth
+tags: seo search-engine-optimization website engagement users
 description: Learn how to reduce your page load times and increase user engagement on your websites.
 image: http://blog.codecarrot.net/images/romain-peli-266992.jpg
 ---
