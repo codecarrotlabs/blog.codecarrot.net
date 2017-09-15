@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: Messaging and Video: Why Investing in These Two Megatrends Will Make You a Better Marketer
+title: Messaging and Video - Why Investing in These Two Megatrends Will Make You a Better Marketer
 date: 2017-09-16 01:40:00
 categories: vlog
 tags: vlogs video messaging video investment megatrends marketer
