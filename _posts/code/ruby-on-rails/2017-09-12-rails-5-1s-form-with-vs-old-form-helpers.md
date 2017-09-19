@@ -104,6 +104,7 @@ Do not forget to specify ids for form fields if you want to make labels work.
   <%= form.label :name %>
   <%= form.text_field :name, id: :user_name %>
 <% end %>
+```
 
 <div class="callout">
 Form id and class attributes aren’t wrapped anymore
