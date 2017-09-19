@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/tip-how-to-encourage-exploration-on-your-site
