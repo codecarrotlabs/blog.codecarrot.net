@@ -82,7 +82,7 @@ mv Sublime Text 3 C:\Users\YASHU\Dropbox\SublimeText
 ```
 7. Create a symlink within the Sublime Text 3 Package directory pointing to the User folder within Dropbox/SublimeText/ directory.
 ```
-mkdir /d User "C:\Users\YASHU\AppData\Roaming\Sublime Text 3\Packages\User"
+mklink /d User "C:\Users\YASHU\AppData\Roaming\Sublime Text 3\Packages\User"
 ```
 
 ***
@@ -122,7 +122,7 @@ rmdir -recurse User
 ```
 5. Create a symlink within the Sublime Text 3 Package directory pointing to the User folder within `Dropbox/Sync/Sublime Text/` directory.
 ```
-mkdir /d User "C:\Users\YASHU\Dropbox\SublimeText\User"
+mklink /d User "C:\Users\YASHU\Dropbox\SublimeText\User"
 ```
 
 Once you complete the secondary computer changes above, your instances of Sublime Text on each computer should automatically update whenever you make a change to your installed packages. Additionally, any changes made to your User Settings in the `Preferences.sublime-settings` file will also be updated. This method should allow for the perfect developer space regardless of which of your computers you’re working from.
