@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/the-dos-and-do-nots-of-brand
