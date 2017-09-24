@@ -9,6 +9,6 @@ description: Learn the journal of internet from the where it originated and what
 image: http://blog.codecarrot.net/images/the-history-of-the-internet.jpg
 ---
 
-Learn the journal of internet from the where it originated and and what change it bring all the way from the...
+Learn the journal of internet from the where it originated and what change it bring all the way from the...
 
 <div data-type="vimeo" data-video-id="235230803"></div>
