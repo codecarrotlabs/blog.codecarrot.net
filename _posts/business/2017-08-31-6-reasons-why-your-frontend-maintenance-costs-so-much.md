@@ -11,7 +11,7 @@ image: http://blog.codecarrot.net/images/igor-ovsyannykov-342517.jpg
 
 Irrespective of how much experience you have with software development, you are probably aware that creating an app costs time and money. Not so many people, though, realize that maintenance and further development after an app is deployed can sometimes be quite expensive too. It is not uncommon to see a gradual decrease in performance of your development team over time, especially after they meet the first or second deadline.
 
-If you have no technical background, than probably you will always be surprised that changing the position of an element or adding a new modal can take so much time. Especially, when it took only a moment a few months ago! Have you ever wondered what makes it so hard? We’ve put together the most popular reasons for the dropping productivity and increasing costs of [frontend maintenance](6-non-design-reasons-webpage-has-poor-conversion-rates).
+If you have no technical background, than probably you will always be surprised that changing the position of an element or adding a new modal can take so much time. Especially, when it took only a moment a few months ago! Have you ever wondered what makes it so hard? We’ve put together the most popular reasons for the dropping productivity and increasing costs of [frontend maintenance](/6-non-design-reasons-webpage-has-poor-conversion-rates).
 
 ## No Responsive Web Design or Mobile-first Approach
 
