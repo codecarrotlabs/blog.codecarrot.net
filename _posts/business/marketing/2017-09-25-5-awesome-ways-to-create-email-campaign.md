@@ -6,7 +6,7 @@ date: 2017-09-25 20:35:00
 categories: business
 tags: email marketing campaign email-campaign email-marketing
 description: Need ideas on how to improve your email marketing? Check out these five examples of awesome email marketing strategy and design.
-image: http://blog.codecarrot.net/images/
+image: http://blog.codecarrot.net/images/email-campaign-work-harder.png
 ---
 
 It’s no secret that email is neither the most exciting nor flashy channel. In fact, many industry leaders have been predicting the death of email for years.
