@@ -2,11 +2,11 @@
 layout: post
 author: yashumittal
 title: 5 Awesome Ways To Send E-Mail Campaign
-date: 2017-09-24 12:00:00
+date: 2017-09-25 20:35:00
 categories: business
 tags: email marketing campaign email-campaign email-marketing
 description: Need ideas on how to improve your email marketing? Check out these five examples of awesome email marketing strategy and design.
-image: http://blog.codecarrot.net/images/start-free-twitter-marketing.jpg
+image: http://blog.codecarrot.net/images/
 ---
 
 It’s no secret that email is neither the most exciting nor flashy channel. In fact, many industry leaders have been predicting the death of email for years.
@@ -62,3 +62,5 @@ One of the oldest marketing strategies is to associate positive emotions with yo
 *Best practices to leverage: Storytelling, added value, surprise and delight*
 
 Sending awesome email is one of the way to increase traffic and sales on your website. If you want a website for your business or need help making your business online.
+
+[![Make your business online with a website Promo](http://blog.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](http://codecarrot.net/)
