@@ -22,24 +22,30 @@ This works in every desktop browser/version all the way back to IE6, except for 
 You probably also want the following:
 
 1. Touch icon for iOS 2.0+ and Android 2.1+:
+
 ```
 <link rel="apple-touch-icon-precomposed" href="path/to/favicon-152.png">
 ```
 
 2. IE 10 Metro tile icon (Metro equivalent of apple-touch-icon):
+
 ```
 <meta name="msapplication-TileColor" content="#FFFFFF">
 <meta name="msapplication-TileImage" content="/path/to/favicon-144.png">
 ```
+
 Replace #FFFFFF with your desired tile color.
 
 3. IE 11 Tile for Windows 8.1 Start Screen
+
 ```
 <meta name="application-name" content="Name">
 <meta name="msapplication-tooltip" content="Tooltip">
 <meta name="msapplication-config" content="/path/to/ieconfig.xml">
 ```
+
 ieconfig.xml
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
     <browserconfig>
@@ -62,11 +68,13 @@ If you're obsessive, you want all this too:
 1. Largest to smallest apple-touch-icons:
 
 2. Favicons targeted to any additional png sizes that you add that aren't covered above:
+
 ```
 <link rel="icon" href="/path/to/favicon-32.png" sizes="32x32">
 ```
 
 3. Favicon Chrome for Android
+
 ```
 <link rel="shortcut icon" sizes="196x196" href="/path/to/favicon-196.png">
 ```
@@ -74,7 +82,6 @@ If you're obsessive, you want all this too:
 ## Images
 
 Create at least this:
-
 
 Sizes |	Name | Purpose
 --- | --- | ---
@@ -144,6 +151,7 @@ Not normally needed. This is only for those frustrating times when you can't get
 * Also close and reopen browser if IE.
 * If still stuck, try opening new tab. Or see [http://stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh](http://stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh)
 * Temporarily add explicit HTML markup and append a query string. Remove this when you're done:
+
 ```
 <link rel="shortcut icon" href="http://www.yoursite.com/favicon.ico?v=2" />
 <link rel="icon" sizes="16x16 32x32" href="/favicon.ico?v=2">
@@ -152,6 +160,7 @@ Not normally needed. This is only for those frustrating times when you can't get
 For large versioned deployments, if all site visitors need their favicon force-refreshed in an extreme situation:
 
 * Add explicit HTML markup (customize the sizes part) and put your version number in the filename.
+
 ```
 <link rel="shortcut icon" href="/favicon-v2.ico" />
 <link rel="icon" sizes="16x16 32x32" href="/favicon-v2.ico">
