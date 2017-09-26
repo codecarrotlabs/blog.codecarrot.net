@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/how-to-make-a-favicon
