@@ -84,7 +84,7 @@ If you're obsessive, you want all this too:
 Create at least this:
 
 Sizes |	Name | Purpose
---- | --- | ---
+----- | ----- | -----
 16x16 & 32x32 | favicon.ico | Default required by IE. Chrome and Safari may pick ico over png, sadly.
 
 More about favicon.ico below. Yes, it's 1 file with multiple sizes.
@@ -92,7 +92,7 @@ More about favicon.ico below. Yes, it's 1 file with multiple sizes.
 If you also sort of care about iOS and Android but are lazy:
 
 Size |	Name |	Purpose
---- | --- | ---
+----- | ----- | -----
 152x152 |	favicon-152.png | General use iOS/Android icon, auto-downscaled by devices.
 
 But keep in mind that icons with complex detail often don't downscale well. Often you have to tweak subtle design details for smaller sizes.
@@ -100,7 +100,7 @@ But keep in mind that icons with complex detail often don't downscale well. Ofte
 If you're obsessive, create these too:
 
 Size | Name | Purpose
---- | --- | ---
+----- | ----- | -----
 32x32 |	favicon-32.png | Certain old but not too old Chrome versions mishandle ico
 57x57 |	favicon-57.png | Standard iOS home screen (iPod Touch, iPhone first generation to 3G)
 76x76 |	favicon-76.png | iPad home screen icon
@@ -123,7 +123,7 @@ Size | Name | Purpose
 An .ico file is a container for multiple .bmp or .png icons of different sizes. In favicon.ico, create at least these:
 
 Size | Purpose
---- | --- | ---
+----- | ----- | -----
 16x16 | IE9 address bar, Pinned site Jump List/Toolbar/Overlay
 32x32 | New tab page in IE, taskbar button in Win 7+, Safari Read Later sidebar
 48x48 | Windows site icons
@@ -131,7 +131,7 @@ Size | Purpose
 If you're obsessive and don't mind 1-3kb extra size, also include these sizes in your .ico:
 
 Size | Purpose
---- | --- | ---
+----- | ----- | -----
 24x24 | IE9 Pinned site browser UI
 64x64 | Windows site icons, Safari Reading List sidebar in HiDPI/Retina
 
