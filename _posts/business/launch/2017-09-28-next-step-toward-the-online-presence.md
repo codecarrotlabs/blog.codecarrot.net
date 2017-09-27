@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Next step toward the online presence
 date: 2017-09-28 01:26:00
 categories: business
