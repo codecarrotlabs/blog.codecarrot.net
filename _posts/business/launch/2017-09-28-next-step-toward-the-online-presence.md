@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Next step toward the online presence
-date: 2017-09-12 19:00:00
+date: 2017-09-28 01:26:00
 categories: business
 tags: online online-presence customers social social-media
 description: A social media profile is a quick, simple and cheap way for you to establish an online presence. This should be the first step she takes to help customers engage
