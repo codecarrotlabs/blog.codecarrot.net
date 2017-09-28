@@ -4,7 +4,7 @@ author: yashumittal
 title: 42 Timeless Ideas for Attracting More Visitors to Your Website
 date: 2017-09-28 22:41:00
 categories: business
-tags: marketing visitors ideas website
+tags: marketing visitors ideas website business
 description: The latest social media fads may come and go, but some strategies for attracting an audience online will always be in style. Here are 42 of my favorite
 image: http://blog.codecarrot.net/images/466292.jpg
 ---
