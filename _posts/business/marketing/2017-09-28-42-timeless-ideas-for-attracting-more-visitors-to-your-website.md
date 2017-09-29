@@ -33,7 +33,7 @@ Here are 42 of my favorite timeless ideas for attracting more visitors to your w
 13.	Write guest articles for other blogs. This is still one of the most effective and underused strategies for building your own audience. Just do it and stop making excuses.
 14.	Join Help a Reporter Out (HARO). Do a good job and you might just end up on the front page of Yahoo like our friend Jaime Tardy did.
 
-##Make Your Case Clear
+## Make Your Case Clear
 
 15.	When someone comes to your site, you have to answer the question they’ll be asking themselves: “why should I spend any time on this site instead of one of the dozens of other sites I already know and love?” You have to answer this question quickly, clearly and compellingly. Your Unique Selling Proposition is the key to making your case. If you don’t have a USP, it’s time to get one. Start with our guide to finding your USP.
 Keep Them Coming Back
