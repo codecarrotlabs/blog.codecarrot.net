@@ -15,6 +15,8 @@ image: http://blog.codecarrot.net/images/74739.jpg
 
 For the main favicon itself, it's best for cross-browser compatibility not to use any HTML. Just name the file favicon.ico and place it in the root of your domain.
 
+[Click here](http://eepurl.com/c5jcAz) to download the Favicon Guide file in `.Ai` format for free.
+
 This works in every desktop browser/version all the way back to IE6, except for SeaMonkey.
 
 ### Optional But Encouraged
