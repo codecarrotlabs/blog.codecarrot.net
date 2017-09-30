@@ -4,7 +4,7 @@ author: yashumittal
 title: Node.js vs. PHP - Which Environment To Choose For Your Next Project?
 date: 2017-09-27 00:59:00
 categories: code
-tags: nodejs php project project-management
+tags: nodejs php project project-management coding
 description: If you are an app owner choosing between Node.js and PHP, you should be aware of their major advantages and limitations.
 image: http://blog.codecarrot.net/images/nodejs-php2.jpg
 ---
