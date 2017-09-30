@@ -6,7 +6,7 @@ date: 2017-10-02 05:02:00
 categories: code
 tags: go coding images vector vector-images
 description: Vectors are the core mathematical tool hiding inside the ray tracing algorithm. They allow us to describe relations in 3 dimensional space. In this blog post I will describe all of the needed vector operations that will be used in GoRay.
-image: http://blog.codecarrot.net/images/
+image: http://blog.codecarrot.net/images/imgFig9.gif
 ---
 
 ## Foreword
@@ -136,12 +136,11 @@ func (a Vector) Sub(b Vector) Vector {
 
 func TestSub(t *testing.T) {
   result := Vector{3., 3., 3.}.Sub(Vector{1., 1., 1.})
-  assert.Equal(t, Vector{2., 2., 2.}, result, "should subtract correcly")
+  assert.Equal(t, Vector{2., 2., 2.}, result, "should subtract correctly")
 }
 ```
 
 ## Multiplying vector by scalar
-
 
 Multiplying by a scalar can be interpreted as scaling the vector (modifying it's length). This operation is also pretty straightforward, as we have to multiply each coefficient by the scalar:
 
@@ -170,7 +169,7 @@ func TestMultiplyByScalar(t *testing.T) {
 
 The dot product is the first operation that doesn't return a Vector. It returns a scalar value of type float64.
 
-This operation is particurarly important in the context of the ray tracing algorithm, because of it's common use in the equations.
+This operation is particularly important in the context of the ray tracing algorithm, because of it's common use in the equations.
 
 It's algebraic definition is the following:
 
@@ -187,7 +186,7 @@ The notation `||A||` means length of vector A (more on that in a sec). `θ` is t
 
 ![Dot product geometric definition](http://blog.codecarrot.net/images/geometric_dot_product_codirectional.svg)
 
-This two cases give us a way to determine if two rays are orthogonal or codirectional, which has a huge meaning when evaluating materials of objects.
+This two cases give us a way to determine if two rays are orthogonal or co-directional, which has a huge meaning when evaluating materials of objects.
 
 With the theoretical stuff out of the way, let's proceed with the implementation:
 
@@ -212,8 +211,7 @@ Pretty simple, eh?
 
 ## Length of a vector
 
-
-As stated earlier, we denote the length of a vector A like this `- ||A||`. It's algebraic definition is following: 
+As stated earlier, we denote the length of a vector A like this `- ||A||`. It's algebraic definition is following:
 
 ![Vector length algebraic definition](http://blog.codecarrot.net/images/vector_length.svg)
 
@@ -249,7 +247,7 @@ The cross product can be also used for calculating a surface normal (the surface
 
 The cross product formula is somewhat hard to remember:
 
-![Cross product formula](http://blog.codecarrot.net/images/cross_product.svg) 
+![Cross product formula](http://blog.codecarrot.net/images/cross_product.svg)
 
 The implementation looks like this:
 
@@ -272,7 +270,7 @@ func TestCrossProduct(t *testing.T) {
 
 ## Normalizing a vector
 
-Also called calculating a unit vector - versor: 
+Also called calculating a unit vector - versor:
 
 ![Vector normalization formula](http://blog.codecarrot.net/images/vector_normalization.svg)
 
