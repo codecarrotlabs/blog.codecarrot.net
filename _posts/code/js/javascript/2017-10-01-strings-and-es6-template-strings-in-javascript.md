@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title:  Strings and ES6 Template Strings
+title:  Strings and ES6 Template Strings in JavaScript
 date: 2017-10-01 13:10:00
 categories: code
 tags: coding javascript js strings template
