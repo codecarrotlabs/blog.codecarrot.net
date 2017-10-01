@@ -95,7 +95,7 @@ If you also sort of care about iOS and Android but are lazy:
 
 | Size |	Name |	Purpose |
 | ----- | ----- | ----- |
-| 152x152 |	favicon-152.png | General use iOS/Android icon, auto-downscaled by devices. |
+| 152x152 |	favicon-152.png | General use iOS/Android icon, auto-downscaled by devices |
 
 But keep in mind that icons with complex detail often don't downscale well. Often you have to tweak subtle design details for smaller sizes.
 
