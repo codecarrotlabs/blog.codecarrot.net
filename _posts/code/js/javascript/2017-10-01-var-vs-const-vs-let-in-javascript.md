@@ -13,7 +13,7 @@ Traditionally, the way variable declarations work has been that weird part of pr
 
 Variable declarations using var get treated as if they are at the top of the function (or global scope, if declared outside of a function) regardless of where the actual declaration occurs; this is called hoisting. See the example below to see what hoisting does:
 
-```
+```js
 function getValue(condition) {
   if (condition) {
     var value = "blue";
@@ -29,7 +29,7 @@ function getValue(condition) {
 
 If you are new to JavaScript, you might think that the variable value only to be created if the condition evaluates to true. In fact, this is not how JavaScript engines work behind the scenes; the variable value gets created regardless as the engine changes the `getValue` function to look something like this:
 
-```
+```js
 function getValue(condition) {
   var value;
 
@@ -55,7 +55,7 @@ Block-level declarations are the ones that declare variables that are far outsid
 
 The let declaration syntax is the same as `var`. You can replace var with let to declare a variable, this will limit the variable’s scope to only that current code block. Since let declarations are not hoisted to the top of the enclosing block, you may want always to place let declarations first in the block, so that they are available to the entire block. Here’s a quick example:
 
-```
+```js
 function getValue(condition) {
   if (condition) {
     let value = "blue";
@@ -79,7 +79,7 @@ As you can see, the getValue function with `let` behaves similar to other progra
 
 If a identifier has already been defined within the scope, then using identifier in a let declaration inside that scope throws an error. Check below:
 
-```
+```js
 var count = 30;
 // Error: `count` has already been declared.
 let count = 40;
@@ -88,12 +88,11 @@ let count = 40;
 In this example, the count is declared twice: once with var and once with let. As let will not redefine an identifier that already exists in the same scope, the let declaration will throw an error.
 On the other hand, no error shows up if the let declaration creates a new variable with the same name as a variable in its containing scope, check the code below:
 
-```
+```js
 var count = 30;
 if (condition) {
   // Does not throw an error
   let count = 40;
-
   // more code
 }
 ```
@@ -104,7 +103,7 @@ This let declaration does not throw any error as it creates a new variable calle
 
 Also, you can define variables in ES6 with the `const` declaration syntax. Variables that are declared using the const keyword are considered constants, which means that their values can’t be changed once set. Thus, each const variable must be initialized on the declaration, as shown below:
 
-```
+```js
 // Valid constant
 const maxItems = 30;
 // Syntax error: missing initialization

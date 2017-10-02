@@ -21,7 +21,7 @@ Every value has a type that determines its role. There were six basic types of v
 
 Values of the number type are, unsurprisingly those numeric values. In JavaScript, we write them like this:
 
-```
+```js
 var number = 12;
 console.log(number); //=> 12
 ```
@@ -32,7 +32,7 @@ According to the ECMAScript standard, there is only one number type: the [double
 
 In JavaScript, numbers are represented as 64-bit floating point, the same as Java’s double. There is no separate integer type, so please remember that 1 and 1.0 are the same value. A number literal can be an integer, floating point, or (integer) hexadecimal. Please note that JavaScript interprets numeric constants as hexadecimal if they are preceded by 0x.
 
-```
+```js
 let x = 3.14;     // Integer, a number with decimals
 let y = 34;       // Floating point, A number without decimals
 let z = = 0xFF;   // HexaDecimal, `z` will be 255
@@ -44,7 +44,7 @@ console.log(z);
 
 Extra large or extra small numbers can also be written with scientific (exponent) notation:
 
-```
+```js
 let a = 2.998e8;    // 2.998 × 10^8 = 299,800,000
 let b = 123e-5;   // 123 x 10^-5 = 0.00123
 // Let's print/log them
@@ -54,14 +54,14 @@ console.log(b);
 
 The main thing to do with numbers is arithmetic. Arithmetic operations such as addition or multiplication take two number values and produce a new number from them. Here is what they look like in JavaScript:
 
-```
+```js
 let c = 100 + 4 * 11;
 console.log(c); //=> 144
 ```
 
 Does that example mean “add 4 and 100, and multiply the result by 11”, or is the multiplication done before the adding? As you might have guessed, the multiplication happens first. But as in mathematics, you can change this by wrapping the addition in parentheses.
 
-```
+```js
 let d = (100 + 4) * 11;
 console.log(d); //=> 1144
 ```
@@ -86,7 +86,7 @@ NaN would stand for “not a number”. For example, when you are trying to calc
 
 **Testing against NAN:** NaN would compare unequal values (via ==, !=, ===, and !==… Don’t worry we will talk about these logical operators soon) to any other value — including to another NaN value. Use `Number.isNaN()` or `isNaN()` to explicitly determine whether value is NaN or not. You can also perform a self-comparison: NaN and only NaN will compare unequal to itself.
 
-```
+```js
 console.log(NaN === NaN);        // false
 console.log(Number.NaN === NaN); // false
 console.log(isNaN(NaN));         // true

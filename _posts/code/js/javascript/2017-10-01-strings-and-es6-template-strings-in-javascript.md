@@ -15,7 +15,7 @@ image: http://blog.codecarrot.net/images/1-3zyOAYB2AfNIC_7O7F_ZNQ.png
 
 In ECMAScript 5 and below, A string literal could only be wrapped in single quotes or double quotes. It can contain zero or more characters. The `\` (backslash) is the escape character. JavaScript was built at a time when Unicode was a 16-bit character set, so all characters in JavaScript are 16 bits wide. The escape sequences allow you to insert characters into strings that are not normally permitted, such as backslashes, quotes, and control characters.
 
-```
+```js
 let a = "I am a double quoted string";
 let b = 'I am a single quoted string'; // I like this more.
 
@@ -25,7 +25,7 @@ console.log(b); //=> I am a single quoted string
 
 **Concatenation:** Strings are immutable. Once you add them, they can never be changed. That said, it is very easy to make a new string by concatenating other strings together with the + operator.
 
-```
+```js
 let videos = 'Cat ' + 'Videos ' + 'on the web.';
 console.log(videos); //=> Cat Videos on the web.
 ```
@@ -44,7 +44,7 @@ That said, in reality, template literals are simply ECMAScript 6’s answer to t
 
 The working community of ES6 decided that instead of adding more functionality to JavaScript’s already existing strings, they will provide template literals that would represent an entirely new approach to solving these problems. In simple terms, template literals just act like those regular strings but delimited by backticks ```(`)``` instead of double or single quotes. For example, consider the following:
 
-```
+```js
 let message = `Hello world!`;
 
 console.log(message);             //=> Hello world!
@@ -54,7 +54,7 @@ console.log(message.length);      //=> 12
 
 As you can see, the above code shows how the variable message contains a normal JavaScript string. The template literal syntax is used to create the string value, which is then assigned to the message variable. If you want to use a backtick within a string, you can just escape it with a backslash `(\)`, as like below:
 
-```
+```js
 let message2 = `\`Hello\` world!`;
 console.log(message2);             // `Hello` world!
 console.log(typeof message2);      // string
@@ -67,7 +67,7 @@ console.log(message2.length);      // 14
 
 That said, JavaScript does have a workaround for creating multiline strings. You can create multiline strings by using a backslash `(\)` before a newline. Here’s an example:
 
-```
+```js
 var message3 = "Multiline \
 string";
 
@@ -76,7 +76,7 @@ console.log(message3);
 
 As you see, this string has no newlines present when printed to the console because the backslash is treated as a continuation rather than a newline. If you want to show a newline within the output, you’d need to manually include it:
 
-```
+```js
 var message4 = "Multiline \n\
 string";
 console.log(message4);
@@ -84,7 +84,7 @@ console.log(message4);
 
 Other pre-ECMAScript 6 attempts to create multiline strings usually relied on arrays or string concatenation, such as the following:
 
-```
+```js
 var message5 = [
 "Multiline ",
 "string"
@@ -99,7 +99,7 @@ In pre-ECMAScript 6 era, creating multiline strings for arrays found to be very 
 
 You would simply do something like:
 
-```
+```js
 var oldTemplate = [
 '<div class="callout">',
 '<p>Foo Bar Baz are awesome</p>',
@@ -110,7 +110,7 @@ console.log(oldTemplate);
 
 This may seem useful to you and make some sense but honestly, come ECMAScript 6, this sounds like you are just faking into the DOM. Clearly, not a great way! Here’s how you do them in ES6.
 
-```
+```js
 var newTemplate = `
 <div class="callout">
 <p>Foo Bar Baz are awesome</p>
@@ -121,7 +121,7 @@ console.log(newTemplate);
 
 **Making Substitutions:** To this point, template literals may just look like to you as fancier versions of normal JavaScript strings. But, the real difference between the two is in template literal substitutions. It allows you to embed any valid JavaScript expression inside a template literal and output the result as part of the string. Here’s how:
 
-```
+```js
 let friendsName = "Nicolas Coden"
 let friendsMessage = `My friend ${friendsName} is a genius.`;
 console.log(friendsMessage);

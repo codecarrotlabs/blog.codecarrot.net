@@ -22,7 +22,7 @@ image: http://blog.codecarrot.net/images/1-CYNSrbMqn5nsYiWo7of1og.jpeg
 There are multiple ways to define a function in JavaScript. Two we’ll explore in this article are function declarations, and function expressions
 A Function Declaration defines a named function. Think of a declaring a function as equal to declaring a variable. Instead of using `var` though, you use the `function` keyword, followed by the name of the function:
 
-```
+```js
 function name(parameters){
   statements
 }
@@ -30,7 +30,7 @@ function name(parameters){
 
 **Function Expressions** can be named functions or anonymous. An anonymous function is a function that has no name. In the example below, we are setting the return value of an anonymous function to the `name` variable.
 
-```
+```js
 let name = function(parameters){
   statements
 }
@@ -42,7 +42,7 @@ When working with functions, you may have heard the *terms parameters* and *argu
 
 When defining a function, we can pass in up to 255 parameters. Parameters input and separated by commas in the `()`. Here’s an example with three parameters:
 
-```
+```js
 function threeParams(param1, param2, param3){
   statements
 }
@@ -62,7 +62,7 @@ Functions execute when the function is called. This process is known as invocati
 
 Lets look at the example below. We have a function named `logIt`. This function requires one parameter, `name`. The function will then log that name back to the console.
 
-```
+```js
 function logIt(name){
   console.log(name);
 }
@@ -70,13 +70,13 @@ function logIt(name){
 
 To invoke our function, we call it, while passing in the singular parameter. Here I am calling this function with the name Dave:
 
-```
+```js
 logIt('Dave');
 ```
 
 A function with no parameters is simply invoked with an empty set of parenthesis:
 
-```
+```js
 function logIt2(){
   console.log('Log it 2');
 }
@@ -87,7 +87,7 @@ logIt2();
 
 Every function in JavaScript returns `undefined` unless otherwise specified. We can test this by creating and invoking an empty function:
 
-```
+```js
 function test(){};
 test();
 // undefined
@@ -97,7 +97,7 @@ As expected, we get `undefined` returned.
 
 We can use the `return` keyword to specify what we want a function to return. Look at the example below:
 
-```
+```js
 function test(){
   return true;
 };
@@ -111,7 +111,7 @@ Another important rule of the return statement is that it stops a functions exec
 
 Consider this example where we have two return statements in our test function:
 
-```
+```js
 function test(){
   return true;
   return false;
@@ -124,7 +124,7 @@ The first return statement immediately stops execution of our function and cause
 
 Something else to understand about the `return` statement is that it’s value is returned to the caller of the function. Let’s look at an example:
 
-```
+```js
 let double = function(num) {
    return num * 2;
 }
@@ -132,7 +132,7 @@ let double = function(num) {
 
 Above we have a function expression. The variable `double` is being assigned to the returned value of this anonymous function. When we invoke the function we can see this assignment in action:
 
-```
+```js
 let test = double(3);
 console.log(test);
 // 6
