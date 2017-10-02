@@ -40,7 +40,7 @@ First thing I need to do, is define how vectors will be represented in the code.
 
 So let's define a struct that will represent a 3 dimensional vector with coordinates (x, y, z):
 
-```
+```go
 go
 package core
 
@@ -63,7 +63,7 @@ Methods are plain Go functions, but they are defined with a receiver that comes 
 We can define a method on a receiver in two ways:
 
 * Pointer receiver
-```
+```go
 go
 func (a *Vector) Add(b Vector) Vector {
   a.X += b.X
@@ -73,7 +73,7 @@ func (a *Vector) Add(b Vector) Vector {
 }
 ```
 * Value receiver
-```
+```go
 go
 func (a Vector) Add(b Vector) Vector {
   a.X += b.X
@@ -100,7 +100,7 @@ Geometrically it looks like this:
 
 ![Geometric definition of adding two vectors](http://blog.codecarrot.net/images/addition1506789318.png)
 
-```
+```go
 go
 func (a Vector) Add(b Vector) Vector {
   return Vector{
@@ -124,7 +124,7 @@ Subtraction is similar to addition, with the difference that we add a negated ve
 
 Analogically to addition of two vectors, we subtract the corresponding coefficients of two vectors:
 
-```
+```go
 go
 func (a Vector) Sub(b Vector) Vector {
   return Vector{
@@ -146,7 +146,7 @@ Multiplying by a scalar can be interpreted as scaling the vector (modifying it's
 
 ![Geometric definition of scaling a vector](http://blog.codecarrot.net/images/scaling1506789318751.png)
 
-```
+```go
 go
 func (a Vector) MultiplyByScalar(s float64) Vector {
   return Vector{
@@ -190,7 +190,7 @@ This two cases give us a way to determine if two rays are orthogonal or co-direc
 
 With the theoretical stuff out of the way, let's proceed with the implementation:
 
-```
+```go
 go
 func (a Vector) Dot(b Vector) float64 {
   return a.X*b.X + a.Y*b.Y + a.Z*b.Z
@@ -219,7 +219,7 @@ As you can see, it's basically a dot product of a vector with itself, under a sq
 
 So we can use the already implemented `Dot` method, to implement this one:
 
-```
+```go
 go
 func (a Vector) Length() float64 {
   return math.Sqrt(a.Dot(a))
@@ -251,7 +251,7 @@ The cross product formula is somewhat hard to remember:
 
 The implementation looks like this:
 
-```
+```go
 go
 func (a Vector) Cross(b Vector) Vector {
   return Vector{
@@ -276,7 +276,7 @@ Also called calculating a unit vector - versor:
 
 All we have to do, is divide (multiply by 1 / x) each of the vectors components by the length of the vector:
 
-```
+```go
 go
 func (a Vector) Normalize() Vector {
   return a.MultiplyByScalar(1. / a.Length())

@@ -21,7 +21,7 @@ Go has a built-in [image](https://golang.org/pkg/image/) package, that allows to
 
 The scene will be represented by a struct. Internally it will store the width and height of the desired image, as well as a pointer to an instance of `image.RGBA`.
 
-```
+```go
 type Scene struct {
 	Width, Height int
 	Img           *image.RGBA
@@ -34,7 +34,7 @@ In order to initialize the scene, we need to initialize the `image.RGBA` with th
 
 The whole code required to initialize the scene will be done in the NewScene function. The function should accept two integers as arguments, that represent the width and height of the image:
 
-```
+```go
 func TestNewSceneReturnsANewScene(t *testing.T) {
 	scene := NewScene(4, 4)
 	rect := image.Rect(0, 0, 4, 4)
@@ -59,7 +59,7 @@ The assert library exposes some nifty helper functions, like [ObjectsAreEqualVal
 
 In order to test the following functions, I needed to write two helper functions to generate a new `image.RGBA` and fill the image with a random color:
 
-```
+```go
 func generateImage(w, h int, pixelColor color.RGBA) *image.RGBA {
 	img := image.NewRGBA(image.Rect(0, 0, 4, 4))
 	for x := 0; x < 4; x++ {
@@ -82,7 +82,7 @@ I use these helpers to generate expected `image.RGBA` objects for `ObjectsAreEqu
 
 For each pixel of the image, I want to set a specific color. This can be done simply enough by a double for loop, but we can expose a convenience function on `Scene`, called `EachPixel`. Go allows us to specify functions as arguments for other functions. We will leverage this fact by requiring a single argument in `EachPixel` — a function with the following signature `func(int, int) color.RGBA`. The two `int` values are the x and y coordinates of the image (which will be used later on for calculating a pixel in the image plane). The full implementation of the `EachPixel` function looks like this:
 
-```
+```go
 func (s *Scene) EachPixel(colorFunction func(int, int) color.RGBA) {
 	for x := 0; x < s.Width; x++ {
 		for y := 0; y < s.Height; y++ {
@@ -108,7 +108,7 @@ The `setPixel` function is just an adapter for Go’s built-in `image.RGBA.Set`.
 
 Finally I want to save the image to a PNG file. As one might suspect, Go provides such a function in the `image/png` package, called `png.Encode`. Again, I’ve built an adapter for this function, that takes a filename, under which it should save the image.
 
-```
+```go
 func (s *Scene) Save(filename string) {
 	f, err := os.Create(filename)
 
@@ -141,7 +141,7 @@ Several interesting things happen in this code:
 
 Here’s a simple main function that fills the image with values based on the current pixel:
 
-```
+```go
 package main
 
 import (
