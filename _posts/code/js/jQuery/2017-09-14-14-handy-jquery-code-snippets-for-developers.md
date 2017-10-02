@@ -15,7 +15,7 @@ I have put together a series of 14 helpful jQuery code snippets you may save and
 
 ## 1. Hover On/Off
 
-```
+```js
 $("a").hover(
   function () {
     // code on hover over
@@ -32,7 +32,7 @@ The jQuery hover method is a quick solution for handling these events. You can d
 
 ## 2. Prevent Anchor Links from Loading
 
-```
+```js
 $("a").on("click", function(e){
   e.preventDefault();
 });
@@ -44,7 +44,7 @@ When you create JavaScript applications there are plenty of times where you need
 
 ## 3. Scroll to Top
 
-```
+```js
 $("a[href='#top']").click(function() {
   $("html, body").animate({ scrollTop: 0 }, "slow");
   return false;
@@ -59,7 +59,7 @@ The code is very minimal but powerful in some layouts. You are offering a simple
 
 ## 4. Ajax Template
 
-```
+```js
 $.ajax({
   type: 'POST',
   url: 'backend.php',
@@ -80,7 +80,7 @@ Passing form data via Ajax is one of the most common uses for jQuery. As a web d
 
 ## 5. Animate Template
 
-```
+```js
 $('p').animate({
     left: '+=90px',
     top: '+=150px',
@@ -98,7 +98,7 @@ Itâ€™s a very powerful library to get into and start playing with. If you havenâ
 
 ## 6. Toggle CSS Classes
 
-```
+```js
 $('nav a').toggleClass('selected');
 ```
 
@@ -108,7 +108,7 @@ Adding and removing CSS classes on HTML elements is another fairly common action
 
 ## 7. Toggle Visibility
 
-```
+```js
 $("a.register").on("click", function(e){
   $("#signup").fadeToggle(750, "linear");
 });
@@ -120,7 +120,7 @@ Fading objects out of the document is very common with modern user interfaces. Y
 
 ## 8. Loading External Content
 
-```
+```js
 $("#content").load("somefile.html", function(response, status, xhr) {
   // error handling
   if(status == "error") {
@@ -135,7 +135,7 @@ Believe it or not you can actually pull external HTML code from a file right int
 
 ## 9. Keystroke Events
 
-```
+```js
 $('input').keydown(function(e) {
   // variable e contains keystroke data
   // only accessible with .keydown()
@@ -155,7 +155,7 @@ Dealing with user input is another grey area I have come across. The jQuery keyd
 
 ## 10. Equal Column Heights
 
-```
+```js
 var maxheight = 0;
 $("div.col").each(function(){
   if($(this).height() > maxheight) { maxheight = $(this).height(); }
@@ -170,7 +170,7 @@ This is a small jQuery snippet I ran into while surfing the web earlier in the y
 
 ## 11. Append New HTML
 
-```
+```js
 var sometext = "here is more HTML";
 $("p#text1").append(sometext); // added after
 $("p#text1").prepend(sometext); // added before
@@ -182,7 +182,7 @@ Using the `.append()` method we can quickly place any HTML code directly into th
 
 ## 12. Setting & Getting Attributes
 
-```
+```js
 var alink = $("a#user").attr("href"); // obtain href attribute value
 $("a#user").attr("href", "http://www.google.com/"); // set the href attribute to a new value
 $("a#user").attr({
@@ -197,7 +197,7 @@ This property is relatively straightforward but I always see these problems in S
 
 ## 13. Retrieve Content Values
 
-```
+```js
 $("p").click(function () {
   var htmlstring = $(this).html(); // obtain html string from paragraph
   $(this).text(htmlstring); // overwrite paragraph text with new string value
@@ -214,7 +214,7 @@ Instead of appending new HTML content into the document you may also pull out th
 
 ## 14. Traversing the DOM
 
-```
+```js
 $("div#home").prev("div"); // find the div previous in relation to the current div
 $("div#home").next("ul"); // find the next ul element after the current div
 $("div#home").parent(); // returns the parent container element of the current div

@@ -37,13 +37,13 @@ jQuery didn’t set out to extend JavaScript’s APIs in a JavaScripty way. It w
 
 If you want to hide all paragraph elements with the class of `.spoiler` call the `hide()` method.
 
-```
+```js
 $("p.spoiler").hide()
 ```
 
 But what if you want to remove elements from the DOM? That’s right, you call the `remove()` method.
 
-```
+```js
 $("div.warning").remove()
 ```
 

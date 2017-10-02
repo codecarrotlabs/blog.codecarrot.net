@@ -23,9 +23,8 @@ We’ll start with the old chesnut of programming tutorials, a “Hello, World!�
 
 Next, we’ll need to make sure our plugin file, as well as it’s jQuery core big brother, are linked in our HTML file, so place the following two lines at the bottom of your HTML document, just before the closing `</body>` tag:
 
-```
+```html
 <!-- <script src="http://blog.codecarrot.net/js/jquery-3.2.1.min.js"></script> -->
-
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/jquery.hello-world.js"></script>
 ```
@@ -34,15 +33,11 @@ Next, we’ll need to make sure our plugin file, as well as it’s jQuery core b
 
 jQuery comes with all the necessary hooks to build your plugin file easily. But we still want to be mindful of good JavaScript practices, and make sure we keep everything inside a local scope. We’ll start with the very basic shell of a traditional jQuery plugin:
 
-```
+```js
 (function($) {
-
-    $.fn.helloWorld = function() {
-
-        // Future home of "Hello, World!"
-
-    }
-
+  $.fn.helloWorld = function() {
+    // Future home of "Hello, World!"
+  }
 }(jQuery));
 ```
 
@@ -56,17 +51,13 @@ Finally, `$.fn` is jQuery’s way of allowing you to define your plugin, which w
 
 For our plugin, we’re going to do something pretty silly, but also simple enough for our demonstration purposes, and that is to change all the text for the acted upon elements with (what else?) the text “Hello, World!”.
 
-```
+```js
 (function($) {
-
-    $.fn.helloWorld = function() {
-
-        this.each( function() {
-            $(this).text("Hello, World!");
-        });
-
-    }
-
+  $.fn.helloWorld = function() {
+    this.each( function() {
+      $(this).text("Hello, World!");
+    });
+  }
 }(jQuery));
 ```
 
@@ -78,7 +69,7 @@ Suppose we wanted to change the text of all of our `<h2>` headers on the followi
 
 We would invoke the plugin as you’re already familiar, like so:
 
-```
+```html
 <script>
 $(document).ready( function() {
     $('h2').helloWorld();
@@ -92,17 +83,13 @@ To yield this:
 
 We’re not quite done yet. While our plugin technically works, it’s living in its own little isolated world. That is, if you try and chain another jQuery action onto it, nothing’s going to happen because our plugin has led to a dead end. To fix this, be sure to return the results of the plugin as it loops through the DOM elements:
 
-```
+```js
 (function($) {
-
-    $.fn.helloWorld = function() {
-
-        return this.each( function() {
-            $(this).text("Hello, World!");
-        });
-
-    }
-
+  $.fn.helloWorld = function() {
+    return this.each( function() {
+      $(this).text("Hello, World!");
+    });
+  }
 }(jQuery));
 ```
 
@@ -114,23 +101,19 @@ Now that you’re all happy that you’ve built your jQuery plugin, your boss co
 
 Well, we could start by just adding an argument. Let’s take our plugin above, and instead of hard-coding the text into the plugin, we can replace it with a variable and pass that along when we invoke the plugin.
 
-```
+```js
 (function($) {
-
-    $.fn.helloWorld = function( customText ) {
-
-        return this.each( function() {
-            $(this).text( customText );
-        });
-
-    }
-
+  $.fn.helloWorld = function( customText ) {
+    return this.each( function() {
+      $(this).text( customText );
+    });
+  }
 }(jQuery));
 ```
 
 There, now we can pass any text we’d like to our plugin. Our offices in Madrid have given us the Spanish translation we need, which we now use as the parameter of our plugin:
 
-```
+```html
 <script>
 $(document).ready( function() {
     $('h2').helloWorld('¡Hola, mundo!');
@@ -148,7 +131,7 @@ But already we’re a little nervous. What if no text was passed when we called 
 
 We already know that the specific text needs to be customizable. Now our boss is asking that the text color and font style be customizable as well. (Yes, I know these are simple options to chain onto our selector via built-in jQuery functions, but go with me here.) Let’s add an options object to our plugin, along with some sensible defaults using the `$.extend` method:
 
-```
+```js
 (function($) {
 
     $.fn.helloWorld = function( options ) {
@@ -171,7 +154,7 @@ We already know that the specific text needs to be customizable. Now our boss is
 
 Now we have a `settings` object that, when the plugin is invoked devoid of any parameters, will use what we’ve established as the default text. We also have two other properties of our `settings` object, “color” and “fontStyle”, that have no default beyond `null`. For this plugin, we don’t need to establish any color or font style beyond what is laid out in our CSS, but they’re there for the overriding if we want. We just have to make use of them:
 
-```
+```js
 return this.each( function() {
     $(this).text( settings.text );
 
@@ -189,7 +172,7 @@ Since the purpose of this plugin is to replace text, it makes sense to always re
 
 Our boss has come back and says now they’re going to translate the site into French, and beyond that they want the text to be blue and italic. Fortunately, our plugin can now handle all these requests:
 
-```
+```js
 $('h2').helloWorld({
     text        : 'Salut, le monde!',
     color       : '#005dff',
@@ -207,7 +190,7 @@ Callbacks are options to JavaScript functions that are themselves JavaScript fun
 
 All we need is to establish one more variable in our options object:
 
-```
+```js
 // Establish our default settings
 var settings = $.extend({
     text         : 'Hello, World!',
@@ -219,7 +202,7 @@ var settings = $.extend({
 
 Now we have a “complete” variable to perform an action when, well, our plugin completes its action. To invoke it, we’ll want to make sure that what we’re given is actually a function. Fortunately, jQuery helps us with this with the `$.isFunction` test:
 
-```
+```js
 return this.each( function() {
     // Our plugin so far
 
@@ -231,7 +214,7 @@ return this.each( function() {
 
 On the invocation side, our code becomes:
 
-```
+```js
 $('h2').helloWorld({
     text        : 'Salut, le monde!',
     color       : '#005dff',

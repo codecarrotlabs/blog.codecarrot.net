@@ -25,14 +25,14 @@ If you are new to HTML5, you're probably more interested in the new elements or 
 
 ## 1. HTML5 doctype.
 
-```
+```html
 <!DOCTYPE html>
 ```
 This is much shorter than previous versions of HTML, it's also case insensitive. However, it's still a good idea to type the word `DOCTYPE` in all caps to help with backward compatibility with the older browser.
 
 ## 2. Header & Footer elements
 
-```
+```html
 <header>This is a header</header>
   <p>This is a paragraph</p>
 <footer>This is a footer</footer>
@@ -42,7 +42,7 @@ Header and footer elements help in labeling the top and bottom of either the ent
 
 ## 3. Nav Element
 
-```
+```html
 <nav>
   <ul>
     <li></li>
@@ -59,7 +59,7 @@ Section element just helps us in breaking the specific sections of our website.
 
 ## 5. Address Element
 
-```
+```html
 <address>
   <a href="#">Click here</a>
 </address>

@@ -39,7 +39,7 @@ Click the link for your text editor below and follow the instructions to install
 
 Now that you’ve got the Emmet plugin installed lets take a look at the syntax that you will be using to generate elements.
 
-```
+```html
 ul>li>img+p
 ```
 
@@ -47,7 +47,7 @@ Emmet uses abbreviations to define the elements that you want to generate. The s
 
 Once you’re done writing an abbreviation, hitting the `TAB` key will trigger Emmet to parse the line and generate the requested code. The example above would generate the following code.
 
-```
+```html
 <ul>
     <li>
         <img src="" alt="">
@@ -62,13 +62,13 @@ Child >
 
 The child operator `>` is used to nest elements within each other.
 
-```
+```html
 section>div>p
 ```
 
 The example above will generate the following markup.
 
-```
+```html
 <section>
     <div>
         <p></p>
@@ -80,13 +80,13 @@ The example above will generate the following markup.
 
 The sibling operator + is used to create elements at the same level as the previous element in the abbreviation.
 
-```
+```html
 section+div+p
 ```
 
 This example generates the following HTML.
 
-```
+```html
 <section></section>
 <div></div>
 <p></p>
@@ -96,13 +96,13 @@ This example generates the following HTML.
 
 The climb-up `^` operator is used to move up one level in the tree structure. This can come in handy when you’re using the child operator >.
 
-```
+```html
 section>div>p>a^p
 ```
 
 In this abbreviation two paragraph elements will be created within the div but only the first paragraph will contain a link.
 
-```
+```html
 <section>
     <div>
         <p><a href=""></a></p>
@@ -115,13 +115,13 @@ In this abbreviation two paragraph elements will be created within the div but o
 
 The multiplication operator `*` is used to define how many occurrences of the element should be generated. The operator applies to the last element before the operator (unless you are using grouping).
 
-```
+```html
 ul>li*5
 ```
 
 This example will generate an unordered list with five list items.
 
-```
+```html
 <ul>
     <li></li>
     <li></li>
@@ -135,13 +135,13 @@ This example will generate an unordered list with five list items.
 
 You can group together sections of an abbreviation using parenthesis `()`. Grouping is useful when creating complex abbreviations.
 
-```
+```html
 ul>(li>a)*3
 ```
 
 This simple example will generate an unordered list and three list items, each of which contain a link.
 
-```
+```html
 <ul>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
@@ -151,7 +151,7 @@ This simple example will generate an unordered list and three list items, each o
 
 Lets take a look at a more complex example.
 
-```
+```html
 div>header+(article>p*3)+footer>p
 ```
 
@@ -159,7 +159,7 @@ In this abbreviation we have defined a div element that contains an header, arti
 
 This abbreviation would generate the following HTML.
 
-```
+```html
 <div>
     <header></header>
     <article>
@@ -181,13 +181,13 @@ You can also use the Emmet syntax to add attributes to your generated elements. 
 
 IDs are defined using the familiar pound-sign `#` syntax from CSS.
 
-```
+```html
 div#main
 ```
 
 This simple example will generate a `<div>` element with the ID `main`.
 
-```
+```html
 <div id="main"></div>
 ```
 
@@ -198,7 +198,7 @@ Classes are defined using the dot-syntax `.`. You can string together multiple c
 div.content.page
 This example will generate a `<div>` element with the classes `content` and `page`.
 
-```
+```html
 <div class="content page"></div>
 ```
 
@@ -206,13 +206,13 @@ This example will generate a `<div>` element with the classes `content` and `pag
 
 You can add any attribute you want by enclosing the attribute definition with box brackets `[]`.
 
-```
+```html
 a[target="_blank"]
 ```
 
 This example generates a link with the `target` attribute set to `_blank`.
 
-```
+```html
 <a href="" target="_blank"></a>
 ```
 
@@ -222,13 +222,13 @@ This example generates a link with the `target` attribute set to `_blank`.
 
 Emmet also includes a feature that allows you to automatically add numbers to your HTML. This is useful for applications like setting unique classes on list items. Just add a dollar sign `$` to your abbreviation where you want the number to appear and Emmet will take care of the rest.
 
-```
+```html
 ul>li.item$*5
 ```
 
 Here Emmet will add the current index to the classes for each of the list items.
 
-```
+```html
 <ul>
     <li class="item1"></li>
     <li class="item2"></li>
@@ -242,13 +242,13 @@ Here Emmet will add the current index to the classes for each of the list items.
 
 Using `$` alone will cause elements to be numbered in ascending order. There may however be occasions when you wish to reverse this ordering. This can be done by adding the `@-` syntax after the dollar sign `$`.
 
-```
+```html
 ul>li.item$@-*5
 ```
 
 In this example the list item classes will be numbered in descending order.
 
-```
+```html
 <ul>
     <li class="item5"></li>
     <li class="item4"></li>
@@ -268,7 +268,7 @@ p{Hello CodeCarrot!}
 
 This abbreviation will generate a simple `<p>` element with the text `Hello CodeCarrot!`.
 
-```
+```html
 <p>Hello Treehouse!</p>
 ```
 
@@ -280,7 +280,7 @@ ul>(li>a{Item $})*5
 
 This abbreviation will create five list items containing text that is numbered.
 
-```
+```html
 <ul>
     <li><a href="">Item 1</a></li>
     <li><a href="">Item 2</a></li>
@@ -300,7 +300,7 @@ html:5
 
 The example above generates a simple HTML5 compliant page template.
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>
@@ -338,11 +338,11 @@ Adding a hyphen - before the abbreviation will trigger Emmet to generate vendor 
 If your text editor supports tabstops Emmet will place multiple cursors so that you can fill out values for all of the vendor-prefixed properties simultaneously.
 
 ```
--webkit-text-shadow: hoff voff blur #000
--moz-text-shadow: hoff voff blur #000
--ms-text-shadow: hoff voff blur #000
--o-text-shadow: hoff voff blur #000
-text-shadow: hoff voff blur #000
+-webkit-text-shadow: hoff voff blur #000;
+-moz-text-shadow: hoff voff blur #000;
+-ms-text-shadow: hoff voff blur #000;
+-o-text-shadow: hoff voff blur #000;
+text-shadow: hoff voff blur #000;
 ```
 
 ## Final Thoughts
