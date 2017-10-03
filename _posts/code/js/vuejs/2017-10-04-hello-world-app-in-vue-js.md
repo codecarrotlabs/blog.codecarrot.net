@@ -5,7 +5,7 @@ title: Hello World App in Vue.js
 date: 2017-10-04 01:04:00
 categories: code
 tags: coding vue vuejs app hello-world
-description:
+description: Vue.js is a progressive framework for building user interfaces. This is lean, this is fast, and unlike frameworks like React and Angular,
 image: http://blog.codecarrot.net/images/hello_world.gif
 ---
 
