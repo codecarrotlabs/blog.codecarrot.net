@@ -4,7 +4,7 @@ author: yashumittal
 title: Why Avoid Using Free public WiFi?
 date: 2017-10-04 23:22:00
 categories: tips
-tags: tips security wifi public
+tags: tips security wifi public vlog
 description: Why Avoid Using Free public WiFi - There is a saying. If you are not paying for a product, you are the product. Free Public WiFi's are same.
 image: http://blog.codecarrot.net/images/free-wifi-sign-board.jpg
 ---
