@@ -26,7 +26,7 @@
 
         <div class="post-authors">
           {% if page.author %}
-            {% include author/{ page.author }}.html %}
+            {% include author/{{page.author}}.html %}
           {% else %}
             {% include author/codecarrot.html %}
           {% endif %}
