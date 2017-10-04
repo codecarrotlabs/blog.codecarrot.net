@@ -26,11 +26,14 @@
 
         <div class="post-authors">
           {% if page.author %}
-            {% include author/{{page.author}}.html %}
+            {% include author/{ page.author }}.html %}
           {% else %}
             {% include author/codecarrot.html %}
           {% endif %}
         </div>
+
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_inline_share_toolbox"></div>
 
         {{content}}
 
