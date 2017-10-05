@@ -3,8 +3,8 @@ layout: post
 author: yashumittal
 title: Why It’s a Learning Curve (Not a Line)
 date: 2017-10-06 00:01:00
-categories: design
-tags: web-developer design learning
+categories: tips
+tags: web-developer design learning tips
 description: Learning anything new can be exciting, but it can also be tough. It's important to remember that learning is not linear, it's called a learning curve for a reason.
 image: http://blog.codecarrot.net/images/joe-neric-223562.jpg
 ---
