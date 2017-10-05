@@ -1,11 +1,11 @@
 ---
 layout: post
 author: yashumittal
-title: Part 1 - Bootstrap 4 vs Zurb Foundation 6.4  —  The Grid
+title: Part 1 - Bootstrap 4 vs Zurb Foundation 6.4  -  The Grid
 date: 2017-10-05 15:35:00
 categories: code
 tags: code bootstrap zurb
-description: A Grid is the most important tool-set in any responsive layout of a website design.
+description: A Grid is the most important tool-set in any responsive layout of a website design. It creates a basic structure which you can use to define the layouts of the website and consists of the so called invisible lines through which your design elements can be placed.
 image: http://blog.codecarrot.net/images/1-o9BJ_DkWp-M0iaZdASQV_A.png
 ---
 
