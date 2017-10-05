@@ -6,7 +6,7 @@ date: 2017-10-06 01:22:30
 categories: code
 tags: text-editor coding terminal sublime-text sublime
 description: Glue is a plugin that provides an interface to your shell from the Sublime Text editor. It features command entry within the Sublime Text editor window, standard output display in an editor view.
-image: http://blog.codecarrot.net/images/maxresdefault(1).jpg
+image: http://blog.codecarrot.net/images/maxresdefault13fef3.jpg
 ---
 
 [Glue](http://gluedocs.readthedocs.io/en/latest/) is a plugin that provides an interface to your shell from the [Sublime Text editor](http://www.sublimetext.com/. It features command entry within the Sublime Text editor window, standard output display in an editor view, and it works with most system utilities. This includes any compiled or interpreted source that you develop which effectively allows you to create Sublime Text extensions in any programming language that your system supports.
