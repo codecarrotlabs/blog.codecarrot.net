@@ -2,9 +2,9 @@
 layout: post
 author: yashumittal
 title: Glue - A Terminal for Sublime Text
-date: 2017-09-17 17:50:30
+date: 2017-10-06 01:22:30
 categories: code
-tags: text-editor coding 
+tags: text-editor coding
 description: Glue is a plugin that provides an interface to your shell from the Sublime Text editor. It features command entry within the Sublime Text editor window, standard output display in an editor view.
 image: http://blog.codecarrot.net/images/maxresdefault(1).jpg
 ---
