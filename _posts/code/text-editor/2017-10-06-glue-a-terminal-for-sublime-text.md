@@ -188,9 +188,9 @@ You have the option to include replacement tags in your system command string th
 
 | Tag | Description |
 | ----- | ----- |
-| {{args}} | additional arguments that you include on the command line |
-| {{clipboard}} | the contents of the clipboard |
-| {{pwd}} | the working directory path |
+| \{{args}} | additional arguments that you include on the command line |
+| \{{clipboard}} | the contents of the clipboard |
+| \{{pwd}} | the working directory path |
 
 ## JavaScript Minifier Extension Example
 
