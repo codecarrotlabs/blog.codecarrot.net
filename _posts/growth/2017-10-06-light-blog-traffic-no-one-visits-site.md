@@ -57,4 +57,4 @@ You don't want your website visitors to leave your website because your website 
 
 Let's make your **website like flash** with [CodeCarrot](http://codecarrot.net/).
 
-[![make your website like flash with codecarrot](http://blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.jpg)](http://codecarrot.net/)
+[![make your website like flash with codecarrot](http://blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](http://codecarrot.net/)
