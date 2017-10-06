@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Light blog traffic? Why no one visits your site and what to do about it
 date: 2017-10-06 19:01:10
 categories: code
