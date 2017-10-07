@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What is a vlog and how can it help my business?
-date: 2017-10-06 05:27:00
+date: 2017-10-07 22:27:00
 categories: business
 tags: business video blog marketing social
 description: Businesses can benefit greatly by integrating vlogs into their digital marketing initiative. What is a vlog? Find out here and get started today.
