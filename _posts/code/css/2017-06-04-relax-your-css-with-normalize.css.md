@@ -14,6 +14,8 @@ image: http://blog.codecarrot.net/images/relax-your-css-with-normalize-css.jpg
 *  [Normalize.css project site](https://codecarrotnet.github.io/normalize.css/css/normalize.min.css)
 *  [Normalize.css source on GitHub](https://codecarrotnet.github.io/normalize.css/css/normalize.css)
 
+**Pro Tips:** Want to know some extra about [normalize.css and it usage](/applying-normalize-css-to-relax-your-css-file).
+
 ## Overview
 
 Making your CSS files relax with Normalize.css as it is an alternative to CSS resets.
