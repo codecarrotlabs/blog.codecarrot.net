@@ -15,4 +15,4 @@ CodeCarrot Blogs - Ruby on Rails, Web Development, Designing, Startups, Outsourc
 *  [YouTube](https://www.youtube.com/channel/UCjFUbHlDQK11Bt_GhFEoPcQ)
 *  [Instagram](https://www.instagram.com/codecarrot)
 
-[Click here](https://github.com/codecarrotnet/blog.codecarrot.net/blob/master/LICENSE) to read the license.
+[Click here](https://github.com/codecarrotnet/blog.codecarrot.net/blob/master/LICENSE.md) to read the license.
