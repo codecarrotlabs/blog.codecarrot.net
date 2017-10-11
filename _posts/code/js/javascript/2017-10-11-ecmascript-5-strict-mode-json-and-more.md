@@ -5,7 +5,7 @@ title: ECMAScript 5 Strict Mode, JSON, and More
 date: 2017-10-11 19:22:00
 categories: code
 tags: coding javascript js json
-description: Learn all about Functions in JavaScript — invocation, return, parameters, declarations, and expressions.
+description: ECMAScript 5’s Object and Property system is a huge new aspect of the language and deserved its special consideration.
 image: http://blog.codecarrot.net/images/strictness1.jpg
 ---
 
