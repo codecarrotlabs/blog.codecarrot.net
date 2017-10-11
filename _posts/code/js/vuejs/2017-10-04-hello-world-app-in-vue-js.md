@@ -34,7 +34,7 @@ new Vue({
 
 ## Hello World!
 
-Now, let’s insert a data key, and its value will be object. This object will then contain a title key with a value Hello World (or anything you would like)
+Now, let's insert a data key, and its value will be object. This object will then contain a title key with a value Hello World (or anything you would like)
 
 ```js
 new Vue({
