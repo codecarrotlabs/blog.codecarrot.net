@@ -3,105 +3,105 @@
 
 @media (max-width: 767px)
 
-  .nav
-    position: fixed
-    z-index: 999
-    top: 0
-    left: 0
-    width: 100%
-    background-color: #333
-    box-shadow: 0 1px 4px rgba(0,0,0,.4)
+	.nav
+		position: fixed
+		z-index: 999
+		top: 0
+		left: 0
+		width: 100%
+		background-color: #333
+		box-shadow: 0 1px 4px rgba(0,0,0,.4)
 
-    .nav-container
+		.nav-container
 
-      .mobile-nav-toggle
-        background:
-          image: url(../images/menu.svg)
-          repeat: no-repeat
-          size: cover
-          position: center center
-        width: 25px
-        height: 25px
-        cursor: pointer
-        float: right
-        margin-top: 16px
-        margin-right: 20px
+			.mobile-nav-toggle
+				background:
+					image: url(../images/menu.svg)
+					repeat: no-repeat
+					size: cover
+					position: center center
+				width: 25px
+				height: 25px
+				cursor: pointer
+				float: right
+				margin-top: 16px
+				margin-right: 20px
 
-      .nav-list
-        background-color: $white
-        width: 100%
-        box-shadow: 0 10px 20px rgba(0,0,0,.1)
-        text-align: center
-        list-style: none
-        position: relative
-        top: 19px
+			.nav-list
+				background-color: $white
+				width: 100%
+				box-shadow: 0 10px 20px rgba(0,0,0,.1)
+				text-align: center
+				list-style: none
+				position: relative
+				top: 19px
 
-        li
-          margin: 25px 12px 0 12px
+				li
+					margin: 25px 12px 0 12px
 
-          &:last-child
-            margin-bottom: 30px
+					&:last-child
+						margin-bottom: 30px
 
-      .is-close
-        display: none
+			.is-close
+				display: none
 
 @media (min-width: 768px)
 
-  .nav-list
-    margin-top: 20px
-    display: block !important
+	.nav-list
+		margin-top: 20px
+		display: block !important
 
-    li
-      display: inline-block
-      list-style: none
-      margin-left: 40px
+		li
+			display: inline-block
+			list-style: none
+			margin-left: 40px
 
-      &:last-child
-        margin-right: 20px
+			&:last-child
+				margin-right: 20px
 
-      .cta
-        color: $primary
+			.cta
+				color: $primary
 
 .nav
-  height: 60px
-  position: fixed
-  background-color: $white
-  list-style: none
-  z-index: 9999
-  width: 100%
-  top: 0
-  box-shadow: 0 0 4px rgba(0,0,0,.4)
+	height: 60px
+	position: fixed
+	background-color: $white
+	list-style: none
+	z-index: 9999
+	width: 100%
+	top: 0
+	box-shadow: 0 0 4px rgba(0,0,0,.4)
 
-  .nav-container
-    list-style: none
-    margin: 0 auto
-    max-width: 68rem
+	.nav-container
+		list-style: none
+		margin: 0 auto
+		max-width: 68rem
 
-    .codecarrot-icon
-      float: left
-      position: relative
-      top: 17px
-      margin-left: 20px
+		.codecarrot-icon
+			float: left
+			position: relative
+			top: 17px
+			margin-left: 20px
 
-      svg
-        width: 160px
+			svg
+				width: 160px
 
 .nav-list
-  float: right
+	float: right
 
-  li
+	li
 
-    a
-      color: #2e353b
-      font:
-        weight: 800
-        size: 16px
-      text-decoration: none
-      cursor: pointer
+		a
+			color: #2e353b
+			font:
+				weight: 800
+				size: 16px
+			text-decoration: none
+			cursor: pointer
 
-    .cta
-      color: $primary
-      transition: 0.3s
+		.cta
+			color: $primary
+			transition: 0.3s
 
-      &:hover
-        color: $secondary
+			&:hover
+				color: $secondary
