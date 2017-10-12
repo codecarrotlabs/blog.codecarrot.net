@@ -23,21 +23,21 @@ Here are a couple examples of creative 404 pages.
 
 Some 404 pages may not mention the number 404 at all, but rather include more user-friendly language such as:
 
-![404](dribbble_404.gif)
+![404](http://blog.codecarrot.net/images/dribbble_404.gif)
 
-![404](octupus_404.jpg)
+![404](http://blog.codecarrot.net/images/octupus_404.jpg)
 
-![404](404.png)
+![404](http://blog.codecarrot.net/images/404.png)
 
-![404](404_blog_image.png)
+![404](http://blog.codecarrot.net/images/404_blog_image.png)
 
-![404](404_dribbble.gif)
+![404](http://blog.codecarrot.net/images/404_dribbble.gif)
 
-![404](404-01.png)
+![404](http://blog.codecarrot.net/images/404-01.png)
 
-![404](404-page.gif)
+![404](http://blog.codecarrot.net/images/404-page.gif)
 
-![404](404-in-app.gif)
+![404](http://blog.codecarrot.net/images/404-in-app.gif)
 
 <blockquote>
 Page Not Found
