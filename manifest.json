@@ -1,0 +1,26 @@
+{
+  "name": "CodeCarrot Blog",
+  "short_name": "CodeCarrot Blog",
+  "icons": [
+    {
+      "src": "http://blog.codecarrot.net/images/favicon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "http://blog.codecarrot.net/images/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "http://blog.codecarrot.net/images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?homescreen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eee",
+  "theme_color": "#00d664"
+}
