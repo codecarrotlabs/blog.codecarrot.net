@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: How to sync Sublime Text packages and settings across multiple computers with cloud storage
 date: 2017-09-12 15:59:00
-categories: code
+categories: tips
 tags: text-editor coding developing programing workflow sublime sublime-text sublime-text-packages dropbox mac windows osx sync terminal package-control
 description: Are you a coder with the multiple computers to work on, here is the way you can make your workflow more easier by sharing all of your sublime packages and settings synced across multiple computer with Dropbox.
 image: http://blog.codecarrot.net/images/sync-sublime-text-on-multiple-computers-with-cloud-storage.png
