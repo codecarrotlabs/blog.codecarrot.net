@@ -31,7 +31,9 @@ Installing Rails requires several software packages. And Homebrew, the package m
 
 Copy and paste this Ruby command into your terminal, then hit the Return key to run it:
 
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 (Macs actually come with a version of Ruby pre-installed. It’s a bit outdated, but it’s recent enough to install Homebrew for us.)
 
