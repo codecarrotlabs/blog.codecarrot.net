@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Want Blog Traffic? Stop Making These Content Marketing Mistakes
-date: 2017-10-22 28:30:00
+date: 2017-10-22 23:30:00
 categories: business
 tags: marketing tips blog traffic content-marketing
 description: Content marketing can be an asset to your company or a liability. Blog traffic is a major factor in building an online business, but only if you do it well.
