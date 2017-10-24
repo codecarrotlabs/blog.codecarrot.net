@@ -21,9 +21,13 @@ When it comes to setting up a rewrite rule, it is useful to know that there is a
 
 **Status code 301 (permanent redirect)** implies that the requested resource has moved to a new location permanently, thus search engines should not take into account the references to a previous location and index a new one. Web-browsers, in turn, will store a new URL in cache, therefore, giving it priority over the initial URL.
 
+![Status code 301](http://blog.codecarrot.net/images/force_https1.png)
+
 ### Status code 302 (temporary redirect)
 
 **Status code 302 (temporary redirect)** means that the redirect has been set for a limited period of time. Search engines in this case should honor both locations as equal and the initial one would remain valid. Accordingly, browsers will not cache the new URL and the redirection will be executed every time the initial URL is requested.
+
+![Status code 302](http://blog.codecarrot.net/images/force_https2.png)
 
 **NOTE:** Enabling a 302 redirect for a long period of time can significantly decrease a website’s ranking in search results. In terms of HTTP-HTTPS redirect, all site requests are split between http://domain.com and https://domain.com, since both are indexed by search engines separately. Therefore, in most cases a 301 status code is preferable for HTTP-HTTPS redirects.
 
