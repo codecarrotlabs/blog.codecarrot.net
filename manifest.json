@@ -1,6 +1,6 @@
 {
-	"name": "CodeCarrot Blog",
-	"short_name": "CodeCarrot Blog",
+	"name": "CodeCarrot Blog - Ruby on Rails, Online Marketing, Development, Design, and more",
+	"short_name": "Codecarrot",
 	"icons": [
 		{
 			"src": "http://blog.codecarrot.net/images/favicon.png",
