@@ -172,7 +172,7 @@ SELECT *, REGEXP_REPLACE(REGEXP_EXTRACT(email, r'@(.*)'), r'.*.ibm.com', 'ibm.co
 
 ![IBM’s relative position moves significantly when you combine their regional email domains.](http://blog.codecarrot.net/images/1_sKjuzOO2OYPcKGAzq9jDYw.png)
 
-![IBM’s relative position moves significantly when you combine their regional email domains.](http://blog.codecarrot.net/images/1*ywkHH3kMMVdGhXe6LDq7IA.png)
+![IBM’s relative position moves significantly when you combine their regional email domains.](http://blog.codecarrot.net/images/1_ywkHH3kMMVdGhXe6LDq7IA.png)
 
 *IBM’s relative position moves significantly when you combine their regional email domains.*
 
