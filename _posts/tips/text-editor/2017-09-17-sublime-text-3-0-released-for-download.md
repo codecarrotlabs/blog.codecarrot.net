@@ -3,8 +3,8 @@ layout: post
 author: yashumittal
 title: Sublime text 3.0 Released for Download
 date: 2017-09-17 17:50:30
-categories: code
-tags: text-editor coding developing programing sublime sublime-text
+categories: tips
+tags: text-editor tips developing programing sublime sublime-text
 description: There is some good news for lovers of the popular code editor, Sublime Text, as it has released the new final version of Sublime
 image: http://blog.codecarrot.net/images/1582459dribbble_shot.png
 ---
