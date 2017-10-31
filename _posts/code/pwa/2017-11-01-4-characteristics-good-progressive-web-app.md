@@ -5,7 +5,7 @@ title: 4 Characteristics of a Good Progressive Web App
 date: 2017-11-01 04:39:00
 categories: code
 tags: coding pwa progressive-web-app
-description: If your users are active on mobile devices, you need to understand the value Progressive Web Apps can bring to your business.
+description: If your users are active on mobile devices, you need to understand the value Progressive Web Apps can bring to your
 image: //blog.codecarrot.net/images/pexels-photo-2.jpg
 ---
 
