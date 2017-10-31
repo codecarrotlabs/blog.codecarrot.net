@@ -25,7 +25,7 @@ One of the most common reasons for leaving an app is when a user experiences and
 
 ## You Fetch Too Much Data on Your Pages
 
-This piece advice is perfect for Single Page Applications, but might be applied to others too. When you work on a feature or a page, ask yourself what data are crucial for the user and specify less important things that can be fetched later in the background. For example, when you build a blog post page, it is the blog post’s content that is crucial here. Consequently, we can easily skip comments and load them after the initial page renders. It won’t spoil the experience and will increase the website’s loading speed.
+This piece advice is perfect for [Single Page Applications](/how-developing-spa-influenced-me-and-my-code), but might be applied to others too. When you work on a feature or a page, ask yourself what data are crucial for the user and specify less important things that can be fetched later in the background. For example, when you build a blog post page, it is the blog post’s content that is crucial here. Consequently, we can easily skip comments and load them after the initial page renders. It won’t spoil the experience and will increase the website’s loading speed.
 
 ## You Don’t Support Your Users’ Browsers
 
