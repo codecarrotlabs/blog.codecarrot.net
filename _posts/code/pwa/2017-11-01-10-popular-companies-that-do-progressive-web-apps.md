@@ -5,7 +5,7 @@ title: 10 Popular Companies that Do Progressive Web Apps
 date: 2017-11-01 19:10:00
 categories: code
 tags: coding pwa progressive-web-app
-description: 30% Speed Gain, 88% Performance Improvement, 5x Lower Data Usage and More. These Companies Have Already Noticed Benefits of PWAs.
+description: 30% Speed Gain, 88% Performance Improvement, 5x Lower Data Usage and More. These Companies Have Already
 image: //blog.codecarrot.net/images/pexels-photo-541522.jpeg
 ---
 
