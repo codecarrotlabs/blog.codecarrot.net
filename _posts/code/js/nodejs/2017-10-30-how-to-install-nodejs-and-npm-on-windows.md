@@ -6,7 +6,7 @@ date: 2017-10-30 23:52:00
 categories: code
 tags: coding npm nodejs windows
 description: JavaScript is quickly becoming the go-to language for web developers. Front-end web developers use JavaScript to add user interface enhancements, add interactivity, and talk to back-end web services using AJAX. Web developers who work on the server-side are also flocking
-image: http://blog.codecarrot.net/images/nodejs-installer-guide-on-windows.png
+image: //blog.codecarrot.net/images/nodejs-installer-guide-on-windows.png
 ---
 
 JavaScript is quickly becoming the go-to language for web developers. Front-end web developers use JavaScript to add user interface enhancements, add interactivity, and talk to back-end web services using AJAX. Web developers who work on the server-side are also flocking to JavaScript because of the efficiencies and speed offered by JavaScript’s event-driven, non-blocking nature.
