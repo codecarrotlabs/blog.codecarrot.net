@@ -6,7 +6,7 @@ date: 2017-10-04 23:22:00
 categories: tips
 tags: tips security wifi public vlog
 description: Why Avoid Using Free public WiFi - There is a saying. If you are not paying for a product, you are the product. Free Public WiFi's are same.
-image: http://blog.codecarrot.net/images/free-wifi-sign-board.jpg
+image: //blog.codecarrot.net/images/free-wifi-sign-board.jpg
 ---
 
 Free WiFi is great! Isn’t it? Umm. Not really. Many people don’t know & just don’t comprehend the meaning of free wifi. Because when you log in or sign up for a free WiFi service, you are giving up some part of your private life (In a digital sense). There is a saying “If you are not paying for a product, you are the product”. Free Public WiFi’s are same. They take something from you to give something very cheap.

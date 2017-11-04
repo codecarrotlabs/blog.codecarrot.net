@@ -6,7 +6,7 @@ date: 2017-10-11 20:20:00
 categories: tips
 tags: tips security privacy tools hackers tricks tips protect
 description: Pro advice for optimizing your website security and avoiding hacking disasters. You may not think your site has anything worth being hacked for, but websites are compromised all the time.
-image: http://blog.codecarrot.net/images/siarhei-horbach-267470.jpg
+image: //blog.codecarrot.net/images/siarhei-horbach-267470.jpg
 ---
 
 You may not think your site has anything worth being hacked for, but websites are compromised all the time. The majority of website security breaches are not to steal your data or deface your website, but instead attempts to use your server as an email relay for spam, or to setup a temporary web server, normally to serve files of an illegal nature. Other very common ways to abuse compromised machines include using your servers as part of a botnet, or to mine for Bitcoins. You could even be hit by ransomware.
