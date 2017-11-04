@@ -40,7 +40,7 @@ Think about the tasks in your life that you can delegate out. Not just simple ta
 
 ## Get buy-in from your family and friends
 
-This is especially important for Treehouse students who are also working. Working and studying is difficult, but hopefully temporary. Make sure that your family and friends understand your goals and what you are doing to achieve them. You might be surprised at how understanding they are, and how they are willing to help.
+This is especially important for people who are working and studying. Working and studying is difficult, but hopefully temporary. Make sure that your family and friends understand your goals and what you are doing to achieve them. You might be surprised at how understanding they are, and how they are willing to help.
 
 ## Reward yourself
 
