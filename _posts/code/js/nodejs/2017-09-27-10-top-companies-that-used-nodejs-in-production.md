@@ -17,7 +17,7 @@ Netflix is the world’s leading provider of streaming media and video-on-demand
 
 ## Trello
 
-Trello is a project management app that we embrace in our daily work at Netguru. The server side of Trello was built in Node.js. An event-driven, non-blocking server was a good solution for an instant propagation of updates, which required holding a lot of open connections. Node.js also became useful when the company was prototyping a tool for a single-page app. It was a quick way for them to get started and make sure that the everything was going in the right direction.
+Trello is a project management app that we embrace in our daily work at CodeCarrot. The server side of Trello was built in Node.js. An event-driven, non-blocking server was a good solution for an instant propagation of updates, which required holding a lot of open connections. Node.js also became useful when the company was prototyping a tool for a single-page app. It was a quick way for them to get started and make sure that the everything was going in the right direction.
 
 ## PayPal
 

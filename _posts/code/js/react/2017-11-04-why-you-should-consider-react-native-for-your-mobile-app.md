@@ -23,7 +23,7 @@ React Native is a framework developed by Facebook which enables building mobile 
 
 There is also a big chance that someday we will be able to target another device and reuse our codebase to create apps that will reach other platforms and even more users. It happened once with android. Initially React Native was a solution for iOS only, but now it’s also available on different operating systems, slowly expanding to VR and Universal Windows Platform.
 
-On top of that, when it’s not required to use custom modules, you will be able to deliver high quality applications for Android and iOS using a fraction of the resources it could take with the native approach. At Netguru, we recognised this opportunity to create apps concurrently for both operating systems, so we decided to see React Native in action in a few of our projects.
+On top of that, when it’s not required to use custom modules, you will be able to deliver high quality applications for Android and iOS using a fraction of the resources it could take with the native approach. At CodeCarrot, we recognised this opportunity to create apps concurrently for both operating systems, so we decided to see React Native in action in a few of our projects.
 
 So far we have built applications that were quite simple. They fetch data and show it on the screen. React Native is just perfect for such projects. Even if you want to have a real native feel on both platforms with different designs, react native is a better choice, as most of the code that will power your application is already embedded in its business logic. It doesn’t change too much between Android and iOS even though it might look way different.
 
