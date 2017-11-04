@@ -53,7 +53,7 @@ RoR is an opinionated framework with a lot of hard dependencies and modules incl
 
 **3. High cost of wrong decisions in development**
 
-Wrong architecture decisions during the initial stages of your project might cost you more in Rails than in any other framework. Since prototyping with Rails is incredibly fast, an engineering team inexperienced in Rails might make unobvious mistakes that will erode your application’s performance in the future. These structural deficiencies will be hard to fix because Rails is an open framework, where all components are tightly coupled and depend on each other. For instance, too much reliance on ActiveRecord makes an application logic tightly coupled with database models, which leads to maintainability problems in the long run. At Netguru, we have patterns that help us prevent these issues from the beginning.
+Wrong architecture decisions during the initial stages of your project might cost you more in Rails than in any other framework. Since prototyping with Rails is incredibly fast, an engineering team inexperienced in Rails might make unobvious mistakes that will erode your application’s performance in the future. These structural deficiencies will be hard to fix because Rails is an open framework, where all components are tightly coupled and depend on each other. For instance, too much reliance on ActiveRecord makes an application logic tightly coupled with database models, which leads to maintainability problems in the long run. At CodeCarrot, we have patterns that help us prevent these issues from the beginning.
 
 **Conclusion**
 
