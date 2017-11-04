@@ -17,7 +17,7 @@ I love using [sublime text](/how-to-sync-sublime-text-packages-and-settings-acro
 
 ![Atom text editor](http://blog.codecarrot.net/images/atom-mark@1200x630-914x480.png)
 
-Whether you’re learning to code with Treehouse or elsewhere, the first tool you’ll need is a code editor. Depending on a developer’s preference, you may get different recommendations. But for when you’re first getting started, there are two great options we’d recommend: **[Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/)**. Both are open source, beginner friendly and best of all they’re completely free!
+Whether you’re learning to code, the first tool you’ll need is a code editor. Depending on a developer’s preference, you may get different recommendations. But for when you’re first getting started, there are two great options we’d recommend: **[Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/)**. Both are open source, beginner friendly and best of all they’re completely free!
 
 ## Collaborate and share your code on GitHub
 
@@ -47,7 +47,7 @@ When it comes to using a vector graphics editor, Adobe Illustrator is likely the
 
 ## *(PHP Bonus Tools: PHPStorm & Composer)*
 
-For all the PHP developers out there, Treehouse PHP teacher, Alena Holligan shared her two favorite tools, “I really like the efficiency of PHPStorm and also Composer for PHP, it really changed the way that PHP is developed.”
+For all the PHP developers out there, there are two tools, that I really like the efficiency of PHPStorm and also Composer for PHP, it really changed the way that PHP is developed.
 
 ## *(Ruby Bonus Tool: Debug with Pry)*
 
