@@ -6,7 +6,7 @@ date: 2017-10-09 00:01:00
 categories: code
 tags: coding docker container
 description: Have you heard of Docker, but still don't know exactly what it is? Let's fix that. Docker is the world’s leading software container platform.
-image: http://blog.codecarrot.net/images/group_5622_0.png
+image: //blog.codecarrot.net/images/group_5622_0.png
 ---
 
 ## What is Docker?
@@ -17,7 +17,7 @@ Docker is the world’s leading software container platform. Developers use Dock
 
 Containers are a way to package software in a format that can run isolated on a shared operating system. Unlike VMs, containers do not bundle a full operating system - only libraries and settings required to make the software work are needed. This makes for efficient, lightweight, self-contained systems and guarantees that software will always run the same, regardless of where it’s deployed.
 
-Heard of [Docker](https://www.docker.com/). Right? But still don’t know exactly what it is? I’ll fix that in one sentence:
+Heard of [Docker](//www.docker.com/). Right? But still don’t know exactly what it is? I’ll fix that in one sentence:
 
 <blockquote>
 Docker lets developers bundle an app, together with services it depends on (like databases), into a runnable package called a container.
@@ -27,8 +27,8 @@ Okay, maybe it needs a little more explanation than that. Let’s say I’ve bee
 
 So I install Docker instead.
 
-* [Windows version](https://www.docker.com/docker-windows)
-* [Mac version](https://www.docker.com/docker-mac)
+* [Windows version](//www.docker.com/docker-windows)
+* [Mac version](//www.docker.com/docker-mac)
 
 Then I run this command:
 
@@ -38,7 +38,7 @@ docker run -p 8080:80 nginx
 
 I wait until I see the text `Status: Downloaded newer image for nginx:latest` in my terminal. Then I launch my browser, connect to `http://localhost:8080`, and am greeted by this response:
 
-![Open the localhost port 8000 on browser](http://blog.codecarrot.net/images/docker_nginx.png)
+![Open the localhost port 8000 on browser](//blog.codecarrot.net/images/docker_nginx.png)
 
 That’s coming from my new personal Nginx server, running on my laptop within a Docker container. If I press Ctrl-C in my terminal, the Docker container shuts down, and http://localhost:8080 no longer responds.
 
@@ -69,7 +69,7 @@ $ docker run -it ubuntu
 
 This one downloads and runs an image with a stripped-down Ubuntu Linux, then sets up an interactive terminal session on it (that’s the -it in the command). When it runs, you’ll be in an Ubuntu shell, working in a file system that’s totally separate from your actual computer’s.
 
-![An Ubuntu shell, running within Docker](http://blog.codecarrot.net/images/docker_ubuntu.png)
+![An Ubuntu shell, running within Docker](//blog.codecarrot.net/images/docker_ubuntu.png)
 
 ```
 docker run ruby ruby -e 'puts RUBY_VERSION'
@@ -81,6 +81,6 @@ This one downloads an image that includes the Ruby programming language, and run
 docker run -it patricknw/xaos
 ```
 
-This one’s just for fun. It runs XaoS, an awesome fractal viewer, which just happens to have an ASCII-art mode so it can run in your terminal. There are many key controls available, described [here](https://hub.docker.com/r/patricknw/xaos/), but the “a” key turns on autopilot for moving around, the “y” key cycles through colors, and the “q” key quits.
+This one’s just for fun. It runs XaoS, an awesome fractal viewer, which just happens to have an ASCII-art mode so it can run in your terminal. There are many key controls available, described [here](//hub.docker.com/r/patricknw/xaos/), but the “a” key turns on autopilot for moving around, the “y” key cycles through colors, and the “q” key quits.
 
-There are lots more cool images ready to go at [https://hub.docker.com/explore/](https://hub.docker.com/explore/). If there’s a software package you’ve been wanting to try, but didn’t want the hassle of installing, see if it’s listed there!
+There are lots more cool images ready to go at [https://hub.docker.com/explore/](//hub.docker.com/explore/). If there’s a software package you’ve been wanting to try, but didn’t want the hassle of installing, see if it’s listed there!

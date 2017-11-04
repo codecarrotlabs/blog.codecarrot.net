@@ -6,7 +6,7 @@ date: 2017-09-02 15:21:00
 categories: code
 tags: coding developer
 description: Being confident in coding is one of the ways to a expert developer, here are the 5 expert tips on how to improve your coding confidence.
-image: http://blog.codecarrot.net/images/mia-baker-322586.jpg
+image: //blog.codecarrot.net/images/mia-baker-322586.jpg
 ---
 
 Starting out in the professional development arena is pretty daunting. I’m self taught and I don’t have a degree. Broaching my first full time position was pretty scary. What would the interviewer think? Am I ready? The truth is I was, but I wish I knew what I knew now because I’d be more confident. Here are five tips to improve your coding confidence, whether it’s your first or fiftieth job position.
@@ -21,11 +21,11 @@ Don’t feel obligated to finishing your practice projects either if you’ve fe
 
 Now you’ve practiced, it’s time to actually use your knowledge and create a project and share it with the world.
 
-Is it a web site? Is it a mobile app? Is it a Ruby Gem? Seeing people use your code in the real world gives you more confidence. For my first project I built a [Web Application](http://mr-bucket.github.io/), not because I had any real use for it but because I saw it didn’t exist yet. I released it and didn’t expect anything of it. When I got a tweet thanking me for it and it was being used in a production site it gave me a great confidence boost.
+Is it a web site? Is it a mobile app? Is it a Ruby Gem? Seeing people use your code in the real world gives you more confidence. For my first project I built a [Web Application](//mr-bucket.github.io/), not because I had any real use for it but because I saw it didn’t exist yet. I released it and didn’t expect anything of it. When I got a tweet thanking me for it and it was being used in a production site it gave me a great confidence boost.
 
 ## 3. Contribute on Github
 
-Contributing to other Open Source projects on [Github](https://github.com/codecarrotnet) can be a great way to get additional experience and confidence. You can learn from other’s code and feedback on your commits.
+Contributing to other Open Source projects on [Github](//github.com/codecarrotnet) can be a great way to get additional experience and confidence. You can learn from other’s code and feedback on your commits.
 
 Your contributions don’t even have to be in code. You can modify a wiki or update documentation. This shows you understand the code and can articulate how to use it!
 

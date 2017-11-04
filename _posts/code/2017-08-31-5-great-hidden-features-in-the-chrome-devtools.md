@@ -6,7 +6,7 @@ date: 2017-08-31 00:00:10
 categories: code
 tags: dev devtools chrome extensions chrome-devtools
 description: The Chrome DevTools are a set of panels built into Google Chrome that help web developers inspect code. DevTools can debug HTML, CSS, JavaScript, and more.
-image: http://blog.codecarrot.net/images/5-great-hidden-features-in-the-chrome-devtools.png
+image: //blog.codecarrot.net/images/5-great-hidden-features-in-the-chrome-devtools.png
 ---
 
 The Chrome DevTools is a set of panels built into the Google Chrome browser that help web developers inspect code. You can access the DevTools using shortcut keys *(Ctrl+Shift+i* on Windows and *CMD+Option+i* on Mac) or by right clicking anywhere on a webpage and selecting **Inspect Element** from the context menu. Using these tools, you can debug CSS, profile JavaScript performance, view network activity, and so much more.
@@ -16,7 +16,7 @@ I recently released a course on Treehouse called Chrome DevTools Basics which gi
 ## 1. Force Element State
 Let’s start with an easy one that everyone can use. In the Elements panel of the Chrome DevTools, you can right click on any HTML element on the page. This will bring up a context menu with many options, one of which is a submenu labeled **Force Element State**. Inside of this submenu you’ll see that you can apply several common pseudo classes, including *:active*, *:hover*, *:focus*, and *:visited*.
 
-![Screenshot of the DevTools featuring a contextual submenu titled Force Element State](http://blog.codecarrot.net/images/chrome-devtools-force-element-state-in-windows-10.png)
+![Screenshot of the DevTools featuring a contextual submenu titled Force Element State](//blog.codecarrot.net/images/chrome-devtools-force-element-state-in-windows-10.png)
 
 This is incredibly useful if you’re trying to debug CSS or JavaScript that relies on these pseudo classes. In the case of a stylesheet, you might want to experiment with some special :hover styling applied to a button. By forcing the element state, you can simply apply some CSS directly in the Chrome DevTools instead of editing in your text editor, refreshing the browser, hovering over the button, going back to the text editor, and so on.
 
@@ -25,7 +25,7 @@ Many developers are familiar with the breakpoints that can be added to JavaScrip
 
 In the Elements panel context menu is another item labeled ***Break on…*** with several submenu items. This submenu includes the items *Subtree Modifications*, *Attributes Modifications*, and *Node Removal*.
 
-![Screenshot of the DevTools featuring a contextual submenu titled Break On](http://blog.codecarrot.net/images/chrome-devtools-breakon-in-windows-10.png)
+![Screenshot of the DevTools featuring a contextual submenu titled Break On](//blog.codecarrot.net/images/chrome-devtools-breakon-in-windows-10.png)
 
 Often JavaScript code will modify the HTML code of a page in some way, but if your page isn’t behaving the way you expect, then you might be able to debug the problem by carefully watching how elements are modified.
 
@@ -33,7 +33,7 @@ Often JavaScript code will modify the HTML code of a page in some way, but if yo
 * **Attributes Modifications** item will break if the element’s attributes change in any way.
 * **Node Removal** will break if the element is deleted entirely.
 
-If you’d like to see this in action, here’s [a demo in the Chrome DevTools documentation](https://developers.google.com/chrome-developer-tools/docs/javascript-debugging#breakpoints-mutation-events).
+If you’d like to see this in action, here’s [a demo in the Chrome DevTools documentation](//developers.google.com/chrome-developer-tools/docs/javascript-debugging#breakpoints-mutation-events).
 
 ## 3. The Console API
 
@@ -41,13 +41,13 @@ The Console is a very powerful panel in the DevTools because it allows you to ex
 
 However, `console.log()` is just one method accessible through the Chrome DevTools Console API. Another useful method is `console.count()` which can be used to count the number of times a block of code has been executed. For example, while debugging JavaScript, you might suspect that a function is being executed more times than it should. Using the `console.count()` method, you can find out for sure.
 
-There are many other useful methods, so be sure to check out the [Console API Reference](https://developers.google.com/chrome-developer-tools/docs/console-api#consolecountlabel).
+There are many other useful methods, so be sure to check out the [Console API Reference](//developers.google.com/chrome-developer-tools/docs/console-api#consolecountlabel).
 
 ## 4. The Audits Panel
 
 OK, so this one isn’t exactly hidden. However, developers spend a lot of time in the Elements panel or the Console, so it’s easy to overlook the Audits panel. This powerful tool automatically inspects several aspects of your web page’s performance and identifies areas for improvement. It’s difficult and often impossible to perfectly optimize every web page on every performance factor, but this still provides a good sanity check for areas you might have missed.
 
-![Screenshot of the DevTools featuring the Audits panel](http://blog.codecarrot.net/images/chrome-devtools-audits-in-windows-10.png)
+![Screenshot of the DevTools featuring the Audits panel](//blog.codecarrot.net/images/chrome-devtools-audits-in-windows-10.png)
 
 When you bring up the Audits panel, you can select which audits you’d like to run. You can optionally select to reload the page and run the audits at load time. After running an audit, you’ll be provided with a list of several common front-end performance best practices that can be applied to your page. Again, this isn’t a requirements list; they’re just helpful automated suggestions.
 
@@ -55,7 +55,7 @@ When you bring up the Audits panel, you can select which audits you’d like to 
 
 The Network panel in the Chrome DevTools paints a vivid picture of network activity. You can see which assets were loaded, when they were loaded, in what order they were loaded, and so on. This is represented in a colorful chart with several columns containing additional information about each asset. Some columns are enabled by default, but the majority of the available columns are hidden! You can access these columns by right clicking on any column header and, from the context menu, selecting the column you would like to enable.
 
-![Screenshot of the Chrome DevTools featuring the column header contextual menu in the Network panel](http://blog.codecarrot.net/images/chrome-devtools-network-in-windows-10.png)
+![Screenshot of the Chrome DevTools featuring the column header contextual menu in the Network panel](//blog.codecarrot.net/images/chrome-devtools-network-in-windows-10.png)
 
 Here’s a full list of the additional columns that are normally hidden:
 
