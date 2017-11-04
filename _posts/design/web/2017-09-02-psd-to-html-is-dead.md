@@ -9,7 +9,7 @@ description: There are PSD to HTML tutorials are all over the web. In fact, many
 image: //blog.codecarrot.net/images/psd-to-html-is-dead.png
 ---
 
-PSD to HTML tutorials are all over the web. In fact, many people have asked me why there’s not a PSD to HTML tutorial on Treehouse. In addition to the tutorials, there are lots of companies that will accept a PSD and convert it to a webpage for roughly $100 USD.
+PSD to HTML tutorials are all over the web. In fact, many people have asked me is it worth converting PSD to HTML. There are lots of companies that will accept a PSD and convert it to a webpage for roughly $100 USD.
 
 ![Google Search on PSD to HTML](//blog.codecarrot.net/images/google-search-on-psd2html.png)
 
