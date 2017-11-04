@@ -11,7 +11,7 @@ image: //blog.codecarrot.net/images/5-great-hidden-features-in-the-chrome-devtoo
 
 The Chrome DevTools is a set of panels built into the Google Chrome browser that help web developers inspect code. You can access the DevTools using shortcut keys *(Ctrl+Shift+i* on Windows and *CMD+Option+i* on Mac) or by right clicking anywhere on a webpage and selecting **Inspect Element** from the context menu. Using these tools, you can debug CSS, profile JavaScript performance, view network activity, and so much more.
 
-I recently released a course on Treehouse called Chrome DevTools Basics which gives a detailed overview if you want to start from the beginning. However, there’s so much functionality packed into the DevTools that it’s hard to know about everything that’s there. Here are five less obvious features of the DevTools that most developers don’t know about!
+There are many videos you can find on Internet, which gives a detailed overview if you want to start from the beginning. However, there’s so much functionality packed into the DevTools that it’s hard to know about everything that’s there. Here are five less obvious features of the DevTools that most developers don’t know about!
 
 ## 1. Force Element State
 Let’s start with an easy one that everyone can use. In the Elements panel of the Chrome DevTools, you can right click on any HTML element on the page. This will bring up a context menu with many options, one of which is a submenu labeled **Force Element State**. Inside of this submenu you’ll see that you can apply several common pseudo classes, including *:active*, *:hover*, *:focus*, and *:visited*.
