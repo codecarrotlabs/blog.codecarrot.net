@@ -6,7 +6,7 @@ date: 2017-08-28 01:00:00
 categories: design
 tags: mobile mobile-optimization website responsive
 description: It's no secret that mobile is here to stay. So here are 10 reasons your website can't afford to remain unresponsive.
-image: http://blog.codecarrot.net/images/shutterstock_268450493.jpg
+image: //blog.codecarrot.net/images/shutterstock_268450493.jpg
 ---
 
 You’ve heard it before.
@@ -51,9 +51,9 @@ Despite limited bandwidth, mobile users tend to consume a disproportionately hig
 
 Capturing this traffic requires an optimized design, harnessing the power of these media types to engage users.
 
-For example, [addthis](https://www.addthis.com) mobile-optimized share bar, his social shares immediately DOUBLED.
+For example, [addthis](//www.addthis.com) mobile-optimized share bar, his social shares immediately DOUBLED.
 
-![CodeCarrot Blog share bar](http://blog.codecarrot.net/images/screenshot_20170827-235216.png)
+![CodeCarrot Blog share bar](//blog.codecarrot.net/images/screenshot_20170827-235216.png)
 
 Imagine doubling your traffic with a few tweaks. This took literally 5 minute of Bryan’s time.
 
@@ -67,7 +67,7 @@ Smartphone users account for the lowest dollar amount per transaction. These use
 
 Tablet users, on the other hand, have the highest average transaction value of any device, including desktops.
 
-![AOV 2011 Calendar year](http://blog.codecarrot.net/images/adobe-AOV-1.jpg)
+![AOV 2011 Calendar year](//blog.codecarrot.net/images/adobe-AOV-1.jpg)
 
 ’t handle every type of screen, you are missing out on sales.
 
@@ -79,7 +79,7 @@ But did you know that what works for desktop landing pages is NOT the same as wh
 
 If your business is hoping to take advantage of the small, frequent purchasing behavior of mobile users, you’ll need to create responsive landing pages with mobile users in mind.
 
-[According to GetResponse](http://blog.getresponse.com/designing-perfect-mobile-landing-page.html), mobile landing pages should include the following:
+[According to GetResponse](//blog.getresponse.com/designing-perfect-mobile-landing-page.html), mobile landing pages should include the following:
 
 *  5-word headlines
 *  Minimalist design
@@ -94,7 +94,7 @@ As of April, however, the stakes have been raised, and mobile responsiveness is 
 
 With Google’s latest major algorithm update, the company enacted significant penalties for websites failing to meet its standards for mobile friendliness. While this change wasn’t quite the “mobile-geddon” SEO’s predicted, it did create some waves, with mobile friendly pages taking much less of a hit.
 
-![Mobile friendly gains and losses](http://blog.codecarrot.net/images/mobile-friendly-gains-and-losses.jpg)
+![Mobile friendly gains and losses](//blog.codecarrot.net/images/mobile-friendly-gains-and-losses.jpg)
 
 If you are serious about improving your organic traffic (or simply not losing it), you need to optimize your website for mobile.
 
@@ -128,7 +128,7 @@ Americans currently spend 24% of their time on mobile devices, and yet only 8% o
 
 Today is a prime time for investing in mobile advertising, but the channel won’t be underutilized for long. In the next 3 years, mobile ad spending is projected to hit $42 billion, quickly eliminating the opportunity gap and bringing up costs as the demand continues to increase.
 
-![Mobile Forecast Digital advertising revenue](http://blog.codecarrot.net/images/mobileforecast-digitaladvertisingrevenue.png)
+![Mobile Forecast Digital advertising revenue](//blog.codecarrot.net/images/mobileforecast-digitaladvertisingrevenue.png)
 
 Now is the time to invest in mobile ad spending, and you need a responsive design to accomplish this.
 
@@ -136,7 +136,7 @@ Now is the time to invest in mobile ad spending, and you need a responsive desig
 
 The first step to optimizing for mobile is implementing a responsive website design.
 
-Hire [CodeCarrot team](http://codecarrot.net) for making your website responsive.
+Hire [CodeCarrot team](//codecarrot.net) for making your website responsive.
 
 The second step is optimizing your marketing efforts for mobile within your responsive design. This involves analyzing how customers are engaging with your site and adjusting accordingly.
 
