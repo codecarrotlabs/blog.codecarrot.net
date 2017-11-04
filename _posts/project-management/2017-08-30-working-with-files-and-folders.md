@@ -113,7 +113,7 @@ If you open Notepad again (instructions above) and save a document, you’ll not
 
 `mydocument.html`
 
-Save the document and you’re done! HTML is one of the topics you can learn on Treehouse.
+Save the document and you’re done!
 
 **Mac**
 
@@ -127,4 +127,4 @@ Now when you save the document, you can change the file extension. Instead of us
 
 `mydocument.html`
 
-HTML is one of the topics you can learn on Treehouse and is foundational to building websites.
+HTML is one of the topics you can learn on [CodeCannon](//www.youtube.com/channel/UCjy4INB4SsfIA_ovKHCCYpg) and is foundational to building websites.
