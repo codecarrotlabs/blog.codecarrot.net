@@ -34,7 +34,7 @@ Here’s an explanation of chunking by Barbara Oakley: “When you are first chu
 
 **We are creatures of habit.** Routines help us to be more productive. A bedtime routine can help us fall asleep faster and sleep more restfully. In the same way having a study routine will prepare your mind to perform at its peak.
 
-**Action:** Create a [learning routine](//blog.teamtreehouse.com/finding-the-time-to-focus) that minimizes both physical and electronic distractions. This will help you get the most out of your 15-3o minutes of study.
+**Action:** Create a [learning routine](/finding-the-time-to-focus-on-your-code) that minimizes both physical and electronic distractions. This will help you get the most out of your 15-3o minutes of study.
 
 ## 4. Apply What You Learn
 
