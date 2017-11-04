@@ -4,7 +4,7 @@ author: yashumittal
 title: React Native - Pros and Cons Of Facebook’s Framework
 date: 2017-11-01 21:29:00
 categories: code
-tags: coding react facebook framework
+tags: coding react facebook framework react-native
 description: React Native - One team, one codebase and potential to scale an app for iOS and Android using a fracture of resources required in native development is a great promise. 
 image: //blog.codecarrot.net/images/pexels-photo-171947.jpeg
 ---

@@ -4,7 +4,7 @@ author: yashumittal
 title: Why You Should Consider React Native For Your Mobile App
 date: 2017-11-04 03:43:00
 categories: code
-tags: coding react facebook native-apps
+tags: coding react facebook native-apps react-native
 description: React Native creates new possibilities in building well performant iOS and Android apps, but it also has some restrictions. Our perspective on React Native based on CodeCarrot's projects.
 image: //blog.codecarrot.net/images/pexels-photo-89955.jpeg
 ---
