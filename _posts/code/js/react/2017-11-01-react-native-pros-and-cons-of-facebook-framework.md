@@ -9,7 +9,7 @@ description: React Native - One team, one codebase and potential to scale an app
 image: //blog.codecarrot.net/images/pexels-photo-171947.jpeg
 ---
 
-When we first heard about [React Native](https://www.codecarrot.net/react-native), a framework that enables building an app for multiple platforms, we were thrilled. One team, one codebase and the potential to scale an app for iOS and Android using a fracture of resources required in native development is a great promise. But how does it stack up with reality?
+When we first heard about [React Native](//www.codecarrot.net/react-native), a framework that enables building an app for multiple platforms, we were thrilled. One team, one codebase and the potential to scale an app for iOS and Android using a fracture of resources required in native development is a great promise. But how does it stack up with reality?
 
 Until a few years ago, developing an app for iOS and Android separately was a necessity if we aimed at both markets. Having two different teams generates more costs, especially when we think about constant upgrades and regular introduction of new features. A few years ago, [Facebook officially announced React Native, a powerful framework with the promise of cross-platform compatibility](/why-you-should-consider-react-native-for-your-mobile-app). RN has matured since its premiere, and we had a chance to test it in the battle. We have built a couple of apps for both commercial and internal projects, and now we can weigh up the pros and cons of React Native. Is it really worth your attention?
 
