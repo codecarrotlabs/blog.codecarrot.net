@@ -6,14 +6,14 @@ date: 2017-10-29 01:17:00
 categories: code
 tags: coding learing
 description: How can you learn to code by teaching or helping others learn? What would you conceivably add to your knowledge base and skill set by explaining something you already know how to do?
-image: http://blog.codecarrot.net/images/Screen-Shot-2017-09-06-at-23.48.24.png
+image: //blog.codecarrot.net/images/Screen-Shot-2017-09-06-at-23.48.24.png
 ---
 
-If you’re anything like I was two years ago, you just read that title and thought ”wait, what? Learn to code by teaching?” On its face, it defies logic. How can you possibly learn by teaching or helping others learn? What would you conceivably add to your knowledge base and skill set by explaining something you already know how to do? When I first started answering talking with other developers in the [Developer Community](https://developer-community.flock.com/), I did it because I wanted to give back to the Community that had helped answer my questions. I honestly never considered the possibility of learning about code by helping others learn about code. Having answered many questions from other developers, I can tell you what I’ve personally learned by helping others.
+If you’re anything like I was two years ago, you just read that title and thought ”wait, what? Learn to code by teaching?” On its face, it defies logic. How can you possibly learn by teaching or helping others learn? What would you conceivably add to your knowledge base and skill set by explaining something you already know how to do? When I first started answering talking with other developers in the [Developer Community](//developer-community.flock.com/), I did it because I wanted to give back to the Community that had helped answer my questions. I honestly never considered the possibility of learning about code by helping others learn about code. Having answered many questions from other developers, I can tell you what I’ve personally learned by helping others.
 
 ## The Cliché
 
-You’ve probably heard it said a thousand ways: “Everyone has something to teach.” Now, what if I adjusted that to read: “Everyone who has written even a small program successfully has something to teach about coding”? The statistics are on my side. According to the [2017 StackOverflow Developer Survey Results](https://insights.stackoverflow.com/survey/2017), approximately 40 million people visit them every month. An estimated 16.8 million are professional developers. If you’ve passed a few coding challenges, taken a course in some programming language, or ever torn your hair out at a compiler error and still managed to fix it, congratulations! You know more about coding than 99% of the world. You do have something to teach, even if you’re still learning.
+You’ve probably heard it said a thousand ways: “Everyone has something to teach.” Now, what if I adjusted that to read: “Everyone who has written even a small program successfully has something to teach about coding”? The statistics are on my side. According to the [2017 StackOverflow Developer Survey Results](//insights.stackoverflow.com/survey/2017), approximately 40 million people visit them every month. An estimated 16.8 million are professional developers. If you’ve passed a few coding challenges, taken a course in some programming language, or ever torn your hair out at a compiler error and still managed to fix it, congratulations! You know more about coding than 99% of the world. You do have something to teach, even if you’re still learning.
 
 ## The Hidden Error Game
 

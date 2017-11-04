@@ -6,10 +6,10 @@ date: 2017-10-06 19:01:10
 categories: code
 tags: blog traffic website-speed visitors website site seo
 description: You put so much time and energy into your blog, but what happens when no one reads it? Here's how to boost blog traffic and gain new readers.
-image: http://blog.codecarrot.net/images/man-sitting-alone-in-stadium.jpg
+image: //blog.codecarrot.net/images/man-sitting-alone-in-stadium.jpg
 ---
 
-If you have a blog website and want to light up your blog traffic, go ahead read the article but if you don't have and want to get one, [click here](http://codecarrot.net/).
+If you have a blog website and want to light up your blog traffic, go ahead read the article but if you don't have and want to get one, [click here](//codecarrot.net/).
 
 If you’ve ever clicked a link to a new website only to watch your web browser sputter and stall, you know that a slow website is a pain. In fact, when websites take a long time to load, some visitors cut and run.
 
@@ -37,9 +37,9 @@ Think of your website as a virtual welcome mat for your business.
 
 Nearly half (47 percent) of consumers expect sites to load in just a couple seconds. In fact, page abandonment increases with page load time. In other words, the slower your website is, the more likely visitors are to leave your site without exploring more content (or buying anything).
 
-![Welcome on Board mat](http://blog.codecarrot.net/images/welcome-on-board-mat.jpeg)
+![Welcome on Board mat](//blog.codecarrot.net/images/welcome-on-board-mat.jpeg)
 
-At [CodeCarrot](http://codecarrot.net/), our developers obsess over performance data so we can provide the best possible outcomes for our customers.
+At [CodeCarrot](//codecarrot.net/), our developers obsess over performance data so we can provide the best possible outcomes for our customers.
 
 **Pro tip:** Avoid creating huge pages on your website. Consider splitting your content into multiple, smaller pages if possible.
 
@@ -57,6 +57,6 @@ If you have doubts about your existing site, try out the user experience yoursel
 
 You don't want your website visitors to leave your website because your website is too slow. Why don't we make it fast for you?
 
-Let's make your **website like flash** with [CodeCarrot](http://codecarrot.net/).
+Let's make your **website like flash** with [CodeCarrot](//codecarrot.net/).
 
-[![make your website like flash with codecarrot](http://blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](http://codecarrot.net/)
+[![make your website like flash with codecarrot](//blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](//codecarrot.net/)

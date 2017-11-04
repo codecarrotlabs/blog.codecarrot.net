@@ -6,7 +6,7 @@ date: 2017-10-06 20:46:10
 categories: tips
 tags: tips ranking-factor website-speed google website site seo
 description: Search Engine Land is the leading industry source for daily, must-read news and in-depth analysis about search engine technology.
-image: http://blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.jpg
+image: //blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.jpg
 ---
 
 Site speed is now a ranking factor in Google’s algorithm, and is already in place for U.S. searchers. But Google also cautions web site owners not to sacrifice relevance in the name of faster web pages, and even says this new ranking factor will impact very few queries.
@@ -50,12 +50,12 @@ Speeding up websites is important — not just to site owners, but to all Intern
 
 If you are a site owner, webmaster or a web author, here are some free tools that you can use to evaluate the speed of your site:
 
-* [Page Speed](http://code.google.com/speed/page-speed/), an open source Firefox/Firebug add-on that evaluates the performance of web pages and gives suggestions for improvement.
-* [YSlow](http://developer.yahoo.com/yslow/), a free tool from Yahoo! that suggests ways to improve website speed.
-* [WebPagetest](http://www.webpagetest.org/) shows a waterfall view of your pages' load performance plus an optimization checklist.
-* In [Webmaster Tools](https://www.google.com/webmasters/tools), Labs > Site Performance shows the speed of your website as experienced by users around the world as in the chart below. We've also blogged about site performance.
+* [Page Speed](//code.google.com/speed/page-speed/), an open source Firefox/Firebug add-on that evaluates the performance of web pages and gives suggestions for improvement.
+* [YSlow](//developer.yahoo.com/yslow/), a free tool from Yahoo! that suggests ways to improve website speed.
+* [WebPagetest](//www.webpagetest.org/) shows a waterfall view of your pages' load performance plus an optimization checklist.
+* In [Webmaster Tools](//www.google.com/webmasters/tools), Labs > Site Performance shows the speed of your website as experienced by users around the world as in the chart below. We've also blogged about site performance.
 ![Site performance](Picture-of-graph-ferf3333C83.png)
-* Many other tools on [code.google.com/speed](http://code.google.com/speed).
+* Many other tools on [code.google.com/speed](//code.google.com/speed).
 
 <div data-type="vimeo" data-video-id="237219577"></div>
 

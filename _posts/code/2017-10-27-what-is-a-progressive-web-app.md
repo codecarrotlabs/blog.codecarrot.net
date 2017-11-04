@@ -6,7 +6,7 @@ date: 2017-10-27 01:59:00
 categories: code
 tags: coding developer progressive-web-application pwa
 description: By now, you’ve probably heard that Progressive Web Apps are the future of all mankind. They’ll bring world peace, end hunger, save the rainbows and unicorns, bring balance to the force, and a whole lot more.
-image: http://blog.codecarrot.net/images/what-is-pwa.png
+image: //blog.codecarrot.net/images/what-is-pwa.png
 ---
 
 By now, you’ve probably heard that Progressive Web Apps are the future of all mankind. They’ll bring world peace, end hunger, save the rainbows and unicorns, bring balance to the force, and a whole lot more. In the process, they might even push the mobile web forward, bring parity to web and native apps, and help mobile developers reach more users beyond the confines of the app stores.
@@ -33,9 +33,9 @@ At a high level, a Service Worker is a worker script that works behind the scene
 
 I’ve heard Service Workers described as a “proxy,” which I think describes them nicely. We can listen for events like `fetch` that happen any time a network request occurs. We can handle that event with full control, checking for cached data and returning immediately, or allowing the request to continue to the remote server. Our script acts as a proxy, or middleware, for the request.
 
-The sheer power and flexibility of Service Workers makes them very complicated, and generally, developers will want to use pre-made “recipes” for common service worker use cases, such as offline mode. Mozilla has a [great reference](https://serviceworke.rs/) for service worker recipes that demonstrate the myriad applications with reusable code. For example, here’s how to do a simple [offline mode](https://serviceworke.rs/offline-fallback_service-worker_doc.html) that intercepts `fetch` events and returns data from a cache if the network request fails. Google also has a slew of [Service Worker Samples](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker).
+The sheer power and flexibility of Service Workers makes them very complicated, and generally, developers will want to use pre-made “recipes” for common service worker use cases, such as offline mode. Mozilla has a [great reference](//serviceworke.rs/) for service worker recipes that demonstrate the myriad applications with reusable code. For example, here’s how to do a simple [offline mode](//serviceworke.rs/offline-fallback_service-worker_doc.html) that intercepts `fetch` events and returns data from a cache if the network request fails. Google also has a slew of [Service Worker Samples](//github.com/GoogleChrome/samples/tree/gh-pages/service-worker).
 
-Main takeaway: Service Workers are just a JavaScript file like any other, running in the background and triggered via events, and it’s up to you to write code to handle caching, push notifications, content fetching, etc. Since developers end up using the same “recipes” to do common tasks (like offline support), we will most likely want to use existing recipes to make our lives easier. Service Workers are available on Android with Chrome 50 and not [currently supported](http://caniuse.com/#feat=serviceworkers) by other major mobile browsers.
+Main takeaway: Service Workers are just a JavaScript file like any other, running in the background and triggered via events, and it’s up to you to write code to handle caching, push notifications, content fetching, etc. Since developers end up using the same “recipes” to do common tasks (like offline support), we will most likely want to use existing recipes to make our lives easier. Service Workers are available on Android with Chrome 50 and not [currently supported](//caniuse.com/#feat=serviceworkers) by other major mobile browsers.
 
 ## App Shell
 
@@ -51,9 +51,9 @@ As we start to add more PWA support to Ionic, you can expect an App Shell approa
 
 Historically, mobile web apps were not installed like an app to the homescreen. Sure, a user could “pin” a mobile website to their homescreen on iOS and Android, but the experience was second-rate, and the app still did not come with the local features we expect out of native apps (plus, does anyone actually do that?).
 
-This is changing. Recently, Chrome on Android added support [for installing web apps to the homescreen](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android?hl=en) with a native install banner, just like the native app banners we’re used to.
+This is changing. Recently, Chrome on Android added support [for installing web apps to the homescreen](//developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android?hl=en) with a native install banner, just like the native app banners we’re used to.
 
-To tell Chrome our mobile website is installable as an app, we write a [manifest.json](https://github.com/pivanaio/banjo/blob/master/manifest.json) file and link to it from our main HTML page (see the second link above for a full example).
+To tell Chrome our mobile website is installable as an app, we write a [manifest.json](//github.com/pivanaio/banjo/blob/master/manifest.json) file and link to it from our main HTML page (see the second link above for a full example).
 
 Currently, iOS doesn’t have any additional features here beyond Pin to Homescreen, so the experience won’t be as fluid, but here’s hoping Apple gives us some goodies this year ?.
 
