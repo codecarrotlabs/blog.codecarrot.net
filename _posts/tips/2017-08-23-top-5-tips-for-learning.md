@@ -42,7 +42,7 @@ I may attend a conference, listen to a podcast, read a book, or watch a video in
 
 **Action:** Do you have a project idea? Start building it. This is where that extra weekend time can be most useful. Deliberately practicing what you’ve learned.
 
-5. Sleep
+## 5. Sleep
 
 This might be my favorite tip. Did you know that sleep actually helps you learn new things? Remember that chunking I talked about at the beginning of this article? When you sleep, your brain is able to make connections between the new concepts you’re learning and other knowledge that has already been internalized. Sleep helps you see the big picture and come up with creative solutions. Just taking a break to let your mind wander can have some of the same benefits.
 
