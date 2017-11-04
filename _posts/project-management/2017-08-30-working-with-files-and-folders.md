@@ -6,12 +6,12 @@ date: 2017-08-30 12:40:00
 categories: project-management
 tags: files folders working tips
 description: Files and folders are a key concept in almost any career. Whether you want to create websites or iPhone apps it's important to understand files and folders.
-image: http://blog.codecarrot.net/images/sanwal-deen-93466.jpg
+image: //blog.codecarrot.net/images/sanwal-deen-93466.jpg
 ---
 
 Files and folders are a key concept in almost any career. Whether you want to create websites, make mobile apps, write music, or edit photos, it’s important to understand as much as you can about files and folders.
 
-![List of files and folder in atom text editor](http://blog.codecarrot.net/images/files-and-folders-in-atom-text-editor.png)
+![List of files and folder in atom text editor](//blog.codecarrot.net/images/files-and-folders-in-atom-text-editor.png)
 
 **Websites and mobile apps are composed of many different files. In order to create software, it’s important to understand how files and folders work.**
 
@@ -23,11 +23,11 @@ In this article, we’re going to start from the beginning and work our way up t
 
 A computer file is a piece of information that exists on some sort of storage medium, like a hard drive or an optical disc. A file can be almost anything, such as a song, a video, a picture, or a document. Modern computers typically have millions of files, so to organize them, files can be grouped into folders based on many types of categorization. For example, you might have a folder that contains all of your documents, with folders inside of it to organize the type of documents. This is how information is stored on every modern computer, so where did this idea come from?
 
-![Files and folder](http://blog.codecarrot.net/images/files-and-folders.jpg)
+![Files and folder](//blog.codecarrot.net/images/files-and-folders.jpg)
 
 Before computers, people stored almost all information on printed papers which were typically called files. The most popular way to organize paper was to use folders. Because files and folders were used in offices around the globe, people that made some of the first personal computers borrowed the idea of files and folders to make computers easier to understand. This was a smart idea at the time, but now that computers have almost completely replaced paper, this might not make sense now.
 
-![Mac trash icon](http://blog.codecarrot.net/images/mac-trash-icon.png)
+![Mac trash icon](//blog.codecarrot.net/images/mac-trash-icon.png)
 
 **The file and folder metaphor extends to many parts of Windows and Mac operating systems. For example, the Trash on Mac OS X and the Recycle Bin on Windows allows users to organize documents they want to get rid of before deleting them permanently.**
 
@@ -41,29 +41,29 @@ If you’re new to using files and folders, you’ll need to use either a Window
 
 If you’re using Windows, you can navigate the files and folders on your computer by using an app called File Explorer (previously known as Windows Explorer). If you’re using Windows 8, the easiest way to open File Explorer is to type it into the search bar. If you’re on an older version of Windows, go to the Start menu and select All Programs and then go to Accessories. Inside of the Accessories folder you’ll find Windows Explorer. Please note that this is a different app than the Internet Explorer web browser.
 
-![File Explorer in windows 8](http://blog.codecarrot.net/images/file-explorer-in-windows-8.png)
+![File Explorer in windows 8](//blog.codecarrot.net/images/file-explorer-in-windows-8.png)
 
 Once you’ve opened Explorer, you’ll notice that the left side of the window contains a list of files and folders on your computer. If you click on the triangle next to a folder, it will reveal its contents in the list, but if you click on the folder itself, you’ll see its contents in the right side of the window. To open a file, simply double click it.
 
 You can move files and folders around by clicking and dragging them to the desired location. Be very careful when moving files around, because it’s easy to misplace them! You can also reveal additional options by right-clicking on any file.
 
-[If you’d like to read more detailed instructions about File Explorer, here’s the official support article from Microsoft.](http://windows.microsoft.com/en-us/windows-8/files-folders-windows-explorer)
+[If you’d like to read more detailed instructions about File Explorer, here’s the official support article from Microsoft.](//windows.microsoft.com/en-us/windows-8/files-folders-windows-explorer)
 
 **Mac**
 
 If you’re using a Mac, you can navigate your files and folders with an app called the Finder. To open a new Finder window, click the Finder icon in the Dock, which is usually located at the bottom of your screen (if not, then it should be on the left or right sides). The Finder should always on the left most icon in the dock.
 
-![Mac finder icon](http://blog.codecarrot.net/images/mac-finder-icon.png)
+![Mac finder icon](//blog.codecarrot.net/images/mac-finder-icon.png)
 
 Once a new Finder window is open, you’ll see a list of file locations on the left side under the “Favorites” header and on the right side you’ll see a list of files. The Finder usually defaults to a list of all the files on your computer, but you can look at other files by clicking on the opens in the left panel. For example, if you select Applications you’ll see all of your installed apps. If you select Desktop, you can see everything that’s stored on your Desktop (in fact, your Desktop is just another folder on your computer).
 
-![Mac finder](http://blog.codecarrot.net/images/mac-finder.jpg)
+![Mac finder](//blog.codecarrot.net/images/mac-finder.jpg)
 
 **In Mac OS X, the Finder is the file system navigator. By contrast, there is no built-in equivalent to this on iOS devices like iPhones and iPads.**
 
 To view the contents of a folder, you can click the triangle next to the folder. You can also double click on a folder to open it and view its contents that way.
 
-[If you’d like to learn more about the Finder, here’s the official support article from Apple.](http://support.apple.com/kb/ht2470)
+[If you’d like to learn more about the Finder, here’s the official support article from Apple.](//support.apple.com/kb/ht2470)
 
 ## Creating and Editing Files
 
@@ -71,7 +71,7 @@ To view the contents of a folder, you can click the triangle next to the folder.
 
 Almost every app interacts with files in some way, but on Windows, one common way to interact with files is to use the text editor called Notepad. This app has been included with every version since Windows 95. To open Notepad on Windows 8, simply type Notepad into the search bar. In older versions of Windows, you can click the Start menu, choose All Programs, then go to Accessories. Similar to Explorer, you should find Notepad in the Accessories menu.
 
-![Windows 8 Notepad](http://blog.codecarrot.net/images/w8-notepad.png)
+![Windows 8 Notepad](//blog.codecarrot.net/images/w8-notepad.png)
 
 **On Windows, the app Notepad allows users to edit plain text documents.**
 
@@ -85,13 +85,13 @@ Alternatively, instead of opening Notepad again, you can open the File Explorer 
 
 On a Mac, there are many apps that interact with the file system, but a common method for interacting with files is to use a text editor such as TextEdit. To open TextEdit, hit the keys `Command + Spacebar` at the same time to open Spotlight search. Then type “TextEdit” and hit enter.
 
-![Text editor Sublime Text](http://blog.codecarrot.net/images/textedit-ss.png)
+![Text editor Sublime Text](//blog.codecarrot.net/images/textedit-ss.png)
 
 **On Mac OS X, the app TextEdit allows users to edit plain text documents, provided the “Make Plain Text” option is set in the Format menu.**
 
 Once TextEdit is open, click the “New Document” button in the bottom left corner of the window. Start typing some text in the blank area, then save the document by hitting the keys `Command + S` at the same time. This will open a new screen that allows you to save the document.
 
-![Save on Mac](http://blog.codecarrot.net/images/save-on-mac.png)
+![Save on Mac](//blog.codecarrot.net/images/save-on-mac.png)
 
 **In save dialog boxes on Mac OS X, you can click the triangle icon to expand the window and view more file system options.**
 
@@ -119,7 +119,7 @@ Save the document and you’re done! HTML is one of the topics you can learn on 
 
 If you open TextEdit again (instructions above) and open a document, you’ll need to convert it to plain text before saving. To convert a document to plain text in TextEdit, select Format menu and click the item that says Make Plain Text.
 
-![Make plain Text File](http://blog.codecarrot.net/images/make-plain-text.png)
+![Make plain Text File](//blog.codecarrot.net/images/make-plain-text.png)
 
 **In the app TextEdit on Mac OS X, you must select the “Make Plain Text” option from the Format menu in order to save plain text documents.**
 

@@ -6,7 +6,7 @@ date: 2017-08-24 12:00:00
 categories: project-management
 tips: skills management planning staying-focused
 description: Strategies for better time management - S.M.A.R.T. method, Pomodoro timer, Prioritizing matrix and tips for better tasks planning and staying focused.
-image: http://blog.codecarrot.net/images/calendar-app-business-time-management-workspace.jpg
+image: //blog.codecarrot.net/images/calendar-app-business-time-management-workspace.jpg
 ---
 
 We all complain about the lack of time. We don’t have enough time at work and weekends are always too short. So invest some time, read this article and learn the most crucial skills needed to manage time efficiently and have more time to do the things you love.
@@ -31,13 +31,13 @@ An example of a good S.M.A.R.T. goal: I want to run a half marathon in June 2017
 
 The most basic skill that will help you manage your time better is time tracking. **You need to carefully record and control what you do** - that’s the only way to see when you waste too much time.
 
-[Toggl](https://toggl.com/) is a very helpful app for time tracking which allows you to easily measure time spent on various tasks. You can review a weekly report, see how much time you spent on which task and analyze whether you spent too much time on something.
+[Toggl](//toggl.com/) is a very helpful app for time tracking which allows you to easily measure time spent on various tasks. You can review a weekly report, see how much time you spent on which task and analyze whether you spent too much time on something.
 
 ## 3. Prioritizing
 
 **Eat That Frog technique: do the biggest, most scary task first**. This method is designed to help with procrastination. If you start by doing million small tasks, you might end up not having time for the most important one. Imagine you have big stones and a bag of sand that you have to put inside the jar. If you put the stones first, then you can easily fill it up with sand, but if you put the sand first, there might not be enough space for the stones! To prioritize your tasks, you can use this matrix:
 
-![Prioritize Your Smart Task](http://blog.codecarrot.net/images/prioritize-your-smart-tasks.png)
+![Prioritize Your Smart Task](//blog.codecarrot.net/images/prioritize-your-smart-tasks.png)
 
 **Quadrant I** is for tasks that are urgent and important. They need to be done now.
 
@@ -51,13 +51,13 @@ The most basic skill that will help you manage your time better is time tracking
 
 When you already have specific, well-defined goals and you have decided on their priorities it’s time to create a detailed, step-by-step plan on how to execute them. Plan the week ahead. **Spend 30 minutes every Monday creating an action plan for the whole week.**
 
-Use tools, try different ones and find your favourite. Create a to-do list: use [apps](https://pl.todoist.com/) or pen and paper – striking out completed tasks will give you a great feeling of achievement. Keep a calendar: you can choose between traditional and [digital](https://www.wunderlist.com/) ones. You can try [Trello](https://trello.com/) – a great tool for creating boards, cards and lists. Remember to be realistic! First, try to estimate how much time you need for each tasks. **Don’t overplan your day**, it only helps you to get frustrated, not productive. **Plan around 80% of your day, leave 20% for unexpected situations.**
+Use tools, try different ones and find your favourite. Create a to-do list: use [apps](//pl.todoist.com/) or pen and paper – striking out completed tasks will give you a great feeling of achievement. Keep a calendar: you can choose between traditional and [digital](//www.wunderlist.com/) ones. You can try [Trello](//trello.com/) – a great tool for creating boards, cards and lists. Remember to be realistic! First, try to estimate how much time you need for each tasks. **Don’t overplan your day**, it only helps you to get frustrated, not productive. **Plan around 80% of your day, leave 20% for unexpected situations.**
 
 ## 5. Focus
 
 Even having the greatest plan won’t help you if you can’t focus on your tasks.
 
-**Pomodoro** [Timer](https://pomodoneapp.com/) is a great tool to help you keep focused on one task only. You work in 25 min intervals with 5 min breaks. During breaks, you can reply to messages, get a coffee or eat a sandwich.
+**Pomodoro** [Timer](//pomodoneapp.com/) is a great tool to help you keep focused on one task only. You work in 25 min intervals with 5 min breaks. During breaks, you can reply to messages, get a coffee or eat a sandwich.
 
 **Avoid distractions:** Book yourself some time in your calendar for important meetings or when you just need to work on something. Let everyone know that you are busy and snooze notifications.
 
