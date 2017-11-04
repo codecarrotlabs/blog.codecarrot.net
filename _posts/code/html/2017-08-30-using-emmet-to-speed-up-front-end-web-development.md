@@ -269,7 +269,7 @@ p{Hello CodeCarrot!}
 This abbreviation will generate a simple `<p>` element with the text `Hello CodeCarrot!`.
 
 ```html
-<p>Hello Treehouse!</p>
+<p>Hello CodeCarrot!</p>
 ```
 
 You can even use the numbering syntax we looked at earlier within the curly braces.
