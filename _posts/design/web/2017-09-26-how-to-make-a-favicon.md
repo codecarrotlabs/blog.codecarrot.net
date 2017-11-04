@@ -80,6 +80,6 @@ This article is just meant to be a fast and easy path to creating favicons that 
 
 [![Favico.js Website screenshot](http://blog.codecarrot.net/images/favicon-js-screenshot.png)](http://lab.ejci.net/favico.js/)
 
-Favico.js allows you to create dynamic favicons that can display numbered badges.
+`Favico.js` allows you to create dynamic favicons that can display numbered badges.
 
-You may also have a need to create dynamic favicons that can change to display a numbered badge. We do this on Treehouse to show students the number of unread notifications. This makes it easy to see your notifications even if the tab is not active. For this, I recommend you check out [favico.js](http://lab.ejci.net/favico.js/) which is available on Github. Be aware that cross-browser support isn’t very good just yet, but this can be a nice added feature for browsers that support it.
+You may also have a need to create dynamic favicons that can change to display a numbered badge. This makes it easy to see your notifications even if the tab is not active. For this, I recommend you check out [favico.js](http://lab.ejci.net/favico.js/) which is available on Github. Be aware that cross-browser support isn’t very good just yet, but this can be a nice added feature for browsers that support it.
