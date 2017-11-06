@@ -6,7 +6,7 @@ date: 2017-09-12 15:59:00
 categories: tips
 tags: text-editor coding developing programing workflow sublime sublime-text sublime-text-packages dropbox mac windows osx sync terminal package-control tips
 description: Are you a coder with the multiple computers to work on, here is the way you can make your workflow more easier by sharing all of your sublime packages and settings synced across multiple computer with Dropbox.
-image: http://blog.codecarrot.net/images/sync-sublime-text-on-multiple-computers-with-cloud-storage.png
+image: //blog.codecarrot.net/images/sync-sublime-text-on-multiple-computers-with-cloud-storage.png
 ---
 
 Are you a coder with the multiple computers to work on, here is the way you can make your workflow more easier by sharing all of your sublime packages and settings synced across multiple computer with Dropbox.
@@ -17,7 +17,7 @@ The best way for syncing Sublime Text along with your installed packages, regard
 
 There are other ways to sync your installed packages and settings across different machines without utilizing Dropbox, for example by using Git, however I have found that using other methods leads to added steps of constantly syncing files, updating repositories, and the list goes on. Dropbox sync allows for the cleanest, most “hands-off” approach.
 
-**NOTE:** If not already installed, [Download](http://www.sublimetext.com/3) a fresh copy of Sublime Text 3 to get up and running. Instructions may vary depending on your operating system.
+**NOTE:** If not already installed, [Download](//www.sublimetext.com/3) a fresh copy of Sublime Text 3 to get up and running. Instructions may vary depending on your operating system.
 
 ## Getting Started
 

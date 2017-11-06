@@ -6,7 +6,7 @@ date: 2017-09-17 17:50:30
 categories: tips
 tags: text-editor tips developing programing sublime sublime-text coding
 description: There is some good news for lovers of the popular code editor, Sublime Text, as it has released the new final version of Sublime
-image: http://blog.codecarrot.net/images/1582459dribbble_shot.png
+image: //blog.codecarrot.net/images/1582459dribbble_shot.png
 ---
 
 There is some good news for lovers of the popular code editor, Sublime Text, as it has released the new final version of Sublime Text 3.0 Build 3143, which is now available for download on Windows, Linux and MacOS. In comparison to the previous release, the program is supposed to be better in every way, which makes it easy for everyday people to work with code.
@@ -19,15 +19,15 @@ The new Sublime Text also has some interesting visual changes, which can be seen
 
 Don't forget to take a look at the new Sublime icon.
 
-![New sublime text logo](http://blog.codecarrot.net/images/sublime-text-new-logo-preview.png)
+![New sublime text logo](//blog.codecarrot.net/images/sublime-text-new-logo-preview.png)
 
 In addition, compared to the last beta, 3.0 brings a completely new UI theme, a new syntax highlighting engine, Touch Bar for MacOS, touch input for Windows.
 
 Sublime Text 3.0 also includes better spell check, more efficient automatic indentation, GoTo Definition, and better customization of the interface to high resolution screens. Further, in order to make Sublime Text 3.0 one of the best programming IDEs for both amateurs and professionals alike, a number of problems and bugs have also been fixed.
 
-You can check the complete list of changes of Sublime Text 3.0 by [clicking here](https://www.sublimetext.com/2to3).
+You can check the complete list of changes of Sublime Text 3.0 by [clicking here](//www.sublimetext.com/2to3).
 
-It is worth noting that the full version of Sublime Text 3.0 is applicable not only to new customers but also to those who have purchased a license for Sublime Text 2 from February 2013 onwards. For those who have license key for Sublime Text 1 or 2 can [purchase upgrades](https://www.sublimetext.com/upgrade).
+It is worth noting that the full version of Sublime Text 3.0 is applicable not only to new customers but also to those who have purchased a license for Sublime Text 2 from February 2013 onwards. For those who have license key for Sublime Text 1 or 2 can [purchase upgrades](//www.sublimetext.com/upgrade).
 
 ## Here is the full changelog:
 
@@ -37,15 +37,15 @@ It is worth noting that the full version of Sublime Text 3.0 is applicable not o
 * Added new color schemes Breakers, Mariana and Sixteen, derived from the excellent work of Chris Kempson and Dmitri Voronianski
 * Added color scheme and theme switchers with live preview via the command palette
 * Windows: Added touch input
-* Linux: Added [repositories](https://www.sublimetext.com/docs/3/linux_repositories.html) for apt, yum and pacman
+* Linux: Added [repositories](//www.sublimetext.com/docs/3/linux_repositories.html) for apt, yum and pacman
 * Mac: Added Touch Bar support
 * Mac: Support for custom color window title bars on OS X 10.10+
-* Many additions and bug fixes to the theme engine, plus [full documentation](https://www.sublimetext.com/docs/3/themes.html)
-* Significant improvements to Markdown syntax highlighting, with thanks to [keith-hall](https://github.com/keith-hall)
-* Significant improvements to C# syntax highlighting, with thanks to [gwenzek](https://github.com/gwenzek)
-* Significant improvements to Java syntax highlighting, with thanks to [djspiewak](https://github.com/djspiewak)
-* Significant improvements to Python syntax highlighting, with thanks to [FichteFoll](https://github.com/FichteFoll)
-* Significant improvements for R syntax highlighting, with thanks to [randy3k](https://github.com/randy3k)
+* Many additions and bug fixes to the theme engine, plus [full documentation](//www.sublimetext.com/docs/3/themes.html)
+* Significant improvements to Markdown syntax highlighting, with thanks to [keith-hall](//github.com/keith-hall)
+* Significant improvements to C# syntax highlighting, with thanks to [gwenzek](//github.com/gwenzek)
+* Significant improvements to Java syntax highlighting, with thanks to [djspiewak](//github.com/djspiewak)
+* Significant improvements to Python syntax highlighting, with thanks to [FichteFoll](//github.com/FichteFoll)
+* Significant improvements for R syntax highlighting, with thanks to [randy3k](//github.com/randy3k)
 * Markdown: Improved symbol handling
 * C#: Improved symbol handling
 * Many other syntax highlighting improvements

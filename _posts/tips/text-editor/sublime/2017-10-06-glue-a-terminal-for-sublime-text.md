@@ -6,10 +6,10 @@ date: 2017-10-06 01:22:30
 categories: tips
 tags: text-editor coding terminal sublime-text sublime tips
 description: Glue is a plugin that provides an interface to your shell from the Sublime Text editor. It features command entry within the Sublime Text editor window, standard output display in an editor view.
-image: http://blog.codecarrot.net/images/maxresdefault13fef3.jpg
+image: //blog.codecarrot.net/images/maxresdefault13fef3.jpg
 ---
 
-[Glue](http://gluedocs.readthedocs.io/en/latest/) is a plugin that provides an interface to your shell from the [Sublime Text editor](http://www.sublimetext.com/. It features command entry within the Sublime Text editor window, standard output display in an editor view, and it works with most system utilities. This includes any compiled or interpreted source that you develop which effectively allows you to create Sublime Text extensions in any programming language that your system supports.
+[Glue](//gluedocs.readthedocs.io/en/latest/) is a plugin that provides an interface to your shell from the [Sublime Text editor](//www.sublimetext.com/. It features command entry within the Sublime Text editor window, standard output display in an editor view, and it works with most system utilities. This includes any compiled or interpreted source that you develop which effectively allows you to create Sublime Text extensions in any programming language that your system supports.
 
 Here’s how you get started with it.
 
@@ -21,7 +21,7 @@ Glue works in Sublime Text versions 2 and 3 and these install instructions apply
 
 ### Install with Package Control
 
-If you are using [Package Control](https://packagecontrol.io/, the install is simple. Open the Command Palette in your Sublime Text editor with the menus `Tools > Command Palette` and then type install in the text entry field. Select the option `Package Control - Install Package`. Next, type ‘glue’ in the text input box and select the ‘Glue’ plugin option that is displayed in the Command Palette. The install automatically takes place. You will see a confirmation in the status bar at the bottom of the editor window.
+If you are using [Package Control](//packagecontrol.io/, the install is simple. Open the Command Palette in your Sublime Text editor with the menus `Tools > Command Palette` and then type install in the text entry field. Select the option `Package Control - Install Package`. Next, type ‘glue’ in the text input box and select the ‘Glue’ plugin option that is displayed in the Command Palette. The install automatically takes place. You will see a confirmation in the status bar at the bottom of the editor window.
 
 ### Install with Git
 
@@ -94,7 +94,7 @@ Glue works with many of your favorite system utilities and allows you to extend 
 $ grep "def" *.py
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with grep](http://blog.codecarrot.net/images/grep-examplebQ52OZGjH.png)
+![Screenshot of the terminal opening in sublime text using glue with grep](//blog.codecarrot.net/images/grep-examplebQ52OZGjH.png)
 
 ### Glue + git
 
@@ -104,15 +104,15 @@ $ git add .
 $ git commit -m "'initial commit'"
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with git](http://blog.codecarrot.net/images/git-example45yHF45.png)
+![Screenshot of the terminal opening in sublime text using glue with git](//blog.codecarrot.net/images/git-example45yHF45.png)
 
 ### Glue + cURL
 
 ```
-$ curl -sS https://raw.githubusercontent.com/chrissimpkins/naked/master/lib/Naked/app.py
+$ curl -sS //raw.githubusercontent.com/chrissimpkins/naked/master/lib/Naked/app.py
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with curl](http://blog.codecarrot.net/images/curl-example43fFERY45.png)
+![Screenshot of the terminal opening in sublime text using glue with curl](//blog.codecarrot.net/images/curl-example43fFERY45.png)
 
 ### Glue + Your Own Scripts
 
@@ -123,7 +123,7 @@ $ ruby test.rb
 $ ./test.sh
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with your own scrips](http://blog.codecarrot.net/images/scripting-language-example34GFDretr334.png)
+![Screenshot of the terminal opening in sublime text using glue with your own scrips](//blog.codecarrot.net/images/scripting-language-example34GFDretr334.png)
 
 ***
 
@@ -196,7 +196,7 @@ You have the option to include replacement tags in your system command string th
 
 Here is an example that will take you through each of these steps to create a command that will minify and obfuscate a JavaScript file, and then save it in the same directory with the new path `<filename>-min.js`:
 
-If you are following along, you can download YUICompressor from [the GitHub repository](https://github.com/yui/yuicompressor). You will need to have Java version 1.4+ installed to use it. Unpack the repository and move the yuicompressor-2.4.8.jar file to a directory for safe keeping (you will run it from this directory).
+If you are following along, you can download YUICompressor from [the GitHub repository](//github.com/yui/yuicompressor). You will need to have Java version 1.4+ installed to use it. Unpack the repository and move the yuicompressor-2.4.8.jar file to a directory for safe keeping (you will run it from this directory).
 
 Next, create a shell script named minijs.sh. Include the following script and modify the YUI_PATH variable with the actual path to your YUICompressor jar file:
 
@@ -250,8 +250,8 @@ You can use the same technique with any compiled application or interpreted scri
 
 ## Learn More
 
-The Glue documentation is available [here](http://gluedocs.readthedocs.org/).
+The Glue documentation is available [here](//gluedocs.readthedocs.org/).
 
 ## Issue Reporting
 
-If you come across a bug in the plugin, please report it on [the GitHub repository](https://github.com/chrissimpkins/glue/issues).
+If you come across a bug in the plugin, please report it on [the GitHub repository](//github.com/chrissimpkins/glue/issues).
