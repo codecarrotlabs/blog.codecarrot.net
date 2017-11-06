@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Getting React and ES6 Syntax Highlighting in Sublime Text
-date: 2017-11-06 23:30:00
+date: 2017-11-07 23:30:00
 categories: tips
 tags: sublime-text text-editor tips react es6 react-native
 description: Lately I've been writing a lot of React in Sublime and one of the most difficult aspects to deal with has been the improper syntax highlighting.
