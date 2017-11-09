@@ -5,12 +5,12 @@ title: All new fascinating design for our blogging website
 date: 2017-08-25 12:00:00
 categories: update
 description: Giving a mask to our blog website with a new design. We started our blog in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe.
-image: http://blog.codecarrot.net/images/new-codecarrot-blog-look.png
+image: //blog.codecarrot.net/images/new-codecarrot-blog-look.png
 ---
 
 We started our [first blog](/welcome-to-codecarrot-environment/) in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe we thought of redesigning the blog website with a new face.
 
-[Click here](https://www.behance.net/gallery/56071769/CodeCarrot-Blog) to see the new design.
+[Click here](//www.behance.net/gallery/56071769/CodeCarrot-Blog) to see the new design.
 
 ## P.S. Can we send you an email?
 

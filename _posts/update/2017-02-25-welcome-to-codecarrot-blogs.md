@@ -5,7 +5,7 @@ title: Welcome to CodeCarrot Blogs
 date: 2017-02-25 12:00:00
 categories: update
 description: We are very excited to announce the launch of CodeCarrot blog, an Agile team with excellent track record & great communication skills. We love Web and mobile application development.
-image: http://blog.codecarrot.net/images/welcome-to-codecarrot-blogs.png
+image: //blog.codecarrot.net/images/welcome-to-codecarrot-blogs.png
 ---
 
 We are very excited to announce the launch of **[CodeCarrot blog](/blog.codecarrot.net)**, an Agile team with excellent track record & great communication skills. We love Web and mobile application development! Ping us!

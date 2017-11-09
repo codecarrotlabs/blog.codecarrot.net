@@ -5,7 +5,7 @@ title: Introducing CodeCarrot Profiles - A Whole New Way To Connect With People
 date: 2017-06-24 12:00:00
 categories: update
 description: We're reinventing the business card with CodeCarrot Profiles. Now each one to whom you share your profile will have everything they need to know about you, all in one place.
-image: http://blog.codecarrot.net/images/introducing-codecarrot-profiles.png
+image: //blog.codecarrot.net/images/introducing-codecarrot-profiles.png
 ---
 
 We're reinventing the business card with CodeCarrot Profiles. Now each one to whom you share your profile will have everything they need to know about you, all in one place.
@@ -16,11 +16,11 @@ Whoever gets closest to the people wins.
 
 The longer is the means of communication, more you are pushing people further away from you.
 
-![Best Communcation Model](http://blog.codecarrot.net/images/best-communcation-model.jpg)
+![Best Communcation Model](//blog.codecarrot.net/images/best-communcation-model.jpg)
 
-Our mission here at [CodeCarrot](http://www.codecarrot.net/) is to help business to give them an online presence to increase the reach for their business.
+Our mission here at [CodeCarrot](//www.codecarrot.net/) is to help business to give them an online presence to increase the reach for their business.
 
-And today, we're launching another tool that you use to connect with people in a modren and personal way: [CodeCarrot Profiles](http://www.codecarrot.net/profiles).
+And today, we're launching another tool that you use to connect with people in a modren and personal way: [CodeCarrot Profiles](//www.codecarrot.net/profiles).
 
 ## Introducing CodeCarrot Profiles: Your Digital Business Card
 
@@ -28,11 +28,11 @@ People expect a direct line with their friend, family while connecting. They don
 
 And now with CodeCarrot Profiles, people will always be able to connect with you directly and personally.
 
-A [CodeCarrot Profile](http://www.codecarrot.net/profiles) is like a digital business card.
+A [CodeCarrot Profile](//www.codecarrot.net/profiles) is like a digital business card.
 
 Let’s take mine profile for example:
 
-![Yashu Mittal - CodeCarrot Profiles](http://blog.codecarrot.net/images/yashu-mittal-codecarrot-profile.png)
+![Yashu Mittal - CodeCarrot Profiles](//blog.codecarrot.net/images/yashu-mittal-codecarrot-profile.png)
 
 I am the Founder and CEO of CodeCarrot Company
 
