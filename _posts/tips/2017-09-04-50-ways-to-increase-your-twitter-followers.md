@@ -5,7 +5,7 @@ title: 50 Ways To Increase Your Twitter Followers
 date: 2017-09-04 23:35:10
 categories: tips
 description: Twitter is a powerful tool to promote their businesses. Here are 50 ways to increase your twitter followers and take advantage of the many benefits of Twitter.
-image: http://blog.codecarrot.net/images/lots-of-twitter-logo-in-the-image.png
+image: //blog.codecarrot.net/images/lots-of-twitter-logo-in-the-image.png
 ---
 
 Twitter is a powerful tool for businesses when used correctly. It can help you generate leads, solidify your branding, and build connections with your prospects. The trouble is, if you have no followers, you can’t experience all these benefits.
@@ -23,9 +23,9 @@ Twitter has a great paid ads option which is very effective for acquiring follow
 
 1. Follow more people. Research shows a correlation between the number of people followed and the number of followers.
 
-2. Use a tool like [Hootsuite](http://www.hootsuite.com/) or [SproutSocial](http://sproutsocial.com/) to schedule your tweets. Posting regularly will increase your engagement and visibility, thereby increasing your follower count.
+2. Use a tool like [Hootsuite](//www.hootsuite.com/) or [SproutSocial](//sproutsocial.com/) to schedule your tweets. Posting regularly will increase your engagement and visibility, thereby increasing your follower count.
 
-3. Use [Twiends](http://twiends.com/) to find new Twitter users you can connect with. Once you’re listed on the platform, other users with similar interests will also be able to find and follow you.
+3. Use [Twiends](//twiends.com/) to find new Twitter users you can connect with. Once you’re listed on the platform, other users with similar interests will also be able to find and follow you.
 
 4. Optimize your Twitter bio. Users who want to find out more about you will inevitably visit your Twitter bio. Make sure it’s professional, complete and that it does a great job of representing you and your business.
 
@@ -45,27 +45,27 @@ Twitter has a great paid ads option which is very effective for acquiring follow
 
 12. Use a headshot in your profile picture, not your logo. Nobody wants to follow a faceless brand. Show there’s a real person behind your brand by using a personal photo.
 
-13. Use the [Tweet This](https://wordpress.org/plugins/tweetthis/) WordPress plugin to embed content boxes on your website or blog. These are great for getting your site visitors to tweet your content, expanding your reach and attracting new followers.
+13. Use the [Tweet This](//wordpress.org/plugins/tweetthis/) WordPress plugin to embed content boxes on your website or blog. These are great for getting your site visitors to tweet your content, expanding your reach and attracting new followers.
 
 14. Promote your Twitter account on your other social media accounts. For best results, entice people by mentioning interesting discussions you’re engaged with on Twitter.
 
 15. Tweet on the weekends. Dan Zarrella’s research indicates brands get 17% more engagement on the weekends than during the week.
 
-16. Reference users in your tweets. When replying to or mentioning other users, be sure [@mention](https://twitter.com/mittalyashu77) them. People are much more likely to engage with your tweets when they’re mentioned by name.
+16. Reference users in your tweets. When replying to or mentioning other users, be sure [@mention](//twitter.com/mittalyashu77) them. People are much more likely to engage with your tweets when they’re mentioned by name.
 
-17. Use a [follow button](https://about.twitter.com/resources/buttons) on your website or blog. Why not make it as easy as possible for your website visitors to find you?
+17. Use a [follow button](//about.twitter.com/resources/buttons) on your website or blog. Why not make it as easy as possible for your website visitors to find you?
 
 18. Tweet motivational or inspirational quotes. These are great for getting retweets.
 
 19. Respond publically when your response would be useful to others. Instead of direct messaging responses to public questions, share your knowledge publically, @mentioning the person who asked.
 
-20. Include a link to your [@username](https://twitter.com/mittalyashu77) in the author bio of your guest posts.
+20. Include a link to your [@username](//twitter.com/mittalyashu77) in the author bio of your guest posts.
 
-21. Listen in on relevant conversations: Using a tool like [Social Mention](http://www.socialmention.com/), find out what other Twitter users are saying about your brand, products or industry. Respond or answer questions where appropriate.
+21. Listen in on relevant conversations: Using a tool like [Social Mention](//www.socialmention.com/), find out what other Twitter users are saying about your brand, products or industry. Respond or answer questions where appropriate.
 
 22. @mention influential users when relevant. This may help catch their attention, leading them to follow you or even retweet your content. Here are some other strategies for getting influencers to follow you on Twitter.
 
-23. [Embed tweets in your website content](https://support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog). Display particularly interesting or popular tweets in a blog post to entice your website visitors to follow you on Twitter.
+23. [Embed tweets in your website content](//support.twitter.com/articles/20169559-embedding-a-tweet-on-your-website-or-blog). Display particularly interesting or popular tweets in a blog post to entice your website visitors to follow you on Twitter.
 
 24. Participate in Twitter chats. Chats are a great way to engage with your customers and prospects on a deeper level. Follow those you meet in the chat, and they’re likely to follow you back.
 
@@ -93,7 +93,7 @@ Twitter has a great paid ads option which is very effective for acquiring follow
 
 36. Post engaging, informative content. This should go without saying, but I’ll say it anyway. Posting what you had for lunch, or your opinions about world politics, or random thoughts about life are fine, but without a solid base of valuable, relevant content, your follower count will never increase.
 
-37. Utilize social proof by embedding a [follow button](https://support.twitter.com/articles/20164833-adding-a-follow-button-to-your-website) with a counter on your website or blog.
+37. Utilize social proof by embedding a [follow button](//support.twitter.com/articles/20164833-adding-a-follow-button-to-your-website) with a counter on your website or blog.
 
 38. Tweet often, but not in bursts. A Korean research study showed that a common reason why people unfollow is due to too many tweets in a short period of time.
 
@@ -107,16 +107,16 @@ Twitter has a great paid ads option which is very effective for acquiring follow
 
 43. Regularly offer your followers exclusive coupons. 94% of Twitter users follow brands for the discounts and promos.
 
-44. Don’t buy fake followers! While it may be tempting to boost your numbers by paying for fake followers, these followers will never add any value to your business. Not only that, but engaging in this process [may lead to your account being suspended](https://support.twitter.com/groups/56-policies-violations/topics/237-guidelines/articles/20171936-free-followers-apps).
+44. Don’t buy fake followers! While it may be tempting to boost your numbers by paying for fake followers, these followers will never add any value to your business. Not only that, but engaging in this process [may lead to your account being suspended](//support.twitter.com/groups/56-policies-violations/topics/237-guidelines/articles/20171936-free-followers-apps).
 
-45. Use [Followerwonk](https://followerwonk.com/) to find new people to connect with, and to find out which activities typically drive the most new followers to your account.
+45. Use [Followerwonk](//followerwonk.com/) to find new people to connect with, and to find out which activities typically drive the most new followers to your account.
 
-46. Find and follower your LinkedIn connections on Twitter. [Here’s how to do it](http://blog.linkedin.com/2010/05/25/find-and-follow-your-linkedin-connections-on-twitter/).
+46. Find and follower your LinkedIn connections on Twitter. [Here’s how to do it](//blog.linkedin.com/2010/05/25/find-and-follow-your-linkedin-connections-on-twitter/).
 
-47. Make sure you have a [tweet button](https://about.twitter.com/resources/buttons) next to each and every post on your blog.
+47. Make sure you have a [tweet button](//about.twitter.com/resources/buttons) next to each and every post on your blog.
 
 48. Don’t focus on yourself. Tweets that contain a self-reference get retweeted less often than those that don’t.
 
-49. Use [Twitter cards](https://dev.twitter.com/cards/overview) to increase visibility and engagement. Add some simple code to your site, and anytime someone tweets your content, the rich media you’ve included (images, videos, etc.) will show alongside their tweet.
+49. Use [Twitter cards](//dev.twitter.com/cards/overview) to increase visibility and engagement. Add some simple code to your site, and anytime someone tweets your content, the rich media you’ve included (images, videos, etc.) will show alongside their tweet.
 
 50. Use words like ‘you’, ‘twitter’, ‘please’ and ‘retweet’, that are more likely to get retweeted. Some words to avoid in your tweets? ‘Game’, ‘going’, ‘haha’ and ‘lol’.

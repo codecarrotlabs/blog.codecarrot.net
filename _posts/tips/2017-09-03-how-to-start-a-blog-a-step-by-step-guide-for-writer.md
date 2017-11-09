@@ -5,7 +5,7 @@ title: How to Start a Blog - A Step-by-Step Guide for Writers
 date: 2017-09-03 00:00:18
 categories: tips
 description: Starting a blog can seem like a lot of work, but we’ve made it easy with this step-by-step guide just for writers. Here’s how to start a blog from scratch.
-image: http://blog.codecarrot.net/images/braden-collum-87874.jpg
+image: //blog.codecarrot.net/images/braden-collum-87874.jpg
 ---
 
 So you want to start a blog?
@@ -34,9 +34,9 @@ Now that you’ve picked out your domain name, it’s time to choose a web host.
 
 ## 3. Coding and designing
 
-Don't worry, you don't have to do the techy stuff of coding and designing, [we're here to do](http://codecarrot.net/) it.
+Don't worry, you don't have to do the techy stuff of coding and designing, [we're here to do](//codecarrot.net/) it.
 
-To get started all you need is to visit [codecarrot.net](http://codecarrot.net/) and start a chat, one of our representative will happy to help you.
+To get started all you need is to visit [codecarrot.net](//codecarrot.net/) and start a chat, one of our representative will happy to help you.
 
 ## 4. Start your email list
 

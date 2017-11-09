@@ -5,7 +5,7 @@ title: E-Mail power tips
 date: 2017-09-05 14:58:10
 categories: tips
 description: I've noticed that when I get stressed at work, it's often because my email inbox is out of control. I've got hundreds of unread emails, with no idea which ones are important. I finally decided I needed to learn how...
-image: http://blog.codecarrot.net/images/mathyas-kurmann-102977.jpg
+image: //blog.codecarrot.net/images/mathyas-kurmann-102977.jpg
 ---
 
 I’ve noticed that when I get stressed at work, it’s often because my email inbox is out of control. I’ve got hundreds of unread emails, with no idea which ones are important. I finally decided I needed to learn how to be much more effective with email, so I came up with a few strategies.

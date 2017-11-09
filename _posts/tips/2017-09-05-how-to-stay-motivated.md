@@ -5,7 +5,7 @@ title: How to Stay Motivated
 date: 2017-09-05 01:39:10
 categories: tips
 description: Staying motivated can be tough, especially on longer projects. The solution is different for everyone, but I've found a few techniques that work.
-image: http://blog.codecarrot.net/images/margarida-csilva-121801.jpg
+image: //blog.codecarrot.net/images/margarida-csilva-121801.jpg
 ---
 
 Staying motivated can be tough, especially on longer projects. Recently a professional acquaintance told me about a 3-year-long client project. This is an extreme case, but long projects are not uncommon in the tech industry. In fact, I’m working on a personal side project right now that I expect will take about 1.5 years. How do you keep going once the initial rush of a new idea has faded? Through trial and error, I’ve found a few techniques that work for me, and I hope that by sharing them you can stay motivated too.
@@ -30,9 +30,9 @@ Seek critique: It rhymes so it must be right. Right?
 
 The longer you work on a project, the more difficult it is to think objectively. This is where critique can be very helpful. Find some trusted colleagues or a friend that will give you honest feedback. If you’re working on a personal project and you feel comfortable posting your work to a public forum, even better.
 
-![Yashu Mittal Behance Profile](http://blog.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
+![Yashu Mittal Behance Profile](//blog.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
 
-*Sites like [Dribbble](https://dribbble.com/codecarrot) & [Behance](https://www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
+*Sites like [Dribbble](//dribbble.com/codecarrot) & [Behance](//www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
 
 Other people will typically find obvious flaws immediately. There might be major problems with your work that are right in front of your face, but you might not notice them because you’ve learned to ignore them. It’s a common human flaw to spend a lot of time on unimportant details, but a fresh pair of eyes can help you refocus. Don’t fall into the trap of working hard on the wrong problem.
 
@@ -46,7 +46,7 @@ Learning can also help you find new efficiencies. Even if you’re timeboxing yo
 
 ## Track Progress
 
-I use sites like Pinterest and [Imgur](http://imgur.com) to create a “motivation gallery” for myself. When I first start a project, I’ll generally use these like a mood board. I’ll find pictures that capture the essence of the project so that I remember the original emotions I had when I first started. Never forget why you started, or you’ll never be motivated to finish.
+I use sites like Pinterest and [Imgur](//imgur.com) to create a “motivation gallery” for myself. When I first start a project, I’ll generally use these like a mood board. I’ll find pictures that capture the essence of the project so that I remember the original emotions I had when I first started. Never forget why you started, or you’ll never be motivated to finish.
 
 Later on in the project, I’ll start to fill a “progress gallery” with screenshots. I keep them in chronological order so that I can see what the project looked like at the beginning, how it progressed, and what it looks like now. In moments when a project feels like it’s moving slow, I check out the progress gallery. As soon as I see the first image and then start to scroll through the pictures, I realize how far I’ve come. This creates a powerful feedback loop, because the more the gallery grows, the more you’ll want to add to it and watch the project evolve.
 

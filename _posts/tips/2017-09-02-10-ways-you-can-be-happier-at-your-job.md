@@ -5,7 +5,7 @@ title: 10 Ways You Can Be Happier at Your Job
 date: 2017-09-02 14:58:00
 categories: tips
 description: Want to be happier at work? Take a dance break, let the phone ring and -- oh -- listen to Oprah's advice.
-image: http://blog.codecarrot.net/images/flickr-6-people-smiling.jpg
+image: //blog.codecarrot.net/images/flickr-6-people-smiling.jpg
 ---
 
 “Happy” isn’t just the contagious Pharrell Williams song that later made him cry to Oprah Winfrey. It’s also a state that can be achieved at — gasp! — work.
