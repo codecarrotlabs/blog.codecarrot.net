@@ -4,7 +4,7 @@ author: yashumittal
 title: How to Stay Motivated
 date: 2017-09-05 01:39:10
 categories: tips
-description: Staying motivated can be tough, especially on longer projects. The solution is different for everyone, but I&#039;ve found a few techniques that work.
+description: Staying motivated can be tough, especially on longer projects. The solution is different for everyone, but I've found a few techniques that work.
 image: http://blog.codecarrot.net/images/margarida-csilva-121801.jpg
 ---
 
