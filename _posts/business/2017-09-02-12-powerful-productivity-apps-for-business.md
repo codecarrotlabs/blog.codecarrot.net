@@ -6,27 +6,27 @@ date: 2017-09-02 15:46:00
 categories: business
 tags: apps smallbiz productivity
 description: Being a small business owner requires multitasking and juggling to-do's all day! Make your life easier with these powerful productivity apps for business.
-image: http://blog.codecarrot.net/images/rami-al-zayat-170349.jpg
+image: //blog.codecarrot.net/images/rami-al-zayat-170349.jpg
 ---
 
 Small business owners wear many different hats throughout the day. The constant juggling between tasks can be overwhelming. As a result, it’s possible for important details to get lost in the shuffle. Rein in your tasks and make room to earn more with these 12 powerful productivity apps for business.
 
 ## 12 productivity apps for business
 
-1. [ActiveInbox](https://www.activeinboxhq.com/)
-2. [Google Drive](https://www.google.com/drive/)
-3. [Asana](https://asana.com/)
-4. [Slack](https://slack.com/)
-5. [Evernote](https://evernote.com/)
+1. [ActiveInbox](//www.activeinboxhq.com/)
+2. [Google Drive](//www.google.com/drive/)
+3. [Asana](//asana.com/)
+4. [Slack](//slack.com/)
+5. [Evernote](//evernote.com/)
 6. iScanner
-  * [Android](https://play.google.com/store/apps/details?id=com.bpmobile.iscanner.free&hl=en)
-  * [Apple](https://itunes.apple.com/us/app/iscanner-pdf-document-scanner-app/id1035331258?mt=8)
-7. [Buffer](https://buffer.com/app)
-8. [Skype](https://www.skype.com/en/)
-9. [Wave](https://www.waveapps.com/)
-10. [Proven](https://www.proven.com/)
-11. [Toggl](https://toggl.com/)
-12. [LastPass](https://www.lastpass.com/)
+  * [Android](//play.google.com/store/apps/details?id=com.bpmobile.iscanner.free&hl=en)
+  * [Apple](//itunes.apple.com/us/app/iscanner-pdf-document-scanner-app/id1035331258?mt=8)
+7. [Buffer](//buffer.com/app)
+8. [Skype](//www.skype.com/en/)
+9. [Wave](//www.waveapps.com/)
+10. [Proven](//www.proven.com/)
+11. [Toggl](//toggl.com/)
+12. [LastPass](//www.lastpass.com/)
 
 ## In conclusion
 
