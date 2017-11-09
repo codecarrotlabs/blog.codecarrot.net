@@ -69,7 +69,7 @@ In the past, we’ve had experience with [backbone.js](//backbonejs.org/), and w
 
 Marionette complements backbone beautifully, by adding useful components, module management, conventions, and composite architecture. That last element is most important: marionette applications consists of modules that form hierarchies, which in turn comprise the whole interface. It also features ways for modules to communicate with each other in different ways to avoid coupled, spaghetti code. And lastly, everything in marionette revolves around events which are emitted by entities (models), views and controllers, fitting nicely in the browser environment. If you have a backbone application and are looking to make it better, you can check out this blog post, ["Marionette.js and Backbone - a perfect match?"](/marionette-js-and-backbone-a-perfect-match).
 
-For JS templating we’ve used battle-proven [handlebars](//handlebarsjs.com/), but there are nice alternatives like [haml-coffee-assets](https://github.com/netzpirat/haml_coffee_assets) that let you use HAML for JavaScript templates (How cool :)).
+For JS templating we’ve used battle-proven [handlebars](//handlebarsjs.com/), but there are nice alternatives like [haml-coffee-assets](//github.com/netzpirat/haml_coffee_assets) that let you use HAML for JavaScript templates (How cool :)).
 
 Testing JavaScript code is done using [konacha](//github.com/jfirebaugh/konacha).
 
