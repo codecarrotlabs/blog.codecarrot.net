@@ -6,7 +6,7 @@ date: 2017-09-27 17:35:10
 categories: tips
 tags: products marketing smartphone photos
 description: Before you spend money to rent a DSLR camera and a lens for your product photography, consider using the quality
-image: http://blog.codecarrot.net/images/iphone-cam.jpg
+image: //blog.codecarrot.net/images/iphone-cam.jpg
 ---
 
 Before you spend money to rent a DSLR camera and a lens for your product photography, consider using the quality camera that you carry around with you all the time: your smartphone.
@@ -68,19 +68,19 @@ For the best possible results, we recommend using a tripod. Here are a few great
 
 **Gorilla Pod Mobile ($15)**
 
-![Gorilla Pod Mobile](http://blog.codecarrot.net/images/mobile-gorillapod-new-20be_600.0000001382991666_99e0bd5c-700e-4e26-ae51-e2a78a3c6983.jpg)
+![Gorilla Pod Mobile](//blog.codecarrot.net/images/mobile-gorillapod-new-20be_600.0000001382991666_99e0bd5c-700e-4e26-ae51-e2a78a3c6983.jpg)
 
 The Gorilla Pod Mobile product is a great combination pack that includes a mount and stand all together. This is a small and compact tripod that can easily be placed on a table as you shoot your images. It’s very flexible and can be used in multiple positions depending on the situation.
 
 **Joby Grip Tight Mount ($20)**
 
-![Joby Grip Tight Mount](http://blog.codecarrot.net/images/joby6665.jpg)
+![Joby Grip Tight Mount](//blog.codecarrot.net/images/joby6665.jpg)
 
 If you already have a tripod or stand the Joby Grip Tight Mount is a great option for smartphones that will hold onto any mount with it’s bottom screw post! This is extremely useful because some people utilize larger and smaller tripods to photograph their images. And for price, this is a great universal portable option for you to invest in while still being able to use what you already have.
 
 **Spiderpodium ($25)**
 
-![Spiderpodium](http://blog.codecarrot.net/images/spider6666.jpg)
+![Spiderpodium](//blog.codecarrot.net/images/spider6666.jpg)
 
 This $25 Spiderpodium is an extremely flexible spider mount that will not only hold your smartphone, but will also prop it up on a stand too. This option is a little pricier than the Gorilla Pod and the Joby Grip Tight mounts, but its incredible versatility makes up for the increased cost. You may even find yourself using the Spiderpodium in everyday life as well. If you need to use a larger tripod, you still can—just wrap the spider legs around your tripod to use it as a mount only.
 
@@ -92,19 +92,19 @@ Here are a few great lenses that can be used on smartphones:
 
 **Photojojo iPhone & Android lenses ($20-$100)**
 
-![Photojojo iPhone & Android lenses](http://blog.codecarrot.net/images/lenses66665764.jpg)
+![Photojojo iPhone & Android lenses](//blog.codecarrot.net/images/lenses66665764.jpg)
 
 This is a great inexpensive lens collection. Photojojo allows you to pick and choose which lenses you include in your package, or to simply try them all! The lenses work on iPhones and Androids to enhance your camera’s perspective.
 
 **Olloclip iPhone 4-in-1 Lens ($70)**
 
-![Olloclip iPhone 4-in-1 Lens](http://blog.codecarrot.net/images/images-150x150.jpeg)
+![Olloclip iPhone 4-in-1 Lens](//blog.codecarrot.net/images/images-150x150.jpeg)
 
 Olloclip 4-in-1 lens is a universal option with great portability and a lot of value since it contains 4 lenses all packed into 1 unit. Unfortunately, however, the Olloclip only works with the iPhone, so Android users will have to look for another option.
 
 **Moment iPhone & Android lenses ($10-$80)**
 
-![Moment iPhone & Android lenses](http://blog.codecarrot.net/images/Unknown-lens-150x150.jpg)
+![Moment iPhone & Android lenses](//blog.codecarrot.net/images/Unknown-lens-150x150.jpg)
 
 If you’re willing to spend more and wait for the product release, check out Moment’s professional iPhone and Android smartphone lenses, which are going to be created via Kickstarter funding. You will have to pre-order the lenses, but the possibility of taking your smartphone photos to the next professional level with their extreme quality engineering, may be worth it to you!
 
@@ -120,21 +120,21 @@ For shooting, we recommend that you first try to use the default camera app that
 
 **Android Camera Zoom FX ($3)**
 
-This Android-specific app has been rated #1 in camera apps for Android phones. If you’re looking for a shooting application with a few more features than the default camera app, then try [Camera Zoom FX](https://play.google.com/store/apps/details?id=slide.cameraZoom) to help boost your images to the next level.
+This Android-specific app has been rated #1 in camera apps for Android phones. If you’re looking for a shooting application with a few more features than the default camera app, then try [Camera Zoom FX](//play.google.com/store/apps/details?id=slide.cameraZoom) to help boost your images to the next level.
 
 **iPhone Camera+ ($2)**
 
-[Camera+](https://itunes.apple.com/us/app/camera+/id329670577?mt=8) is an iPhone-specific application that has been rated #1 in camera apps for iPhones. Using this application will allow you to harness your smartphone’s advanced shooting capabilities. The photos included in this tutorial were taken using this app.  
+[Camera+](//itunes.apple.com/us/app/camera+/id329670577?mt=8) is an iPhone-specific application that has been rated #1 in camera apps for iPhones. Using this application will allow you to harness your smartphone’s advanced shooting capabilities. The photos included in this tutorial were taken using this app.  
 
 2. **Editing**
 
 **Free Adobe Photoshop Express**
 
-[Adobe Photoshop Express](https://itunes.apple.com/en/app/adobe-photoshop-express/id331975235?mt=8) is a free image editing application for both Android and iPhone smartphones. This quick and easy app might be all that you need in your post processing workflow.
+[Adobe Photoshop Express](//itunes.apple.com/en/app/adobe-photoshop-express/id331975235?mt=8) is a free image editing application for both Android and iPhone smartphones. This quick and easy app might be all that you need in your post processing workflow.
 
 **Photoshop Touch ($5)**
 
-[Photoshop Touch](https://itunes.apple.com/EN/app/adobe-photoshop-touch/id495716481?mt=8) is an editing app with more bells and whistles than the free “Express” version. It’s a great editing app that replicates the desktop version of Photoshop while still remaining user-friendly. The Touch program has much more functionality than the Express version.
+[Photoshop Touch](//itunes.apple.com/EN/app/adobe-photoshop-touch/id495716481?mt=8) is an editing app with more bells and whistles than the free “Express” version. It’s a great editing app that replicates the desktop version of Photoshop while still remaining user-friendly. The Touch program has much more functionality than the Express version.
 
 
 3. **Sharing**
@@ -145,13 +145,13 @@ Sharing images via social media websites is a wonderful way to promote your prod
 
 ### Step One: Preparation
 
-![Shooting](http://blog.codecarrot.net/images/shooting6670.jpg)
+![Shooting](//blog.codecarrot.net/images/shooting6670.jpg)
 
 *The equipment that we use in this tutorial is all pictured here.*
 
 After gathering all of your accessories and applications, it’s time to use your smartphone to capture your images. For this tutorial, we will be photographing a pair of earrings with an iPhone 5S smartphone, a Joby Grip Tight mount attached to a Vivitar mini flexible tripod, and Photojojo lenses. We will shoot the images using the Camera+ app, edit the images with Photoshop Express, and store and organize the images using Dropbox.
 
-![Foam Board](http://blog.codecarrot.net/images/foam-board6671.jpg)
+![Foam Board](//blog.codecarrot.net/images/foam-board6671.jpg)
 
 *The foam board to the left bounces available light onto the “dark” side of the earrings.*
 
@@ -179,7 +179,7 @@ Before you begin shooting, make sure that your product is pristinely clean and t
 
 Now that your setup and product have been meticulously prepared, you need to properly adjust your camera’s settings to ensure that you receive the best results.
 
-![Changing the settings](http://blog.codecarrot.net/images/camera-plus_a1c79672-ec5e-4cc8-9252-7273ed0a350b.jpg)
+![Changing the settings](//blog.codecarrot.net/images/camera-plus_a1c79672-ec5e-4cc8-9252-7273ed0a350b.jpg)
 
 *The settings circled with red are the ones we recommend adjusting.*
 

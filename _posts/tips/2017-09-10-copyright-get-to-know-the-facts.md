@@ -5,7 +5,7 @@ title: Copyright - Get to Know the Facts
 date: 2017-09-10 22:00:00
 categories: tips
 description: They say that imitation is the sincerest form of flattery, and its not uncommon for successful sites and designers to find their work being appropriated by others, but when the hard work you've put into a project is blatantly ripped-off
-image: http://blog.codecarrot.net/images/copyright-1.jpg
+image: //blog.codecarrot.net/images/copyright-1.jpg
 ---
 
 They say that imitation is the sincerest form of flattery, and its not uncommon for successful sites and designers to find their work being appropriated by others, but when the hard work you've put into a project is blatantly ripped-off elsewhere it can really hurt, not to mention potentially cause damage your business.
@@ -33,9 +33,9 @@ Note: for those of you reading this outside the United States, if your country h
 
 ## Are you convinced yet?
 
-Did I mention that the fee for filing a copyright application is only $45? Of course, having a copyright attorney prepare the application for you (should you choose to have that done) will cost you more than that, but it isn’t uncommon for startups to assume the risk, read up on the topic and file their own copyright applications. More information about the [U.S. registration process can be found on the U.S. Copyright Office’s Registration website](http://www.copyright.gov/)
+Did I mention that the fee for filing a copyright application is only $45? Of course, having a copyright attorney prepare the application for you (should you choose to have that done) will cost you more than that, but it isn’t uncommon for startups to assume the risk, read up on the topic and file their own copyright applications. More information about the [U.S. registration process can be found on the U.S. Copyright Office’s Registration website](//www.copyright.gov/)
 
-Another, related, registration question that you may have is “if I can’t file the application until the work is complete and ‘published,’ how can I protect my work?” This is a question that oftentimes applies to alpha and beta software testing. Luckily, the U.S. Copyright Office recently started a “preregistration” system that allows copyright owners to file what essentially is a temporary application with the Copyright Office. This “preregistration” allows the copyright holder to file a copyright infringement action even before the work is commercially distributed (and traditional registration is possible) should the work be infringed. [http://www.copyright.gov/prereg/help.html](http://www.copyright.gov/prereg/help.html)
+Another, related, registration question that you may have is “if I can’t file the application until the work is complete and ‘published,’ how can I protect my work?” This is a question that oftentimes applies to alpha and beta software testing. Luckily, the U.S. Copyright Office recently started a “preregistration” system that allows copyright owners to file what essentially is a temporary application with the Copyright Office. This “preregistration” allows the copyright holder to file a copyright infringement action even before the work is commercially distributed (and traditional registration is possible) should the work be infringed. [//www.copyright.gov/prereg/help.html](//www.copyright.gov/prereg/help.html)
 
 ## Whose right is it anyway?
 

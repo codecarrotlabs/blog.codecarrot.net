@@ -6,7 +6,7 @@ date: 2017-09-20 20:35:10
 categories: tips
 tags: branding
 description: Brand is one of those things that often falls by the wayside with developers. Developers are constantly creating amazing technologies and incredible platforms that are fundamentally changing the way marketing and branding works.
-image: http://blog.codecarrot.net/images/bigstock-Brand-Branding-Marketing-Strat-90154346.jpg
+image: //blog.codecarrot.net/images/bigstock-Brand-Branding-Marketing-Strat-90154346.jpg
 ---
 
 Brand is one of those things that often falls by the wayside with developers. Developers are constantly creating amazing technologies and incredible platforms that are fundamentally changing the way marketing and branding works.
@@ -49,9 +49,9 @@ But remember, when things go wrong, hold your hands up and admit to it – be tr
 
 Despite what you might think, your app is not the be all and end all. Don’t believe this “if you build it, they will come” mantra, that is “weapons-grade bullonium”. It’s just not true. You have to extend the reach of what you do with content and engagement, physical and digital engagement. Build up a voice and personality around your brand.
 
-Consider [Digg](http://www.digg.com/), who are masters of brand extension in the web world. Their [blog](http://blog.digg.com/) is written by the people who are responsible for rolling out new features, managing the database, marketing the site, not just the founder or the VP of PR. Real names, real faces, real people that we as users can connect with.
+Consider [Digg](//www.digg.com/), who are masters of brand extension in the web world. Their [blog](//blog.digg.com/) is written by the people who are responsible for rolling out new features, managing the database, marketing the site, not just the founder or the VP of PR. Real names, real faces, real people that we as users can connect with.
 
-Whenever they roll out a new piece of technology or a new development, the person responsible blogs about it, explains what they did and asks for feedback. That breeds loyalty. They take it further with [Diggnation](http://www.diggnation.com/), [Digg Meetups](http://digg.com/meetup), and [DiggDialog](http://digg.com/dialogg/).
+Whenever they roll out a new piece of technology or a new development, the person responsible blogs about it, explains what they did and asks for feedback. That breeds loyalty. They take it further with [Diggnation](//www.diggnation.com/), [Digg Meetups](//digg.com/meetup), and [DiggDialog](//digg.com/dialogg/).
 
 ### **DO: Bridge the gap between online and offline**
 

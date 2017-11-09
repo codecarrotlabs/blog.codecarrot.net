@@ -6,7 +6,7 @@ date: 2017-10-29 02:05:10
 categories: tips
 tags: tips
 description: Not knowing something doesn't make you a bad programmer. It doesn't mean you shouldn't be in technology or writing code. And it absolutely doesn't make you an impostor. Here are a few ways to find solutions.
-image: http://blog.codecarrot.net/images/9ALGHAVFD6.jpg
+image: //blog.codecarrot.net/images/9ALGHAVFD6.jpg
 ---
 
 A friend of mine messaged me the other day. Even though they’ve been in the technology industry for awhile, they just recently landed their first engineering job. So, with this first job, they’re feeling pressure to look like they know what they’re doing and they’re worried that, by asking questions, their coworkers will find them out and they’ll be told they should just leave the tech industry.
