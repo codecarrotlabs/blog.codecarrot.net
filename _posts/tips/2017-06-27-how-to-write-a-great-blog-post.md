@@ -5,7 +5,7 @@ title: How to write a great blog post
 date: 2017-06-27 12:00:00
 categories: tips
 description: Knowing how to write a great blog post can be a challenge for beginning bloggers. Get organized from the start with these tips.
-image: http://blog.codecarrot.net/images/how-to-write-a-great-blog-post.jpg
+image: //blog.codecarrot.net/images/how-to-write-a-great-blog-post.jpg
 ---
 
 Blogs have become the go-to for sharing information, whether on a product, service or general topic of interest.
@@ -46,7 +46,7 @@ Writing is the hardest part of blogging, especially on days when you’re feelin
 
 **Step 1: Pick a topic**
 
-Determine your topic based on the audience you’re speaking to. If you build a content calendar before you start writing (see more about that below), you’ll already have a topic lined up. If you’re still brainstorming, dig through similar blogs for inspiration. You can also use [Google’s Keyword Tool](https://adwords.google.com/home/tools/keyword-planner/) to find SEO terms with high search volume and low competition. Basing a topic around these keywords will help drive organic traffic because it means you are providing information people are already searching for.
+Determine your topic based on the audience you’re speaking to. If you build a content calendar before you start writing (see more about that below), you’ll already have a topic lined up. If you’re still brainstorming, dig through similar blogs for inspiration. You can also use [Google’s Keyword Tool](//adwords.google.com/home/tools/keyword-planner/) to find SEO terms with high search volume and low competition. Basing a topic around these keywords will help drive organic traffic because it means you are providing information people are already searching for.
 
 **Step 2: Outline your post**
 
@@ -74,12 +74,12 @@ It’s time to go back and edit. Read the entire article once for any glaring mi
 
 Once you are done writing and reviewing your own work, send your post to someone else for proofing. Ask them to point out any grammatical errors, in addition to gaps in the content. If you share your article via Google Docs or Microsoft Word, they can leave comments, rather than making direct edits or putting notes into the text.
 
-![Proofreading](http://blog.codecarrot.net/images/proofreading.jpg)
+![Proofreading](//blog.codecarrot.net/images/proofreading.jpg)
 
 Credibility is everything. Get a second set of eyes on your copy before you publish a blog post.
 Step 6: Look for engaging visuals
 
-Find a great feature image, and any others that would support your text. You can download great free photos at [Unsplash](https://unsplash.com/), [StockSnap.io](https://stocksnap.io/) and [Pixabay](https://pixabay.com/). There are also free photos at [Freepik](http://www.freepik.com/), but you have to include a source link somewhere in your post. I usually put it at the bottom.
+Find a great feature image, and any others that would support your text. You can download great free photos at [Unsplash](//unsplash.com/), [StockSnap.io](//stocksnap.io/) and [Pixabay](//pixabay.com/). There are also free photos at [Freepik](//www.freepik.com/), but you have to include a source link somewhere in your post. I usually put it at the bottom.
 
 Learn more about [43+ Unique Places to Find Remarkable Free Photos]().
 
@@ -89,7 +89,7 @@ You’ve spent time writing and publishing, and now it’s time to get eyes on y
 
 **Social media:** Share your blog post on the social platforms which you’re active. Use a clever caption that doesn’t repeat the headline, but entices the reader to click through. For example, with a list post, you might write: “Are you as shocked about #5 as we are?” If you maintain a social calendar, plug articles into it before writing. Make sure your social strategy lines up with your content calendar so articles are ready in time for sharing.
 
-**Email marketing:** If you’re interested in developing a readership, now’s the time to start building a [subscriber list](http://www.codecarrot.net/garage/market/beginners-guide-to-starting-an-email-list). Email is a great platform for sharing blog posts in a weekly or monthly newsletter.
+**Email marketing:** If you’re interested in developing a readership, now’s the time to start building a [subscriber list](//www.codecarrot.net/garage/market/beginners-guide-to-starting-an-email-list). Email is a great platform for sharing blog posts in a weekly or monthly newsletter.
 
 **Auto-sharing:** There are two ways to get your blog posts shared automatically via WordPress, the most popular (and in my opinion, the best) blogging platform available. The first is connecting WordPress with your social media profiles. When you publish, this automatically shares the post for you. You can also put a “Follow My Blog widget” in your sidebar on post pages. When people sign up, they’re automatically sent your new articles when they go live.
 
@@ -106,11 +106,11 @@ Additionally, don’t forget to brainstorm topics that promote your business in 
 
 Once you have a list of ideas, put all of your topics into a content calendar. Arrange them to correspond with seasons, holidays and other times of the year that are important to your readership or business.
 
-![Calendar](http://blog.codecarrot.net/images/calendar-inside-tablet.jpg)
+![Calendar](//blog.codecarrot.net/images/calendar-inside-tablet.jpg)
 
 Create an editorial calendar to plan blog posts that make sense for your readers and your business, at the right time.
 
-Finally, set a publishing schedule for yourself (or your team). Be realistic about what you or your team will have time for. If you’re a business looking to aggressively build your blog, try publishing at least twice a week. Neil Patel tested the theory of posting more frequently and examined how that affects blog traffic. His findings were shared on (AutoGrow.co](https://autogrow.co/how-does-content-marketing-quantity-increase-traffic/):
+Finally, set a publishing schedule for yourself (or your team). Be realistic about what you or your team will have time for. If you’re a business looking to aggressively build your blog, try publishing at least twice a week. Neil Patel tested the theory of posting more frequently and examined how that affects blog traffic. His findings were shared on (AutoGrow.co](//autogrow.co/how-does-content-marketing-quantity-increase-traffic/):
 
 <blockquote>
 “KISSmetrics only started to see big traffic increases when I started to publish five pieces of content a week. But with KISSmetrics, we went from publishing two a week straight to five a week [and later to six]. My experience of working with 20 of the top 100 blogs showed that if we published three pieces of content each day (21 pieces a week), we could easily get our traffic to over a million visits a month over time.”

@@ -6,7 +6,7 @@ date: 2017-10-28 22:56:00
 categories: tips
 tags: tips learning
 description: You can literally change the size of your brain by spending just 15 minutes each day learning something new. Try these tips to make it work for you.
-image: http://blog.codecarrot.net/images/1635.jpeg
+image: //blog.codecarrot.net/images/1635.jpeg
 ---
 
 We believe that anyone can, and everyone should be a life-long learner. The changing demands of work, our innate curiosity and a desire for challenge, longer life expectancy — all these provide great reasons to expand your knowledge and try new things.
@@ -31,7 +31,7 @@ Here’s another tip: you can improve memory by spending a few minutes each day 
 
 ## 2. Let Your Brain Do the Work
 
-We often think of learning as the time we actively concentrate on our studies: reading, writing, doing homework or completing practice problems. But our brains are amazingly active even when we aren’t consciously thinking about anything. The scientist and educator [Barbara Oakley](http://barbaraoakley.com/), who writes about effective learning techniques, talks about two different brain modes: **the focused mode**, which is when you’re really concentrating, and the **diffused mode** when you aren’t thinking about anything in particular.
+We often think of learning as the time we actively concentrate on our studies: reading, writing, doing homework or completing practice problems. But our brains are amazingly active even when we aren’t consciously thinking about anything. The scientist and educator [Barbara Oakley](//barbaraoakley.com/), who writes about effective learning techniques, talks about two different brain modes: **the focused mode**, which is when you’re really concentrating, and the **diffused mode** when you aren’t thinking about anything in particular.
 
 Most of us think of this focused mode when we talk about learning. But it turns out that when our brains enter a resting state — when you’re gardening, taking a shower, cleaning the house, or just “spacing out” — the diffused mode of thinking kicks in and the brain continues to process thoughts. Have you ever been stuck on a problem, and while you take a quick walk around the block, the answer miraculously pops into your mind? That’s the diffused mode at work.
 
