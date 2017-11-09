@@ -6,7 +6,7 @@ date: 2017-10-11 20:00:00
 categories: tips
 tags: tips productivity
 description: Learning how to delegate and outsource is the key to creating a good work/life balance and becoming an effective entrepreneur.
-image: http://blog.codecarrot.net/images/rawpixel-com-310778.jpg
+image: //blog.codecarrot.net/images/rawpixel-com-310778.jpg
 ---
 
 As an entrepreneur, you wear several hats. Some of them might even look good on you.
