@@ -5,7 +5,7 @@ title: How to Outsource Effectively and Earn Back Your Time
 date: 2017-10-11 20:00:00
 categories: tips
 tags: tips productivity
-description:
+description: Learning how to delegate and outsource is the key to creating a good work/life balance and becoming an effective entrepreneur.
 image: http://blog.codecarrot.net/images/rawpixel-com-310778.jpg
 ---
 
