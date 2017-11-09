@@ -56,7 +56,7 @@ The internet has opened up a whole new world of marketing that didn’t exist be
 
 You can greatly reduce the cost of customer support by have a ticketing system, or even just an FAQ on your website. I can think of about 5 companies off the top of my head that streamline your customer service straight from your website.
 
-## Reason #12 – email@mywebsite.com
+## Reason #12 – contact@codecarrot.net
 
 I know there are other ways to do this, but by having a website you can have your own email contact@yourwebsite.com. It is more professional and easier to remember. I know you love your yourname123@gmail.com, but it doesn’t really resonate with customers.
 
