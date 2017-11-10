@@ -5,7 +5,7 @@ title: Patterns that Will Help You Be a Better Developer
 date: 2017-11-10 01:17:40
 categories: code
 tags: coding coding-pattern developer
-description: Check out how patterns will help you keep your code clean and effective.
+description: Check out how patterns will help you keep your code clean and effective. In today’s fast moving world deadlines can be a real nightmare, especially for devs who have to focus on the code they’re writing to keep its quality high.
 image: //blog.codecarrot.net/images/stairpath-565865-edited.jpg
 ---
 
