@@ -6,7 +6,7 @@ date: 2017-09-01 22:55:00
 categories: business
 tags: marketing content-marketing marketing sales trust digital digital-content-marketing digital-content
 description: Don't get overwhelmed by the mixed messages when it comes to digital content marketing. Use these simple tips to build out a strategy that's right for you.
-image: http://blog.codecarrot.net/images/capturing-a-picture-of-building-with-iphone.jpg
+image: //blog.codecarrot.net/images/capturing-a-picture-of-building-with-iphone.jpg
 ---
 
 When it comes to creating a smart digital marketing strategy, the mantra you’ve heard over and over again is most likely, “Content is King.” This phrase is so widely repeated because the digital content marketing approach really does make sense when you’re talking about how to get the attention you need online.
@@ -47,7 +47,7 @@ If you’re going to venture into audio podcasting, you’ll probably want to ha
 
 The most important thing is to choose something that you’re good at, that you can commit to doing consistently, and hopefully that you’ll enjoy creating.
 
-![Person capturing a picture using canon camera](http://blog.codecarrot.net/images/person-capturing-a-picture.jpg)
+![Person capturing a picture using canon camera](//blog.codecarrot.net/images/person-capturing-a-picture.jpg)
 
 ## Give your content time to grow
 
