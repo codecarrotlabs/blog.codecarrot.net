@@ -6,7 +6,7 @@ date: 2017-07-03 12:00:00
 categories: business
 tags: smallbiz brand market customer
 description: How do you turn your small business into a big brand? These tips will help you market your business and turn it into a lovable brand.
-image: http://blog.codecarrot.net/images/turn-your-small-business-into-a-brand.png
+image: //blog.codecarrot.net/images/turn-your-small-business-into-a-brand.png
 ---
 
 If you have already set up your small business online, now it is time to turn your business into a brand. Branding your business in a cost-effective fashion could be a tricky job if you do not know where and how to start. We have put together a few quick and easy tips that can help you brand your small business and fetch the maximum gains out of it.
@@ -20,7 +20,7 @@ Branding your business lead you towards the path of discovering your business be
 3.  What is the image of your business among prospects and customers?
 4.  Name the qualities that you can relate to your business.
 
-![Brand](http://blog.codecarrot.net/images/brand.png)
+![Brand](//blog.codecarrot.net/images/brand.png)
 
 ## Follow this Checklist
 
@@ -46,7 +46,7 @@ Do Your Research: Identify the needs and practices of your existing customers an
 
 **Keep Your Word:** Deliver what you promised you would. Your customers would refrain from coming back to you is you do not live up to their expectations. This will help your brand have a positive recall.
 
-Don’t have an online business? Getting an website with [CodeCarrot](http://www.codecarrot.net) is super easy!
+Don’t have an online business? Getting an website with [CodeCarrot](//www.codecarrot.net) is super easy!
 
 ## P.S. Can we send you an email?
 

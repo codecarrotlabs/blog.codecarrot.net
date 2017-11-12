@@ -6,14 +6,14 @@ date: 2017-09-10 15:02:00
 categories: business
 tags: product idea launch
 description: Question - How can you make an incredibly dangerous, misguided and high-risk bet with a single sentence? Answer - “I have an idea for an app
-image: http://blog.codecarrot.net/images/patrick-tomasso-319754.jpg
+image: //blog.codecarrot.net/images/patrick-tomasso-319754.jpg
 ---
 
 ## Question: How can you make an incredibly dangerous, misguided and high-risk bet with a single sentence?
 
 **Answer: I have an idea for an app, and I’d like you to build it for me.**
 
-I’ve heard this opener more than a few times at [CodeCarrot](http://codecarrot.net\), and it always surprises me a bit.
+I’ve heard this opener more than a few times at [CodeCarrot](//codecarrot.net\), and it always surprises me a bit.
 
 You want to spend $100,000 or more on an idea?
 

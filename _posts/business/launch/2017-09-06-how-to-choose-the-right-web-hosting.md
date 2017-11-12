@@ -6,7 +6,7 @@ date: 2017-09-06 00:41:20
 categories: business
 tags: hosting website business smallbiz servers
 description: How do we decide if a web host is good? Do bandwidth and disk storage features still matter these days? Which type of hosting service should you go with? In this article, we will get these questions answered with the following walk-through and a 15-point checklist.
-image: http://blog.codecarrot.net/images/thomas-kvistholt-191153.jpg
+image: //blog.codecarrot.net/images/thomas-kvistholt-191153.jpg
 ---
 
 How do we decide if a web host is good? Do bandwidth and disk storage features still matter these days? Which type of hosting service should you go with? In this article, we will get these questions answered with the following walk-through and a 15-point checklist.
@@ -63,7 +63,7 @@ On rough guestimation, a shared hosting account should be sufficient to support 
 
 If you expect your website to grow really big in next two or three years, then you should consider picking up a web host with room to grow. By grow, I mean upgrading your web host – from shared hosting to virtual private or dedicated server – for more processing power, memory capacity, disk storage, and better security features.
 
-![Different types of hosting and its factors](http://blog.codecarrot.net/images/different-types-of-hosting-and-its-factors.png)
+![Different types of hosting and its factors](//blog.codecarrot.net/images/different-types-of-hosting-and-its-factors.png)
 
 ## 3. Multiple Addon Domains
 
