@@ -5,7 +5,7 @@ title: A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppet
 date: 2017-11-10 15:51:00
 categories: code
 tags: coding puppeteer js node-js chrome javascript web
-description: Learn to Automate and Scrape the web with Headless Chrome
+description: Learn to Automate and Scrape the web with Headless Chrome. Puppeteer is a Node library API that allows us to control headless Chrome.
 image: //blog.codecarrot.net/images/articleocw-599af35e5ad57.png
 ---
 
