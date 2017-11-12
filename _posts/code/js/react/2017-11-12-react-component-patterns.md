@@ -53,7 +53,7 @@ This approach allows us to apply our logic to our `ToggleableMenu` component usi
 
 Now we can pass any children to `ToggleableMenu` component:
 
-![1_rWCZQqL0Rbizbrw_yjgxgA.png](1_rWCZQqL0Rbizbrw_yjgxgA.png)
+![1_rWCZQqL0Rbizbrw_yjgxgA.png](//blog.codecarrot.net/images/1_rWCZQqL0Rbizbrw_yjgxgA.png)
 
 If you’re familiar with [Redux’s](//redux.js.org/) `connect` or [React Router’s](//github.com/ReactTraining/react-router) `withRouter` functions, you’re already using **HOCs!**
 
