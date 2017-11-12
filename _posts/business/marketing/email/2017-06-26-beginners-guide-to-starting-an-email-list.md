@@ -4,6 +4,7 @@ author: yashumittal
 title: Beginner's guide to starting an email list
 date: 2017-06-26 12:00:00
 categories: business
+tags: business marketing email
 description: Learn why starting an email list is key to building business, how to get and keep subscribers, and what to avoid. No experience necessary.
 image: //blog.codecarrot.net/images/starting-an-email-list.jpg
 ---
