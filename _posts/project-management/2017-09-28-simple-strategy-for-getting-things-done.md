@@ -6,7 +6,7 @@ date: 2017-09-28 16:40:00
 categories: project-management
 tags: project-management working work-done strategy
 description: Learn the simple strategy to getting work done is right way and achieve the goals in the easiest and simplest way possible. 
-image: http://blog.codecarrot.net/images/p1264m1066840f.jpg
+image: //blog.codecarrot.net/images/p1264m1066840f.jpg
 ---
 
 ## Get Clear About What’s Required
