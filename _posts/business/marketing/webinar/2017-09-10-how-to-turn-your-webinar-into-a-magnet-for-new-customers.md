@@ -6,7 +6,7 @@ date: 2017-09-10 15:02:00
 categories: business
 tags: webinar customers users subscribers lead money
 description: Running webinars? Here's how we've turned them into one of our top marketing channels. Learn the 6 keys to running a webinar that will make you money.
-image: http://blog.codecarrot.net/images/webinar-blog-post-illustration.jpg
+image: //blog.codecarrot.net/images/webinar-blog-post-illustration.jpg
 ---
 
 Now I know what you might be thinking…
@@ -125,11 +125,11 @@ And if you can tell a great story about how your product can improve people’s 
 
 After all, the goal of the webinar is to get people interested in your product anyway, right? So at Drift, at the end of the webinar, the CTA we use is to go to our website right now and start a conversation _with_ the sales team.
 
-It doesn’t get much more straightforward than that: if you saw something you liked on this webinar, go to [our website](http://www.codecarrot.net/) and talk to our team right now.
+It doesn’t get much more straightforward than that: if you saw something you liked on this webinar, go to [our website](//www.codecarrot.net/) and talk to our team right now.
 
-If you don't have a website for your business. You can get one, [right now](http://codecarrot.net/).
+If you don't have a website for your business. You can get one, [right now](//codecarrot.net/).
 
-[![Make your business online with a website](http://blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](http://codecarrot.net/)
+[![Make your business online with a website](//blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
 
 
 Instead of filling out a form and waiting to hear back, they can talk to our team and ask questions about what they just saw live — even while the webinar is still going on.

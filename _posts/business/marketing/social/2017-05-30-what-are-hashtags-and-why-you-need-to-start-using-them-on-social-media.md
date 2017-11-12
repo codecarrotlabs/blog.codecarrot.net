@@ -6,7 +6,7 @@ date: 2017-05-30 12:00:00
 categories: business
 tags: social social-media hashtags online
 description: Hashtags, hashtags, hashtags! You see them online, on just about every social network website. Sometimes you see them in abundance. Sometimes they're silly, and sometimes they look like they serve a purpose.
-image: http://blog.codecarrot.net/images/start-using-hashtag-in-social-media.png
+image: //blog.codecarrot.net/images/start-using-hashtag-in-social-media.png
 ---
 
 Hashtags, hashtags, hashtags! You see them online, on just about every social network website. Sometimes you see them in abundance. Sometimes they're silly, and sometimes they look like they serve a purpose. So, what are hashtags and why should you care?
@@ -23,11 +23,11 @@ If you're one for official definitions and search for "what are hashtags" online
 "On social-media websites, a word or phrase preceded by a hash mark (#), used within a message to identify a keyword or topic of interest and facilitate a search for it."
 </blockquote>
 
-For example, in Twitter, under the hashtag [#codecarrot](https://twitter.com/search?q=%23codecarrot&src=typd), you can find out what people from around the world have been tweeting about that topic. This is also particularly handy for events or conferences, especially to track and document vital information such as what attendees, speakers and event organizers are talking about.
+For example, in Twitter, under the hashtag [#codecarrot](//twitter.com/search?q=%23codecarrot&src=typd), you can find out what people from around the world have been tweeting about that topic. This is also particularly handy for events or conferences, especially to track and document vital information such as what attendees, speakers and event organizers are talking about.
 
-[![Hashtags Twitter Example](http://blog.codecarrot.net/images/hashtags-twitter-example.png)](https://twitter.com/search?q=%23codecarrot&src=typd)
+[![Hashtags Twitter Example](//blog.codecarrot.net/images/hashtags-twitter-example.png)](//twitter.com/search?q=%23codecarrot&src=typd)
 
-With hashtags, you can use all lowercase, or even use camel case lettering, but no spaces. Hashtags are not case-sensitive. For example, if you want to use #CodeCarrot instead of [#codecarrot](https://twitter.com/search?q=%23codecarrot&src=typd), the term will still click through to the same topic stream.
+With hashtags, you can use all lowercase, or even use camel case lettering, but no spaces. Hashtags are not case-sensitive. For example, if you want to use #CodeCarrot instead of [#codecarrot](//twitter.com/search?q=%23codecarrot&src=typd), the term will still click through to the same topic stream.
 
 ## Where can you use hashtags?
 
@@ -57,7 +57,7 @@ You can research hashtags with a few different tools. Here are just a few of the
 
 **Google Trends**
 
-![Google Trends](http://blog.codecarrot.net/images/google-trends.jpg)
+![Google Trends](//blog.codecarrot.net/images/google-trends.jpg)
 
 Google Trends allows you to search for just about any term, including hashtags. You can search based on location, by time, by category, and by type of search. So, you can look for specific hashtags that have been used in videos on YouTube, images, news, or even Google Shopping.
 
