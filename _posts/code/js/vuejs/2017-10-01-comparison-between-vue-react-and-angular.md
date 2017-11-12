@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title:  Comparison between Vue, React and Angular
+title: Comparison between Vue, React and Angular
 date: 2017-10-01 17:10:00
 categories: code
 tags: coding vue vuejs angular angularjs react framework application web web-interfaces
