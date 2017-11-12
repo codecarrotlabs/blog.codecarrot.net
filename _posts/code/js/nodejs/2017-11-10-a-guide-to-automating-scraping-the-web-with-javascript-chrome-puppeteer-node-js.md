@@ -15,7 +15,8 @@ Learn to Automate and Scrape the web with Headless Chrome
 
 ![Puppeteer Logo](//blog.codecarrot.net/images/1_kk8ovQKB-45FsZ8TZM-vjg.png)
 
-What Will We Learn?
+**What Will We Learn?**
+
 In this tutorial you’ll learn how to automate and scrape the web with JavaScript. To do this, we’ll use Puppeteer. *[Puppeteer](//github.com/GoogleChrome/puppeteer)* is a Node library API that allows us to control *[headless Chrome](//developers.google.com/web/updates/2017/04/headless-chrome)*. Headless Chrome is a way to run the Chrome Browser without actually running Chrome.
 
 If none of that makes any sense, all you really need to know is that we’ll be writing JavaScript code that will automate Google Chrome.
