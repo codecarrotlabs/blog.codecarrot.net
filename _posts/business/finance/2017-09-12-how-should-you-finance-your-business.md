@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: How should you finance your business?
 date: 2017-09-12 19:29:00
 categories: business
