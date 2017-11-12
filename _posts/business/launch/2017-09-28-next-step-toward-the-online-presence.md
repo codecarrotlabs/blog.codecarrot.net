@@ -6,14 +6,14 @@ date: 2017-09-28 01:26:00
 categories: business
 tags: online online-presence customers social social-media
 description: A social media profile is a quick, simple and cheap way for you to establish an online presence. This should be the first step she takes to help customers engage
-image: http://blog.codecarrot.net/images/466265092.jpg
+image: //blog.codecarrot.net/images/466265092.jpg
 ---
 
 **Answer this quiz:** What you will do if you are running a local bakery. After getting the business up and running over the last six months, she’s now ready to create a digital presence.
 
 What do you think Reema should set up first: Social media profile or a website?
 
-![A lady at bakery](http://blog.codecarrot.net/images/RJhOdTfwvmW784ROzCbn.png)
+![A lady at bakery](//blog.codecarrot.net/images/RJhOdTfwvmW784ROzCbn.png)
 
 ## What you have chosen social media or website?
 
@@ -33,15 +33,15 @@ Think about the last time you had a craving for a chocolate cake. You probably s
 
 You might see a website for a local bakery...or you might discover a good option in local listings.
 
-[![Make business online with codecarrot banner](59337e706e67.png)](http://codecarrot.net/)
+[![Make business online with codecarrot banner](59337e706e67.png)](//codecarrot.net/)
 
-Some businesses use local listings to create a digital presence, using products like [Google My Business](https://www.google.com/business/). These types of directories let businesses publish details like descriptions, reviews, maps and images.
+Some businesses use local listings to create a digital presence, using products like [Google My Business](//www.google.com/business/). These types of directories let businesses publish details like descriptions, reviews, maps and images.
 
 These listings are usually free, and are a good way to help your business appear on results pages when people search.
 
 Beyond local listings, there may be review sites for your specific type of business where people can leave feedback—and you can respond. Rave reviews will give you the edge over the competition.
 
-You can also use social media as your digital presence. People all over the world use [Facebook](http://facebook.com/codecarrotinc), [Twitter](http://twitter.com/codecarrotnet) and [Google+](https://plus.google.com/u/1/b/104910911502233710941/104910911502233710941) pages to complement—or in some cases replace—a website.
+You can also use social media as your digital presence. People all over the world use [Facebook](//facebook.com/codecarrotinc), [Twitter](//twitter.com/codecarrotnet) and [Google+](//plus.google.com/u/1/b/104910911502233710941/104910911502233710941) pages to complement—or in some cases replace—a website.
 
 Another way you can reach customers online is through their mobile. You’ve probably downloaded apps or games on your mobile phone. You can create and offer these apps to customers yourself.
 
@@ -53,6 +53,6 @@ Apps could even let her place an order right then, so when she comes in she can 
 
 So, to recap: whether you use a website, local business listings, social media, mobile apps, or all of the above, the trick is to decide what you want customers to do, then create a home that accomplishes those goals. Together, these things work as your digital storefront: your space to interact with customers online.
 
-[![Make your business online with a website Promo](http://blog.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](http://codecarrot.net/)
+[![Make your business online with a website Promo](//blog.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](//codecarrot.net/)
 
 We’ve got lessons covering all of these areas, but for the next little while we’ll be focusing on websites: you'll learn the basics like how websites work, how to pick and register a proper domain name, and how to make whatever you decide to do online as friendly as possible to your digital visitors AND support the goals of your business. And if you keep watching, we’ll cover all of this and more.

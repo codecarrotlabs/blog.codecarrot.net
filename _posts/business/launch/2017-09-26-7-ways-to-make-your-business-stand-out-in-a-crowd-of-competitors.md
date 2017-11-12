@@ -6,7 +6,7 @@ date: 2017-09-26 02:00:00
 categories: business
 tags: competitors business smallbiz smallbusiness
 description: In a world where the competition regularly claims to be 1, it’s difficult to differentiate and build your own identity. Difficult, but not impossible.
-image: http://blog.codecarrot.net/images/3dcity.png
+image: //blog.codecarrot.net/images/3dcity.png
 ---
 
 In a world where the competition regularly claims to be #1, it’s difficult to differentiate and build your own identity. Difficult, but not impossible.
@@ -15,11 +15,11 @@ Every brand have built their identities to command a large share of the market. 
 
 Let’s look at seven ways to help your business stand out from the crowd. Each one of the following factors has worked well in countless companies. How many of them are part of your current branding strategy?
 
-## 1. **[Get a website and blog](http://codecarrot.net/)**
+## 1. **[Get a website and blog](//codecarrot.net/)**
 
 Most forward thinking companies are familiar with the benefits of getting a website and start blogging. If you’re tired of being overlooked online; if you’re seeking a fresh way to share ideas, bring more awareness about your product/service and have your voice heard, get involved with corporate website and blogging.
 
-[![Make your business online with a website Promo](http://blog.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](http://codecarrot.net/)
+[![Make your business online with a website Promo](//blog.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](//codecarrot.net/)
 
 ## 2. Provide Legendary Customer Service
 
@@ -43,4 +43,4 @@ While some may argue that a company’s main responsibility is to take care of i
 
 Are you confident enough in your product or service to stand behind it 100%? If so, guarantee it. Adding this type of assurance to your marketing message shows customers and prospects that you truly care about their satisfaction. Here’s the only thing you need to remember: you must back up your guarantee if and when the time comes.
 
-[Standing out in a crowd of competitors](http://codecarrot.net/) is no easy task, and it’s getting more difficult all the time. Choose one or more of these tactics to create an advantage for your venture.
+[Standing out in a crowd of competitors](//codecarrot.net/) is no easy task, and it’s getting more difficult all the time. Choose one or more of these tactics to create an advantage for your venture.

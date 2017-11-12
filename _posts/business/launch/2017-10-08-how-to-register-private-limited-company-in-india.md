@@ -6,7 +6,7 @@ date: 2017-10-08 22:26:00
 categories: business
 tags: business entrepreneur startup business india
 description: Looking to register your business as a private company? Here is everything you need to know about how to register a private limited company.
-image: http://blog.codecarrot.net/images/sign-register-company.jpg
+image: //blog.codecarrot.net/images/sign-register-company.jpg
 ---
 
 Looking to register your business as a private limited company? Here is everything you need to know to help you get started.
@@ -115,6 +115,6 @@ Usually time taken for incorporation a Private Limited Company in India from 2 t
 
 Once a Company is duly incorporated, it will remain active and in-existence as long as the annual compliance are lawfully met in a regular fashion. In case of non-compliance, the company will become dormant and maybe unlisted from the register after a certain period of time.
 
-While registering your company may be a long, tedious process – getting started with an online business may not be. [Get started today](http://codecarrot.net/).
+While registering your company may be a long, tedious process – getting started with an online business may not be. [Get started today](//codecarrot.net/).
 
-[![Make your business online with a website](http://blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](http://codecarrot.net/)
+[![Make your business online with a website](//blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
