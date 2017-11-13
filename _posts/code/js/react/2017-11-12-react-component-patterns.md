@@ -78,3 +78,5 @@ Our brand new `ToggleableMenu` component is ready to be used:
 Our `Menu` component looks exactly the same as our **HOC** example!
 
 This approach is really useful when we want to change the rendered content itself regardless of **state** manipulation: as you can see, we’ve moved our **render** logic to our `ToggleableMenu` children function, but kept the **state** logic to our `Toggleable` component!
+
+This post is written by [Gustavo Matheus](//medium.com/@gmatheus).
