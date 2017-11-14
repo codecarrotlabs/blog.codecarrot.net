@@ -4,7 +4,7 @@ author: yashumittal
 title: 3 Ways to Learn Better by Studying Less
 date: 2017-10-28 22:56:00
 categories: tips
-tags: tips learning
+tags: tips learning productivity
 description: You can literally change the size of your brain by spending just 15 minutes each day learning something new. Try these tips to make it work for you.
 image: 1635.jpeg
 ---
