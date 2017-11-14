@@ -5,7 +5,7 @@ title: Want to Write for Us? Here's What to Publish (and we pay!)
 date: 2017-09-04 12:00:00
 categories: update
 tags: update blogging writing publish-article
-description: Got business/design/dev/growth/project-management/tips advice to share? Here’s what we look for from contributors.
+description: Got business/design/code/growth/project-management/tips advice to share? Here’s what we look for from contributors.
 image: rawpixel-com-351765.jpg
 ---
 
