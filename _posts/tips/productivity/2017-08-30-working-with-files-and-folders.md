@@ -127,4 +127,4 @@ Now when you save the document, you can change the file extension. Instead of us
 
 `mydocument.html`
 
-HTML is one of the topics you can learn on [CodeCannon](//www.youtube.com/channel/UCjy4INB4SsfIA_ovKHCCYpg) and is foundational to building websites.
+HTML is one of the topics you can learn on [CodeCannon](//www.youtube.com/channel/UCIAktdRKgMZMkNbJY44spqA) and is foundational to building websites.
