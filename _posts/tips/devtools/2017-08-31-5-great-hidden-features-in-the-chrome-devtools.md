@@ -6,7 +6,7 @@ date: 2017-08-31 00:00:10
 categories: code
 tags: dev devtools chrome extensions chrome-devtools
 description: The Chrome DevTools are a set of panels built into Google Chrome that help web developers inspect code. DevTools can debug HTML, CSS, JavaScript, and more.
-image: //blog.codecarrot.net/images/5-great-hidden-features-in-the-chrome-devtools.png
+image: 5-great-hidden-features-in-the-chrome-devtools.png
 ---
 
 The Chrome DevTools is a set of panels built into the Google Chrome browser that help web developers inspect code. You can access the DevTools using shortcut keys *(Ctrl+Shift+i* on Windows and *CMD+Option+i* on Mac) or by right clicking anywhere on a webpage and selecting **Inspect Element** from the context menu. Using these tools, you can debug CSS, profile JavaScript performance, view network activity, and so much more.
