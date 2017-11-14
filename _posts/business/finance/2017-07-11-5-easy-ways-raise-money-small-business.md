@@ -6,12 +6,12 @@ date: 2017-07-11 12:00:00
 categories: business
 tags: money smallbiz investment equity investors funds launch idea
 description: Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think.
-image: http://blog.codecarrot.net/images/raise-money-for-your-small-business.jpg
+image: //blog.codecarrot.net/images/raise-money-for-your-small-business.jpg
 ---
 
 Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think. Here are five easy ways to raise money for your small business:
 
-![Paisa Paisa](http://blog.codecarrot.net/images/paisa-paisa.gif)
+![Paisa Paisa](//blog.codecarrot.net/images/paisa-paisa.gif)
 
 ## Do it On Your Own
 
@@ -36,22 +36,22 @@ You can request your immediate social circle – you friends, family and colleag
 
 To avoid confusions, borrow limited amounts of money and ask your friends/colleagues to get legal advice to keep costs to a minimum should things go wrong.
 
-You can also consider crowdfunding your idea. There are [several online websites](http://techstory.in/crowdfunding-websites-india/) where you can pitch your idea. Investors decide to fund you in exchange for some sort of ownership in the business and expect a chunk of profit when you start making money.
+You can also consider crowdfunding your idea. There are [several online websites](//techstory.in/crowdfunding-websites-india/) where you can pitch your idea. Investors decide to fund you in exchange for some sort of ownership in the business and expect a chunk of profit when you start making money.
 
 ## Business Loans
 Borrowing loans from banks have become easier today. In the latest budget, Finance Minister Arun Jaitley increased the lending limit to small businesses to 2.4 trillion! This is the best time to avail loans for your business.
 
 You can approach the government to fund your idea. The government of India has introduced special schemes to finance small businesses.
 
-Some non-profit organizations or NGOs also [support small businesses financially](http://indiamicrofinance.com/list-government-schemes-ngos).
+Some non-profit organizations or NGOs also [support small businesses financially](//indiamicrofinance.com/list-government-schemes-ngos).
 
 ## Angel Investors & Venture Capitalists
 
 Angel investors and VCs are very similar. Both are interested in investing in your business, both want a share of your business and profits in return. The only difference is, VCs also want a seat in your office – they want a seat in your board or have some managing rights in your company.
 
-![Throwing Money](http://blog.codecarrot.net/images/throwing-money.gif)
+![Throwing Money](//blog.codecarrot.net/images/throwing-money.gif)
 
-Angel investors need to be registered with the Securities Exchange Commission of India and need to have a net worth of at least Rs.20 Lakhs. You can look for Angel Investors at forums like [Angellist](https://angel.co/) and [MicroVentures](http://www.microventures.com/). VCs are usually large companies that are ready to fund you. [Here](https://inc42.com/resources/top-47-active-venture-capital-firms-india-startups/) is a list of famous VCs in India.
+Angel investors need to be registered with the Securities Exchange Commission of India and need to have a net worth of at least Rs.20 Lakhs. You can look for Angel Investors at forums like [Angellist](//angel.co/) and [MicroVentures](//www.microventures.com/). VCs are usually large companies that are ready to fund you. [Here](//inc42.com/resources/top-47-active-venture-capital-firms-india-startups/) is a list of famous VCs in India.
 
 ## Incubators, Accelerators and Contests
 
@@ -61,11 +61,11 @@ Incubators and accelerators are involved in every stage of the small business’
 
 While Accelerators don’t offer office space and other physical amenities to a startup, accelerators do.
 
-[Here](https://thehackerstreet.com/top-50-incubators-accelerators-india/) is a list of popular Incubators and Accelerators in India.
+[Here](//thehackerstreet.com/top-50-incubators-accelerators-india/) is a list of popular Incubators and Accelerators in India.
 
 **Contests** are another way of securing funding for your business. This includes winning a reality show or a startup event, also probably organized by an angel or VC. A prize money is declared on winning a competition, which can be used as seed funding for your business.
 
-![Money Falling](http://blog.codecarrot.net/images/money-falling.gif)
+![Money Falling](//blog.codecarrot.net/images/money-falling.gif)
 
 Think your business is not worth taking the risk for? If these stupid businesses can make millions, so can yours!
 
