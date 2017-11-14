@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: How to Write a Blog Post People Want to Read
 date: 2017-09-03 00:00:46
-categories: tips
+categories: business
 tags: tips blogging
 description: Get people to read your blog post by following this method by writing a blog post which people actually want to read.
 image: prasanna-kumar-218699.jpg
