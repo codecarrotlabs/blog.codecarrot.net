@@ -6,7 +6,7 @@ date: 2017-06-28 05:00:00
 categories: podcast
 tags: podcast entrepreneur tricks tips
 description: Each week, our Founder & CEO - Yashu Mittal will be sharing one thing he’s learned throughout his career as a entrepreneur.
-image: //blog.codecarrot.net/images/codecarrot-podcast-banner.png
+image: codecarrot-podcast-banner.png
 ---
 
 It's summer time, so why not start a new podcast?
