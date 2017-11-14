@@ -71,4 +71,4 @@ One last thing. . . Some libraries that Rails depends on require a JavaScript ru
 
 ## P.S. Can we send you an email?
 
-Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. <a href="#subscribe">Subscribe Here</a>
+Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. [Subscribe Here](#subscribe).
