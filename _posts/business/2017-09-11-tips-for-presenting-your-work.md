@@ -3,7 +3,7 @@ layout: post
 title: Tips for presenting your work
 date: 2017-09-11 01:00:00
 categories: business
-tags: work tips clients
+tags: business work tips clients presentation
 description: You've put in the long hours day and night for the last week and it's time to finally present your concepts to the client.
 image: corporate-presentation-training-ethos3.jpg
 ---
