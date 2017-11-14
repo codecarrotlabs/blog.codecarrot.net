@@ -6,7 +6,7 @@ date: 2017-08-30 12:40:00
 categories: project-management
 tags: files folders working tips
 description: Files and folders are a key concept in almost any career. Whether you want to create websites or iPhone apps it's important to understand files and folders.
-image: //blog.codecarrot.net/images/sanwal-deen-93466.jpg
+image: sanwal-deen-93466.jpg
 ---
 
 Files and folders are a key concept in almost any career. Whether you want to create websites, make mobile apps, write music, or edit photos, it’s important to understand as much as you can about files and folders.
