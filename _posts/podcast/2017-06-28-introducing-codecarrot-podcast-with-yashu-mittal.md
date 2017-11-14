@@ -11,7 +11,7 @@ image: //blog.codecarrot.net/images/codecarrot-podcast-banner.png
 
 It's summer time, so why not start a new podcast?
 
-Each week, our Founder &amp; CEO - Yashu Mittal will be sharing one thing he’s learned throughout his career as a entrepreneur — from tips to make your team more productive and happier at work, lessons to help accelerate your learning, advice to help you build a business that your customers and employees will love, and more.
+Each week, our Founder & CEO - Yashu Mittal will be sharing one thing he’s learned throughout his career as a entrepreneur — from tips to make your team more productive and happier at work, lessons to help accelerate your learning, advice to help you build a business that your customers and employees will love, and more.
 
 So we’d go grab a chia (aka Tea), talk about a topic on the walk over, come back to our office, and sit down for 15-20 minutes to record a new episode.
 
