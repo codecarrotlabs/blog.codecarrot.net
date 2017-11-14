@@ -6,7 +6,7 @@ date: 2017-10-05 06:27:00
 categories: business
 tags: business facebook marketing
 description: Pixels are common across most advertising platforms. They're used to drop a cookie that will track visitors on your website so you can advertise to them later.
-image: //blog.codecarrot.net/images/pan-xiaozhen-254936.jpg
+image: pan-xiaozhen-254936.jpg
 ---
 
 I can’t be the only person who finds Facebook advertising confusing. All the features make it a very powerful advertising platform, but they also add complexity. One of the things I used to get particularly frustrated by is pixels.

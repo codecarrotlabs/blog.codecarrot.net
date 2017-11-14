@@ -6,7 +6,7 @@ date: 2017-09-29 13:27:00
 categories: business
 tags: instagram marketing business
 description: Instagram now has more than 600 million users. That’s a big audience. For comparison, Twitter only has 313 million monthly active users.
-image: //blog.codecarrot.net/images/instagram-ads-1024x535.jpg
+image: instagram-ads-1024x535.jpg
 ---
 
 Instagram now has more than [600 million users](//blog.instagram.com/post/154506585127/161215-600million). That’s a big audience. For comparison, Twitter only has [313 million monthly active users](//about.twitter.com/company).

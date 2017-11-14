@@ -6,7 +6,7 @@ date: 2017-10-05 13:27:00
 categories: business
 tags: business videos marketing
 description: You don't need to pay professional prices to do video marketing. Here's how you can make your own videos for free and in a short amount of time.
-image: //blog.codecarrot.net/images/steven-van-276631.jpg
+image: steven-van-276631.jpg
 ---
 
 When it comes to making videos to promote your business—to engage your audience, to showcase your products—professional quality usually demands professional prices.

@@ -6,7 +6,7 @@ date: 2017-09-10 15:02:00
 categories: business
 tags: webinar customers users subscribers lead money
 description: Running webinars? Here's how we've turned them into one of our top marketing channels. Learn the 6 keys to running a webinar that will make you money.
-image: //blog.codecarrot.net/images/webinar-blog-post-illustration.jpg
+image: webinar-blog-post-illustration.jpg
 ---
 
 Now I know what you might be thinking…

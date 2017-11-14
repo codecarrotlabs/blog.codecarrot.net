@@ -6,7 +6,7 @@ date: 2017-09-04 23:35:10
 categories: business
 tags: business marketing twitter social-marketing social-media
 description: Twitter is a powerful tool to promote their businesses. Here are 50 ways to increase your twitter followers and take advantage of the many benefits of Twitter.
-image: //blog.codecarrot.net/images/lots-of-twitter-logo-in-the-image.png
+image: lots-of-twitter-logo-in-the-image.png
 ---
 
 Twitter is a powerful tool for businesses when used correctly. It can help you generate leads, solidify your branding, and build connections with your prospects. The trouble is, if you have no followers, you can’t experience all these benefits.
