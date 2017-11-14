@@ -4,6 +4,7 @@ author: yashumittal
 title: Google Tools Every Online Business Should Know
 date: 2017-07-14 12:00:00
 categories: tips
+tags: tips google business smallbiz
 description: Here is the list of 5 amazing Google tools for your online business that can propel your business to success.
 image: google-tools-every-online-business.jpg
 ---

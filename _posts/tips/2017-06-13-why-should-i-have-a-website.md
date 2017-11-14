@@ -4,6 +4,7 @@ author: yashumittal
 title: Why should I have a website?
 date: 2017-06-13 12:00:00
 categories: tips
+tags: tips website
 description: By creating a website, you are creating an online presence. This allows you to connect with people that you might not otherwise be able to reach. Whether you’re making a basic website with contact
 image: why-should-i-have-a-website.png
 ---
