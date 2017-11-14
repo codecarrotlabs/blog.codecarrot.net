@@ -71,7 +71,7 @@ Think your business is not worth taking the risk for? If these stupid businesses
 
 **Bonus Point:** If you have a product or service you want to sell and have a low investment plan, don’t worry!
 
-Get your website development from CodeCarrot - Within your budget! <a onclick="event.preventDefault();drift.on('ready', function(api) {api.goToNewConversation();});">Contact us</a>.
+Get your website development from CodeCarrot - Within your budget! [Contact us](//www.codecarrot.net).
 
 ## P.S. Can we send you an email?
 
