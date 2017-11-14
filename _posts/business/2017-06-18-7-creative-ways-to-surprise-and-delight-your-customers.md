@@ -6,7 +6,7 @@ date: 2017-06-18 12:00:00
 categories: business
 tags: customer surprise creative marketing
 description: As the web continues to drastically change how we shop, entrepreneurs are finding a renewed faith in the power of a great customer experience.
-image: //blog.codecarrot.net/images/man-laughing-on-celebration.jpg
+image: man-laughing-on-celebration.jpg
 ---
 
 As the web continues to drastically change how we purchase the products and services, entrepreneurs are finding a renewed faith in the power of a great customer experience.

@@ -6,7 +6,7 @@ date: 2017-08-21 12:00:00
 categories: business
 tags: website jewelry online marketplace store online-store ecommerce
 description: If you sell jewelry online, chances are you do it through a marketplace like Etsy. It may be time to double your exposure — and sales — with your own store.
-image: //blog.codecarrot.net/images/women-wearing-jewellery.jpg
+image: women-wearing-jewellery.jpg
 ---
 
 If you sell jewelry online, chances are you use one of the many eCommerce platforms for makers, such as Flipkart or Amazon. So is it even worth spending the time and effort to create your own eCommerce website when you have so many big-name platforms to choose from? In a word, yes. Maintaining your own site is a fantastic way to sell jewelry online.
