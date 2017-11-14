@@ -4,7 +4,7 @@ author: yashumittal
 title: Effective Teamwork Starts with Shared Terms, Rules and Goals
 date: 2017-08-28 03:00:00
 categories: project-management
-tags: teamwork communication collaboration
+tags: project-management teamwork communication collaboration
 description: A project fails or succeeds based on stakeholders' engagement and communication. Learn how to make sure
 image: rawpixel-com-250087.jpg
 ---
