@@ -6,7 +6,7 @@ date: 2017-06-01 12:00:00
 categories: tips
 tags: tips websites business smallbusiness smallbiz
 description: How websites works and why domain name and hosting is important for your website. We'll run down the basics - without getting too technical, promise! - on web servers and domain names
-image: http://blog.codecarrot.net/images/how-websites-work.jpg
+image: //blog.codecarrot.net/images/how-websites-work.jpg
 ---
 
 We'll run down the basics - without getting too technical, promise! - on web servers and domain names, what they do for you and how to find what you need to get started. Before that,
@@ -33,13 +33,13 @@ It's called a server because it 'serves' up the right content when requested - t
 
 There are many companies and services that will rent you space on a server and host your website. Think of it like a bricks and mortar shop, you pay an ongoing hosting fee, which is a bit like paying rent, leaving them to take care the technical aspects of running a server so you don't have to.
 
-![Web Hosting like Real E-State](http://blog.codecarrot.net/images/web-hosting-like-real-e-state.png)
+![Web Hosting like Real E-State](//blog.codecarrot.net/images/web-hosting-like-real-e-state.png)
 
 **Online real E-State**
 
 Want an easy way to picture how your domain name and website work together? Real estate. Your website is your house, sitting on a piece of property with a street address. That property is known as your hosting account - the space on the Internet where you place the files that make up your website. People find those files (which you see as your website) by going to your online street address. This is your domain name.
 
-Hosting puts your website on the internet. Once your domain name is registered you can [buy cloud hosting](https://www.instamojo.com/codecarrot/cloud-hosting-plan/) from CodeCarrot only at **Rs.150/mo**.
+Hosting puts your website on the internet. Once your domain name is registered you can [buy cloud hosting](//www.instamojo.com/codecarrot/cloud-hosting-plan/) from CodeCarrot only at **Rs.150/mo**.
 
 ## Internet Protocol Address
 
@@ -49,7 +49,7 @@ Luckily, you don't need to understand what they're saying to each other, all you
 
 Your domain name is how potential customers will find you - the same way people would find our real world bakery: by the sign above its door.
 
-It's the thing you type into the browser window to get to any website. Like [www.codecarrot.net](http://www.codecarrot.net/) or www.yourbusiness.com. Let's take a minute to break it down.
+It's the thing you type into the browser window to get to any website. Like [www.codecarrot.net](//www.codecarrot.net/) or www.yourbusiness.com. Let's take a minute to break it down.
 
 Everything after the 'WWW dot' is actually what's known as the domain name. It's the part that lets people find your website, so pretty important.
 
