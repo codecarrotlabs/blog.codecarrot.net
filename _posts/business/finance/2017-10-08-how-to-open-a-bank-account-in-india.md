@@ -6,7 +6,7 @@ date: 2017-10-08 21:41:00
 categories: business
 tags: money business life-aboard india
 description: Are you planning on moving to India permanently? Or perhaps you often travel there for pleasure? India has long been popular as a holiday destination, and with good reason. Not only are there lots of different cultures to experience and places to explore, it’s also incredibly beautiful.
-image: //blog.codecarrot.net/images/taj-mahal.jpg
+image: taj-mahal.jpg
 ---
 
 *Are you planning on moving to India permanently? Or perhaps you often travel there for pleasure? India has long been popular as a holiday destination, and with good reason. Not only are there lots of different cultures to experience and places to explore, it’s also incredibly beautiful.*

@@ -6,7 +6,7 @@ date: 2017-09-12 19:00:00
 categories: business
 tags: launch worksheet download website-review small-business smallbiz
 description: Take the time at least once a year to audit your website infrastructure and content strategy.
-image: //blog.codecarrot.net/images/hope-house-press-127593.jpg
+image: hope-house-press-127593.jpg
 ---
 
 If you hadn’t noticed, we devote a lot of space in our blogs to building websites. And it’s not just because [CodeCarrot is team of web and mobile application developer](//codecarrot.net/). It’s because we know small businesses today need a strong online presence to compete — and that (usually) starts with an effective website. We know that because we’ve owned small businesses ourselves, and we’ve talked to multitudes of entrepreneurs who’ve shared the same basic storyline:
