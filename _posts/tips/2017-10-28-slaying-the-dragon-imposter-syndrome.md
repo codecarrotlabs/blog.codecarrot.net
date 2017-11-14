@@ -4,7 +4,7 @@ author: yashumittal
 title: Slaying the Dragon - Imposter Syndrome
 date: 2017-10-28 21:56:00
 categories: tips
-tags: tips
+tags: tips slaying imposter imposter-syndrome
 description: Technology is changing at a ridiculous pace, and while you might feel like you’re the only person falling behind, the truth is no one person is on top of it all. Instead, get to know Imposter Syndrome beyond the buzzword so you can conquer it.
 image: imposter_darker.png
 ---

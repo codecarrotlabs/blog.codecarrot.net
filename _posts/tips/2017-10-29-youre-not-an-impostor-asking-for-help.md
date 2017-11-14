@@ -4,7 +4,7 @@ author: yashumittal
 title: You’re Not an Impostor - Asking for Help
 date: 2017-10-29 02:05:10
 categories: tips
-tags: tips
+tags: tips imposter
 description: Not knowing something doesn't make you a bad programmer. It doesn't mean you shouldn't be in technology or writing code. And it absolutely doesn't make you an impostor. Here are a few ways to find solutions.
 image: 9ALGHAVFD6.jpg
 ---
