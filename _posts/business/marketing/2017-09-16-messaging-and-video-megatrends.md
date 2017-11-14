@@ -6,7 +6,7 @@ date: 2017-09-16 01:40:00
 categories: vlog
 tags: vlog video messaging video investment megatrends marketer
 description: With billions now using messaging, and billions of videos being watched everyday, marketing teams need to adapt. Here are some best practices that can help
-image: //blog.codecarrot.net/images/trends-1875d66c4a.jpg
+image: trends-1875d66c4a.jpg
 ---
 
 With billions now using messaging, and billions of videos being watched everyday, marketing teams need to adapt.

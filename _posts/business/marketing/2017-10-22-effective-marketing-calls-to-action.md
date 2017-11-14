@@ -6,7 +6,7 @@ date: 2017-10-22 18:10:00
 categories: business
 tags: marketing business call-to-action
 description: Calls to action should be compelling with an eye catching and easy-to-understand look. However, they should also offer the promise of great content or services.
-image: //blog.codecarrot.net/images/0.-Call-to-Actions-1024x682.jpg
+image: 0.-Call-to-Actions-1024x682.jpg
 ---
 
 Learn some of the strategy used to deliver effective marketing calls to action.

@@ -6,7 +6,7 @@ date: 2017-09-06 12:03:00
 categories: business
 tags: marketing business smallbiz inbound-marketing
 description: Marketing strategies, techniques, trends and methods have changed rapidly and for the better over years. These changes have expanded the horizon of inventions in this space and has strengthened the customer-brand relationship.
-image: //blog.codecarrot.net/images/msadetrabaj.jpg
+image: msadetrabaj.jpg
 ---
 
 [Marketing strategies](/how-to-become-a-digital-marketing-expert-through-blogging), techniques, trends and methods have changed rapidly and for the better over years. These changes have expanded the horizon of inventions in this space and has strengthened the customer-brand relationship.

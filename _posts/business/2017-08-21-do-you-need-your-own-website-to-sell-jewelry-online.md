@@ -6,7 +6,7 @@ date: 2017-08-21 12:00:00
 categories: business
 tags: website jewelry online marketplace store online-store ecommerce
 description: If you sell jewelry online, chances are you do it through a marketplace like Etsy. It may be time to double your exposure — and sales — with your own store.
-image: http://blog.codecarrot.net/images/women-wearing-jewellery.jpg
+image: //blog.codecarrot.net/images/women-wearing-jewellery.jpg
 ---
 
 If you sell jewelry online, chances are you use one of the many eCommerce platforms for makers, such as Flipkart or Amazon. So is it even worth spending the time and effort to create your own eCommerce website when you have so many big-name platforms to choose from? In a word, yes. Maintaining your own site is a fantastic way to sell jewelry online.
@@ -75,7 +75,7 @@ Perhaps one of the most important considerations when choosing your domain name 
 
 ## 2. Create your eCommerce store
 
-It's now time to get your [website developed](http://codecarrot.net/) where you can sell jewelry online. Start by choosing a [host](http://codecarrot.net/hosting.html). You can hire [CodeCarrot development team](http://codecarrot.net/) to do the heavy lifting for developing your eCommerce website for you.
+It's now time to get your [website developed](//codecarrot.net/) where you can sell jewelry online. Start by choosing a [host](//codecarrot.net/hosting.html). You can hire [CodeCarrot development team](//codecarrot.net/) to do the heavy lifting for developing your eCommerce website for you.
 
 The two main things you will need are payment gateways and an SSL certificate.
 
@@ -95,11 +95,11 @@ Even if you have a payment gateway set up with a secure third-party provider, yo
 
 ## 3. Fill your jewelry cases
 
-![Sell Jewelry Online Ring](http://blog.codecarrot.net/images/sell-jewelry-online-ring.jpg)
+![Sell Jewelry Online Ring](//blog.codecarrot.net/images/sell-jewelry-online-ring.jpg)
 
 Now that your store is set up, it’s time to fill it with your beautiful, handmade jewelry! Be sure to use well-lit, high-resolution photos to highlight your pieces. Add in compelling sales copy and use language that will resonate with your ideal customer. Try to incorporate relevant keywords when you can to increase your chances of being found in search results.
 
-Once your shop is set up, you’re ready to go! Be sure to test it out to make sure the checkout process works and everything flows smoothly. Before you know it, you could find yourself saying goodbye to the big eCommerce platforms. And hello to your own jewelry store [developed by CodeCarrot](http://codecarrot.net/)
+Once your shop is set up, you’re ready to go! Be sure to test it out to make sure the checkout process works and everything flows smoothly. Before you know it, you could find yourself saying goodbye to the big eCommerce platforms. And hello to your own jewelry store [developed by CodeCarrot](//codecarrot.net/)
 
 ## P.S. Can we send you an email?
 

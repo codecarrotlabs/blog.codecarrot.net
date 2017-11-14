@@ -6,7 +6,7 @@ date: 2017-07-13 12:00:00
 categories: business
 tags: referral-program marketing sell products customer
 description: Do you want your customers to sell your products and services for your business? Have you been thinking of starting a refer and earn program for your business?
-image: http://blog.codecarrot.net/images/speaking-referral-with-loud-speaker.png
+image: //blog.codecarrot.net/images/speaking-referral-with-loud-speaker.png
 ---
 
 Have you been thinking of starting a refer and earn program for your business but aren’t sure about where to get started? We have you covered! Here is a beginners’ guide to a refer and earn scheme that will work for your business.
@@ -64,7 +64,7 @@ Community referral programs build emotion for your brand. In such a program, you
 
 A direct referral rewards program is where an existing customer helps sign up another new customer and both get a reward. This is by far, the most popular form of referral program.
 
-Did we mentioned that you can make your business online with a free website with [CodeCarrot](http://www.codecarrot.net/).
+Did we mentioned that you can make your business online with a free website with [CodeCarrot](//www.codecarrot.net/).
 
 GoOnline with your own website? <a onclick="event.preventDefault();drift.on('ready', function(api) {api.goToNewConversation();});">Get started today</a>!
 
