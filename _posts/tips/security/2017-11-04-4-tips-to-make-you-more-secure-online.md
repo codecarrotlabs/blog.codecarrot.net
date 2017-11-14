@@ -47,7 +47,7 @@ You should add 2FA to all of your most sensitive accounts if it is available. In
 
 ## 4. Understand how you’re being tracked online
 
-Your browser activity is constantly being tracked. Learn what services are tracking your activity by visiting [panopticlick.eff.org](panopticlick.eff.org/) and installing the PrivacyBadger extension.
+Your browser activity is constantly being tracked. Learn what services are tracking your activity by visiting [panopticlick.eff.org](//panopticlick.eff.org) and installing the PrivacyBadger extension.
 
 ![panopticlick.eff](//blog.codecarrot.net/images/panopticlick.eff.png)
 
