@@ -6,7 +6,7 @@ date: 2017-10-05 02:26:00
 categories: business
 tags: business entrepreneur startup success
 description: The most fundamental thing which one has to have if s/he wants to perform any task is that he should have necessary skills and tools to deliver it.
-image: //blog.codecarrot.net/images/neis-acc-small-business-training.jpg
+image: neis-acc-small-business-training.jpg
 ---
 
 <blockquote>
