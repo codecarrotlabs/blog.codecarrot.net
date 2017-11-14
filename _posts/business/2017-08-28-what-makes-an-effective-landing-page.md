@@ -6,7 +6,7 @@ date: 2017-08-28 02:30:00
 categories: business
 tags: landing-page page marketing
 description: There’s no guaranteed formula for a flawless landing page, but it’s not hard to see that the best and most effective sites have a few things in common.
-image: http://blog.codecarrot.net/images/rocket.jpg
+image: //blog.codecarrot.net/images/rocket.jpg
 ---
 
 It takes a mere fraction of a second for a visitor to evaluate and form an opinion on your website (and as a result, your brand). Bearing in mind that itty-bitty detail, making the perfect first impression should be a top priority. So what does it take to win over these potential leads? A quality landing page that provides an awesome experience.
@@ -15,7 +15,7 @@ There’s no guaranteed formula for building a flawless landing page, but it’s
 
 **Seven Must-Have Components of a Flawless Landing Page:**
 
-1. **Compelling imagery:** The world runs on visuals! Choose [high-quality, attention-grabbing images](https://unsplash.com) or videos that are relevant to your cause. Bonus points if they spark an emotion!
+1. **Compelling imagery:** The world runs on visuals! Choose [high-quality, attention-grabbing images](//unsplash.com) or videos that are relevant to your cause. Bonus points if they spark an emotion!
 
 2. **Attractive Design:** Keep your design clean and simple, yet impactful. Color matters. Pick a scheme that sets the mood, and pair that with a seamless layout. Consider whitespace and legibility — give your content room to breathe.
 

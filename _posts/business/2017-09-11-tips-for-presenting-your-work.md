@@ -5,7 +5,7 @@ date: 2017-09-11 01:00:00
 categories: business
 tags: work tips clients
 description: You've put in the long hours day and night for the last week and it's time to finally present your concepts to the client.
-image: http://blog.codecarrot.net/images/corporate-presentation-training-ethos3.jpg
+image: //blog.codecarrot.net/images/corporate-presentation-training-ethos3.jpg
 ---
 
 You’ve put in the long hours day and night for the last week and it’s time to finally present your concepts to the client. Your concepts are solid and you feel it’s exactly what the client and, more importantly, the audience needs. Don’t let a bad presentation take your beautiful work and turn it into a mediocre mess.

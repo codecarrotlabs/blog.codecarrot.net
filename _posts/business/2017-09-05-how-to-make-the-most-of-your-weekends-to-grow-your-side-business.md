@@ -6,7 +6,7 @@ date: 2017-09-05 17:00:00
 categories: business
 tags: smallbiz grow weekends
 description: Building your business on the side is not easy. You come home after a long day of work, you spend the little time you have with your family and friends, and you
-image: http://blog.codecarrot.net/images/249h.jpg
+image: //blog.codecarrot.net/images/249h.jpg
 ---
 
 Building your business on the side is not easy. You come home after a long day of work, you spend the little time you have with your family and friends, and you try to jam in a productive session, working on your side business before going to bed.
@@ -31,7 +31,7 @@ Whenever you think up a task or project, but can’t make time for it during the
 
 Think up a great, actionable idea for your business?  Put it in your “next actions” list. Come up with a new marketing idea that will take several hours to implement? Put it in your “next actions list.”
 
-![Next action list](http://blog.codecarrot.net/images/nextactionslist.jpg)
+![Next action list](//blog.codecarrot.net/images/nextactionslist.jpg)
 
 At the end of the week, organize these ideas, tasks, and projects into timeslots throughout your weekends, then pull each task from your next actions list and move  it into your calendar for the weekend. (More on this in the next section)
 
@@ -91,17 +91,17 @@ On paper, sure, but in reality, there are a lot of distractions and excuses to k
 
 My Saturdays are usually the most productive day of my weekends. I like to put myself into “Airplane Mode”. Much like how your phone’s Airplane Mode which disables all of your phone’s connectivity to the internet, I do the same thing by cutting myself off from distractions.
 
-![Yashu Mittal mobile phone screenshot](http://blog.codecarrot.net/images/yashumittal-airplane-mode-mobile-screenshot.png)
+![Yashu Mittal mobile phone screenshot](//blog.codecarrot.net/images/yashumittal-airplane-mode-mobile-screenshot.png)
 
 Though it’s unlikely you’ll be able to get much done without the internet there are tools you can use to help keep you from wandering off and browsing Facebook, while staying connected to the internet.
 
 These are the Chrome extensions I use to put myself in “Airplane Mode” every Saturday.
 
-* **[StayFocused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en)** - Block out the sites that steal your time so that you can work on what matters.
-* **[RescueTime](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-chr/bdakmnplckeopfghnlpocafcepegjeap)** - Track all your time on the internet to later review where you waste the most time.
-* **[News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)** - Sometimes, I can’t block Facebook using a tool like StayFocused because I use Facebook to manage my ads and pages. However, with News Feed Eradicator, my news feed goes from distraction filled mess to motivational or inspirational quote.
-* **[Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)** - This extension replaces your new tab screen with an inspirational photo and a reminder of your most important task for the day.
-* **[Simple Pomodoro](https://chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp)** - If you’re not familiar with The Pomodoro Technique, it helps you work in small intervals of 25 minutes of getting stuff done and a short 5 or 10 minute break. Instead of plowing through without taking a break, Simple Pomodoro is a timer that will alert you when it’s time to take a break and when it’s time to get back to work.
+* **[StayFocused](//chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en)** - Block out the sites that steal your time so that you can work on what matters.
+* **[RescueTime](//chrome.google.com/webstore/detail/rescuetime-for-chrome-chr/bdakmnplckeopfghnlpocafcepegjeap)** - Track all your time on the internet to later review where you waste the most time.
+* **[News Feed Eradicator](//chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)** - Sometimes, I can’t block Facebook using a tool like StayFocused because I use Facebook to manage my ads and pages. However, with News Feed Eradicator, my news feed goes from distraction filled mess to motivational or inspirational quote.
+* **[Momentum](//chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)** - This extension replaces your new tab screen with an inspirational photo and a reminder of your most important task for the day.
+* **[Simple Pomodoro](//chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp)** - If you’re not familiar with The Pomodoro Technique, it helps you work in small intervals of 25 minutes of getting stuff done and a short 5 or 10 minute break. Instead of plowing through without taking a break, Simple Pomodoro is a timer that will alert you when it’s time to take a break and when it’s time to get back to work.
 
 ### Sunday
 
@@ -134,7 +134,7 @@ Writing your goals down helps keep you accountable and brings you clarity. How d
 
 Stop dreading Mondays every Sunday night. Set the tone for an amazing week. Look forward to getting up early, tackling your morning routine and getting home after your 9-to-5 to work on your side business. Make your Sunday nights amazing!
 
-Watch a few motivational videos on YouTube or an inspiring Ted Talk, read a Shopify success story, or [learn something new](http://blog.codecarrot.net/) before going to bed. You don’t have to over-stimulate yourself, just put yourself in the right mindset before going to bed.
+Watch a few motivational videos on YouTube or an inspiring Ted Talk, read a Shopify success story, or [learn something new](//blog.codecarrot.net/) before going to bed. You don’t have to over-stimulate yourself, just put yourself in the right mindset before going to bed.
 
 ## Rinse and Repeat
 

@@ -6,7 +6,7 @@ date: 2017-08-31 00:23:00
 categories: business
 tags: frontend costs website money
 description: The most popular reasons for the dropping productivity and increasing costs of frontend maintenance. Stop spending so much time and money on app maintenance.
-image: http://blog.codecarrot.net/images/igor-ovsyannykov-342517.jpg
+image: //blog.codecarrot.net/images/igor-ovsyannykov-342517.jpg
 ---
 
 Irrespective of how much experience you have with software development, you are probably aware that creating an app costs time and money. Not so many people, though, realize that maintenance and further development after an app is deployed can sometimes be quite expensive too. It is not uncommon to see a gradual decrease in performance of your development team over time, especially after they meet the first or second deadline.
@@ -43,4 +43,4 @@ Automatic tests are the essential ingredient of refactoring and maintenance. Any
 
 There are a few of reasons why the maintenance of your app might be expensive, and you can actually prevent most of them from happening. Very often, it’s a matter of implementing efficient processes from the very beginning. The next thing is to make sure your team delivers only top-quality code, regardless of how much time is left until the deadline. Obviously, we could name a host of other reasons, but having the above bases covered will help you solve the majority of issues.
 
-Spending too much on your app maintenance? [Contact us](http://codecarrot.net/)
+Spending too much on your app maintenance? [Contact us](//codecarrot.net/)
