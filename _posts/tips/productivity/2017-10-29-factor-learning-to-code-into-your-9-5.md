@@ -6,7 +6,7 @@ date: 2017-10-29 00:01:00
 categories: tips
 tags: tips
 description: Whether your goal is to level up your existing career or embark on a new one, you’re probably going to need to fit learning to code around your 9-5 job. Here are some tips to help you get started.
-image: http://blog.codecarrot.net/images/StockSnap_K1GVTNT1GJ.jpg
+image: //blog.codecarrot.net/images/StockSnap_K1GVTNT1GJ.jpg
 ---
 
 **So if you’re ready to make the commitment, how should you factor learning to code into your 9-5?**
