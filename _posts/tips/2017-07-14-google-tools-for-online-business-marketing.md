@@ -5,7 +5,7 @@ title: Google Tools Every Online Business Should Know
 date: 2017-07-14 12:00:00
 categories: tips
 description: Here is the list of 5 amazing Google tools for your online business that can propel your business to success.
-image: //blog.codecarrot.net/images/google-tools-every-online-business.jpg
+image: google-tools-every-online-business.jpg
 ---
 
 Google rules! Wouldn’t you say? The search engine giant processes more than 40,000 search queries every second! While the entire world uses Google to satiate its curiosity, it’s a lot more than just a search engine. There are a whole bunch of Google tools that your online business can use _**(for free)**_ and help more people discover you.

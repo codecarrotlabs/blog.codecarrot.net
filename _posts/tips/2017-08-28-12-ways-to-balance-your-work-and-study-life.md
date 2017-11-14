@@ -5,7 +5,7 @@ title: 12 Ways to Balance Your Work and Study Life
 date: 2017-08-28 02:51:00
 categories: tips
 description: Let's be honest, web developers and designers aren't particularly known for maintaining great work/life balance. Images of hackathons and intense work sessions come to mind easily.
-image: //blog.codecarrot.net/images/jon-flobrant-1362.jpg
+image: jon-flobrant-1362.jpg
 ---
 
 Let’s be honest, web developers and designers aren’t particularly known for maintaining great work/life balance. Images of hackathons and intense work sessions come to mind easily. Too often people buy into the idea that “more” means “better” when in reality there is only so much quality work a normal person can do in a day/week/month/year. Why not try to be more intentional about your approach to finding balance?
