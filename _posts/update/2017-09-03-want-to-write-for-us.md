@@ -5,7 +5,7 @@ title: Want to Write for Us? Here's What to Publish (and we pay!)
 date: 2017-09-04 12:00:00
 categories: update
 description: Got business/design/dev/growth/project-management/tips advice to share? Here’s what we look for from contributors.
-image: //blog.codecarrot.net/images/rawpixel-com-351765.jpg
+image: rawpixel-com-351765.jpg
 ---
 
 Is your writing goal to get published by one of your favorite websites?
