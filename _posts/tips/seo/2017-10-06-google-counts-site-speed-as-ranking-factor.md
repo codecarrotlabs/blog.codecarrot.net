@@ -6,7 +6,7 @@ date: 2017-10-06 20:46:10
 categories: tips
 tags: tips ranking-factor website-speed google website site seo
 description: Search Engine Land is the leading industry source for daily, must-read news and in-depth analysis about search engine technology.
-image: //blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.jpg
+image: ac1fafb4cef5bb6bf83b03a08c3d20d3.jpg
 ---
 
 Site speed is now a ranking factor in Google’s algorithm, and is already in place for U.S. searchers. But Google also cautions web site owners not to sacrifice relevance in the name of faster web pages, and even says this new ranking factor will impact very few queries.

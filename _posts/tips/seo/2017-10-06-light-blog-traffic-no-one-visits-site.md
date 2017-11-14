@@ -6,7 +6,7 @@ date: 2017-10-06 19:01:10
 categories: code
 tags: blog traffic website-speed visitors website site seo
 description: You put so much time and energy into your blog, but what happens when no one reads it? Here's how to boost blog traffic and gain new readers.
-image: //blog.codecarrot.net/images/man-sitting-alone-in-stadium.jpg
+image: man-sitting-alone-in-stadium.jpg
 ---
 
 If you have a blog website and want to light up your blog traffic, go ahead read the article but if you don't have and want to get one, [click here](//codecarrot.net/).
