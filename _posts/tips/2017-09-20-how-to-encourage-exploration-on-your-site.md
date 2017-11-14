@@ -5,7 +5,7 @@ title: How to encourage exploration on your site?
 date: 2017-09-20 01:20:00
 categories: tips
 description: YouTube has added a really nice touch to their site that encourages people to explore and view other videos. This has the obvious financial benefit
-image: //blog.codecarrot.net/images/a-cartoon-exploring-in-snow.jpg
+image: a-cartoon-exploring-in-snow.jpg
 ---
 
 YouTube has added a really nice touch to their site that encourages people to explore and view other videos. This has the obvious financial benefit to them of increasing video and page views, thus increasing advertising revenue.

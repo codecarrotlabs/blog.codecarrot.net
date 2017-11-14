@@ -6,7 +6,7 @@ date: 2017-09-27 17:35:10
 categories: tips
 tags: products marketing smartphone photos
 description: Before you spend money to rent a DSLR camera and a lens for your product photography, consider using the quality
-image: //blog.codecarrot.net/images/iphone-cam.jpg
+image: iphone-cam.jpg
 ---
 
 Before you spend money to rent a DSLR camera and a lens for your product photography, consider using the quality camera that you carry around with you all the time: your smartphone.
