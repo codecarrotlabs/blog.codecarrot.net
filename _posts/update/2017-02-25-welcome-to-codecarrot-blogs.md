@@ -8,7 +8,7 @@ description: We are very excited to announce the launch of CodeCarrot blog, an A
 image: welcome-to-codecarrot-blogs.png
 ---
 
-We are very excited to announce the launch of **[CodeCarrot blog](/blog.codecarrot.net)**, an Agile team with excellent track record & great communication skills. We love Web and mobile application development! Ping us!
+We are very excited to announce the launch of **[CodeCarrot blog](/)**, an Agile team with excellent track record & great communication skills. We love Web and mobile application development! Ping us!
 
 More than half of the population of the world is doing business online, whether it's a industrial business or selling handmade stuff in the market.
 
