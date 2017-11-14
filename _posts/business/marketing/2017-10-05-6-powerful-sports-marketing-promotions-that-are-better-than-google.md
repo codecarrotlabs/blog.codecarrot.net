@@ -6,7 +6,7 @@ date: 2017-10-05 19:27:00
 categories: business
 tags: business sports-marketing marketing google promotions
 description: Yet some organizations have now worked out how to get great coverage without relying on a finicky media, and they're doing it in a unique and powerful way.
-image: http://blog.codecarrot.net/images/AAEAAQAAAAAAAAgjAAAAJGZlYWU1YzJlLWNhZmYtNDJmNy05M2MwLTRmOWE1ZjkwOTYzNA.jpg
+image: //blog.codecarrot.net/images/AAEAAQAAAAAAAAgjAAAAJGZlYWU1YzJlLWNhZmYtNDJmNy05M2MwLTRmOWE1ZjkwOTYzNA.jpg
 ---
 
 Anyone who has tried to promote a new product will know how difficult it is to obtain media coverage.

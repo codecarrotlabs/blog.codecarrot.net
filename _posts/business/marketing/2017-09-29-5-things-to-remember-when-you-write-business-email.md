@@ -6,7 +6,7 @@ date: 2017-09-29 02:41:00
 categories: business
 tags: email business email-marketing marketing
 description: Did you realize that your company's image is greatly impacted by how you write business email? Consider the five elements that make up a recipe for success!
-image: http://blog.codecarrot.net/images/write-business-email.jpg
+image: //blog.codecarrot.net/images/write-business-email.jpg
 ---
 
 Did you know that a huge part of your business branding efforts are related to how you write business email? We’ve all had those messages land in our inboxes where the sender didn’t make the right choices and we react accordingly — with a quick delete.
