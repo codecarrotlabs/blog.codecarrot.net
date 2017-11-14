@@ -6,7 +6,7 @@ date: 2017-10-11 20:00:00
 categories: tips
 tags: tips error
 description: One of the most common errors you can come across while browsing the Internet is a 404 or Page Not Found error. This error often occurs when you follow a broken link or if you type in a website address that doesn’t exist.
-image: http://blog.codecarrot.net/images/4042.png
+image: //blog.codecarrot.net/images/4042.png
 ---
 
 One of the most common errors you can come across while browsing the Internet is a 404 or Page Not Found error. This error often occurs when you follow a broken link or if you type in a website address that doesn’t exist.
@@ -23,30 +23,30 @@ Here are a couple examples of creative 404 pages.
 
 Some 404 pages may not mention the number 404 at all, but rather include more user-friendly language such as:
 
-![404](http://blog.codecarrot.net/images/dribbble_404.gif)
+![404](//blog.codecarrot.net/images/dribbble_404.gif)
 
-![404](http://blog.codecarrot.net/images/octupus_404.jpg)
+![404](//blog.codecarrot.net/images/octupus_404.jpg)
 
-![404](http://blog.codecarrot.net/images/404.png)
+![404](//blog.codecarrot.net/images/404.png)
 
-![404](http://blog.codecarrot.net/images/404_blog_image.png)
+![404](//blog.codecarrot.net/images/404_blog_image.png)
 
-![404](http://blog.codecarrot.net/images/404_dribbble.gif)
+![404](//blog.codecarrot.net/images/404_dribbble.gif)
 
-![404](http://blog.codecarrot.net/images/404-01.png)
+![404](//blog.codecarrot.net/images/404-01.png)
 
-![404](http://blog.codecarrot.net/images/404-page.gif)
+![404](//blog.codecarrot.net/images/404-page.gif)
 
-![404](http://blog.codecarrot.net/images/404-in-app.gif)
+![404](//blog.codecarrot.net/images/404-in-app.gif)
 
 <blockquote>
 Page Not Found
 Sorry, we couldn’t find the page you requested. Would you like to search our website or go to the homepage?
 </blockquote>
 
-The status code 404 is one of the many [HTTP response codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) that exist from 100 to 599. Web browsers like Chrome and servers use codes like these to communicate when displaying websites. They are also useful when troubleshooting issues.
+The status code 404 is one of the many [HTTP response codes](//en.wikipedia.org/wiki/List_of_HTTP_status_codes) that exist from 100 to 599. Web browsers like Chrome and servers use codes like these to communicate when displaying websites. They are also useful when troubleshooting issues.
 
-Each 3-digit code corresponds to a specific status or error. The official status code registry is maintained by [IANA](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml). For organizational purposes, the first digit of a status code explains the category of the code:
+Each 3-digit code corresponds to a specific status or error. The official status code registry is maintained by [IANA](//www.iana.org/assignments/http-status-codes/http-status-codes.xhtml). For organizational purposes, the first digit of a status code explains the category of the code:
 
 1. Informational
 2. Success
