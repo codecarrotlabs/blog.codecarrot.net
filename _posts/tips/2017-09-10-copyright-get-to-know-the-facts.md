@@ -4,6 +4,7 @@ author: yashumittal
 title: Copyright - Get to Know the Facts
 date: 2017-09-10 22:00:00
 categories: tips
+tips: tips copyright
 description: They say that imitation is the sincerest form of flattery, and its not uncommon for successful sites and designers to find their work being appropriated by others, but when the hard work you've put into a project is blatantly ripped-off
 image: copyright-1.jpg
 ---

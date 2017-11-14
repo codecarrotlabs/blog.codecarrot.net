@@ -4,6 +4,7 @@ author: yashumittal
 title: Top 5 Tips for Learning
 date: 2017-08-23 10:00:00
 categories: tips
+tags: tips learning
 description: Learning is hard. It takes time and effort and is a never ending pursuit. So how do we make the most out of our time and effort? Here are my Top 5 Tips for Learning.
 image: pexels-photo-68562.jpeg
 ---

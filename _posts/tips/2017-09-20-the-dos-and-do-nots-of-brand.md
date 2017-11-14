@@ -4,7 +4,7 @@ author: yashumittal
 title: The DOs and DO NOTs of Brand
 date: 2017-09-20 20:35:10
 categories: tips
-tags: branding
+tags: tips branding
 description: Brand is one of those things that often falls by the wayside with developers. Developers are constantly creating amazing technologies and incredible platforms that are fundamentally changing the way marketing and branding works.
 image: bigstock-Brand-Branding-Marketing-Strat-90154346.jpg
 ---
