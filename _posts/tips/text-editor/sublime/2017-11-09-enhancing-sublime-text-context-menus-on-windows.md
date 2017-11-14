@@ -6,7 +6,7 @@ date: 2017-11-09 20:22:30
 categories: tips
 tags: tips coding sublime-text sublime windows text-editor
 description: Sublime Text, by default, will give you the option to add Open with Sublime Text to the context menu when right-clicking any file. This is great and I use it a lot, make sure you've selected it during the install before starting this.
-image: //blog.codecarrot.net/images/open-as-sublime-project.png
+image: open-as-sublime-project.png
 ---
 
 It's a great code editor. It can be an IDE if you want it to be, but at it's heart it's a highly extensible text editor. But still it lacks behind one important feature to open project in Sublime Text from menus.

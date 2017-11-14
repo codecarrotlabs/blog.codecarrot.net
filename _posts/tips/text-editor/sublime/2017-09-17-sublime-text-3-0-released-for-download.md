@@ -6,7 +6,7 @@ date: 2017-09-17 17:50:30
 categories: tips
 tags: tips text-editor developing programing sublime sublime-text coding
 description: There is some good news for lovers of the popular code editor, Sublime Text, as it has released the new final version of Sublime
-image: //blog.codecarrot.net/images/1582459dribbble_shot.png
+image: 1582459dribbble_shot.png
 ---
 
 There is some good news for lovers of the popular code editor, Sublime Text, as it has released the new final version of Sublime Text 3.0 Build 3143, which is now available for download on Windows, Linux and MacOS. In comparison to the previous release, the program is supposed to be better in every way, which makes it easy for everyday people to work with code.
