@@ -6,7 +6,7 @@ date: 2017-11-09 22:27:40
 categories: code
 tags: coding 
 description: The very real danger with commenting code is that it becomes outdated while the codebase rapidly evolves. And out of date comments are far worse than no comments. So what's the alternative?
-image: //blog.codecarrot.net/images/1425999552-1412068618.jpg
+image: 1425999552-1412068618.jpg
 ---
 
 The very real danger with commenting code is that it becomes outdated while the codebase rapidly evolves. And out of date comments are far worse than no comments. So what's the alternative?
