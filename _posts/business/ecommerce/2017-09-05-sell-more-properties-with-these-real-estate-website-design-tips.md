@@ -6,10 +6,10 @@ date: 2017-09-05 00:35:00
 categories: business
 tags: estate real-estate website design properties
 description: Attention real estate agents - Want more solid leads? Use these real estate website design tips to create your own lead generation machine.
-image: http://blog.codecarrot.net/images/sell-more-properties.jpg
+image: //blog.codecarrot.net/images/sell-more-properties.jpg
 ---
 
-If you don't have a website for your business. You can get is [developed from Codecarrot](http://codecarrot.net/).
+If you don't have a website for your business. You can get is [developed from Codecarrot](//codecarrot.net/).
 
 Your website is more than just a piece of web real estate. Properly built and maintained, a site can help you bring in more clients, more sales and greater earnings. It gives potential customers a way to explore what you have to offer, and you a way to sell your services to those who are looking for them. Your real estate website design is a dynamic representation of you, your team or your brokerage, and should be crafted with care and strategy.
 
@@ -45,4 +45,4 @@ However you lay out your real estate website design, make sure your contact info
 It’s also a good idea to have a clear and concise contact page that is accessible through the main navigation of the website.
 </div>
 
-Don't have a website for your business, no worries, we will [create it for you](http://codecarrot.net/).
+Don't have a website for your business, no worries, we will [create it for you](//codecarrot.net/).
