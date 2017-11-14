@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: How to Start a Blog - A Step-by-Step Guide for Writers
 date: 2017-09-03 00:00:18
-categories: tips
+categories: business
 tags: tips blogging writers
 description: Starting a blog can seem like a lot of work, but we’ve made it easy with this step-by-step guide just for writers. Here’s how to start a blog from scratch.
 image: braden-collum-87874.jpg
