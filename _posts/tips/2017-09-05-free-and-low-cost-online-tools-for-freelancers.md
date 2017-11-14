@@ -5,7 +5,7 @@ title: Free and low-cost online tools for freelancers
 date: 2017-09-05 15:28:10
 categories: tips
 description: Stay head and neck above the competition. Use these online tools for marketing consultants and make your freelance work quick and easy.
-image: //blog.codecarrot.net/images/adam-sherez-228582.jpg
+image: adam-sherez-228582.jpg
 ---
 
 You’ve done your due diligence, looked at the numbers, written a business plan, and set up a legal entity. You’re ready to take the leap as an independent marketing consultant. Yet without corporate accounting, IT and other departments behind you, the task of running your own business falls completely on your shoulders. Good news? There are multitudes of free and low-cost online tools for marketing consultants available. Here are some of my favorites.

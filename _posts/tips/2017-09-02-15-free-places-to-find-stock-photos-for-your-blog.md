@@ -5,7 +5,7 @@ title: 15 Free Places to Find Stock Photos for Your Blog
 date: 2017-09-02 12:00:00
 categories: tips
 description: Finding photos for your niche blog can be challenging. Here are four awesome (and free) places to search.
-image: //blog.codecarrot.net/images/john-salzarulo-27847.jpg
+image: john-salzarulo-27847.jpg
 ---
 
 Whether you’re blogging for yourself or a client, I’m sure you know the importance of images.
