@@ -4,6 +4,7 @@ author: yashumittal
 title: Introducing CodeCarrot Profiles - A Whole New Way To Connect With People
 date: 2017-06-24 12:00:00
 categories: update
+tags: update codecarrot-profiles
 description: We're reinventing the business card with CodeCarrot Profiles. Now each one to whom you share your profile will have everything they need to know about you, all in one place.
 image: introducing-codecarrot-profiles.png
 ---

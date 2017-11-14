@@ -4,6 +4,7 @@ author: yashumittal
 title: Welcome to CodeCarrot Blogs
 date: 2017-02-25 12:00:00
 categories: update
+tags: update blogging
 description: We are very excited to announce the launch of CodeCarrot blog, an Agile team with excellent track record & great communication skills. We love Web and mobile application development.
 image: welcome-to-codecarrot-blogs.png
 ---
