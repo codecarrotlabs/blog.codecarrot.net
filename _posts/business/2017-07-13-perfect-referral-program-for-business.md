@@ -66,7 +66,7 @@ A direct referral rewards program is where an existing customer helps sign up an
 
 Did we mentioned that you can make your business online with a free website with [CodeCarrot](//www.codecarrot.net/).
 
-GoOnline with your own website? <a onclick="event.preventDefault();drift.on('ready', function(api) {api.goToNewConversation();});">Get started today</a>!
+GoOnline with your own website? [Get started today](//www.codecarrot.net)!
 
 ## P.S. Can we send you an email?
 
