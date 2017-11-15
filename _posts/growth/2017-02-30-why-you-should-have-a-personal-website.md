@@ -6,7 +6,7 @@ date: 2017-02-30 12:00:00
 categories: growth
 tags: personal website impression promote brand
 description: Anyone who wants to make an impression online can do it with a personal website. Anyone who wants to make an impression online - whether it's to land a sweet new job, promote a pet project, or just connect
-image: //blog.codecarrot.net/images/have-a-personal-website.jpg
+image: have-a-personal-website.jpg
 ---
 
 It's a fact. If you don't manage your online image, it will manage you. Remember those embarrassing pics and videos you posted on Facebook. Your parents saw them next day. That late night party tweet? Bet you wish you could take that one back. But for many people, this issue gets real when they decided to look for a job. That's when they decided to look for a job. That's when they realize they have to control what potential employers see about them online. And there's no better way to do it than with a personal website.
