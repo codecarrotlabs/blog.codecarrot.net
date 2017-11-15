@@ -6,10 +6,10 @@ date: 2017-04-30 12:00:00
 categories: growth
 tags: freelancer remote-work working-from-home
 description: Show off your skills by working as a freelancer. Sometimes you might feel like you're wasting your time, earning nothing. This is why you need to know about freelance jobs.
-image: http://blog.codecarrot.net/images/start-freelancing-work.png
+image: //blog.codecarrot.net/images/start-freelancing-work.png
 ---
 
-![The ultimate guide to Freelancing Jobs](http://blog.codecarrot.net/images/ultimate-guide-to-freelancing-jobs.png)
+![The ultimate guide to Freelancing Jobs](//blog.codecarrot.net/images/ultimate-guide-to-freelancing-jobs.png)
 
 I think you'll agree with me when I say:
 
@@ -87,7 +87,7 @@ While you wait for approval and development of website, try taking a few skill t
 
 ## STEP 3: Share/Promote your website
 
-![Share and refer your website to others](http://blog.codecarrot.net/images/share-and-refer.gif)
+![Share and refer your website to others](//blog.codecarrot.net/images/share-and-refer.gif)
 
 Once your website is developed and live, it's time to share and promote it. So, that your website can come under the notice by the clients.
 
@@ -182,7 +182,7 @@ This way if the client is asking for more than agreed, you can clearly show them
 
 ## STEP 7: You're Hired: Go do an awesome job
 
-![Check before you accept the Job](http://blog.codecarrot.net/images/handshake-between-two-party.jpg)
+![Check before you accept the Job](//blog.codecarrot.net/images/handshake-between-two-party.jpg)
 
 **Check before you accept the Job**
 
