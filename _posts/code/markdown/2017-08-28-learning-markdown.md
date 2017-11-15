@@ -6,7 +6,7 @@ date: 2017-08-28 04:14:00
 categories: code
 tags: markdown html web text
 description: Learn how to use Markdown in order to write great web content without needing to be a HTML rockstar.
-image: http://blog.codecarrot.net/images/learning-markdown.png
+image: //blog.codecarrot.net/images/learning-markdown.png
 ---
 
 Markdown is a simple text-based markup language and conversion tool that allows writers to create great content for the web without having to worry too much about HTML. The syntax of the language is designed to be easy to learn and intuitive. It’s ideal for people that write content for the web but that might be distracted by the HTML syntax.
@@ -29,11 +29,11 @@ There are a number of different ways that you can convert your Markdown to HTML.
 
 Use a plugin for your **Content Management System**.
 
-There are plugins available for many popular Content Management Systems that will allow you to write your content using Markdown. Your Markdown will then be converted to HTML when you save your changes. If you are a WordPress user check out [WP-Markdown](http://wordpress.org/extend/plugins/wp-markdown/).
+There are plugins available for many popular Content Management Systems that will allow you to write your content using Markdown. Your Markdown will then be converted to HTML when you save your changes. If you are a WordPress user check out [WP-Markdown](//wordpress.org/extend/plugins/wp-markdown/).
 
 Use a plugin for your **Text Editor**.
 
-There also plugins available for popular text editors that provide tools for previewing and converting your markdown code. Federico Viticci put together a great [list of plugins](http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/) for Sublime Text 2.
+There also plugins available for popular text editors that provide tools for previewing and converting your markdown code. Federico Viticci put together a great [list of plugins](//www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/) for Sublime Text 2.
 
 Finally, you can also your the **Command Line Tools**.
 
@@ -251,25 +251,25 @@ The example above demonstrates nesting an unordered list within another unordere
 The syntax for creating links has been simplified as much as possible. To create a link you first place the link text within square brackets. Immediately following the closing square bracket you then add a pair of regular brackets that contain the link.
 
 ```
-[CodeCarrot Team](http://codecarrot.net)
+[CodeCarrot Team](//codecarrot.net)
 ```
 
 The Markdown above will create a simple link to the CodeCarrot home page.
 
 ```
-<a href="http://codecarrot.net">CodeCarrot Team</a>
+<a href="//codecarrot.net">CodeCarrot Team</a>
 ```
 
 You can also add a `title` attribute to your link by adding the title text after the URL but within the brackets (as shown below). Make sure that you add a space between the URL and the title text.
 
 ```
-[CodeCarrot Team](http://codecarrot.net "Agile team with excellent track record & great communication skills. We love Web and mobile application development!")
+[CodeCarrot Team](//codecarrot.net "Agile team with excellent track record & great communication skills. We love Web and mobile application development!")
 ```
 
 This example would produce the following HTML link, complete with `title` attribute.
 
 ```
-<a href="http://codecarrot.net" title="Agile team with excellent track record & great communication skills. We love Web and mobile application development!">CodeCarrot Team</a>
+<a href="//codecarrot.net" title="Agile team with excellent track record & great communication skills. We love Web and mobile application development!">CodeCarrot Team</a>
 ```
 
 ## Images
@@ -277,13 +277,13 @@ This example would produce the following HTML link, complete with `title` attrib
 Images use a similar syntax to links. This time the text you place within the square brackets will form the `alt` text for the image and the URL in the regular brackets will be used as the path to the image file. The whole syntax is prefixed with a bang (!) which indicates that an image should be created not a link.
 
 ```
-![The image alt text goes here](http://example.com/icon.png)
+![The image alt text goes here](//example.com/icon.png)
 ```
 
 The example above will be converted to the following HTML.
 
 ```
-<img src="http://example.com/icon.png" alt="The image alt text goes here">
+<img src="//example.com/icon.png" alt="The image alt text goes here">
 ```
 
 ## Code

@@ -6,16 +6,16 @@ date: 2017-09-04 18:59:00
 categories: code
 tags: open-source designer developers templates mr-bucket
 description: Mr.Bucket for developers and designer is the newest incarnation of a web app offering a tailored, uncluttered experience for showcasing their templates - check it out.
-image: http://blog.codecarrot.net/images/mr-bucket-artboard2.jpg
+image: //blog.codecarrot.net/images/mr-bucket-artboard2.jpg
 ---
 
 Mr.Bucket is an open-source platform for developers and designer  offering a tailored, uncluttered experience for showcasing their templates.
 
 <blockquote>
-Which is maintained by [CodeCarrot](http://codecarrot.net/)
+Which is maintained by [CodeCarrot](//codecarrot.net/)
 </blockquote>
 
-![Screenshot of the Mr.Bucket Website](http://blog.codecarrot.net/images/screenshot-of-the-mrbucket-website.png)
+![Screenshot of the Mr.Bucket Website](//blog.codecarrot.net/images/screenshot-of-the-mrbucket-website.png)
 
 ## Want to submit your Template?
 

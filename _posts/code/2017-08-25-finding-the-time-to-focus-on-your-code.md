@@ -6,7 +6,7 @@ date: 2017-08-25 10:00:00
 categories: project-management
 tags: staying-focused code time working
 description: Trying to focus on two things at once is hard. You may be able to eat and drive or listen to music while working. But it’s another thing to listen and talk at the same time.
-image: http://blog.codecarrot.net/images/StockSnap_BKC8Y8VF8K.jpg
+image: //blog.codecarrot.net/images/StockSnap_BKC8Y8VF8K.jpg
 ---
 
 Trying to focus on two things at once is hard. You may be able to eat and drive or listen to music while working. But it’s another thing to listen and talk at the same time. At the end of the day, only one task can have your undivided attention. And convincing ourselves that it’s possible to do both would be fooling ourselves.
