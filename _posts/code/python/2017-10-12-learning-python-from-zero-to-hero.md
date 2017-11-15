@@ -6,7 +6,7 @@ date: 2017-10-12 23:39:00
 categories: code
 tags: dev coding python
 description: Python is not just a server side language, according to its creator guido van rossum, it's high-level programming language, and its core design philosophy is all about code readability.
-image: http://blog.codecarrot.net/images/1-ueWmI48uuShON-hX7LwI0w.png
+image: //blog.codecarrot.net/images/1-ueWmI48uuShON-hX7LwI0w.png
 ---
 
 First of all, what is Python? According to its creator, Guido van Rossum, Python is a
@@ -458,7 +458,7 @@ tesla_model_s.make_noise() # VRUUUUUUUM
 Encapsulation is a mechanism that restricts direct access to objects’ data and methods. But at the same time, it facilitates operation on that data (objects’ methods).
 
 <blockquote>
-“Encapsulation can be used to hide data members and members function. Under this definition, encapsulation means that the internal representation of an [object](https://en.wikipedia.org/wiki/Object_%28computer_science%29) is generally hidden from view outside of the object’s definition.” — Wikipedia
+“Encapsulation can be used to hide data members and members function. Under this definition, encapsulation means that the internal representation of an [object](//en.wikipedia.org/wiki/Object_%28computer_science%29) is generally hidden from view outside of the object’s definition.” — Wikipedia
 </blockquote>
 
 All internal representation of an object is hidden from the outside. Only the object can interact with its internal data.
@@ -519,7 +519,7 @@ We don’t use the term “private” here, since no attribute is really private
 As the `public instance variable`, we can define the `non-public instance` variable both within the constructor method or within the class. The syntax difference is: for `non-public instance variables`, use an underscore (`_`) before the `variable` name.
 
 <blockquote>
-“‘Private’ instance variables that cannot be accessed except from inside an object don’t exist in Python. However, there is a convention that is followed by most Python code: a name prefixed with an underscore (e.g. _spam) should be treated as a non-public part of the API (whether it is a function, a method or a data member)”— [Python Software Foundation](https://docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references)
+“‘Private’ instance variables that cannot be accessed except from inside an object don’t exist in Python. However, there is a convention that is followed by most Python code: a name prefixed with an underscore (e.g. _spam) should be treated as a non-public part of the API (whether it is a function, a method or a data member)”— [Python Software Foundation](//docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references)
 </blockquote>
 
 Here’s an example:

@@ -6,14 +6,14 @@ date: 2017-10-11 14:39:00
 categories: code
 tags: dev coding python ruby ruby-on-rails
 description: They're both fast. They're both powerful. They're both loved by programmers. But what sets the Ruby and Python scripting languages apart? Why are developers loyal to one or the other? And which is best for which type of application?
-image: http://blog.codecarrot.net/images/python_vs_ruby.gif
+image: //blog.codecarrot.net/images/python_vs_ruby.gif
 ---
 
-**[Fabio Akita Answer](https://www.quora.com/profile/Fabio-Akita)**
+**[Fabio Akita Answer](//www.quora.com/profile/Fabio-Akita)**
 
 Technically they "feel" similar, but in practice they are worlds apart. Both previous answers have flaws. For example, Python does compile from .py to .pyc. But because there is no .rbc it doesn't mean any disadvantages.
 
-Internally, since Ruby 1.9, every .rb source code is converted to byte-codes and then executed in runtime. It's just that Ruby doesn't cache it down in files. When we say "interpreted" it feels like every time we need something from a source file, it's constantly reopened and reinterpreted, which is not true for both. Once loaded it's executed within the virtual machines. ([Ruby vs Python vs Java bytecode concept](https://www.ruby-forum.com/topic/4403013))
+Internally, since Ruby 1.9, every .rb source code is converted to byte-codes and then executed in runtime. It's just that Ruby doesn't cache it down in files. When we say "interpreted" it feels like every time we need something from a source file, it's constantly reopened and reinterpreted, which is not true for both. Once loaded it's executed within the virtual machines. ([Ruby vs Python vs Java bytecode concept](//www.ruby-forum.com/topic/4403013))
 
 In terms of garbage collection, Python uses Reference Counting backed by a 3-stage generational collector (which helps finding circular references, among other things). Ruby uses a Bitmap Marking with Lazy Sweep and a 2-stage generational collector (which will become 3-stages in Ruby 2.2). Both are not nearly in the same league of something like Java's G1GC, but Ruby's not so far behind after Ruby 2.1. (Generational GC in Python and Ruby)
 
@@ -41,7 +41,7 @@ As you may have realized, I'm a rubyst and of course my point of view is very bi
 
 ***
 
-**[Luciano Ramalho Answer](https://www.quora.com/profile/Luciano-Ramalho)**
+**[Luciano Ramalho Answer](//www.quora.com/profile/Luciano-Ramalho)**
 
 Fabio Akita's answer is excellent, and I will not try to emulate it in depth or breadth. But I will add a couple things from the point of view of a Python user since 1998, who also loves Ruby.
 
@@ -55,21 +55,21 @@ Python is the de-facto standard scripting language in computer graphics, used ev
 
 Python is now essential for professional system administration, as a replacement for shell scripting in more complex tasks and as the basis of huge projects like OpenStack and OpenShift. Every important GNU/Linux comes with Python pre-installed, since many admin tools and end-user apps are written in Python. The best jobs for system administration now require Python skills.
 
-Python is now mainstream in science and engineering, thanks to [SciPy.org](http://www.scipy.org/) (which makes a huge collection of code in C, C++ and FORTRAN easily accessible to Python scripts) and the [IPython Notebook](http://ipython.org/notebook.html) project (which you must see!). Note that Python established itself as a programming language for advanced research before this happened: Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities (Communications of the ACM). So it is likely the importance of Python in academia will grow even more.
+Python is now mainstream in science and engineering, thanks to [SciPy.org](//www.scipy.org/) (which makes a huge collection of code in C, C++ and FORTRAN easily accessible to Python scripts) and the [IPython Notebook](//ipython.org/notebook.html) project (which you must see!). Note that Python established itself as a programming language for advanced research before this happened: Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities (Communications of the ACM). So it is likely the importance of Python in academia will grow even more.
 
-By the way, the same toolset that makes Python popular in science and engineering also makes it increasingly employed in finance, with the growth of quantitative analysis. See this Stack Exchange question where Python is mentioned by several respondents: [What programming languages are most commonly used in quantitative finance?](http://quant.stackexchange.com/questions/306/what-programming-languages-are-most-commonly-used-in-quantitative-finance). There are also several books about Python in finances available.
+By the way, the same toolset that makes Python popular in science and engineering also makes it increasingly employed in finance, with the growth of quantitative analysis. See this Stack Exchange question where Python is mentioned by several respondents: [What programming languages are most commonly used in quantitative finance?](//quant.stackexchange.com/questions/306/what-programming-languages-are-most-commonly-used-in-quantitative-finance). There are also several books about Python in finances available.
 
 The only major area where Ruby and Python compete in equal footing is server-side web development, where they have similar penetration.
 
 ***
 
-**[Ben Neely Answer](https://www.quora.com/profile/Ben-Neely-3)**
+**[Ben Neely Answer](//www.quora.com/profile/Ben-Neely-3)**
 
 Ruby and Python are both programming languages that are popular for being easy to learn, powerful, and open-source with many great features in common.
 
-![Python and ruby has same algorithms](http://blog.codecarrot.net/images/main-qimg-24067acdc9023a72fb4dc92140c717d4-c.jpg)
+![Python and ruby has same algorithms](//blog.codecarrot.net/images/main-qimg-24067acdc9023a72fb4dc92140c717d4-c.jpg)
 
-Ruby was created in 1999, in fact because the author didn’t like Python. The *[Ruby Language FAQ](http://ruby-doc.org/docs/ruby-doc-bundle/FAQ/FAQ.html)* describes his thinking:
+Ruby was created in 1999, in fact because the author didn’t like Python. The *[Ruby Language FAQ](//ruby-doc.org/docs/ruby-doc-bundle/FAQ/FAQ.html)* describes his thinking:
 
 I knew Python then. But I didn't like it, because I didn't think it was a true object-oriented language---OO features appeared to be add-on to the language. As a language manic and OO fan for 15 years, I really wanted a genuine object-oriented, easy-to-use scripting language. I looked for, but couldn't find one.
 
@@ -98,7 +98,7 @@ letters.sort()
 
 Both languages are open source, object-oriented, interpreted, and statically typed with almost identical features:
 
-![features of python and ruby language](http://blog.codecarrot.net/images/main-qimg-ebde4be01b518c463f42d48569b552a4-c.jpg)
+![features of python and ruby language](//blog.codecarrot.net/images/main-qimg-ebde4be01b518c463f42d48569b552a4-c.jpg)
 
 Both also have strong communities of teachers and open-source developers. Ruby has one clear advantage: its community focuses on efficient developer tools that save time by implementing smart defaults and hiding complexity. The Python community is more focused on providing customizable and concise tools that give developers full control over their tools, but come with a steeper learning curve. Ruby’s tools make it simpler for beginners to build complete web applications, while providing the power to customize application functionality. For these reasons, we think that Ruby is the better language to learn with, and that's what we chose to teach as part of our  Full Stack Web Development Track  at Bloc, where I write curriculum
 
@@ -106,4 +106,4 @@ Ultimately, these two languages are similar semantically, but have communities w
 
 ***
 
-These are the answers from [quora](https://www.quora.com/profile/Yashu-Mittal-7).
+These are the answers from [quora](//www.quora.com/profile/Yashu-Mittal-7).
