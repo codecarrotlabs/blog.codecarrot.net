@@ -6,7 +6,7 @@ date: 2017-11-04 03:43:00
 categories: code
 tags: coding react facebook native-apps react-native
 description: React Native creates new possibilities in building well performant iOS and Android apps, but it also has some restrictions. Our perspective on React Native based on CodeCarrot's projects.
-image: //blog.codecarrot.net/images/pexels-photo-89955.jpeg
+image: pexels-photo-89955.jpeg
 ---
 
 The first time when we saw that we could use react, our go-to front-end library, for building native applications, we were thrilled. The promise that you will be able to learn react’s paradigm and write applications for everything is so crazy that only a fool would choose to build new stuff the old way. There is some truth in that statement. Indeed [React Native](//www.codecarrot.net/react-native) creates a wide spectrum of new possibilities in building well performant iOS and Android apps. However, you should also be aware of the restrictions that it might have. In this article we want to present our perspective on React Native which we have derived from CodeCarrot’s projects.

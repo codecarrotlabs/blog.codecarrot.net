@@ -6,7 +6,7 @@ date: 2017-11-12 13:55:00
 categories: code
 tags: coding react facebook framework react-native
 description: Stateful x Stateless, Container x Presentational, HOCs, Render Callbacks and more. It’s been a while since I’ve been working with React — a Facebook library to build user interfaces using JavaScript.
-image: //blog.codecarrot.net/images/1_mPL5M-XhGpDuXLniVRCthw.png
+image: 1_mPL5M-XhGpDuXLniVRCthw.png
 ---
 
 It’s been a while since I’ve been working with [React](//facebook.github.io/react/) — a Facebook library to build user interfaces using JavaScript — and there are a few concepts I wish I knew when I was just starting. This text is an attempt to summarize some patterns I learned during my experience so far — and also may be useful for developers who are just about to enter this awesome component-based world.
