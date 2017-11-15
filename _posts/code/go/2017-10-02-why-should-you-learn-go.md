@@ -6,7 +6,7 @@ date: 2017-10-02 10:02:00
 categories: code
 tags: go coding learning new-language programming
 description: Nothing makes a developer crazy than a new programming language, right? So, I started learning Go before 4 to 5 months and here I am going to tell you about why you should also learn this new language.
-image: //blog.codecarrot.net/images/DSC03466.jpg
+image: DSC03466.jpg
 ---
 
 <blockquote>

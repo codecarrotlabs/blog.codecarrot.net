@@ -6,7 +6,7 @@ date: 2017-11-01 15:21:00
 categories: code
 tags: coding aws google-cloud microsoft-azure heroku digital-ocean devops
 description: Choosing between dozens of excellent hosting providers for Ruby on Rails app might not be easy. With our comparison, it won’t seem so hard anymore.
-image: //blog.codecarrot.net/images/pexels-photo-265152.jpeg
+image: pexels-photo-265152.jpeg
 ---
 
 At some point, you will have to decide where to host your amazing RoR application. Choosing between dozens of excellent hosting providers might not be so easy. Choosing each provider will have its own trade-offs in terms of price, deployment and configuration flexibility, and scalability to name a few. To make your choice easier, we have compared eight major RoR hosting providers. Depending on your application requirements and budget, you can make the right choice using our description of key strengths and weaknesses of these hosting providers.

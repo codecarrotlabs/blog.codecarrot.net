@@ -6,7 +6,7 @@ date: 2017-10-03 02:02:00
 categories: code
 tags: go coding images
 description: Go has a built-in image package, that allows to easily create images, and save them as files on the disk.
-image: //blog.codecarrot.net/images/create-image-in-golang.png
+image: create-image-in-golang.png
 ---
 
 This post is continuation of [Vector Operations in Go](/vector-operations-in-go).

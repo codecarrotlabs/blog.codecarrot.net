@@ -6,7 +6,7 @@ date: 2017-11-01 02:25:00
 categories: code
 tags: coding elixir
 description: Elixir, a new trending backend technology, promises to significantly cut costs by providing exceptional performance. How does it look in reality?
-image: //blog.codecarrot.net/images/pexels-photo-60500.jpeg
+image: pexels-photo-60500.jpeg
 ---
 
 Building an application that handles millions of users and performs thousands of concurrent operations can be expensive both to develop and maintain. Elixir, a new trending backend technology, promises to cut costs significantly by providing exceptional performance. The [CodeCarrot](//codecarrot.net/) team have recently dug beneath the surface of Elixir to verify whether it delivers on its promises.

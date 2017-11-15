@@ -6,7 +6,7 @@ date: 2017-10-21 02:04:30
 categories: code
 tags: coding github git
 description: Whenever you initialize a new repository with git init, Git creates a directory called Git Directory, which store information about branch, tag, remote, etc. Git's object data. Generally it is .git in the current repository.
-image: //blog.codecarrot.net/images/detective-tracking.png
+image: detective-tracking.png
 ---
 
 Whenever you initialize a new repository with `git init`, Git creates a directory called **Git Directory**, which store information about *branch, tag, remote, etc*. **Git's object data**. Generally it is `.git` **(hidden directory)** in the current repository.

@@ -6,7 +6,7 @@ date: 2017-10-03 23:55:00
 categories: code
 tags: coding github git
 description: Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features
-image: //blog.codecarrot.net/images/6-30-12_Git.jpg
+image: 6-30-12_Git.jpg
 ---
 
 ## What is Git?
