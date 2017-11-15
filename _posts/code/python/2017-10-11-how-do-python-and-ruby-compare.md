@@ -6,7 +6,7 @@ date: 2017-10-11 14:39:00
 categories: code
 tags: dev coding python ruby ruby-on-rails
 description: They're both fast. They're both powerful. They're both loved by programmers. But what sets the Ruby and Python scripting languages apart? Why are developers loyal to one or the other? And which is best for which type of application?
-image: //blog.codecarrot.net/images/python_vs_ruby.gif
+image: python_vs_ruby.gif
 ---
 
 **[Fabio Akita Answer](//www.quora.com/profile/Fabio-Akita)**
