@@ -6,7 +6,7 @@ date: 2017-10-01 17:10:00
 categories: code
 tags: coding vue vuejs angular angularjs react framework application web web-interfaces
 description: Angular is a popular, fully-fledged JavaScript framework used to build modern web applications. React and VueJS are up-and-coming JavaScript libraries
-image: //blog.codecarrot.net/images/body-596e08d3eb603.jpg
+image: body-596e08d3eb603.jpg
 ---
 
 Angular is a popular, fully-fledged JavaScript framework used to build modern web applications. React and VueJS are up-and-coming JavaScript libraries, and are used to build web-interfaces.
