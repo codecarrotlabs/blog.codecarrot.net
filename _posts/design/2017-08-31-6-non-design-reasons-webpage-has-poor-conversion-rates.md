@@ -13,7 +13,7 @@ Conversion rates are one of the most popular and accurate KPIs in web apps. That
 
 ## Your Web Page is Slow
 
-According to [Aberden Group Report](http://www.aberdeen.com/research/5136/ra-performance-web-application/content.aspx), a 1-second delay in page load time equals 11 percent fewer page views, a 16-percent decrease in customer satisfaction, and a 7-percent loss in conversions. The website speed can substantially decrease the number of current and potential clients. Internet users are by no means a patient folk. If the website fails to load within expected time, they won’t hesitate and head to your competition. These stats are ruthless but show that you can’t afford to keep your website slow.
+According to [Aberden Group Report](//www.aberdeen.com/research/5136/ra-performance-web-application/content.aspx), a 1-second delay in page load time equals 11 percent fewer page views, a 16-percent decrease in customer satisfaction, and a 7-percent loss in conversions. The website speed can substantially decrease the number of current and potential clients. Internet users are by no means a patient folk. If the website fails to load within expected time, they won’t hesitate and head to your competition. These stats are ruthless but show that you can’t afford to keep your website slow.
 
 ## You Don’t React to Users Behaviour
 
@@ -39,4 +39,4 @@ Have you ever used your web app on mobile? Have you used it on a device other th
 
 A perfect design is not the only way you can increase conversion rates. There are a lot of things to consider, among them page load speed issues. You should make the overall performance and compatibility a priority when working on your products – make sure you have top experts working on it.
 
-Do you want your app to take 1-second delay in page load time? Which equals 7-percent drop in conversion. If not? Then [contact us](http://codecarrot.net)
+Do you want your app to take 1-second delay in page load time? Which equals 7-percent drop in conversion. If not? Then [contact us](//codecarrot.net)

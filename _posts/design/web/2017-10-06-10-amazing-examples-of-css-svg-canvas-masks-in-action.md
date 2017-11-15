@@ -6,7 +6,7 @@ date: 2017-10-06 16:37:00
 categories: design
 tags: design css svg canvas masks
 description: You can do some amazing things with SVG masks. This technique has been around for years but only recently made its way into mainstream web development. I’ve scoured the web
-image: http://blog.codecarrot.net/images/hub-share34rVWE34rrf34.png
+image: //blog.codecarrot.net/images/hub-share34rVWE34rrf34.png
 ---
 
 You can do some amazing things with SVG masks. This technique has been around for years but only recently made its way into mainstream web development.

@@ -6,7 +6,7 @@ date: 2017-09-26 14:35:00
 categories: design
 tags: design favicon icon make-favicon
 description: Obsessive cheat sheet to favicon sizes/types. Short for favorite icon it's the picture you see in browser tabs.
-image: http://blog.codecarrot.net/images/74739.jpg
+image: //blog.codecarrot.net/images/74739.jpg
 ---
 
 ## HTML
@@ -15,7 +15,7 @@ image: http://blog.codecarrot.net/images/74739.jpg
 
 For the main favicon itself, it's best for cross-browser compatibility not to use any HTML. Just name the file favicon.ico and place it in the root of your domain.
 
-[Click here](http://eepurl.com/c5jcAz) to download the Favicon Guide file in `.Ai` format for free.
+[Click here](//eepurl.com/c5jcAz) to download the Favicon Guide file in `.Ai` format for free.
 
 This works in every desktop browser/version all the way back to IE6, except for SeaMonkey.
 
@@ -155,11 +155,11 @@ Not normally needed. This is only for those frustrating times when you can't get
 
 * Clear the browser cache on Windows (Ctrl+F5 or Ctrl+Shift+R) and on Mac (Command + Shift + R).
 * Also close and reopen browser if IE.
-* If still stuck, try opening new tab. Or see [http://stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh](http://stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh)
+* If still stuck, try opening new tab. Or see [//stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh](//stackoverflow.com/questions/2208933/how-do-i-force-a-favicon-refresh)
 * Temporarily add explicit HTML markup and append a query string. Remove this when you're done:
 
 ```
-<link rel="shortcut icon" href="http://www.yoursite.com/favicon.ico?v=2" />
+<link rel="shortcut icon" href="//www.yoursite.com/favicon.ico?v=2" />
 <link rel="icon" sizes="16x16 32x32" href="/favicon.ico?v=2">
 ```
 
@@ -179,13 +179,13 @@ For large versioned deployments, if all site visitors need their favicon force-r
 **What about having both a default root favicon.ico and favicon.png?** I think it's actually better to provide only favicon.ico and not favicon.png, because:
 
 * An .ico is a container for multiple .bmp or .png files. If you specify 1 default favicon.png, and if that favicon.png overrides the favicon.ico, you are giving up control over how the favicon looks at different resolutions and allowing the browser to do all resizing. For example, you might want the 64x64 version to contain text and the 16x16 version to not display the text at all, since at 16x16 it would be unreadable anyway.
-* There is no favicon.png in the HTML5 specification, just /favicon.ico. From [http://www.w3.org/TR/html5/links.html#rel-icon](http://www.w3.org/TR/html5/links.html#rel-icon):
+* There is no favicon.png in the HTML5 specification, just /favicon.ico. From [//www.w3.org/TR/html5/links.html#rel-icon](//www.w3.org/TR/html5/links.html#rel-icon):
 
   * 'In the absence of a link with the icon keyword, for Documents obtained over HTTP or HTTPS, user agents may instead attempt to fetch and use an icon with the absolute URL obtained by resolving the URL "/favicon.ico" against the document's address, as if the page had declared that icon using the icon keyword.'
 
-More about this in [stackoverflow question](http://stackoverflow.com/questions/1344122/favicon-png-vs-favicon-ico-why-should-i-use-pngs-instead-of-icos/1344379#1344379) (Note: the text in the chosen answer about alpha transparency is incorrect. See the 2nd answer.)
+More about this in [stackoverflow question](//stackoverflow.com/questions/1344122/favicon-png-vs-favicon-ico-why-should-i-use-pngs-instead-of-icos/1344379#1344379) (Note: the text in the chosen answer about alpha transparency is incorrect. See the 2nd answer.)
 
-**Is it true that favicons should be in the site root?** No, that's only if you don't explicitly specify the browser/device-specific <link> tags with a favicon path. [Learn more about favicon](https://en.wikipedia.org/wiki/Favicon.ico).
+**Is it true that favicons should be in the site root?** No, that's only if you don't explicitly specify the browser/device-specific <link> tags with a favicon path. [Learn more about favicon](//en.wikipedia.org/wiki/Favicon.ico).
 
 If you don't have favicon.ico in the root consider adding one, or returning a HTTP 204 instead. Many tools and services e.g. bookmarking sites, feed readers, web crawlers etc., request a favicon.ico from the site root, and so receive a HTTP 404 if it's not present. In the worst case some frameworks will return a custom error page which is likely to be many times larger than the missing favicon.
 
