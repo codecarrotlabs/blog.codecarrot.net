@@ -35,7 +35,7 @@ Africa is growing pretty fast in the fields of technology and entrepreneurship. 
 
 ### 4. More rarely used mobile apps
 
-There are some apps that you use quite often but not every day – Uber is a good example. You might use it a few times a week, but definitely not as much as you check your Facebook feed. Uber’s competitor, Ola (a cab aggregator), built a Progressive Web App for its users and noted a 68-percent increase in mobile traffic. It also reported that the data usage for the Progressive Web App is over 300 times lower than for their native application (including the downloading step for the native app). By the way, Uber is also into PWA – you can read about how they approached it in [this blog post](https://eng.uber.com/m-uber/). Uber has not shared the metrics as of now.
+There are some apps that you use quite often but not every day – Uber is a good example. You might use it a few times a week, but definitely not as much as you check your Facebook feed. Uber’s competitor, Ola (a cab aggregator), built a Progressive Web App for its users and noted a 68-percent increase in mobile traffic. It also reported that the data usage for the Progressive Web App is over 300 times lower than for their native application (including the downloading step for the native app). By the way, Uber is also into PWA – you can read about how they approached it in [this blog post](//eng.uber.com/m-uber/). Uber has not shared the metrics as of now.
 
 ## The Take-Home Message
 

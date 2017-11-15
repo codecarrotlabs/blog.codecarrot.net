@@ -99,4 +99,4 @@ PWA technology has also seen a 23% increase in the number of mobile search users
 
 Progressive Web Apps are steadily gaining ground in the online marketplace. Companies as diverse as The Home Depot (home improvements, renovation, and tools), Pure Formulas (organic vitamins and health supplements), and 5 miles (the used item sales platform) are among the adopters.
 
-If you're still on the fence as to whether PWA might work for you, the technology's pioneer, Google, hosts an [information resource and news forum](https://developers.google.com/web/showcase/) with case studies and the latest developments.
+If you're still on the fence as to whether PWA might work for you, the technology's pioneer, Google, hosts an [information resource and news forum](//developers.google.com/web/showcase/) with case studies and the latest developments.

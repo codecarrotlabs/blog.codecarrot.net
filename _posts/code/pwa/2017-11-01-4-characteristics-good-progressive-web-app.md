@@ -19,7 +19,7 @@ PWAs is an emerging technology that’s been evolving rapidly regarding the poss
 
 ## Key Characteristics of Good Progressive Web Applications
 
-Google describes PWA in terms of features it should have and UX it should share with the user. If you ever wanted to check all the features of progressive web apps, you can use Google Chrome addon called [Lighthouse](https://developers.google.com/web/tools/lighthouse/). Below you will find our opinionated list of the key features that make the technology worth your attention.
+Google describes PWA in terms of features it should have and UX it should share with the user. If you ever wanted to check all the features of progressive web apps, you can use Google Chrome addon called [Lighthouse](//developers.google.com/web/tools/lighthouse/). Below you will find our opinionated list of the key features that make the technology worth your attention.
 
 ## Mobile-first
 
@@ -31,7 +31,7 @@ A good progressive web app must be super fast. There are plenty of ways to impro
 
 ## Offline-first
 
-One of the hottest features in web for years. Thanks to service workers and the fairly new API in modern browsers, websites can be accessed and used even when the mobile device is off the network or when it is in Airplane mode. Building offline experience is a shift to native mobile app experience, and it demands a slightly different UI, similar to the one known from the native apps, i.e. [Google App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell).
+One of the hottest features in web for years. Thanks to service workers and the fairly new API in modern browsers, websites can be accessed and used even when the mobile device is off the network or when it is in Airplane mode. Building offline experience is a shift to native mobile app experience, and it demands a slightly different UI, similar to the one known from the native apps, i.e. [Google App Shell Model](//developers.google.com/web/fundamentals/architecture/app-shell).
 
 ## Possible to Add to Homescreen
 

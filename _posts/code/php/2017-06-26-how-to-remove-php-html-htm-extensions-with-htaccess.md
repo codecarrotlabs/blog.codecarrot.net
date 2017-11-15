@@ -6,7 +6,7 @@ date: 2017-06-26 12:00:00
 categories: code
 tags: php htm html htaccess seo extensions url search-engine-optimization
 description: When you have newly uploaded your website on servers you don't want to see those extensions along with your, in order to make the URLs more user and search engine friendly.
-image: http://blog.codecarrot.net/images/remove-extensions-with-htaccess.png
+image: //blog.codecarrot.net/images/remove-extensions-with-htaccess.png
 ---
 
 When you have newly uploaded your website on servers you don't want to see those extensions along with your, in order to make the URLs more user and search engine friendly. I stumbled across tutorials on how to remove the .php extension from a PHP page. What about the .html? I wanted to remove those as well! In this article, you'll will learn how to it easily, by editing the .htaccess file.
@@ -53,7 +53,7 @@ If you want to remove the .html extension from a html file for example yoursite.
 
 That’s it! You can now link pages inside the HTML document without needing to add the extension of the page. For example:
 
-`<a href="http://whatever.com/wallpaper" title="wallpaper">wallpaper</a>`
+`<a href="//whatever.com/wallpaper" title="wallpaper">wallpaper</a>`
 
 ## Adding a trailing slash at the end
 

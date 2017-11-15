@@ -9,7 +9,7 @@ description: Progressive Web Apps offer many benefits in terms of user experienc
 image: //blog.codecarrot.net/images/pexels-photo-209726.jpeg
 ---
 
-[Progressive Web Apps](https://www.codecarrot.net/progressive-web-apps) have recently gained in popularity as they offer numerous benefits both in terms of user experience and business-wise. [Many enterprises of all sizes and industries have successfully implemented PWAs, which triggered significant improvements in their businesses](/10-popular-companies-that-do-progressive-web-apps). They’ve seen their bounce rates decrease, conversion rates shoot up and page speed improve. Should you follow their lead?
+[Progressive Web Apps](//www.codecarrot.net/progressive-web-apps) have recently gained in popularity as they offer numerous benefits both in terms of user experience and business-wise. [Many enterprises of all sizes and industries have successfully implemented PWAs, which triggered significant improvements in their businesses](/10-popular-companies-that-do-progressive-web-apps). They’ve seen their bounce rates decrease, conversion rates shoot up and page speed improve. Should you follow their lead?
 
 As a CEO or CTO, you probably have considered [PWAs](/what-is-a-progressive-web-app-and-when-you-should-go-for-it) or at least heard about them. Naturally, [PWA will enable you to substantially accelerate transaction processing for mobile shoppers, site searches, and service delivery](/4-characteristics-good-progressive-web-app). In many cases, PWA can o utperform even the most responsive legacy sites. However, it might not be a perfect match for all kinds of applications. When is it worth investing in a new web application that addresses the Progressive Web Apps concept instead of mobile native?
 
