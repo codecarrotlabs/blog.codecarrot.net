@@ -6,7 +6,7 @@ date: 2017-08-31 23:58:00
 categories: growth
 tags: website traffic users
 description: Let’s take a look at how to increase website traffic by reusing, repackaging and recycling existing content to get more website visitors, links and leads.
-image: http://blog.codecarrot.net/images/jake-givens-545.jpg
+image: //blog.codecarrot.net/images/jake-givens-545.jpg
 ---
 
 You worked hard to produce the content that you already have. Now let’s take a look at how to increase website traffic by reusing, repackaging and recycling that existing content to get more website visitors, more links and more leads.

@@ -6,7 +6,7 @@ date: 2017-07-05 12:00:00
 categories: growth
 tags: smallbiz small-business business marketing india
 description: Any successful business owner will tell you; marketing is the key to a growing business, here are some ideas to market your small business.
-image: http://blog.codecarrot.net/images/market-your-small-business.png
+image: //blog.codecarrot.net/images/market-your-small-business.png
 ---
 
 Any successful business owner will tell you; marketing is the key to a growing business. And, as Constantin Stanislavsky said, "there are no small parts, only small actors". So whether you’re selling books out on the street or coaching material on the internet, here are some ideas to market your small business:
@@ -15,7 +15,7 @@ Any successful business owner will tell you; marketing is the key to a growing b
 
 With the rapid use of the internet today, it is very important to have a website for your business. This way, you will be able to easily reach a large audience without much effort.
 
-Websites provide a platform where you can conveniently display the goods and services offered by your business. You should ensure that the website has a friendly user interface and that the prices of all your products are clearly shown. You can ask [CodeCarrot](http://www.codecarrot.net/) for integrating payment gateway with your website, so that you can start collecting payments for your products and services from your website.
+Websites provide a platform where you can conveniently display the goods and services offered by your business. You should ensure that the website has a friendly user interface and that the prices of all your products are clearly shown. You can ask [CodeCarrot](//www.codecarrot.net/) for integrating payment gateway with your website, so that you can start collecting payments for your products and services from your website.
 
 
 Apart from a website, think about a mobile app for your business, if it is financially feasible.
@@ -53,7 +53,7 @@ If you want to get a bit more advanced, you can run drip marketing campaigns. Dr
 
 As a small business owner, you might not have the needed expertise in all areas that pertain to running a business. You might also not have enough resources to hire highly skilled professionals to work with you full time. This is where outsourcing comes in.
 
-Get other people to market your business for you. From [designing your website](http://www.codecarrot.net/), logo or even writing the content for your websites, there is a large base of freelancers ready to do the job for you at a fair price. This way, your business will be properly presented in order to increase the number of sales. Money invested in money gained.
+Get other people to market your business for you. From [designing your website](//www.codecarrot.net/), logo or even writing the content for your websites, there is a large base of freelancers ready to do the job for you at a fair price. This way, your business will be properly presented in order to increase the number of sales. Money invested in money gained.
 
 ## Conclusion
 

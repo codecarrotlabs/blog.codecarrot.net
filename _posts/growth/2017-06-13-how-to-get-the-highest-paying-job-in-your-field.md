@@ -6,7 +6,7 @@ date: 2017-06-13 15:00:00
 categories: growth
 tags: job salary skills
 description: Job searching is incredibly stressful, daunting and overwhelming. In order to get the interview, you need a resume that enhances as well as emphasizes your skills to the prospective employer.
-image: http://blog.codecarrot.net/images/highest-paying-job-in-your-field.jpg
+image: //blog.codecarrot.net/images/highest-paying-job-in-your-field.jpg
 ---
 
 Job searching is incredibly stressful, daunting and overwhelming. In order to get the interview, you need a resume that enhances as well as emphasizes your skills to the prospective employer. Numerous studies show that an average of 250 resumes are submitted for each job posting and employers only spend 5-7 seconds reviewing each resume. With such a small amount of time to spare, your resume must stand out among the rest.
@@ -23,7 +23,7 @@ A sleek resume website highlighting your experience could help you stand out fro
 
 And while you could just copy and paste your resume onto a web page, the online possibilities really are endless, so why not go big or go home?
 
-Don’t worry, though; this doesn’t have to take weeks of your life. If you want to turn your resume into a website that impresses-all of which [CodeCarrot will do it for you](http://www.codecarrot.net/).
+Don’t worry, though; this doesn’t have to take weeks of your life. If you want to turn your resume into a website that impresses-all of which [CodeCarrot will do it for you](//www.codecarrot.net/).
 
 I hope that these tips will help you achieve the greatest reward.
 
@@ -62,7 +62,7 @@ Responsibilities are great, but an employer wants relevant and results-driven ex
 
 The most important thing to remember is that you are not writing your resume for you to look at and admire all of your accomplishments. You are writing your resume for your audience. You must tailor towards the industry and include specific key achievements and value that you bring to the job and company.
 
-[![Resume Website](http://blog.codecarrot.net/images/kards-template.png)](http://www.codecarrot.net/)
+[![Resume Website](//blog.codecarrot.net/images/kards-template.png)](//www.codecarrot.net/)
 
 Would you like to use this template for your own resume website?
 

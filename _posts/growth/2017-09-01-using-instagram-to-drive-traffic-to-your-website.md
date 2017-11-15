@@ -6,7 +6,7 @@ date: 2017-09-01 23:30:00
 categories: growth
 tags: Instagram traffic small-business smallbiz
 description: With over 300 million users, Instagram has much untapped potential. Learn four ways to use Instagram to drive traffic to your small business website.
-image: http://blog.codecarrot.net/images/people-working-on-a-fully-messed-table.png
+image: //blog.codecarrot.net/images/people-working-on-a-fully-messed-table.png
 ---
 
 You must have uploaded many images and videos on Instagram for promotion your products and services.
@@ -41,7 +41,7 @@ Make the most of the link in your Instagram bio.
 
 Let’s say you’re promoting a new product/event/service on your site and you want to post about it on Instagram. In your caption, remember to say “link in bio” to direct people to the URL in your profile.
 
-**Pro tip:** To avoid long, ugly links, shorten your URL with [Bit.ly](https://bitly.com/shorten/) or [goo.gl](https://goo.gl). If you sign up for an account, you’ll be able to track how many clicks that link has received.
+**Pro tip:** To avoid long, ugly links, shorten your URL with [Bit.ly](//bitly.com/shorten/) or [goo.gl](//goo.gl). If you sign up for an account, you’ll be able to track how many clicks that link has received.
 
 ## Highlight blog posts
 

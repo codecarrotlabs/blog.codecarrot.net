@@ -6,7 +6,7 @@ date: 2017-09-02 14:39:00
 categories: growth
 tags: freelancer work-remotely working-from-home
 description: Want to work remotely as a freelancer. These 10 tips will help you to boost up your confident for going freelancer for the first time.
-image: http://blog.codecarrot.net/images/person-sitting-along-in-stadium-working-on-laptop.jpg
+image: //blog.codecarrot.net/images/person-sitting-along-in-stadium-working-on-laptop.jpg
 ---
 
 Over the course of my career I’ve been self-employed twice. The first time I was incredibly green but the second time I was more prepared. Here are some tips if you’re doing it the first time, or even if you want to take another stab at it.
@@ -51,4 +51,4 @@ You may be able to claim, in full or in part some of your business expenses. Thi
 
 Finally and probably most importantly, make sure you have enough work when you go self employed. Line up a couple of projects before you quit your day job so you’re not wasting precious time and runway in your first couple of months flying solo. Get a head start.
 
-**Pro Tip:** Get more clients with your own [personal website](http://codecarrot.net/).
+**Pro Tip:** Get more clients with your own [personal website](//codecarrot.net/).
