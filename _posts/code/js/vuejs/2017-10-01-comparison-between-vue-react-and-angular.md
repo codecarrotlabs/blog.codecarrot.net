@@ -6,14 +6,14 @@ date: 2017-10-01 17:10:00
 categories: code
 tags: coding vue vuejs angular angularjs react framework application web web-interfaces
 description: Angular is a popular, fully-fledged JavaScript framework used to build modern web applications. React and VueJS are up-and-coming JavaScript libraries
-image: http://blog.codecarrot.net/images/body-596e08d3eb603.jpg
+image: //blog.codecarrot.net/images/body-596e08d3eb603.jpg
 ---
 
 Angular is a popular, fully-fledged JavaScript framework used to build modern web applications. React and VueJS are up-and-coming JavaScript libraries, and are used to build web-interfaces.
 
 ### Comparison between 3 different frameworks by Developer Experience
 
-| Developer Experience | [AngularJs](https://angular.io/ | [Vue](http://vuejs.org/ | [ReactJs](https://facebook.github.io/react/) |
+| Developer Experience | [AngularJs](//angular.io/) | [Vue](//vuejs.org/) | [ReactJs](//facebook.github.io/react/) |
 | ----- | ----- | ----- | ----- |
 | Client-side routing | X | X | |
 | Client-side routing, State-based routing | X | | |
@@ -41,7 +41,7 @@ Angular is a popular, fully-fledged JavaScript framework used to build modern we
 
 ### Comparison between 3 different frameworks by User Experience
 
-| User Experience | [AngularJs](https://angular.io/ | [Vue](http://vuejs.org/ | [ReactJs](https://facebook.github.io/react/) |
+| User Experience | [AngularJs](//angular.io/) | [Vue](//vuejs.org/) | [ReactJs](//facebook.github.io/react/) |
 | ----- | ----- | ----- | ----- |
 | Derived, computed properties | | X | |
 | Realtime data sync (?) | X | | |		

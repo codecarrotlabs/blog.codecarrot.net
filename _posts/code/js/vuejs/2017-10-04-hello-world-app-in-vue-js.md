@@ -6,14 +6,14 @@ date: 2017-10-04 00:04:00
 categories: code
 tags: coding vue vuejs app hello-world
 description: Vue.js is a progressive framework for building user interfaces. This is lean, this is fast, and unlike frameworks like React and Angular,
-image: http://blog.codecarrot.net/images/hello_world.gif
+image: //blog.codecarrot.net/images/hello_world.gif
 ---
 
-![Vuejs website screenshot](http://blog.codecarrot.net/images/vuejs-website-screenshot.png)
+![Vuejs website screenshot](//blog.codecarrot.net/images/vuejs-website-screenshot.png)
 
 Vue.js is a progressive framework for building user interfaces. This is lean, this is fast, and unlike frameworks like React and Angular, it’s straightforward to get started. Here we will build a simple Hello World app, and it will just take 2 minutes for the whole process:
 
-First of all please Import this JavaScript file: [https://unpkg.com/vue](https://unpkg.com/vue)
+First of all please Import this JavaScript file: [//unpkg.com/vue](//unpkg.com/vue)
 This fetches the latest version of Vue.js.
 
 Then we will create a wrapper root div which will hold the app
@@ -55,7 +55,7 @@ Now, we will add a `p` tag, and inside it, we will wrap `title` with two curly b
 
 ## Form Input
 
-Now we will pass an input tag with Vue [Event handler](https://vuejs.org/v2/guide/events.html) `v-on` and pass `changeTitle` method inside it.
+Now we will pass an input tag with Vue [Event handler](//vuejs.org/v2/guide/events.html) `v-on` and pass `changeTitle` method inside it.
 
 ```html
 <div id="app-root">
