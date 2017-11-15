@@ -4,7 +4,7 @@ author: yashumittal
 title: How to get the highest paying job in your field
 date: 2017-06-13 15:00:00
 categories: tips
-tags: job salary skills
+tags: tips job salary skills
 description: Job searching is incredibly stressful, daunting and overwhelming. In order to get the interview, you need a resume that enhances as well as emphasizes your skills to the prospective employer.
 image: highest-paying-job-in-your-field.jpg
 ---
