@@ -6,7 +6,7 @@ date: 2017-09-03 23:19:00
 categories: growth
 tags: blogging blog seo search-engine-optimization
 description: Search Engine Optimization, popularly known as SEO is the most sought after and the most difficult skill to master.
-image: //blog.codecarrot.net/images/serpstat-356218.jpg
+image: serpstat-356218.jpg
 ---
 
 Once you [start a blogging website](/how-to-start-a-blog-a-step-by-step-guide-for-writer). There is no other way you left behind to start getting traffic on your website.

@@ -6,7 +6,7 @@ date: 2017-08-30 16:00:00
 categories: growth
 tags: seo search-engine-optimization website engagement users
 description: Learn how to reduce your page load times and increase user engagement on your websites.
-image: //blog.codecarrot.net/images/romain-peli-266992.jpg
+image: romain-peli-266992.jpg
 ---
 
 The average size of a web page has been growing at an accelerating rate over the last few years. Research carried out by [HTTP Archive](//httparchive.org/interesting.php#bytesperpage) in January reports that the average page size has now hit 1.25mb. For users with a decent broadband connection this is not too troublesome, but for users that still rely on slow dial-up connections (like in many developing countries) or crippled mobile data networks this poses a real issue.

@@ -6,7 +6,7 @@ date: 2017-09-28 16:39:00
 categories: growth
 tags: growth community thinking
 description: The idea guaranteed to fail in meetings with any client is a message board. Companies in general fear public dissent from real people. They say things like, So if we ship the wrong thing, or our customer has a bad...
-image: //blog.codecarrot.net/images/Community-144653342.jpg
+image: Community-144653342.jpg
 ---
 
 The idea *guaranteed* to fail in meetings with any client is a message board. Companies in general fear public dissent from real people. They say things like, "So if we ship the wrong thing, or our customer has a bad service experience – then everyone in the community is going to hear about it? That’s bad." No, that’s good.

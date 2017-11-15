@@ -6,7 +6,7 @@ date: 2017-10-04 01:12:00
 categories: growth
 tags: growth mobile technology android ios
 description: We as a new age entrepreneur are blessed to be a part of this 21st century revolution which has been mostly ruled by Mobile device and mobile apps.
-image: //blog.codecarrot.net/images/1-OIP5qWiRRiMLXO75vxka-g.jpeg
+image: 1-OIP5qWiRRiMLXO75vxka-g.jpeg
 ---
 
 We as a new age entrepreneur are blessed to be a part of this 21st century revolution which has been mostly ruled by Mobile device and mobile apps. We are easily the most well equipped and most comfortable generation as compared to our ancestors , fathers and forefathers. All credit goes to Mobile and mobility software solutions which has made possible for the people to connect in seconds, transacts at will without investing too much time and energy. They can now multitask and plan it right at their fingertips, billions of dollar are being transacted because of mobile app based fin-tech solutions. All the thanks to mobile app developer community and to the entire ecosystem of mobility.

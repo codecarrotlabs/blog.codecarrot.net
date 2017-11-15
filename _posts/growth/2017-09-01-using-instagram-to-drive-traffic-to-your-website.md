@@ -6,7 +6,7 @@ date: 2017-09-01 23:30:00
 categories: growth
 tags: Instagram traffic small-business smallbiz
 description: With over 300 million users, Instagram has much untapped potential. Learn four ways to use Instagram to drive traffic to your small business website.
-image: //blog.codecarrot.net/images/people-working-on-a-fully-messed-table.png
+image: people-working-on-a-fully-messed-table.png
 ---
 
 You must have uploaded many images and videos on Instagram for promotion your products and services.
