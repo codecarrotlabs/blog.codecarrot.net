@@ -6,7 +6,7 @@ date: 2017-09-26 13:57:00
 categories: design
 tags: design favicon icon make-favicon
 description: One of the most frustrating and confusing elements of modern web design is the favicon. Short for favorite icon it's the picture you see in browser tabs.
-image: //blog.codecarrot.net/images/bunch-of-small-Favicons.png
+image: bunch-of-small-Favicons.png
 ---
 
 One of the most frustrating and confusing elements of modern web design is the favicon. Short for “favorite icon” it’s the little picture you see in browser tabs, address bars, and possibly other places depending on your browser and operating system.

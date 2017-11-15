@@ -6,7 +6,7 @@ date: 2017-09-10 23:10:00
 categories: design
 tags: design works
 description: So where do I start? We’ve already had a couple of meetings about the sites and we’ve set out the technical and functional criteria.
-image: //blog.codecarrot.net/images/sergey-zolkin-21234.jpg
+image: sergey-zolkin-21234.jpg
 ---
 
 So where do I start?

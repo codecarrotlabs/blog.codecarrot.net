@@ -6,7 +6,7 @@ date: 2017-08-22 12:00:00
 categories: design
 tags: sketch designer desing-tools tools ui
 description: A designer's tour on making Sketch more functional and convenient. Sketch is one of the best UI design tools at the moment. It is the first design tool
-image: //blog.codecarrot.net/images/image00-11.png
+image: image00-11.png
 ---
 
 Sketch is one of the best UI design tools at the moment. It is the first design tool created with the intent to satisfy the sublime needs of product designers. Many times, Sketch was such a nice surprise that I was amazed how intuitive it is.

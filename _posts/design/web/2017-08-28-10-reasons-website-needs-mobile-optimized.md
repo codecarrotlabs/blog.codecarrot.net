@@ -6,7 +6,7 @@ date: 2017-08-28 01:00:00
 categories: design
 tags: mobile mobile-optimization website responsive
 description: It's no secret that mobile is here to stay. So here are 10 reasons your website can't afford to remain unresponsive.
-image: //blog.codecarrot.net/images/shutterstock_268450493.jpg
+image: shutterstock_268450493.jpg
 ---
 
 You’ve heard it before.
