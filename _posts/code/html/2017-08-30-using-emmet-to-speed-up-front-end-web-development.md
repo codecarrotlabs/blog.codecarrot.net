@@ -6,7 +6,7 @@ date: 2017-08-30 13:10:00
 categories: code
 tags: html front-end development web emmet plugin
 description: Learn how to use Emmet, a plugin for your text editor that allows you to quickly generate HTML and CSS.
-image: //blog.codecarrot.net/images/emmet.jpg
+image: emmet.jpg
 ---
 
 Emmet is a plugin for your text editor that provides a number of tools to help you quickly write HTML and CSS code. The plugin, which was previously known as *Zen Coding*, allows you to generate HTML elements using a CSS-like syntax.

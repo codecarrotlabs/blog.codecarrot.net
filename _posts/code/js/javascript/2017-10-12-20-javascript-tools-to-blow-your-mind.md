@@ -6,7 +6,7 @@ date: 2017-10-12 00:00:10
 categories: code
 tags: coding javascript tools
 description: JavaScript started its life as a browser-based language used for adding interactivity to web pages, but it has evolved tremendously over the past few years.
-image: //blog.codecarrot.net/images/ZtBAmJoRqrJwzUuP6eYFsG-970-80.jpg
+image: ZtBAmJoRqrJwzUuP6eYFsG-970-80.jpg
 ---
 
 JavaScript started its life as a browser-based language used for adding interactivity to web pages, but it has evolved tremendously over the past few years. Once Node.js enabled JavaScript to be run on the server, it opened up a world of possibilities, and more language innovations were inevitable.

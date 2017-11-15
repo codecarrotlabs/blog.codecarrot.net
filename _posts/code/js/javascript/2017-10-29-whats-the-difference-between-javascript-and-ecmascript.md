@@ -6,7 +6,7 @@ date: 2017-10-29 19:45:10
 categories: code
 tags: coding javascript ecmascript
 description: This article represents my current understanding of the differences between JavaScript and ECMAScript. It is geared towards people who are familiar with JavaScript
-image: //blog.codecarrot.net/images/0_zdzWJW4DiWkFjDnY.jpg
+image: 0_zdzWJW4DiWkFjDnY.jpg
 ---
 
 I’ve tried googling “the difference between JavaScript and ECMAScript.”

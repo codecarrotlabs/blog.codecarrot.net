@@ -6,7 +6,7 @@ date: 2017-10-01 16:39:00
 categories: code
 tags: coding javascript js numbers
 description: Computer’s and data, these two words have an awesome relationship with each other. Inside the computer’s world, there is only data.
-image: //blog.codecarrot.net/images/bundle-of-numbers6.jpg
+image: bundle-of-numbers6.jpg
 ---
 
 Computer’s and data, these two words have an awesome relationship with each other. Inside the computer’s world, there is only data. Read the data, modify the data, create a new data — simply put, data is everything according to me when it comes to Programming.

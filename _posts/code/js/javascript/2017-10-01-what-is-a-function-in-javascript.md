@@ -6,7 +6,7 @@ date: 2017-10-01 17:40:00
 categories: code
 tags: coding javascript js functions
 description: Learn all about Functions in JavaScript — invocation, return, parameters, declarations, and expressions.
-image: //blog.codecarrot.net/images/1-CYNSrbMqn5nsYiWo7of1og.jpeg
+image: 1-CYNSrbMqn5nsYiWo7of1og.jpeg
 ---
 
 ## Defined

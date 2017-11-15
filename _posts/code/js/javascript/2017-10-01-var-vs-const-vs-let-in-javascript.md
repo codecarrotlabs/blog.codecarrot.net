@@ -6,7 +6,7 @@ date: 2017-10-01 19:40:00
 categories: code
 tags: coding javascript js var const let
 description: Variables creation depend on how you declare them, and ES6 offers options to make controlling scope easier.
-image: //blog.codecarrot.net/images/maxresdefault.jpg
+image: maxresdefault.jpg
 ---
 
 Traditionally, the way variable declarations work has been that weird part of programming in JavaScript. Variables creation depend on how you declare them, and ES6 offers options to make controlling scope easier. This article will look to clear on why those classic `var` declarations can be confusing and will also introduce block-level bindings aka `const` and `let`.

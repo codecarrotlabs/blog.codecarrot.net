@@ -6,7 +6,7 @@ date: 2017-09-02 17:55:00
 categories: code
 tags: html html5
 description: In this article, you will get an overview of HTML5, including a look at some of the new tags now available to designers and developers.
-image: //blog.codecarrot.net/images/what-is-html5.png
+image: what-is-html5.png
 ---
 
 In this article, you will learn an overview of HTML5, including a look at some of the new tags now available to designers and developers. If you want to learn how to take advantage of all the new features of HTML5, continue reading this article!
