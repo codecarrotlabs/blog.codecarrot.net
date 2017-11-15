@@ -6,7 +6,7 @@ date: 2017-10-29 02:29:40
 categories: code
 tags: coding learing open-source
 description: Chances are you’ve probably encountered the term “Open Source” before. Open Source Software, or OSS, is a kind of software that whose code is made available for everyone to read. Depending on the license, you can most likely reuse it
-image: http://blog.codecarrot.net/images/share-open-connect.png
+image: share-open-connect.png
 ---
 
 Chances are you’ve probably encountered the term “Open Source” before. Open Source Software, or OSS, is a kind of software that whose code is made available for everyone to read. Depending on the license, you can most likely reuse it in any of your applications.
