@@ -458,8 +458,10 @@ tesla_model_s.make_noise() # VRUUUUUUUM
 Encapsulation is a mechanism that restricts direct access to objects’ data and methods. But at the same time, it facilitates operation on that data (objects’ methods).
 
 <blockquote>
-“Encapsulation can be used to hide data members and members function. Under this definition, encapsulation means that the internal representation of an [object](//en.wikipedia.org/wiki/Object_%28computer_science%29) is generally hidden from view outside of the object’s definition.” — Wikipedia
+“Encapsulation can be used to hide data members and members function. Under this definition, encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition.” — Wikipedia
 </blockquote>
+
+* [Object](//en.wikipedia.org/wiki/Object_%28computer_science%29)
 
 All internal representation of an object is hidden from the outside. Only the object can interact with its internal data.
 
