@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: Part 1 - Bootstrap 4 vs Zurb Foundation 6.4  -  The Grid
+title: Part 1 - Bootstrap 4 vs Zurb Foundation 6.4 - The Grid
 date: 2017-10-05 15:35:00
 categories: code
 tags: code bootstrap zurb
