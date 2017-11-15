@@ -6,7 +6,7 @@ date: 2017-11-12 13:24:00
 categories: code
 tags: ruby-on-rails ruby rails draper gems
 description: Draper adds an object-oriented layer of presentation logic to your Rails application. Without Draper, this functionality might have been tangled up in procedural helpers or adding bulk to your models.
-image: //blog.codecarrot.net/images/9503a57339ac09104f7d44082834e709.jpg
+image: 9503a57339ac09104f7d44082834e709.jpg
 ---
 
 Draper adds an object-oriented layer of presentation logic to your Rails application.
