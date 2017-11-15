@@ -4,7 +4,7 @@ author: yashumittal
 title: How to Start Freelancing - 5 Steps to go from 0 to Rs.50,000 per month
 date: 2017-04-30 12:00:00
 categories: growth
-tags: freelancer remote-work working-from-home
+tags: growth freelancer remote-work working-from-home
 description: Show off your skills by working as a freelancer. Sometimes you might feel like you're wasting your time, earning nothing. This is why you need to know about freelance jobs.
 image: start-freelancing-work.png
 ---
