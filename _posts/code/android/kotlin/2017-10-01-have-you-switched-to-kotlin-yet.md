@@ -6,7 +6,7 @@ date: 2017-10-01 03:35:00
 categories: code
 tags: android coding kotlin java
 description: The beauty of being a technology entrepreneur is that you always get bounty of opportunities to keep yourself upgraded and get paid for the same. You never go out of fashion.
-image: //blog.codecarrot.net/images/1-iofIpMfqpzkfb96iDoZrQQ.jpeg
+image: 1-iofIpMfqpzkfb96iDoZrQQ.jpeg
 ---
 
 ![java is old and kotlin is great and fast](//blog.codecarrot.net/images/1-iofIpMfqpzkfb96iDoZrQQ.jpeg)
