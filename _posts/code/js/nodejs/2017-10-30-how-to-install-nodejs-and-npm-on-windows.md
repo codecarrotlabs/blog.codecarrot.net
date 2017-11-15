@@ -17,7 +17,7 @@ Node.js is also used for developing desktop applications and for deploying tools
 
 ## Prerequisites
 
-Node isn’t a program that you simply launch like Word or Photoshop: you won’t find it pinned to the taskbar or in your list of Apps. To use Node you must type command-line instructions, so you need to be comfortable with (or at least know how to start) a command-line tool like the Windows Command Prompt, PowerShell, [Cygwin](https://www.cygwin.com/), or the Git shell (which is installed along with [Github for Windows](https://windows.github.com/)).
+Node isn’t a program that you simply launch like Word or Photoshop: you won’t find it pinned to the taskbar or in your list of Apps. To use Node you must type command-line instructions, so you need to be comfortable with (or at least know how to start) a command-line tool like the Windows Command Prompt, PowerShell, [Cygwin](//www.cygwin.com/), or the Git shell (which is installed along with [Github for Windows](//windows.github.com/)).
 
 ## Installation Overview
 
@@ -25,10 +25,10 @@ Installing Node and NPM is pretty straightforward using the installer package av
 
 ### Installation Steps
 
-1. **Download the Windows installer from the [Nodes.js® web site](http://nodejs.org/).**
+1. **Download the Windows installer from the [Nodes.js® web site](//nodejs.org/).**
 2. **Run the installer** (the .msi file you downloaded in the previous step.)
 3. **Follow the prompts in the installer** (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
-![node installer](http://blog.codecarrot.net/images/node_installer.png)
+![node installer](//blog.codecarrot.net/images/node_installer.png)
 4. **Restart your computer.** You won’t be able to run Node.js® until you restart your computer.
 
 ### Test it!
@@ -41,7 +41,7 @@ Make sure you have Node and NPM installed by running simple commands to see what
 
 ## How to Update Node and NPM
 
-New versions of Node and NPM come out frequently. To install the updates, just [download the installer](http://nodejs.org/download/) from the Nodejs.org site and run it again. The new version of Node and NPM will replace the older versions.
+New versions of Node and NPM come out frequently. To install the updates, just [download the installer](//nodejs.org/download/) from the Nodejs.org site and run it again. The new version of Node and NPM will replace the older versions.
 
 ## How to Uninstall Node and NPM
 

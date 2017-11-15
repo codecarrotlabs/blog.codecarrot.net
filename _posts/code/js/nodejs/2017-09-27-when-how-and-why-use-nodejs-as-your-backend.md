@@ -15,7 +15,7 @@ image: //blog.codecarrot.net/images/pexels-photo.jpg
 
 Node.js is an application runtime environment that allows you to write server-side applications in JavaScript. Thanks to its unique I/O model, it excels at the sort of scalable and real-time situations we are increasingly demanding of our servers.  It’s also lightweight, efficient, and its ability to use JavaScript on both frontend and backend opens new avenues for development. It comes as no surprise that so many big companies have leveraged Node.js in production. In this article, I want to discuss when it is worth using Node.js, and in what cases it might not be the best idea.
 
-![when use node.js backend](http://blog.codecarrot.net/images/4hg8lh9hoxc-crew-486671-edited.jpg)
+![when use node.js backend](//blog.codecarrot.net/images/4hg8lh9hoxc-crew-486671-edited.jpg)
 
 ## How is Node.js different from web JavaScript?
 
@@ -56,11 +56,11 @@ There are more things to consider before kicking off with Node.js. Many packages
 
 ## Where to start?
 
-First of all, go to the official web page of Node.js ([nodejs.org](https://nodejs.org/)) and download the Node.js package. Later on, we need to install the Node.js package manager to install and manage the dependencies in our project easily. Visit [npmjs.com](https://www.npmjs.com/) and follow the installation instructions. Now, we are ready to write some code.
+First of all, go to the official web page of Node.js ([nodejs.org](//nodejs.org/)) and download the Node.js package. Later on, we need to install the Node.js package manager to install and manage the dependencies in our project easily. Visit [npmjs.com](//www.npmjs.com/) and follow the installation instructions. Now, we are ready to write some code.
 
-The best starting point for the Node.js is the official guide, from which you can learn the core concepts of Node.js. In the [Node.js](https://nodejs.org/en/docs/guides/getting-started-guide/) guide, you can find the answer to one of the most important questions: How to build a simple Node.js server?
+The best starting point for the Node.js is the official guide, from which you can learn the core concepts of Node.js. In the [Node.js](//nodejs.org/en/docs/guides/getting-started-guide/) guide, you can find the answer to one of the most important questions: How to build a simple Node.js server?
 
-Later, you can dive into the Node.js world and try out some crucial frameworks such as express.js to get an idea of how JavaScript dependencies are used ([expressjs.com](https://expressjs.com/)). Express.js allows you to build high-performance, scalable, and easily maintainable applications in JavaScript. The best learning path for express.js is to visit the official guides on the express.js web page and study the most important features such as routing, template engines, and debugging.
+Later, you can dive into the Node.js world and try out some crucial frameworks such as express.js to get an idea of how JavaScript dependencies are used ([expressjs.com](//expressjs.com/)). Express.js allows you to build high-performance, scalable, and easily maintainable applications in JavaScript. The best learning path for express.js is to visit the official guides on the express.js web page and study the most important features such as routing, template engines, and debugging.
 
 ## Wrap up
 

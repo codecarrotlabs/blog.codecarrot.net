@@ -33,7 +33,7 @@ Node.js comes with a great deal of packages that can be easily implemented in yo
 
 ## One Language on Back- and Front-end
 
-Node,js is a JavaScript-based environment, and many popular front-end frameworks (such as [React](/https://www.codecarrot.net/react-js), [Ember](/https://www.codecarrot.net/ember-js), [Angular](/https://www.codecarrot.net/angular-js)) use the very same language. Therefore, you can create applications which are isomorphic that is written in one language. It streamlines the development process,the communication between front- and back-end teams is way easier, and they can understand both sides of the codebase much better. Potentially, you might have a smaller and more efficient team that is easier to manage. Finally, with no technological diversity recruiting new people in case of scaling up won’t be a problem.
+Node,js is a JavaScript-based environment, and many popular front-end frameworks (such as [React](//www.codecarrot.net/react-js), [Ember](//www.codecarrot.net/ember-js), [Angular](//www.codecarrot.net/angular-js)) use the very same language. Therefore, you can create applications which are isomorphic that is written in one language. It streamlines the development process,the communication between front- and back-end teams is way easier, and they can understand both sides of the codebase much better. Potentially, you might have a smaller and more efficient team that is easier to manage. Finally, with no technological diversity recruiting new people in case of scaling up won’t be a problem.
 
 ## Tips and Things to Remember
 

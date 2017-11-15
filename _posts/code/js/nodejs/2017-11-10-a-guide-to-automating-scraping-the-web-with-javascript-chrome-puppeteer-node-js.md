@@ -43,7 +43,7 @@ const puppeteer = require('puppeteer');
 async function getPic() {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto('https://google.com');
+  await page.goto('//google.com');
   await page.screenshot({path: 'google.png'});
 
   await browser.close();
@@ -82,7 +82,7 @@ Here we create a new page in our automated browser. We wait for the new `page` t
 * **Line 6:**
 
 ```js
-await page.goto('https://google.com');
+await page.goto('//google.com');
 ```
 
 Using our page that we created in the last line of code, we can now tell our `page` to navigate to a URL. In this example, we’re navigating to google. Our code will pause until the `page` has loaded.
@@ -155,7 +155,7 @@ const puppeteer = require('puppeteer');
 async function getPic() {
   const browser = await puppeteer.launch({headless: false});
   const page = await browser.newPage();
-  await page.goto('https://google.com');
+  await page.goto('//google.com');
   await page.setViewport({width: 1000, height: 500})
   await page.screenshot({path: 'google.png'});
 
@@ -213,7 +213,7 @@ Here’s how we do that:
 let scrape = async () => {
   const browser = await puppeteer.launch({headless: false});
   const page = await browser.newPage();
-  await page.goto('http://books.toscrape.com/');
+  await page.goto('//books.toscrape.com/');
   await page.waitFor(1000);
   // Scrape
   browser.close();
@@ -238,7 +238,7 @@ const page = await browser.newPage();
 Next, we go to the books.toscrape.com URL:
 
 ```js
-await page.goto('http://books.toscrape.com/');
+await page.goto('//books.toscrape.com/');
 ```
 
 Optionally, I’ve added in a delay of `1000` milliseconds. While normally not necessary, this will ensure everything on the page loads:
@@ -360,7 +360,7 @@ let scrape = async () => {
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
 
-    await page.goto('http://books.toscrape.com/');
+    await page.goto('//books.toscrape.com/');
     await page.click('#default > div > div > div > div > section > div:nth-child(2) > ol > li:nth-child(1) > article > div.image_container > a > img');
     await page.waitFor(1000);
 
@@ -436,7 +436,7 @@ let scrape = async () => {
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage();
 
-    await page.goto('http://books.toscrape.com/');
+    await page.goto('//books.toscrape.com/');
 
     const result = await page.evaluate(() => {
         let data = []; // Create an empty array that will store our data

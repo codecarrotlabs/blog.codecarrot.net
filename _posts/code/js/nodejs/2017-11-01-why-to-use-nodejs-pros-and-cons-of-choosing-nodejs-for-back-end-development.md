@@ -19,7 +19,7 @@ Node.js is actually not a framework, but a runtime environment that allows to ex
 
 ### Easy to Learn
 
-According to [Node.js’s 2016 User Survey](https://nodejs.org/static/documents/2016-survey-report.pdf) Javascript is one of the most popular programming languages for front-end development. Nearly every front-end developer is familiar with this universal language. Therefore, it is much easier for them to switch to using Node.js at the back-end. It requires less effort and less time to learn and work with, even for a junior Javascript programmer.
+According to [Node.js’s 2016 User Survey](//nodejs.org/static/documents/2016-survey-report.pdf) Javascript is one of the most popular programming languages for front-end development. Nearly every front-end developer is familiar with this universal language. Therefore, it is much easier for them to switch to using Node.js at the back-end. It requires less effort and less time to learn and work with, even for a junior Javascript programmer.
 
 ![Node.js’s 2016 User Survey](//blog.codecarrot.net/images/PowerPoint+Presentation+2017-11-01.png)
 

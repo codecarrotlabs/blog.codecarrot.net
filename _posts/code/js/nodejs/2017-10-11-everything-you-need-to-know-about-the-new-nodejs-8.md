@@ -11,7 +11,7 @@ image: //blog.codecarrot.net/images/dSLsz4Aqa4zWZdn5hSFRBS-970-80.jpg
 
 The latest major release of Node.js brings many significant improvements to the JavaScript community, including an updated JavaScript engine, npm version 5, Google's V8, Node.js API, async_hooks, a WHATWG URL parser, more secure Buffers and more. Here we'll update you on these features and the other most important aspects of this release.
 
-Node.js 8 is released under the code name Carbon, and is available now from the [Node.js site](https://nodejs.org/en/download/current/). It will be actively worked on for another 18 months (no new features, just bug fixes, security improvements and npm updates), before going into maintenance mode. As with previous releases, during maintenance mode releases will only receive critical security updates and bug fixes.
+Node.js 8 is released under the code name Carbon, and is available now from the [Node.js site](//nodejs.org/en/download/current/). It will be actively worked on for another 18 months (no new features, just bug fixes, security improvements and npm updates), before going into maintenance mode. As with previous releases, during maintenance mode releases will only receive critical security updates and bug fixes.
 
 Check our these [20 JavaScript tools](/20-javascript-tools-to-blow-your-mind) that will blow your mind.
 
@@ -27,7 +27,7 @@ This process is far from ideal, as lots of companies failed to get their depende
 
 ## 01. Enter the Node.js API
 
-![Enter the node.js api](http://blog.codecarrot.net/images/YUsX5W2DrjQrMGc5J9Cmb-650-80.jpg)
+![Enter the node.js api](//blog.codecarrot.net/images/YUsX5W2DrjQrMGc5J9Cmb-650-80.jpg)
 
 *Machine agnostic: Native modules now work with Microsoft’s Chakra as well as different Node.js versions*
 
@@ -65,7 +65,7 @@ In the heart of Node.js is the JavaScript engine that interprets your JavaScript
 
 ## 03. Updated JavaScript Engine
 
-![Updated JavaScript Engine](http://blog.codecarrot.net/images/qnnXLGrpMAmRaWUFfPB2wA-650-80.jpg)
+![Updated JavaScript Engine](//blog.codecarrot.net/images/qnnXLGrpMAmRaWUFfPB2wA-650-80.jpg)
 
 *Big news: Node.js will be able to update the V8 engine without a major release*
 
@@ -179,4 +179,4 @@ const URL = require('url').URL
 const myURL = new URL('/foo')
 ```
 
-As you can see, the release of the Node.js 8 update has brought plenty of new and exciting improvements to the JavaScript community. To start experimenting with all of these new features yourself, head over to [nodejs.org](https://nodejs.org/en/), download the Node.js 8 binary and start playing with your new toolset!
+As you can see, the release of the Node.js 8 update has brought plenty of new and exciting improvements to the JavaScript community. To start experimenting with all of these new features yourself, head over to [nodejs.org](//nodejs.org/en/), download the Node.js 8 binary and start playing with your new toolset!
