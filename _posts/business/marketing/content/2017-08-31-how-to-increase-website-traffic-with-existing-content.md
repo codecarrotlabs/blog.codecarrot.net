@@ -3,7 +3,7 @@ layout: post
 author: yashumittal
 title: How to increase website traffic with existing content
 date: 2017-08-31 23:58:00
-categories: growth
+categories: business
 tags: website traffic users
 description: Let’s take a look at how to increase website traffic by reusing, repackaging and recycling existing content to get more website visitors, links and leads.
 image: jake-givens-545.jpg
