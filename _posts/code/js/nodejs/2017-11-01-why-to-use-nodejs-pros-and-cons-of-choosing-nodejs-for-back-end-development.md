@@ -6,7 +6,7 @@ date: 2017-11-01 16:52:00
 categories: code
 tags: coding nodejs
 description: Pros and cons of Node.js, a runtime environment for writing server-side apps in Javascript. Learn what are the advantages and disadvantages of using Node.js.
-image: //blog.codecarrot.net/images/coding-924920_1280.jpg
+image: coding-924920_1280.jpg
 ---
 
 Choosing backend technology is one of the most important decisions that every CEO and CTO have to make. It determines how fast a product can be shipped to market, what is the total cost and how big pain maintenance will be.

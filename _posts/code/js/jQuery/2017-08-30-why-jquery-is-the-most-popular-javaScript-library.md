@@ -6,7 +6,7 @@ date: 2017-08-30 12:50:00
 categories: code
 tags: jquery javascript
 description: John Resig released jQuery on August 26th, 2006 and changed the front-end development landscape forever.
-image: //blog.codecarrot.net/images/jquery-popular-javascript-library.png
+image: jquery-popular-javascript-library.png
 ---
 
 [John Resig](//ejohn.org/) released [jQuery](//jquery.com/) on **August 26th, 2006** and changed the [front-end development]() landscape forever. jQuery quickly arose to be the go to JavaScript framework.

@@ -6,7 +6,7 @@ date: 2017-08-24 12:00:00
 categories: code
 tags: jquery plugin open-source website
 description: Typically a single-page website is focused on presenting a very focused goal or objective. These layouts work best for companies, freelancers, and Internet projects which need an online haven to share information.
-image: //blog.codecarrot.net/images/jqueryblog.png
+image: jqueryblog.png
 ---
 
 Typically a single-page website is focused on presenting a very focused goal or objective. These layouts work best for companies, freelancers, and Internet projects which need an online haven to share information. Sliding parallax menus are also common because it provides a natural interface transition between content areas.

@@ -6,7 +6,7 @@ date: 2017-09-27 00:59:00
 categories: code
 tags: nodejs php project project-management coding
 description: If you are an app owner choosing between Node.js and PHP, you should be aware of their major advantages and limitations.
-image: //blog.codecarrot.net/images/nodejs-php2.jpg
+image: nodejs-php2.jpg
 ---
 
 Even though both PHP and Node.js can manage apps of any complexity, they are built around different concepts and architectures. If you are an app owner choosing between these two environments, you should be aware of their major advantages and limitations.
