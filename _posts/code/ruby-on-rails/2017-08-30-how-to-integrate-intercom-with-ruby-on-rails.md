@@ -6,7 +6,7 @@ date: 2017-08-30 11:40:00
 categories: code
 tags: ruby-on-rails intercom ruby rails communication marketing
 description: Intercom is a popular marketing and consumer communication tool. Intercom integration in your Ruby on Rails app is not complicated and, thanks to this guide, you should be able to do it in no time.
-image: //blog.codecarrot.net/images/integrate-intercom-with-ruby-on-rails.png
+image: integrate-intercom-with-ruby-on-rails.png
 ---
 
 Intercom is a popular marketing and consumer communication tool. Intercom integration in your Ruby on Rails app is not complicated and, thanks to this guide, you should be able to do it in no time.

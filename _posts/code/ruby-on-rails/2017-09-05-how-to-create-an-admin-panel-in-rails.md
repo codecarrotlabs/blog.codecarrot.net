@@ -6,7 +6,7 @@ date: 2017-09-05 16:13:10
 categories: code
 tags: ruby-on-rails ruby rails RailsAdmin ActiveAdmin Administrate
 description: How to create an admin panel in Rails using these different admin panel tools like - RailsAdmin, ActiveAdmin and Administrate.
-image: //blog.codecarrot.net/images/ruby-on-rails.png
+image: ruby-on-rails.png
 ---
 
 I did some research on admin panel tools, that is RailsAdmin, ActiveAdmin and Administrate. Every tool did its job perfectly, but there were some major differences.

@@ -6,7 +6,7 @@ date: 2017-09-05 16:13:10
 categories: code
 tags: ruby-on-rails ruby rails paranoia gem paranoia-gem
 description: Paranoia is a gem that allows you to hide records instead of destroying them. You can recover them later if you want. It’s a very simple (one file with about 300 lines of code) reimplementation of ActsAsParanoid.
-image: //blog.codecarrot.net/images/paranoia-wines-eyes.jpg
+image: paranoia-wines-eyes.jpg
 ---
 
 Paranoia is a gem that allows you to hide records instead of destroying them. You can recover them later if you want. It’s a very simple (one file with about 300 lines of code) reimplementation of [ActsAsParanoid](//github.com/ActsAsParanoid/acts_as_paranoid).

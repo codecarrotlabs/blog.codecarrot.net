@@ -6,7 +6,7 @@ date: 2017-08-23 02:00:00
 categories: code
 tags: ruby-on-rails rails ruby mac
 description: As a little nudge for those of you who still haven't discovered how awesome Rails is, here's how to install Rails 5 on Mac.
-image: //blog.codecarrot.net/images/screen-shot-22.41.17.png
+image: screen-shot-22.41.17.png
 ---
 
 We figured we’d share those directions here, as a little nudge for those of you who still haven’t discovered how awesome Rails is.

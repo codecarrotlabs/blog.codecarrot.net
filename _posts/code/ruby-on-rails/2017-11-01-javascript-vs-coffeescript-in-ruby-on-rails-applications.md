@@ -6,7 +6,7 @@ date: 2017-11-01 03:58:45
 categories: code
 tags: ruby-on-rails ruby rails js coffee javascript coffeescript
 description: At CodeCarrot we regularly discuss technologies we use to make sure we are not lagging behind or lose newly emerged
-image: //blog.codecarrot.net/images/jsvscoffee.png
+image: jsvscoffee.png
 ---
 
 At [CodeCarrot](//codecarrot.net/) we regularly discuss technologies we use to make sure we are not lagging behind or lose newly emerged features in web development world. Here's a short rundown of our discussions if we should use JavaScript or CoffeeScript in our projects (note that we are currently using CoffeeScript as default).

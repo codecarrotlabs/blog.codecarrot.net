@@ -6,7 +6,7 @@ date: 2017-11-01 03:58:45
 categories: code
 tags: ruby-on-rails ruby rails
 description: Refactoring can lower development costs and save your project from failure, but it's also risky. Find out how to do it the right way for your Ruby on Rails app.
-image: //blog.codecarrot.net/images/hammer-and-nail-449257-edited.jpg
+image: hammer-and-nail-449257-edited.jpg
 ---
 
 Refactoring means, in simplest possible terms, improving existing code without changing its functionality. It’s all about code quality and optimisation, not product redesign. Users never see the changes. So why do it? Because ultimately, refactoring can prevent your app from generating huge upkeep costs and, as a result, make your business more successful.
