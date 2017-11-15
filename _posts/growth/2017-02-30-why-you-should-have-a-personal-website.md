@@ -6,7 +6,7 @@ date: 2017-02-30 12:00:00
 categories: growth
 tags: personal website impression promote brand
 description: Anyone who wants to make an impression online can do it with a personal website. Anyone who wants to make an impression online - whether it's to land a sweet new job, promote a pet project, or just connect
-image: http://blog.codecarrot.net/images/have-a-personal-website.jpg
+image: //blog.codecarrot.net/images/have-a-personal-website.jpg
 ---
 
 It's a fact. If you don't manage your online image, it will manage you. Remember those embarrassing pics and videos you posted on Facebook. Your parents saw them next day. That late night party tweet? Bet you wish you could take that one back. But for many people, this issue gets real when they decided to look for a job. That's when they decided to look for a job. That's when they realize they have to control what potential employers see about them online. And there's no better way to do it than with a personal website.
@@ -15,7 +15,7 @@ I'm a great believer in the power of a website to promote a brand.
 
 But you don't have to be a multinational company to benefit from the promotional power of the web. Anyone who wants to make an impression online - whether it's to land a sweet new job, promote a pet project, or just connect with like-minded netizens - can do it with a personal website.
 
-![Why you should have a personal website?](http://blog.codecarrot.net/images/lady-working-illustration.png)
+![Why you should have a personal website?](//blog.codecarrot.net/images/lady-working-illustration.png)
 
 ## Beyond Social Media
 
@@ -51,10 +51,10 @@ There are many domain provider out there in the market.
 
 Once you've found your domain name, the next step is to build a website. There are many website building tools out in the market for building websites.
 
-It's not always you have time or talent to build one, that's why **CodeCarrot** comes in as a Web and Mobile Application Developer. Providing [website development service](http://codecarrot.net/).
+It's not always you have time or talent to build one, that's why **CodeCarrot** comes in as a Web and Mobile Application Developer. Providing [website development service](//codecarrot.net/).
 
 It's a mobile world, so make sure the website you end up with will be viewable on mobile devices like smartphones and iPads. Nothing turns visitors away faster than a website that's hard to see or use on the device they happen to be using at the moment.
 
 Once your website is live, show it off! Add your web address to your business card, resume, email signature and social media profile. Keep your site up to date, even after you've landed the new job. You never know when a hiring manager might be looking for someone like you to fill an even better position.
 
-Do you also [want a website](http://codecarrot.net) for yourself? Get a successful project with [Codecarrot](http://codecarrot.net).
+Do you also [want a website](//codecarrot.net) for yourself? Get a successful project with [Codecarrot](//codecarrot.net).
