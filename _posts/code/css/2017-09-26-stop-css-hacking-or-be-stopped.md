@@ -6,7 +6,7 @@ date: 2017-09-26 13:10:00
 categories: code
 tags: code css3 css hacking
 description: CSS has experienced a colourful and unusual history. From historic slow adoption to the current slow rate of development, ugly hacks have meant filling in the gaps is par for the course. With CSS1, we had a simple and elegant...
-image: http://blog.codecarrot.net/images/css-1.png
+image: //blog.codecarrot.net/images/css-1.png
 ---
 
 CSS has experienced a colourful and unusual history. From historic slow adoption to the current slow rate of development, ugly hacks have meant filling in the gaps is par for the course.
@@ -59,7 +59,7 @@ The question is begged, of course: why are conditional comments implemented only
 
 But this is simply one single browser updating, and there’s a larger issue here which we’re going to have to start thinking about sooner or later. I’d prefer sooner.
 
-All popular browsers are improving at a frequent clip again. We’re not stagnating anymore; the improvements are going to keep coming. CSS3 isn’t finished yet, but [various modules of it](http://www.w3.org/TR/css3-selectors/) are being implemented already. The future is just around the corner.
+All popular browsers are improving at a frequent clip again. We’re not stagnating anymore; the improvements are going to keep coming. CSS3 isn’t finished yet, but [various modules of it](//www.w3.org/TR/css3-selectors/) are being implemented already. The future is just around the corner.
 
 As the modern browsers update, in what other interesting and creative ways will our code break? How are we going to test them? How are we going to selectively serve up code to various versions?
 
@@ -108,7 +108,7 @@ I see a few ways.
 3. We could discover a whole new bag of hacks and filters. With the number of people hacking away at CSS these days, the chances aren’t small that sooner or later we’ll be able to exploit other bugs in other browsers, and get ourselves right back into this situation. I think a lot of people would prefer we didn’t go this route again, but it’s almost inevitable that sooner or later, the first IE7 and Firefox 1.0 hacks will rear their heads.
 4. Let’s think pie-in-the-sky here: we could get a bit of recognition that this problem is legitimate, and an official W3C-sanctioned method of browser filtration. I suspect the browser manufacturers are well aware that this is a problem; the IE team has given us a method for filtering out their own browser in the form of conditional comments, after all. Suggestions for codifying a similar method within CSS have been made to the CSS working group many times over the years, and I have it on good authority that there has been at least one formal proposal made in the past on the subject, but as far as I know, nothing has developed from either.
 
-The danger in going this route echos what we learned about HTTP user agent strings in the [late 90’s](http://en.wikipedia.org/wiki/User_agent), of course. Crappy browsers will force page authors to filter them somehow. Crappy filtering will cause browsers to pose as each other. Maybe it would be better this time around, since the base technologies have matured a little bit. Maybe it wouldn’t.
+The danger in going this route echos what we learned about HTTP user agent strings in the [late 90’s](//en.wikipedia.org/wiki/User_agent), of course. Crappy browsers will force page authors to filter them somehow. Crappy filtering will cause browsers to pose as each other. Maybe it would be better this time around, since the base technologies have matured a little bit. Maybe it wouldn’t.
 
 ## The Reality
 

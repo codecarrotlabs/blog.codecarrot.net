@@ -6,14 +6,14 @@ date: 2017-10-24 02:10:00
 categories: code
 tags: css coding sass
 description: Sass control directives are the cornerstone of creating libraries for reuse and distribution, and need to be among the very first items on your list of things to learn when taking your Sass skills to the next level.
-image: http://blog.codecarrot.net/images/1-LbKGyabNR-rvnzPg.png
+image: //blog.codecarrot.net/images/1-LbKGyabNR-rvnzPg.png
 ---
 
-[Sass control directives](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#control_directives) are the cornerstone of creating libraries for reuse and distribution, and need to be among the very first items on your list of things to learn when taking your Sass skills to the next level.
+[Sass control directives](//sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#control_directives) are the cornerstone of creating libraries for reuse and distribution, and need to be among the very first items on your list of things to learn when taking your Sass skills to the next level.
 
 ## @if
 
-The `@if` control directive takes a [SassScript](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#sassscript) expression and processes its block of styles if the expression returns anything other than `false`.
+The `@if` control directive takes a [SassScript](//sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#sassscript) expression and processes its block of styles if the expression returns anything other than `false`.
 
 Here's a fairly simple example of an `@if` control directive. I've simplified this example to be more readable, rather than usable.
 
@@ -41,7 +41,7 @@ Which emits this CSS:
 }
 ```
 
-Also notice that I've added `@debug` followed by a string in each flow option. This isn't core to this guide, but I've added this to show you how you can output a message to the command-line output log to let users know about certain events such as a [@warn](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#id9) or a [@debug](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#id8) as your code gets executed. For complex mixins and functions, this could come in handy to provide a better user experience and make it easier to spot and track down issues.
+Also notice that I've added `@debug` followed by a string in each flow option. This isn't core to this guide, but I've added this to show you how you can output a message to the command-line output log to let users know about certain events such as a [@warn](//sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#id9) or a [@debug](//sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#id8) as your code gets executed. For complex mixins and functions, this could come in handy to provide a better user experience and make it easier to spot and track down issues.
 
 For example, if you ran this code this is what you would see in the command-line output.
 ```

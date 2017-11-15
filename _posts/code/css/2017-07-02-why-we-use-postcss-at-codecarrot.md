@@ -6,11 +6,11 @@ date: 2017-07-02 12:00:00
 categories: code
 tags: css postcss css3
 description: PostCSS provides a set of extremely useful features that would make every CSS codebase more maintainable and it can work alongside SASS or replace it.
-image: http://blog.codecarrot.net/images/why-we-use-postcss-at-codecarrot.jpg
+image: //blog.codecarrot.net/images/why-we-use-postcss-at-codecarrot.jpg
 ---
 
 <blockquote>
-PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more. https://github.com/postcss/
+PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more. //github.com/postcss/
 </blockquote>
 
 ## How does it work?
@@ -82,8 +82,8 @@ With great power comes great responsibility. PostCSS provides a set of extremely
 
 ## Hepfull Links:
 
-1.  [https://www.youtube.com/watch?v=-_gIKdHYP3E](https://www.youtube.com/watch?v=-_gIKdHYP3E)
-2.  [http://postcss.org/](http://postcss.org/)
+1.  [www.youtube.com/watch?v=-_gIKdHYP3E](//www.youtube.com/watch?v=-_gIKdHYP3E)
+2.  [postcss.org](//postcss.org/)
 
 ## P.S. Can we send you an email?
 

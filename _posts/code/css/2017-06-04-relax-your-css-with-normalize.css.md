@@ -6,13 +6,13 @@ date: 2017-06-04 12:00:00
 categories: code
 tags: css normalize css3
 description: Normalize.css - Make browsers render all elements more consistently. A small CSS file that provides better cross-browser consistency in the default styling of HTML elements
-image: http://blog.codecarrot.net/images/relax-your-css-with-normalize-css.jpg
+image: //blog.codecarrot.net/images/relax-your-css-with-normalize-css.jpg
 ---
 
-[Normalize.css](https://codecarrotnet.github.io/normalize.css/) is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
+[Normalize.css](//codecarrotnet.github.io/normalize.css/) is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
 
-*  [Normalize.css project site](https://codecarrotnet.github.io/normalize.css/css/normalize.min.css)
-*  [Normalize.css source on GitHub](https://codecarrotnet.github.io/normalize.css/css/normalize.css)
+*  [Normalize.css project site](//codecarrotnet.github.io/normalize.css/css/normalize.min.css)
+*  [Normalize.css source on GitHub](//codecarrotnet.github.io/normalize.css/css/normalize.css)
 
 **Pro Tips:** Want to know some extra about [normalize.css and it usage](/applying-normalize-css-to-relax-your-css-file).
 
@@ -88,7 +88,7 @@ The project is broken down into relatively independent sections, making it easy 
 
 ## How to use normalize.css
 
-First, install or [download normalize.css](https://codecarrotnet.github.io/normalize.css/css/normalize.css) from GitHub or use the CDN method. There are then 2 main ways to make use of it.
+First, install or [download normalize.css](//codecarrotnet.github.io/normalize.css/css/normalize.css) from GitHub or use the CDN method. There are then 2 main ways to make use of it.
 
 **Approach 1:** use normalize.css as a starting point for your own project’s base CSS, customising the values to match the design’s requirements.
 

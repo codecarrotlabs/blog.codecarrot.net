@@ -6,18 +6,18 @@ date: 2017-09-05 00:50:00
 categories: code
 tags: css animate motion design web-design css3
 description: Lots of frontend web developers have been getting interested in dynamic interfaces using motion effects. This is all too common with many advancements within popular JavaScript libraries. But there has also been a lot of interest in CSS3 animated effects....
-image: http://blog.codecarrot.net/images/frank-mckenna-132749.jpg
+image: //blog.codecarrot.net/images/frank-mckenna-132749.jpg
 ---
 
 Lots of frontend web developers have been getting interested in dynamic interfaces using motion effects. This is all too common with many advancements within popular JavaScript libraries. But there has also been a lot of interest in CSS3 animated effects.
 
-One such library is called [Animate.css](http://daneden.me/animate/) which was created by Dan Eden. You can find a lot of great information on the website and usage is very well documented. In this article I want to present a few miscellaneous UI effects which may be applied into typical website layouts. Keep in mind that although Animate.css can make CSS3 animations, it cannot handle binding to specific effects such as clicks or keystrokes. Because of this limitation I will be coupling a bit of jQuery code along with the CSS classes and demonstrating how this comes together in an organized fashion.
+One such library is called [Animate.css](//daneden.me/animate/) which was created by Dan Eden. You can find a lot of great information on the website and usage is very well documented. In this article I want to present a few miscellaneous UI effects which may be applied into typical website layouts. Keep in mind that although Animate.css can make CSS3 animations, it cannot handle binding to specific effects such as clicks or keystrokes. Because of this limitation I will be coupling a bit of jQuery code along with the CSS classes and demonstrating how this comes together in an organized fashion.
 
 ## Generating the Animate Library
 
-First you should download a copy of Animate.css from the [Github repo page](https://github.com/daneden/animate.css). If there is a specific number of animations you wish to use it may be easier to create your own custom build. This can be done from the [build page](http://daneden.me/animate/build/) on Dan’s website. The full library is only about 60kb so it’s not overly enormous to keep it all together.
+First you should download a copy of Animate.css from the [Github repo page](//github.com/daneden/animate.css). If there is a specific number of animations you wish to use it may be easier to create your own custom build. This can be done from the [build page](//daneden.me/animate/build/) on Dan’s website. The full library is only about 60kb so it’s not overly enormous to keep it all together.
 
-Aside from the Animate CSS library I will also be including a copy of my own stylesheet and a custom Google Web font. Plus the latest [jQuery library](http://blog.codecarrot.net/js/jquery-3.2.1.min.js) and the [HTML5shiv script](http://html5shiv.googlecode.com/svn/trunk/html5.js) both hosted by Google are some additional assets. We can take a peek at my heading code below:
+Aside from the Animate CSS library I will also be including a copy of my own stylesheet and a custom Google Web font. Plus the latest [jQuery library](//blog.codecarrot.net/js/jquery-3.2.1.min.js) and the [HTML5shiv script](//html5shiv.googlecode.com/svn/trunk/html5.js) both hosted by Google are some additional assets. We can take a peek at my heading code below:
 
 ```
 <!doctype html>
@@ -26,14 +26,14 @@ Aside from the Animate CSS library I will also be including a copy of my own sty
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
   <title>Animate.css Basic Webpage Demos</title>
   <meta name="author" content="Jake Rocheleau">
-  <link rel="shortcut icon" href="http://blog.codecarrot.net/images/favicon.png">
-  <link rel="icon" href="http://blog.codecarrot.net/images/favicon.png">
+  <link rel="shortcut icon" href="//blog.codecarrot.net/images/favicon.png">
+  <link rel="icon" href="//blog.codecarrot.net/images/favicon.png">
   <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
   <link rel="stylesheet" type="text/css" media="all" href="css/animate.css">
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oxygen:400,700">
-  <script type="text/javascript" src="http://blog.codecarrot.net/js/jquery-3.2.1.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oxygen:400,700">
+  <script type="text/javascript" src="//blog.codecarrot.net/js/jquery-3.2.1.min.js"></script>
 <!--[if lt IE 9]>
-  <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 </head>
 ```
@@ -97,7 +97,7 @@ I want to start here because this example does not require any JavaScript code. 
 }
 ```
 
-You will notice each of the animation codes are broken down into individual properties. Most obviously we can see the `animation-name` which defines what type of animation we need. The duration says how long we animate and the `animation-timing-function` is an easing value. Now the `animation-fill-mode` is a bit confusing but relates to adding delays into your effect. We haven’t used any delays so this value is set to both. You can read a bit more about fill mode properties on [this helpful CSS3 article](http://css-infos.net/property/-webkit-animation-fill-mode).
+You will notice each of the animation codes are broken down into individual properties. Most obviously we can see the `animation-name` which defines what type of animation we need. The duration says how long we animate and the `animation-timing-function` is an easing value. Now the `animation-fill-mode` is a bit confusing but relates to adding delays into your effect. We haven’t used any delays so this value is set to both. You can read a bit more about fill mode properties on [this helpful CSS3 article](//css-infos.net/property/-webkit-animation-fill-mode).
 
 ## Animated Error Messages
 
@@ -128,18 +128,18 @@ I am using a different method for animation this time around by adding the class
   });
 ```
 
-This is the JS code which handles our click event. The first block prevents the default HREF value from loading into the browser. Notice this anchor link is also using the HTML5 custom attributes property for `data-anim` which I just made up for this tutorial. You can change this value to any of the [pre-defined animations](http://daneden.me/animate/build/) and it will be pulled via JavaScript.
+This is the JS code which handles our click event. The first block prevents the default HREF value from loading into the browser. Notice this anchor link is also using the HTML5 custom attributes property for `data-anim` which I just made up for this tutorial. You can change this value to any of the [pre-defined animations](//daneden.me/animate/build/) and it will be pulled via JavaScript.
 
 You may have also noticed the small timer function at the bottom. This will pause for 800 milliseconds before running a bit of code to remove this error div from the page. Most web developers would want to do something like this so the message blocks are not constantly taking up space after being appended into the DOM.
 
 ## Dynamic Picture Frames
 
-The next block on the demo page contains two [Dribbble shots](https://dribbble.com/codecarrot) which are using a custom CSS frame class. Note this is yet another example when we do not need to apply JavaScript, although it is certainly a fallback solution.
+The next block on the demo page contains two [Dribbble shots](//dribbble.com/codecarrot) which are using a custom CSS frame class. Note this is yet another example when we do not need to apply JavaScript, although it is certainly a fallback solution.
 
 ```
 <ul id="imggrid" class="clearfix">
-  <li><a href="http://dribbble.com/shots/945432-SS-Bank" target="_blank"><img src="images/dribbble-shot-01.png" class="imgframe" width="320" height="320" class="animate" /></a></li>
-  <li><a href="http://dribbble.com/shots/945657-The-3-Little-Witches" target="_blank"><img src="images/dribbble-shot-02.png" class="imgframe" width="320" height="320" class="animate" /></a></li>
+  <li><a href="//dribbble.com/shots/945432-SS-Bank" target="_blank"><img src="images/dribbble-shot-01.png" class="imgframe" width="320" height="320" class="animate" /></a></li>
+  <li><a href="//dribbble.com/shots/945657-The-3-Little-Witches" target="_blank"><img src="images/dribbble-shot-02.png" class="imgframe" width="320" height="320" class="animate" /></a></li>
 </ul>
 ```
 
