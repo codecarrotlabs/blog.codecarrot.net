@@ -6,7 +6,7 @@ date: 2017-10-03 02:02:00
 categories: code
 tags: go coding images
 description: Go has a built-in image package, that allows to easily create images, and save them as files on the disk.
-image: http://blog.codecarrot.net/images/create-image-in-golang.png
+image: //blog.codecarrot.net/images/create-image-in-golang.png
 ---
 
 This post is continuation of [Vector Operations in Go](/vector-operations-in-go).
@@ -15,7 +15,7 @@ This post is continuation of [Vector Operations in Go](/vector-operations-in-go)
 
 Before moving forward with implementing a camera model, it would be good to have some sort of debugging tool. When writing a ray tracer, that tool is a rendered image.
 
-Go has a built-in [image](https://golang.org/pkg/image/) package, that allows to easily create images, and save them as files on the disk.
+Go has a built-in [image](//golang.org/pkg/image/) package, that allows to easily create images, and save them as files on the disk.
 
 ## Design
 
@@ -53,7 +53,7 @@ func NewScene(width int, height int) *Scene {
 }
 ```
 
-The assert library exposes some nifty helper functions, like [ObjectsAreEqualValues](https://godoc.org/github.com/stretchr/testify/assert#ObjectsAreEqualValues) which does a deep equality check of an object’s values.
+The assert library exposes some nifty helper functions, like [ObjectsAreEqualValues](//godoc.org/github.com/stretchr/testify/assert#ObjectsAreEqualValues) which does a deep equality check of an object’s values.
 
 ## Test helpers
 
@@ -131,10 +131,10 @@ func TestSceneSavePanicsWhenFileCannotBePersisted(t *testing.T) {
 
 Several interesting things happen in this code:
 
-* `os.Create(filename)` — the function has multiple returns; this is a common pattern for [error handling in Go](https://blog.golang.org/error-handling-and-go:
+* `os.Create(filename)` — the function has multiple returns; this is a common pattern for [error handling in Go](//blog.golang.org/error-handling-and-go:
 	* f — the file descriptor
 	* err — any error that may have happened during the file creation, for example insufficient privileges
-* `defer f.Close()` — the [defer keyword](https://tour.golang.org/flowcontrol/12) delays execution of the passed code until the surrounding function returns; in this case, the file won’t close until the Save function finishes executing it’s commands
+* `defer f.Close()` — the [defer keyword](//tour.golang.org/flowcontrol/12) delays execution of the passed code until the surrounding function returns; in this case, the file won’t close until the Save function finishes executing it’s commands
 * `assert.Panics` — another nice feature of the assert library, instead of taking expected/actual values of the assertion, it takes a function that is supposed to panic (raise an exception), if the function does panic it passes the test; this is similar to RSpec’s `expect { subject }.to raise_error StandardError`.
 
 ## Putting it all together
@@ -170,6 +170,6 @@ func main() {
 
 ## This code produces the following image:
 
-![Image produced by the code execuated by go](http://blog.codecarrot.net/images/167567322689978.png)
+![Image produced by the code execuated by go](//blog.codecarrot.net/images/167567322689978.png)
 
 That’s all regarding creating and saving images in Go. Next up, a basic camera model, stay tuned.

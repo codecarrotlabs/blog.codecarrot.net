@@ -6,7 +6,7 @@ date: 2017-10-21 02:04:30
 categories: code
 tags: coding github git
 description: Whenever you initialize a new repository with git init, Git creates a directory called Git Directory, which store information about branch, tag, remote, etc. Git's object data. Generally it is .git in the current repository.
-image: http://blog.codecarrot.net/images/detective-tracking.png
+image: //blog.codecarrot.net/images/detective-tracking.png
 ---
 
 Whenever you initialize a new repository with `git init`, Git creates a directory called **Git Directory**, which store information about *branch, tag, remote, etc*. **Git's object data**. Generally it is `.git` **(hidden directory)** in the current repository.
@@ -31,7 +31,7 @@ What this means is that these changes in the untracked files are not yet able to
 
 In simple terms, it stores all the information about what will go with the next commit. It’s also called index.
 
-![Local Operations in Git Repository](http://blog.codecarrot.net/images/main-qimg-ef1ac9925df956225785f65119ed6ddc.png)
+![Local Operations in Git Repository](//blog.codecarrot.net/images/main-qimg-ef1ac9925df956225785f65119ed6ddc.png)
 
 So, to commit something, all of the commit's changes pass these areas one by one.
 

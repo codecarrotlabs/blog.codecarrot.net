@@ -6,12 +6,12 @@ date: 2017-10-03 23:55:00
 categories: code
 tags: coding github git
 description: Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features
-image: http://blog.codecarrot.net/images/6-30-12_Git.jpg
+image: //blog.codecarrot.net/images/6-30-12_Git.jpg
 ---
 
 ## What is Git?
 
-![What is Git?](http://blog.codecarrot.net/images/what-is-git.svg)
+![What is Git?](//blog.codecarrot.net/images/what-is-git.svg)
 
 **Performance / Security / Flexibility / Version control with Git**
 
@@ -59,7 +59,7 @@ Git is the most broadly adopted tool of its kind. This is makes Git attractive f
 
 Vast numbers of developers already have Git experience and a significant proportion of college graduates may have experience with only Git. While some organizations may need to climb the learning curve when migrating to Git from another version control system, many of their existing and future developers do not need to be trained on Git.
 
-In addition to the benefits of a large talent pool, the predominance of Git also means that many third party software tools and services are already integrated with Git including IDEs, and our own tools like DVCS desktop client Sourcetree, issue and project tracking software, Jira, and code hosting service, Bitbucket, [Github](http://github.com/mittalyashu/).
+In addition to the benefits of a large talent pool, the predominance of Git also means that many third party software tools and services are already integrated with Git including IDEs, and our own tools like DVCS desktop client Sourcetree, issue and project tracking software, Jira, and code hosting service, Bitbucket, [Github](//github.com/mittalyashu/).
 
 If you are an inexperienced developer wanting to build up valuable skills in software development tools, when it comes to version control, Git should be on your list.
 
@@ -79,4 +79,4 @@ For those teams coming from a non-distributed VCS, having a central repository m
 
 Now that you understand what version control is, what Git is and why software teams should use it, read on to discover the benefits Git can provide across the whole organization.
 
-Learn [git command](https://devdoks.github.io/).
+Learn [git command](//devdoks.github.io/).

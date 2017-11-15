@@ -6,14 +6,14 @@ date: 2017-10-02 10:02:00
 categories: code
 tags: go coding learning new-language programming
 description: Nothing makes a developer crazy than a new programming language, right? So, I started learning Go before 4 to 5 months and here I am going to tell you about why you should also learn this new language.
-image: http://blog.codecarrot.net/images/DSC03466.jpg
+image: //blog.codecarrot.net/images/DSC03466.jpg
 ---
 
 <blockquote>
 “Go will be the server language of the future.”  —  Tobias Lütke, Shopify
 </blockquote>
 
-In past couple of years, there is a rise of new programming language: **[Go or GoLang](https://golang.org/)**. Nothing makes a developer crazy than a new programming language, right? So, I started learning Go before 4 to 5 months and here I am going to tell you about why you should also learn this new language.
+In past couple of years, there is a rise of new programming language: **[Go or GoLang](//golang.org/)**. Nothing makes a developer crazy than a new programming language, right? So, I started learning Go before 4 to 5 months and here I am going to tell you about why you should also learn this new language.
 
 I am not going to teach you, how you can write “Hello World!!” in this article. There are lots of other articles online for that. **I am going the explain current stage of computer hardware-software and why we need new language like Go?** Because if there isn’t any problem, then we don’t need solution, right?
 
@@ -21,7 +21,7 @@ I am not going to teach you, how you can write “Hello World!!” in this artic
 
 ## Hardware limitations
 
-[Moore’s law](http://www.investopedia.com/terms/m/mooreslaw.asp) is failing.
+[Moore’s law](//www.investopedia.com/terms/m/mooreslaw.asp) is failing.
 
 First Pentium 4 processor with 3.0GHz clock speed was introduced back in 2004 by Intel. Today, my Mackbook Pro 2016 has clock speed of 2.9GHz. So, nearly in one decade, there is no too much gain in the raw processing power. You can see the comparison of increasing the processing power with the time in below chart.
 
@@ -52,7 +52,7 @@ For an example, creating new thread in Java is not memory efficient. As every th
 
 On the other hand, Go was released in 2009 when multi-core processors were already available. That’s why Go is built with keeping concurrency in mind. Go has goroutines instead of threads. They consume almost 2KB memory from the heap. So, you can spin millions of goroutines at any time.
 
-![How Goroutines work?](http://blog.codecarrot.net/images/1-NFojvbkdRkxz0ZDbu4ysNA.jpeg)
+![How Goroutines work?](//blog.codecarrot.net/images/1-NFojvbkdRkxz0ZDbu4ysNA.jpeg)
 
 **Other benefits are:**
 
@@ -63,12 +63,12 @@ On the other hand, Go was released in 2009 when multi-core processors were alrea
 * Also, goroutines and OS threads do not have 1:1 mapping. A single goroutine can run on multiple threads. Goroutines are multiplexed into small number of OS threads.
 
 <blockquote>
-You can see Rob Pike’s excellent talk [concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism) to get more deep understanding on this.
+You can see Rob Pike’s excellent talk [concurrency is not parallelism](//blog.golang.org/concurrency-is-not-parallelism) to get more deep understanding on this.
 </blockquote>
 
 All the above points, make Go very powerful to handle concurrency like Java, C and C++ while keeping concurrency execution code strait and beautiful like Earlang.
 
-![Go takes good of both the worlds. Easy to write concurrent and efficient to manage concurrency](http://blog.codecarrot.net/images/1-xbsHBQJReC5l_VO4XgNSIQ.png)
+![Go takes good of both the worlds. Easy to write concurrent and efficient to manage concurrency](//blog.codecarrot.net/images/1-xbsHBQJReC5l_VO4XgNSIQ.png)
 
 ## Go runs directly on underlying hardware.
 
@@ -76,11 +76,11 @@ One most considerable benefit of using C, C++ over other modern higher level lan
 
 Processors understand binaries. Generally, when you build an application using Java or other JVM-based languages when you compile your project, it compiles the human readable code to byte-code which can be understood by JVM or other virtual machines that run on top of underlying OS. While execution, VM interprets those bytecodes and convert them to the binaries that processors can understand.
 
-![Execution steps for VM based languages](http://blog.codecarrot.net/images/1-TVR-VLVg68KwCOLjqQmQAw.png)
+![Execution steps for VM based languages](//blog.codecarrot.net/images/1-TVR-VLVg68KwCOLjqQmQAw.png)
 
 While on the other side, C/C++ does not execute on VMs and that removes one step from the execution cycle and increases the performance. It directly compiles the human readable code to binaries.
 
-![Human readable code process shown](http://blog.codecarrot.net/images/1-ii6xUkU_PchybiG8_GnOjA.png)
+![Human readable code process shown](//blog.codecarrot.net/images/1-ii6xUkU_PchybiG8_GnOjA.png)
 
 But, freeing and allocating variable in those languages is a huge pain. While most of the programming languages handle object allocation and removing using Garbage Collector or Reference Counting algorithms.
 
@@ -112,7 +112,7 @@ Unlike other new languages like Swift, it’s syntax of Go is very stable. It re
 ## Go is backed by Google.
 
 * I know this is not a direct technical advantage. But, Go is designed and supported by Google. Google has one of the largest cloud infrastructures in the world and it is scaled massively. Go is designed by Google to solve their problems of supporting scalability and effectiveness. Those are the same issues you will face while creating your own servers.
-More to that Go is also used by some big companies like Adobe, BBC, IBM, Intel (Source: [https://github.com/golang/go/wiki/GoUsers](https://github.com/golang/go/wiki/GoUsers))
+More to that Go is also used by some big companies like Adobe, BBC, IBM, Intel (Source: [//github.com/golang/go/wiki/GoUsers](//github.com/golang/go/wiki/GoUsers))
 
 ## Conclusion
 

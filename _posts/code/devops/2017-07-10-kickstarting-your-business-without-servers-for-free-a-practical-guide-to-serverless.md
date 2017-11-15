@@ -6,7 +6,7 @@ date: 2017-07-10 12:00:00
 categories: code
 tags: coding devops business serverless servers
 description: What's serverless? It doesn't mean your app won't need any servers. Recently, the trend for “serverless” started gaining a lot of traction both among developers and business people.
-image: http://blog.codecarrot.net/images/kickstart-your-business-without-servers.jpg
+image: //blog.codecarrot.net/images/kickstart-your-business-without-servers.jpg
 ---
 
 Recently, the trend for “serverless” started gaining a lot of traction both among developers and business people. As you’re reading this, you might be wondering, what on Earth does the new buzzword, **serverless**, even mean.
@@ -73,24 +73,24 @@ From this user story, we know that the app needs:
 
 ## App Logic
 
-For application logic, we can use AWS Lambda in conjunction with API Gateway, instead of rolling out our own servers or EC2 instances. It’s way cheaper, it’s free under 3.2M requests per month (*with 128mb of memory), and we don’t have to worry about the provisioning, configuring, managing, maintaining, patching, and monitoring of our machines. We simply write code, deploy it, and it just works™. Every request = one Lambda function invocation = [0.000000208$](https://aws.amazon.com/lambda/pricing/).
+For application logic, we can use AWS Lambda in conjunction with API Gateway, instead of rolling out our own servers or EC2 instances. It’s way cheaper, it’s free under 3.2M requests per month *(with 128mb of memory)*, and we don’t have to worry about the provisioning, configuring, managing, maintaining, patching, and monitoring of our machines. We simply write code, deploy it, and it just works™. Every request = one Lambda function invocation = [0.000000208$](//aws.amazon.com/lambda/pricing/).
 
 ## Storage
 
-Instead of rolling our own CEPH cluster, storing assets on a hard disk, or pushing it as blobs into a database, we can just use AWS S3. S3 is a proven object storage with [99.999999999%](https://aws.amazon.com/s3/) durability. It’s fast, cheap, scalable, secure, easy to setup, and used by such companies as Netflix, Airbnb or Nasdaq. You might be worried about it’s reliability because of the recent incident, but that was only temporary and related to only one of many regions. Many companies admit that it’s considerably more reliable than their own internal storage.
+Instead of rolling our own CEPH cluster, storing assets on a hard disk, or pushing it as blobs into a database, we can just use AWS S3. S3 is a proven object storage with [99.999999999%](//aws.amazon.com/s3/) durability. It’s fast, cheap, scalable, secure, easy to setup, and used by such companies as Netflix, Airbnb or Nasdaq. You might be worried about it’s reliability because of the recent incident, but that was only temporary and related to only one of many regions. Many companies admit that it’s considerably more reliable than their own internal storage.
 
 ## Database
 
-If you’d like to go truly Serverless, you should check out [AWS DynamoDB](https://aws.amazon.com/dynamodb/). It’s a fully-managed NoSQL database where the machine level is not even accessible or visible to developers. You simply create a database table, set your throughput, and let the service handle the rest. You no longer need to worry about database management tasks. DynamoDB fully embraces “Event Driven Programming”. It integrates seamlessly with AWS Lambda by triggers, so you can do some computations when a new row is inserted into the database.
+If you’d like to go truly Serverless, you should check out [AWS DynamoDB](//aws.amazon.com/dynamodb/). It’s a fully-managed NoSQL database where the machine level is not even accessible or visible to developers. You simply create a database table, set your throughput, and let the service handle the rest. You no longer need to worry about database management tasks. DynamoDB fully embraces “Event Driven Programming”. It integrates seamlessly with AWS Lambda by triggers, so you can do some computations when a new row is inserted into the database.
 
 Notifications System
 
-AWS have you covered even when it comes to sending notifications to iOS or Android devices. The service dedicated for that purpose is called [Simple Notification Service](https://aws.amazon.com/sns/). SNS lets you push thousands of messages simultaneously to devices around the world, in milliseconds. In case you’d like to launch a targeted marketing campaign, Amazon has a service just for you – it’s called [Pinpoint](http://docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html). Pinpoint lets you understand the behaviour of people that use your app and define user segments based on monetization, activity, platform, countries, and many other attributes.
+AWS have you covered even when it comes to sending notifications to iOS or Android devices. The service dedicated for that purpose is called [Simple Notification Service](//aws.amazon.com/sns/). SNS lets you push thousands of messages simultaneously to devices around the world, in milliseconds. In case you’d like to launch a targeted marketing campaign, Amazon has a service just for you – it’s called [Pinpoint](//docs.aws.amazon.com/pinpoint/latest/userguide/welcome.html). Pinpoint lets you understand the behaviour of people that use your app and define user segments based on monetization, activity, platform, countries, and many other attributes.
 
 ## Machine Learning
 
 This is the most interesting part, I guess.
-If you’re a small startup, you probably don’t have the money to hire a decent Machine Learning engineer. You probably also don’t have the time to study Neutral Networks or Deep Learning. Luckily, AWS engineers came up with _Image Recognition_ as a Service called [AWS Rekognition](https://aws.amazon.com/rekognition/). With that API you can detect faces, objects or scenes, search for inappropriate content and add image classification needed for our example app. Its pricing is very simple – 1,000 images cost $1. The first 5,000 analyses per month are free.
+If you’re a small startup, you probably don’t have the money to hire a decent Machine Learning engineer. You probably also don’t have the time to study Neutral Networks or Deep Learning. Luckily, AWS engineers came up with _Image Recognition_ as a Service called [AWS Rekognition](//aws.amazon.com/rekognition/). With that API you can detect faces, objects or scenes, search for inappropriate content and add image classification needed for our example app. Its pricing is very simple – 1,000 images cost $1. The first 5,000 analyses per month are free.
 
 ## Costs Simulation
 
@@ -102,7 +102,7 @@ Each session consisted of one login request and about 20 vote requests.
 
 Sadly, only 15% of users created a “competition”, so there were about 4500 images uploaded (remember, each contest consists of 3 images).
 
-Using the Cost Calculator, I calculated an [estimation of how expensive it would be](https://calculator.s3.amazonaws.com/index.html#r=IAD&key=NONE).
+Using the Cost Calculator, I calculated an [estimation of how expensive it would be](//calculator.s3.amazonaws.com/index.html#r=IAD&key=NONE).
 
 Sadly, this calculator cannot estimate the costs of AWS Lambda and AWS Rekognition, but here’s that missing part.
 
