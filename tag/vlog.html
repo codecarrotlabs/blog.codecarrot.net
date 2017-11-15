@@ -3,29 +3,29 @@ layout: category
 ---
 
 <section class="latest-post">
-  <div class="container">
+	<div class="container">
 
-    <!-- Cards -->
-    <ul class="cards-container">
+		<!-- Cards -->
+		<ul class="cards-container">
 
-        {% for card in site.tags.vlog %}
-          <li class="card">
-            <div class="card-content">
-              <a href="{{site.baseurl}}{{ card.url }}">
-                <div class="card-content-image" style="background-image: url(//blog.codecarrot.net/images/{{ card.image }})"></div>
-              </a>
-              <div class="card-content-text">
-                <a href="{{site.baseurl}}{{ card.url }}">
-                  <h2>
-                    {{ card.title | truncate: 60, "..." }}
-                  </h2>
-                </a>
-                <p>{{ card.description | truncate: 121, "..." }}</p>
-              </div>
-            </div>
-          </li>
-        {% endfor %}
-    </ul>
+				{% for card in site.tags.vlog %}
+					<li class="card">
+						<div class="card-content">
+							<a href="{{site.baseurl}}{{ card.url }}">
+								<div class="card-content-image" style="background-image: url(//blog.codecarrot.net/images/{{ card.image }})"></div>
+							</a>
+							<div class="card-content-text">
+								<a href="{{site.baseurl}}{{ card.url }}">
+									<h2>
+										{{ card.title | truncate: 60, "..." }}
+									</h2>
+								</a>
+								<p>{{ card.description | truncate: 121, "..." }}</p>
+							</div>
+						</div>
+					</li>
+				{% endfor %}
+		</ul>
 
-  </div>
+	</div>
 </section>

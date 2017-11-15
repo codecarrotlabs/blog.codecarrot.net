@@ -1,29 +1,29 @@
 
  <html>
-  <head>
-    {% include meta.html %}
-  </head>
+	<head>
+		{% include meta.html %}
+	</head>
 
-  <body>
-    {% include navigation.html %}
+	<body>
+		{% include navigation.html %}
 
-    {% if paginator.page == 1 %}
-      {% include header-post.html %}
-    {% else %}
-      {% include header-page.html %}
-    {% endif %}
+		{% if paginator.page == 1 %}
+			{% include header-post.html %}
+		{% else %}
+			{% include header-page.html %}
+		{% endif %}
 
-    {% include subnav.html %}
+		{% include subnav.html %}
 
-    {% if paginator.page > 1 %}
-      {% include pagination.html %}
-    {% endif %}
+		{% if paginator.page > 1 %}
+			{% include pagination.html %}
+		{% endif %}
 
-    {{ content }}
+		{{ content }}
 
-    {% include pagination.html %}
+		{% include pagination.html %}
 
-    {% include footer.html %}
+		{% include footer.html %}
 
-  </body>
+	</body>
 </html>

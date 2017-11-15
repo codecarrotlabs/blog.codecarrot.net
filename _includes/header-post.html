@@ -1,15 +1,15 @@
 <ul>
-  {% for card in site.posts limit:1 %}
-   <section style="background-image: url(//blog.codecarrot.net/images/{{ card.image }})" class="background-img">
-    <div class="container">
-      <div class="featured-background">
-            <li>
-              <div class="featured-title">
-                <a href="{{site.baseurl}}{{ card.url }}">{{ card.title }}</a>
-              </div>
-            </li>
-      </div>
-    </div>
-  </section>
-  {% endfor %}
+	{% for card in site.posts limit:1 %}
+	 <section style="background-image: url(//blog.codecarrot.net/images/{{ card.image }})" class="background-img">
+		<div class="container">
+			<div class="featured-background">
+						<li>
+							<div class="featured-title">
+								<a href="{{site.baseurl}}{{ card.url }}">{{ card.title }}</a>
+							</div>
+						</li>
+			</div>
+		</div>
+	</section>
+	{% endfor %}
 </ul>
