@@ -6,7 +6,7 @@ date: 2017-08-23 01:00:00
 categories: code
 tags: ruby-on-rails windows ruby rails
 description: As a little nudge for those of you who still haven't discovered how awesome Rails is, here's how to install Rails 5 on Windows.
-image: http://blog.codecarrot.net/images/screen-shot-10.21.38.png
+image: //blog.codecarrot.net/images/screen-shot-10.21.38.png
 ---
 
 We figured we’d share those directions here, as a little nudge for those of you who still haven’t discovered how awesome Rails is.
@@ -30,7 +30,7 @@ We’re not going to mess with installing a fancy database, alternate testing fr
 
 First, we need an installation of the Ruby programming language. We’re going to use a precompiled version of Ruby called Ruby Installer.
 
-*  Download and run [Ruby Installer](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.5.exe) from rubyinstaller.org. (For convenience, we linked directly to the version you need. The rubyinstaller.org site hosts its files on bintray.com.)
+*  Download and run [Ruby Installer](//dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.5.exe) from rubyinstaller.org. (For convenience, we linked directly to the version you need. The rubyinstaller.org site hosts its files on bintray.com.)
 *  Allow the download to finish, then go to your Downloads folder, and open the “rubyinstaller” program. An installation wizard will open. Check “Add Ruby executables to your PATH”, then click Install. Wait while the installer runs, and click Finish when done.
 *  To access Ruby, go to the Windows menu, click All Programs, scroll down to Ruby, and click “Start Command Prompt with Ruby”. A command prompt terminal will open. If you type `ruby -v` and press Enter, you should see the Ruby version number that you installed.
 
@@ -38,7 +38,7 @@ First, we need an installation of the Ruby programming language. We’re going t
 
 At this point, we could attempt to install Rails. But some of the libraries Rails depends on need some “build tools” in order to be compiled, and Windows lacks those tools by default. (You’ll know this is happening if you see an error when attempting a Rails install: “Gem::InstallError: The `‘[gem name]’` native gem requires installed build tools.”) To fix this, we need to install the Ruby “Development Kit”, which includes those build tools.
 
-*  Download the [Ruby Development Kit](http://dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe). (This download also originates from rubyinstaller.org, and is also hosted on bintray.com.)
+*  Download the [Ruby Development Kit](//dl.bintray.com/oneclick/rubyinstaller/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe). (This download also originates from rubyinstaller.org, and is also hosted on bintray.com.)
 *  When it’s done, go to your downloads folder and double-click the DevKit executable.
 *  We need to specify a folder where we’re going to permanently install the DevKit. I recommend installing it in the root of your hard drive, at "`C:\RubyDevKit`". (Don’t use spaces in the directory name.)
 
@@ -62,7 +62,7 @@ This will ensure you’re downloading the correct version of the gem. Once you p
 
 One last thing. . . Some libraries that Rails depends on require a JavaScript runtime to be installed. Let’s install Node.js so that those libraries work properly.
 
-*  Download the [Node.js installer](https://nodejs.org/dist/v4.4.7/node-v4.4.7-x86.msi).
+*  Download the [Node.js installer](//nodejs.org/dist/v4.4.7/node-v4.4.7-x86.msi).
 *  When the download completes, visit your downloads folder, and run the “node-v4.4.7.pkg” installer.
 *  Read the full license agreement, accept the terms, and click Next through the rest of the wizard, leaving everything at the default.
 *  A window may pop up asking if you want to allow the app to make changes to your computer. Click “Yes”.

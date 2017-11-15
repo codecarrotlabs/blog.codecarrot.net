@@ -6,10 +6,10 @@ date: 2017-11-01 03:18:00
 categories: code
 tags: ruby-on-rails ruby rails js
 description: During our work with React there has always been a problem with using image paths (rails adding digest hashes) in our React components - we had to pass it as a prop from views to redux containers and from there to our dumb components. That involves a lot of redundant steps, making it more likely that something will go wrong
-image: http://blog.codecarrot.net/images/rails-assets.png
+image: //blog.codecarrot.net/images/rails-assets.png
 ---
 
-Here at [CodeCarrot](https://codecarrot.net/), we love working with both Rails and React on our tech stack, and lately we’ve found ourselves using them more and more. But there has always been a problem with using image paths (rails adding digest hashes) in our React components - we had to pass it as a prop from views to redux containers and from there to our dumb components. That involves a lot of redundant steps, making it more likely that something will go wrong; this is why we came up with rwr-view-helpers, which makes it possible for developers to access Rails assets directly in javascript.
+Here at [CodeCarrot](//codecarrot.net/), we love working with both Rails and React on our tech stack, and lately we’ve found ourselves using them more and more. But there has always been a problem with using image paths (rails adding digest hashes) in our React components - we had to pass it as a prop from views to redux containers and from there to our dumb components. That involves a lot of redundant steps, making it more likely that something will go wrong; this is why we came up with rwr-view-helpers, which makes it possible for developers to access Rails assets directly in javascript.
 
 ## 1. How does it work?
 

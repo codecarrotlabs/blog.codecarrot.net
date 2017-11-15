@@ -6,7 +6,7 @@ date: 2017-10-05 12:18:00
 categories: code
 tags: ruby-on-rails ruby rails ecommerce coding
 description: Spree is the most popular e-commerce framework built on Ruby on Rails, supported by the community and constantly updated to better fit your needs.
-image: http://blog.codecarrot.net/images/make-e-commerce-platforms.png
+image: //blog.codecarrot.net/images/make-e-commerce-platforms.png
 ---
 
 An online store is a good business model. Customers visit your website, browse, put items in the basket, and transfer money to your account. Whereas it might look simple from the outside, many things can go wrong inside your business, especially from the technological perspective.
@@ -45,7 +45,7 @@ Whereas the interface of your online store will adjust to user needs, the admin 
 
 ## Mature Codebase
 
-[Spree](https://github.com/spree/spree) was created in 2007, and since then, over 700 developers have contributed to the codebase. The community actively supports the framework by adding new repositories and creating more and more features that can be directly implemented in the platform. The codebase is mature, and contributors make a lot of effort to provide the highest possible quality. It all translates into the exceptional stability of the framework. That’s why it’s been used by many companies, for instance, Chipotle Mexican Grill, Second Life, Bonobos, Fortnum and Mason.
+[Spree](//github.com/spree/spree) was created in 2007, and since then, over 700 developers have contributed to the codebase. The community actively supports the framework by adding new repositories and creating more and more features that can be directly implemented in the platform. The codebase is mature, and contributors make a lot of effort to provide the highest possible quality. It all translates into the exceptional stability of the framework. That’s why it’s been used by many companies, for instance, Chipotle Mexican Grill, Second Life, Bonobos, Fortnum and Mason.
 
 ## Ready Functionalities
 
@@ -64,7 +64,7 @@ Spree offers a wide range of payment integrations, including the most popular se
 
 ## Documented Admin Dashboard
 
-Even though you might feel a little bit confused when you first see the admin dashboard, it won’t take you long to familiarise yourself with it. The dashboard offers numerous functionalities that can be overwhelming at the beginning, but you will definitely appreciate the wide range of options it offers. On top of that, [the admin page is solidly documented](http://guides.spreecommerce.org/user/) making navigating through the platform easy, especially during the first use.
+Even though you might feel a little bit confused when you first see the admin dashboard, it won’t take you long to familiarise yourself with it. The dashboard offers numerous functionalities that can be overwhelming at the beginning, but you will definitely appreciate the wide range of options it offers. On top of that, [the admin page is solidly documented](//guides.spreecommerce.org/user/) making navigating through the platform easy, especially during the first use.
 
 ## Easy Deployment
 
@@ -78,4 +78,4 @@ The first thing you should consider is the framework’s integration with JavaSc
 
 ## Is Ruby on Rails Good for My E-commerce?
 
-The question above is a question that everyone will need to answer considering their own needs and circumstances. We hope that the article will help you make an informed decision. If you have more questions concerning RoR, Spree, or good pubs to visit in London, pop [us a message](mailto:contact@codecarrot.net) or start a [chat with us](http://codecarrot.net/). We’ll be more than happy to help!
+The question above is a question that everyone will need to answer considering their own needs and circumstances. We hope that the article will help you make an informed decision. If you have more questions concerning RoR, Spree, or good pubs to visit in London, pop [us a message](mailto:contact@codecarrot.net) or start a [chat with us](//codecarrot.net/). We’ll be more than happy to help!

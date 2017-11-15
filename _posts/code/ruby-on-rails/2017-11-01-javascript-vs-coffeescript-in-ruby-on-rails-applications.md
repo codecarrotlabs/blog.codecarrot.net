@@ -6,10 +6,10 @@ date: 2017-11-01 03:58:45
 categories: code
 tags: ruby-on-rails ruby rails js coffee javascript coffeescript
 description: At CodeCarrot we regularly discuss technologies we use to make sure we are not lagging behind or lose newly emerged
-image: http://blog.codecarrot.net/images/jsvscoffee.png
+image: //blog.codecarrot.net/images/jsvscoffee.png
 ---
 
-At [CodeCarrot](https://codecarrot.net/) we regularly discuss technologies we use to make sure we are not lagging behind or lose newly emerged features in web development world. Here's a short rundown of our discussions if we should use JavaScript or CoffeeScript in our projects (note that we are currently using CoffeeScript as default).
+At [CodeCarrot](//codecarrot.net/) we regularly discuss technologies we use to make sure we are not lagging behind or lose newly emerged features in web development world. Here's a short rundown of our discussions if we should use JavaScript or CoffeeScript in our projects (note that we are currently using CoffeeScript as default).
 
 ## JavaScript
 
@@ -45,4 +45,4 @@ There is no easy and working transpiler between Coffee to JS (ES2015) and it dem
 * It's hard to work with the newest features and examples from Ember or React due to fact they are written in ES2015 and shown by JSBin that supports ES2015
 * Due to ease of sharing scope using fat arrow and no need to declare variables, it's easy to forget about base concepts of JavaScript like scopes mechanism and why it works this way not another
 
-These pros and cons are highly opinionated and might be different for you, depending on projects you work on. Be aware that this list is [Codecarrot](https://codecarrot.net/)-oriented and you might have different opinions - feel free to comment below.
+These pros and cons are highly opinionated and might be different for you, depending on projects you work on. Be aware that this list is [Codecarrot](//codecarrot.net/)-oriented and you might have different opinions - feel free to comment below.

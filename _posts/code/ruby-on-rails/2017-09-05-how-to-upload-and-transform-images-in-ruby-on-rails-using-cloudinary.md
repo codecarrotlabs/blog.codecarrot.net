@@ -6,7 +6,7 @@ date: 2017-09-05 05:35:00
 categories: code
 tags: ruby-on-rails ruby rails images cloudinary application 
 description: Upload And Transform Images - Short and great guide to setup and configure Cloudinary in your Ruby on Rails application.
-image: http://blog.codecarrot.net/images/ruby-on-rails.png
+image: //blog.codecarrot.net/images/ruby-on-rails.png
 ---
 
 Cloudinary is the image back-end for web and mobile developers. In other words, it allows you to upload images to the cloud (let's say it's something similar to S3), but in addition it allows you to do many different image (and video!) transformations on the fly, just by changing URL params.
@@ -49,17 +49,17 @@ As you can see, Cloudinary is very flexible tool which you should consider in yo
 
 **Setup carrierwave**
 
-To start using Cloudinary you need to setup carrierwave first, you can do it really easily by following tutorial on [carrierwave's github](https://github.com/carrierwaveuploader/carrierwave#installation).
+To start using Cloudinary you need to setup carrierwave first, you can do it really easily by following tutorial on [carrierwave's github](//github.com/carrierwaveuploader/carrierwave#installation).
 
 ## Step 2
 
 **Login to cloudinary**
 
-Before we start you need to login at [cloudinary.com](http://cloudinary.com/). Create your own account or use credentials provided by your client.
+Before we start you need to login at [cloudinary.com](//cloudinary.com/). Create your own account or use credentials provided by your client.
 
 On the Dashboard page, you should see all account details, just click on `YML link` and save this file in app `config` directory.
 
-![Dashboard view of cloudinary.com](http://blog.codecarrot.net/images/dashboard-view-of-cloudinarycom.png)
+![Dashboard view of cloudinary.com](//blog.codecarrot.net/images/dashboard-view-of-cloudinarycom.png)
 
 *It's highly recommended to avoid storing API keys in repo*, so you should later edit this config file and move keys to `secrets.yml` or `ENV`.
 
@@ -81,7 +81,7 @@ include Cloudinary::CarrierWave
 
 After these two simple steps, every uploaded image will be stored in Cloudinary!
 
-For any further details, please take a look at [official Cloudinary documentation](http://cloudinary.com/documentation/rails_carrierwave#carrierwave_integration).
+For any further details, please take a look at [official Cloudinary documentation](//cloudinary.com/documentation/rails_carrierwave#carrierwave_integration).
 
 ## Example image transformation
 
@@ -140,4 +140,4 @@ If you don't want to search through documentation for any advices, I recommend u
 
 Cloudinary is a great, easy to use tool which can considerably speed up your development. If you need to process images, it's definitely worth to try. If you have any questions, feel free to ask in comment section below.
 
-[![Make your business online with a website](http://blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](http://codecarrot.net/)
+[![Make your business online with a website](//blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)

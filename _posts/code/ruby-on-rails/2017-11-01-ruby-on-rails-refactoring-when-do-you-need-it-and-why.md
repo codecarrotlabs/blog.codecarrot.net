@@ -71,7 +71,7 @@ Here’s a list of warning signs that almost always mean that particular fragmen
 6. **Dozens of variables:** if there’s a fragment of code where a lot of variables are created and handled, figure out why, and if there’s no good reason for it, refactor. A method with 15 local variables is the opposite of easy to understand.
 7. **Weird code:** developers like to show off sometimes. Or metaprogram. If you spot really strange solutions that are super hard to understand, try to simplify them.
 
-RoR is one of the favourite and most often used technologies at [CodeCarrot](https://codecarrot.net/), so we’ve picked up a few tricks over the years and are always happy to share our knowledge. (On our blog, you can read articles about [service objects](/service-objects-in-rails-will-help-you-design-clean-and-maintainable-code-heres-how), [writing good code](/how-to-write-code-that-speaks-for-itself) and [being a better developer](/patterns-that-will-help-you-be-a-better-developer), and many other subjects)
+RoR is one of the favourite and most often used technologies at [CodeCarrot](//codecarrot.net/), so we’ve picked up a few tricks over the years and are always happy to share our knowledge. (On our blog, you can read articles about [service objects](/service-objects-in-rails-will-help-you-design-clean-and-maintainable-code-heres-how), [writing good code](/how-to-write-code-that-speaks-for-itself) and [being a better developer](/patterns-that-will-help-you-be-a-better-developer), and many other subjects)
 
 ## Refactoring Risks
 

@@ -6,10 +6,10 @@ date: 2017-09-12 16:18:00
 categories: code
 tags: ruby-on-rails ruby rails javascript web-development programming
 description: form_tag and form_for are soft deprecated and they will be replaced by form_with in the future. If you want to know more about form_with
-image: http://blog.codecarrot.net/images/1-xFZId_tlC-8I4okYLFQYdA.jpeg
+image: //blog.codecarrot.net/images/1-xFZId_tlC-8I4okYLFQYdA.jpeg
 ---
 
-`form_tag` and `form_for` are soft deprecated and they will be replaced by `form_with` in the future. If you want to know more about `form_with` then you can peruse the original [DHH’s proposal](https://github.com/rails/rails/issues/25197), check the [pull request](https://github.com/rails/rails/pull/26976/files) in which it was implemented, check the [API documentation](http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_with) and play with it in a test project.
+`form_tag` and `form_for` are soft deprecated and they will be replaced by `form_with` in the future. If you want to know more about `form_with` then you can peruse the original [DHH’s proposal](//github.com/rails/rails/issues/25197), check the [pull request](//github.com/rails/rails/pull/26976/files) in which it was implemented, check the [API documentation](//api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_with) and play with it in a test project.
 
 Or, continue reading this post in which I explain differences between `form_tag`, `form_for` and `form_with` with code samples.
 
@@ -174,4 +174,4 @@ However, if you want to disable remote forms then you can do it with `local: tru
 Let’s use form_with since now and never look back!
 </div>
 
-I did not cover everything in this post, but it should be enough to get you started with `form_with` so you don’t have to use `form_tag` and `form_for` anymore (they will be removed anyway). Also, [read the documentation for `form_with`](http://api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_with).
+I did not cover everything in this post, but it should be enough to get you started with `form_with` so you don’t have to use `form_tag` and `form_for` anymore (they will be removed anyway). Also, [read the documentation for `form_with`](//api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_with).

@@ -6,14 +6,14 @@ date: 2017-11-01 02:18:00
 categories: code
 tags: ruby-on-rails ruby rails pusher
 description: Pusher.js is ready to use SaaS providing websockets in multiple technologies It may handle public, private and client events with authorization or not.
-image: http://blog.codecarrot.net/images/rails-backend-for-pusher.png
+image: //blog.codecarrot.net/images/rails-backend-for-pusher.png
 ---
 
 Pusher.js is ready to use SaaS providing websockets in multiple technologies It may handle public, private and client events with authorization or not.
 
 ## What you will use:
 
-* [pusher gem](https://github.com/pusher/pusher-http-ruby) - as server gem that is responsible for triggering events to clients (events may be triggered also between clients excluding server, but it demands more configuration that will be handled later)
+* [pusher gem](//github.com/pusher/pusher-http-ruby) - as server gem that is responsible for triggering events to clients (events may be triggered also between clients excluding server, but it demands more configuration that will be handled later)
 
 ## Pros:
 
@@ -23,7 +23,7 @@ Pusher.js is ready to use SaaS providing websockets in multiple technologies It 
 
 ## Cons:
 
-Paid service (check out [pricing here](https://pusher.com/pricing))
+Paid service (check out [pricing here](//pusher.com/pricing))
 
 ## Step 1: Setup initializer
 
@@ -41,7 +41,7 @@ Authorization in Pusher is very simple:
 * When client wants to connect, it hits the endpoint with client-side defined params
 * Your endpoint should validate these params (e.g. checking the authorization token) and authenticate the connection via Pusher singleton object with params of your choice - e.g. more data about currently authorized user that will be shared between other clients connected to this channel.
 
-Each client can define its authorization endpoint during initialization. E.g. in frontend app or iOS app you can initialize Pusher with authorization endpoint pointed out to https://myapp.com/api/pusher/auth.
+Each client can define its authorization endpoint during initialization. E.g. in frontend app or iOS app you can initialize Pusher with authorization endpoint pointed out to //myapp.com/api/pusher/auth.
 
 Clients can also configure params that they are sending to that endpoint. E.g. you can send to your /api/pusher/auth endpoint current user ID and auth token that is being used in frontend application.
 

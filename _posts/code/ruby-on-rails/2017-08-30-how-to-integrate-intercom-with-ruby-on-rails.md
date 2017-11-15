@@ -6,7 +6,7 @@ date: 2017-08-30 11:40:00
 categories: code
 tags: ruby-on-rails intercom ruby rails communication marketing
 description: Intercom is a popular marketing and consumer communication tool. Intercom integration in your Ruby on Rails app is not complicated and, thanks to this guide, you should be able to do it in no time.
-image: http://blog.codecarrot.net/images/integrate-intercom-with-ruby-on-rails.png
+image: //blog.codecarrot.net/images/integrate-intercom-with-ruby-on-rails.png
 ---
 
 Intercom is a popular marketing and consumer communication tool. Intercom integration in your Ruby on Rails app is not complicated and, thanks to this guide, you should be able to do it in no time.
@@ -19,7 +19,7 @@ I assume you have:
 
 ## What you will use
 
-* [Intercom-rails](https://github.com/intercom/intercom-rails) - gem
+* [Intercom-rails](//github.com/intercom/intercom-rails) - gem
 
 **Pros**
 
@@ -34,7 +34,7 @@ I assume you have:
 
 **Step 1**
 
-Obtain app id from [https://www.intercom.io/](https://www.intercom.io/) - 14 days trial is available, however credit card is needed.
+Obtain app id from [//www.intercom.io/](//www.intercom.io/) - 14 days trial is available, however credit card is needed.
 
 **Step 2**
 

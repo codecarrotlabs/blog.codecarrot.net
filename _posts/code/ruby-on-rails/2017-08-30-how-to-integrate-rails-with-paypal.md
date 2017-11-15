@@ -6,7 +6,7 @@ date: 2017-08-30 12:10:00
 categories: code
 tags: ruby-on-rails ruby rails paypal payment-gateway
 description: If you are looking for solutions to implement payment gateways in your Rails app, you've found the right place. Here's a quick guide for PayPal integration.
-image: http://blog.codecarrot.net/images/integrate-rails-with-paypal.png
+image: //blog.codecarrot.net/images/integrate-rails-with-paypal.png
 ---
 
 If you are looking for solutions to implement payment gateways in your Rails app, you've found the right place. Here's a quick guide for PayPal integration.
@@ -29,7 +29,7 @@ Active Merchant is a gem extracted from Shopify.
 
 I'd recommend Active Merchant only when your project is a shop and requires only simple payments.
 
-Instructions for Active Merchant can be found [here](http://jldbasa.github.io/blog/2014/01/25/rails-4-paypal-express-checkout-integration/).
+Instructions for Active Merchant can be found [here](//jldbasa.github.io/blog/2014/01/25/rails-4-paypal-express-checkout-integration/).
 
 ## Official PayPal SDK
 
@@ -49,11 +49,11 @@ Use official PayPal Ruby SDK every time you need customized solution and single 
 
 **Step 1**
 
-Install and configure gem following [gem README instructions](https://github.com/paypal/PayPal-Ruby-SDK#installation).
+Install and configure gem following [gem README instructions](//github.com/paypal/PayPal-Ruby-SDK#installation).
 
 **Step 2**
 
-Familiarize yourself with [simple usage guide](https://devtools-paypal.com/guide/pay_paypal/ruby).
+Familiarize yourself with [simple usage guide](//devtools-paypal.com/guide/pay_paypal/ruby).
 
 **Step 3**
 
