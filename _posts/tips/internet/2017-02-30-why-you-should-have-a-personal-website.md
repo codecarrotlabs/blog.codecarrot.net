@@ -3,8 +3,8 @@ layout: post
 author: yashumittal
 title: Why you should have a personal website?
 date: 2017-02-30 12:00:00
-categories: growth
-tags: personal website impression promote brand
+categories: tips
+tags: tips internet personal website impression promote brand
 description: Anyone who wants to make an impression online can do it with a personal website. Anyone who wants to make an impression online - whether it's to land a sweet new job, promote a pet project, or just connect
 image: have-a-personal-website.jpg
 ---
