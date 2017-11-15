@@ -15,7 +15,7 @@ Without Draper, this functionality might have been tangled up in procedural help
 
 ## What we will use
 
-* Draper gem ([https://github.com/drapergem/draper](//github.com/drapergem/draper))
+* Draper gem ([//github.com/drapergem/draper](//github.com/drapergem/draper))
 * Decorator Pattern
 
 Decorator Pattern is a design pattern which allows a developer to add an extra functionality to an object or collection of objects. It is possible to do because a decorator class wraps a decorated model and deals only with presentational issues. Also, it allows moving methods which are not related to a model strictly to separated classes make them cleaner. One of the common application is using it inside views but can be treated like an another layer of abstraction.
@@ -46,7 +46,7 @@ IMO the syntax is not clear enough but in some situation has a huge potential an
 `delegate_all or delegate`
 
 * delegate_all allows a developer to decorate an object by all methods define inside a decorator but it is not always a good approach, in some cases better would be just the delegate method with a name of a method which allows a developer to increase a legible of code and there is a less amount of metaprogramming.
-* delegate_all [https://github.com/drapergem/draper#delegating-methods](//github.com/drapergem/draper#delegating-methods)
+* delegate_all [github.com/drapergem/draper#delegating-methods](//github.com/drapergem/draper#delegating-methods)
 
 ## Step 1
 
