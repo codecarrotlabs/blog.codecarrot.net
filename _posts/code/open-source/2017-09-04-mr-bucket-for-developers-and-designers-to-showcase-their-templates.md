@@ -12,7 +12,7 @@ image: mr-bucket-artboard2.jpg
 Mr.Bucket is an open-source platform for developers and designer  offering a tailored, uncluttered experience for showcasing their templates.
 
 <blockquote>
-Which is maintained by [CodeCarrot](//codecarrot.net/)
+Which is maintained by CodeCarrot
 </blockquote>
 
 ![Screenshot of the Mr.Bucket Website](//blog.codecarrot.net/images/screenshot-of-the-mrbucket-website.png)
