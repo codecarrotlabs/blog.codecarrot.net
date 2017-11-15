@@ -6,7 +6,7 @@ date: 2017-07-09 12:00:00
 categories: code
 tags: android android-studio firebase devs 
 description: Firebase offers different services such as app testing, backend options and more. It’s integrated with Android Studio. See all the benefits of using Firebase.
-image: http://blog.codecarrot.net/images/firebase-for-android-dev.png
+image: //blog.codecarrot.net/images/firebase-for-android-dev.png
 ---
 
 Every one of us wants the same for our apps. We want them to contain a richer feature set, appear more stable, and be used by more users, not to mention having quicker development cycles. This can cost a lot of your most important resources: time and money. Wouldn’t it be perfect if someone has already made the solution ready to be used as a service?
@@ -51,7 +51,7 @@ You can further use the API to allow users to find their personal data, such us 
 
 **Authentication** is only one example of a function that almost every app contains. Instead of building an authentication module by hand, you can use a pre-made solution in Firebase, which enables logging on with credentials or social media accounts.
 
-As you can see, Firebase is a great solution for developers who don’t like to waste their time and money. That’s not everything Firebase has to offer – for more info about their other services, such as AdWords, AdMob and other services targeted at backend developers, visit [Firebase’s website](https://firebase.google.com/).
+As you can see, Firebase is a great solution for developers who don’t like to waste their time and money. That’s not everything Firebase has to offer – for more info about their other services, such as AdWords, AdMob and other services targeted at backend developers, visit [Firebase’s website](//firebase.google.com/).
 
 ## P.S. Can we send you an email?
 
