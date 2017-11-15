@@ -17,7 +17,7 @@ We have two different approaches available when implementing PayPal gateway:
 
 Active Merchant is a gem extracted from Shopify.
 
-*Pros:**
+**Pros:**
 
 * Support for multiple payment gateways
 * Maintained by Shopify
