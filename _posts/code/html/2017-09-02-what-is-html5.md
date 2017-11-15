@@ -6,7 +6,7 @@ date: 2017-09-02 17:55:00
 categories: code
 tags: html html5
 description: In this article, you will get an overview of HTML5, including a look at some of the new tags now available to designers and developers.
-image: http://blog.codecarrot.net/images/what-is-html5.png
+image: //blog.codecarrot.net/images/what-is-html5.png
 ---
 
 In this article, you will learn an overview of HTML5, including a look at some of the new tags now available to designers and developers. If you want to learn how to take advantage of all the new features of HTML5, continue reading this article!
@@ -21,7 +21,7 @@ It is comprised of several parts there are new browser API's and features like D
 
 If you are new to HTML5, you're probably more interested in the new elements or tags that are available.
 
-![Screenshot of the basic html5 code](http://blog.codecarrot.net/images/screenshot-of-the-basic-html5-code.png)
+![Screenshot of the basic html5 code](//blog.codecarrot.net/images/screenshot-of-the-basic-html5-code.png)
 
 ## 1. HTML5 doctype.
 
@@ -67,4 +67,4 @@ Section element just helps us in breaking the specific sections of our website.
 
 Address element is used to wrap various types of addresses.
 
-Do you also [want a website](http://codecarrot.net) for yourself? Get a successful project with [Codecarrot](http://codecarrot.net).
+Do you also [want a website](//codecarrot.net) for yourself? Get a successful project with [Codecarrot](//codecarrot.net).

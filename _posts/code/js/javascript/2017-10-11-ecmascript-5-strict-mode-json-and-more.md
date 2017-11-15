@@ -6,7 +6,7 @@ date: 2017-10-11 19:22:00
 categories: code
 tags: coding javascript js json
 description: ECMAScript 5’s Object and Property system is a huge new aspect of the language and deserved its special consideration.
-image: http://blog.codecarrot.net/images/strictness1.jpg
+image: //blog.codecarrot.net/images/strictness1.jpg
 ---
 
 ECMAScript 5’s Object and Property system is a huge new aspect of the language and deserved its special consideration.
@@ -163,10 +163,10 @@ The second major feature of the language is the addition of native JSON support 
 
 I’ve been championing this move for a long time and I’m glad to see it finally arrive in a specification.
 
-In the meantime PLEASE start migrating your JSON-using applications over to Crockford’s [json2.js](http://json.org/json2.js). It is fully compatible with the ECMAScript 5 specification and gracefully degrades if a native (faster!) implementation exists.
+In the meantime PLEASE start migrating your JSON-using applications over to Crockford’s [json2.js](//json.org/json2.js). It is fully compatible with the ECMAScript 5 specification and gracefully degrades if a native (faster!) implementation exists.
 
 <blockquote>
-In fact, I [just landed](http://dev.jquery.com/changeset/6361) a change in jQuery yesterday that utilizes the  JSON.parse method if it exists, now that it has been completely specified.
+In fact, I [just landed](//dev.jquery.com/changeset/6361) a change in jQuery yesterday that utilizes the  JSON.parse method if it exists, now that it has been completely specified.
 </blockquote>
 
 There are two primary methods for handling `JSON: JSON.parse` (which converts a JSON string into a JavaScript object) and `JSON.stringify` (which convert a JavaScript object into a serialized string).
@@ -269,7 +269,7 @@ Date.prototype.toJSON
 
 ## .bind()
 
-A welcomed addition to the language is a built-in .bind() method for enforcing the context of a function (virtually identical to [Prototype’s .bind implementation](http://www.prototypejs.org/api/function/bind)).
+A welcomed addition to the language is a built-in .bind() method for enforcing the context of a function (virtually identical to [Prototype’s .bind implementation](//www.prototypejs.org/api/function/bind)).
 
 ```js
 Function.prototype.bind(thisArg, arg1, arg2....)

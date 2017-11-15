@@ -6,7 +6,7 @@ date: 2017-08-30 13:10:00
 categories: code
 tags: html front-end development web emmet plugin
 description: Learn how to use Emmet, a plugin for your text editor that allows you to quickly generate HTML and CSS.
-image: http://blog.codecarrot.net/images/emmet.jpg
+image: //blog.codecarrot.net/images/emmet.jpg
 ---
 
 Emmet is a plugin for your text editor that provides a number of tools to help you quickly write HTML and CSS code. The plugin, which was previously known as *Zen Coding*, allows you to generate HTML elements using a CSS-like syntax.
@@ -19,21 +19,21 @@ Before we get started you’ll need to install the Emmet plugin for your text ed
 
 Click the link for your text editor below and follow the instructions to install the plugin.
 
-* [Sublime Text](https://github.com/sergeche/emmet-sublime#readme)
-* [Atom](https://github.com/emmetio/emmet-atom#readme)
-* [Eclipse](https://github.com/emmetio/emmet-eclipse#readme)
-* [TextMate](https://emmet.io/download/textmate2/)
-* [Coda](https://emmet.io/download/coda/)
-* [Espresso](https://github.com/emmetio/Emmet.sugar#readme)
-* [Chocolat](https://github.com/emmetio/emmet.chocmixin#readme)
-* [Notepad++](https://github.com/emmetio/npp#readme)
-* [Brackets](https://github.com/emmetio/brackets-emmet#readme)
-* [NetBeans](https://github.com/emmetio/netbeans#readme)
-* [Adobe Dreamweaver](https://github.com/emmetio/dreamweaver#readme)
-* [Komodo Edit](http://community.activestate.com/xpi/zen-coding)
-* [PSPad](https://github.com/emmetio/pspad)
-* [Textarea](https://github.com/emmetio/textarea)
-* [CodeMirror](https://github.com/emmetio/codemirror#readme)
+* [Sublime Text](//github.com/sergeche/emmet-sublime#readme)
+* [Atom](//github.com/emmetio/emmet-atom#readme)
+* [Eclipse](//github.com/emmetio/emmet-eclipse#readme)
+* [TextMate](//emmet.io/download/textmate2/)
+* [Coda](//emmet.io/download/coda/)
+* [Espresso](//github.com/emmetio/Emmet.sugar#readme)
+* [Chocolat](//github.com/emmetio/emmet.chocmixin#readme)
+* [Notepad++](//github.com/emmetio/npp#readme)
+* [Brackets](//github.com/emmetio/brackets-emmet#readme)
+* [NetBeans](//github.com/emmetio/netbeans#readme)
+* [Adobe Dreamweaver](//github.com/emmetio/dreamweaver#readme)
+* [Komodo Edit](//community.activestate.com/xpi/zen-coding)
+* [PSPad](//github.com/emmetio/pspad)
+* [Textarea](//github.com/emmetio/textarea)
+* [CodeMirror](//github.com/emmetio/codemirror#readme)
 
 ## Generating Elements
 
@@ -218,7 +218,7 @@ This example generates a link with the `target` attribute set to `_blank`.
 
 ## Item Numbering
 
-![ul li 5 items](http://blog.codecarrot.net/images/ul-li-item-5.gif)
+![ul li 5 items](//blog.codecarrot.net/images/ul-li-item-5.gif)
 
 Emmet also includes a feature that allows you to automatically add numbers to your HTML. This is useful for applications like setting unique classes on list items. Just add a dollar sign `$` to your abbreviation where you want the number to appear and Emmet will take care of the rest.
 
@@ -313,7 +313,7 @@ The example above generates a simple HTML5 compliant page template.
 </html>
 ```
 
-Take a look at the [documentation](http://docs.emmet.io/customization/snippets/) for more about the snippets that are available.
+Take a look at the [documentation](//docs.emmet.io/customization/snippets/) for more about the snippets that are available.
 
 ## Using Emmet with CSS
 
@@ -349,11 +349,11 @@ text-shadow: hoff voff blur #000;
 
 I’ve been using Emmet for a few months now and I’ve found it really useful. Especially when I need to quickly generate a list or table.
 
-We’ve covered a lot of the syntax in this blog post but Emmet has a whole bunch of other features that we haven’t looked at. If you’re interested in finding out more I recommend that you spend a bit of time looking through the [Emmet documentation](http://docs.emmet.io/).
+We’ve covered a lot of the syntax in this blog post but Emmet has a whole bunch of other features that we haven’t looked at. If you’re interested in finding out more I recommend that you spend a bit of time looking through the [Emmet documentation](//docs.emmet.io/).
 
 What are your thoughts about Emmet? Share your views in the comments below.
 
 ## Useful Links
 
-* [Emmet Documentation](http://docs.emmet.io/)
-* [Emmet Plugins](http://emmet.io/download/)
+* [Emmet Documentation](//docs.emmet.io/)
+* [Emmet Plugins](//emmet.io/download/)
