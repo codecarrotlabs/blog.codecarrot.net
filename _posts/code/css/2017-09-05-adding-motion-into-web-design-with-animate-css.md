@@ -6,7 +6,7 @@ date: 2017-09-05 00:50:00
 categories: code
 tags: css animate motion design web-design css3
 description: Lots of frontend web developers have been getting interested in dynamic interfaces using motion effects. This is all too common with many advancements within popular JavaScript libraries. But there has also been a lot of interest in CSS3 animated effects....
-image: //blog.codecarrot.net/images/frank-mckenna-132749.jpg
+image: frank-mckenna-132749.jpg
 ---
 
 Lots of frontend web developers have been getting interested in dynamic interfaces using motion effects. This is all too common with many advancements within popular JavaScript libraries. But there has also been a lot of interest in CSS3 animated effects.

@@ -6,7 +6,7 @@ date: 2017-06-04 12:00:00
 categories: code
 tags: css normalize css3
 description: Normalize.css - Make browsers render all elements more consistently. A small CSS file that provides better cross-browser consistency in the default styling of HTML elements
-image: //blog.codecarrot.net/images/relax-your-css-with-normalize-css.jpg
+image: relax-your-css-with-normalize-css.jpg
 ---
 
 [Normalize.css](//codecarrotnet.github.io/normalize.css/) is a small CSS file that provides better cross-browser consistency in the default styling of HTML elements. It’s a modern, HTML5-ready, alternative to the traditional CSS reset.
