@@ -6,7 +6,7 @@ date: 2017-11-01 19:10:00
 categories: code
 tags: coding pwa progressive-web-app
 description: 30% Speed Gain, 88% Performance Improvement, 5x Lower Data Usage and More. These Companies Have Already
-image: //blog.codecarrot.net/images/pexels-photo-541522.jpeg
+image: /pexels-photo-541522.jpeg
 ---
 
 76% increase in conversions, 30% speed gain,  88% performance improvement, five times lower data usage, and 23% increase in the number of mobile searches. These benefits have been enjoyed by the major players in the global digital economy, including Twitter, Washington Post, Forbes and Virgin America. How? They adopted PWAs in their applications.

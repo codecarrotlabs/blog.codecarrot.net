@@ -6,7 +6,7 @@ date: 2017-11-01 20:10:00
 categories: code
 tags: coding pwa progressive-web-app
 description: Progressive Web Apps are valuable tools for many digital businesses - but some companies can gain more than others. What list are you on?
-image: //blog.codecarrot.net/images/pexels-photo-356056.jpeg
+image: pexels-photo-356056.jpeg
 ---
 
 Are [Progressive Web Apps](//www.codecarrot.net/progressive-web-apps) (or PWA for short) the future of web development? Their main selling point is a smooth performance on any device and the technology based on the idea of treating the web browser as an operating system. Should you get excited? Is this technology for you? Let’s find out.
