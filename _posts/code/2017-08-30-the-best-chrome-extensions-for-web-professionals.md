@@ -6,7 +6,7 @@ date: 2017-08-30 16:00:00
 categories: code
 tags: dev devtools chrome extensions chrome-extensions
 description: The Chrome DevTools provide lots of built-in functionality, but if you still feel like there's something missing, Chrome Extensions can fill in the gap.
-image: //blog.codecarrot.net/images/best-chrome-extensions-web-professionals.png
+image: best-chrome-extensions-web-professionals.png
 ---
 
 It’s no secret that web designers and developers love the Google Chrome web browser and Chrome Extensions. The strength of the [Chrome Developer Tools](/5-great-hidden-features-in-the-chrome-devtools) make it an excellent choice for web design and development work. The Chrome DevTools provide lots of built-in functionality, but if you still feel like there’s something missing, Chrome Extensions can fill in the gap.

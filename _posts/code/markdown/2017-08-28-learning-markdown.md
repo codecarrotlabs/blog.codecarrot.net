@@ -6,7 +6,7 @@ date: 2017-08-28 04:14:00
 categories: code
 tags: markdown html web text
 description: Learn how to use Markdown in order to write great web content without needing to be a HTML rockstar.
-image: //blog.codecarrot.net/images/learning-markdown.png
+image: learning-markdown.png
 ---
 
 Markdown is a simple text-based markup language and conversion tool that allows writers to create great content for the web without having to worry too much about HTML. The syntax of the language is designed to be easy to learn and intuitive. It’s ideal for people that write content for the web but that might be distracted by the HTML syntax.

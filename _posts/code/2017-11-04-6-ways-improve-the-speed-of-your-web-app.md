@@ -6,7 +6,7 @@ date: 2017-11-04 18:29:40
 categories: code
 tags: coding web-app speed
 description: 6 ways to reach top page load speeds. Quick wins to speed up your web app on the frontend side. Easy checklist to improve the result!
-image: //blog.codecarrot.net/images/traffic-car-vehicle-black.jpg
+image: traffic-car-vehicle-black.jpg
 ---
 
 [Speed of a web app is one of the most crucial things that influence SEO, conversion rate](/9-seo-tips-improve-website-performance-drive-traffic) or user experience. It is something you should be concerned with when it comes to user retention. According to an Aberden Group Report, a 1-second delay in page load time equals 11% fewer page views, a 16% decrease in customer satisfaction, and 7% loss in conversions. Moreover, according to Gomez.com, increase in page response time from 2 to 10 seconds increased page abandonment rates by 38%.
