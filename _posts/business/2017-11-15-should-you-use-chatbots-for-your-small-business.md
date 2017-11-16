@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Should You Use Chatbots for Your Small Business?
 date: 2017-11-15 11:00:00
 categories: business

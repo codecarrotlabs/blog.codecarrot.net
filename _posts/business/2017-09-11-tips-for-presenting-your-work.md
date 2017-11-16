@@ -1,5 +1,6 @@
 ---
 layout: post
+author: yashumittal
 title: Tips for presenting your work
 date: 2017-09-11 01:00:00
 categories: business
