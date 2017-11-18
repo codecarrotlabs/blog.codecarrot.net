@@ -5,7 +5,7 @@ title: All You Need To Know About CSS-in-JS
 date: 2017-11-18 18:43:00
 categories: code
 tags: coding react facebook native-apps react-native css js javascript
-description:
+description: Thinking in components — No longer do you have to maintain bunch of style-sheets. CSS-in-JS abstracts the CSS model to the component level, rather than the document level (modularity).
 image: 1_OH0dDfJAGv6aEGFk2zLAxw.jpeg
 ---
 
