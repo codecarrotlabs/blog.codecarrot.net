@@ -83,7 +83,7 @@ First, we need to style our link so that it looks disabled.
 <a class="isDisabled" href="https://unfetteredthoughts.net">Disabled Link</a>
 ```
 
-![disabled-link_yg83an.webp](disabled-link_yg83an.webp)
+![disabled-link_yg83an.webp](//blog.codecarrot.net/images/disabled-link_yg83an.webp)
 
 Setting `color` to `currentColor` should reset the font color back to your normal, non-link text color. I am also setting the mouse cursor to `not-allowed` to display a nice indicator on hover that the normal action is not allowed. Already, we have left out non-mouse users that can't hover, mainly touch and keyboard, so they won't get this indication. Next the opacity is cut to half. According to [WCAG](//www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast-contrast), disabled elements do not need to meet color contrast guidelines. I think this is very risky since it's basically plain text at this point, and dropping the opacity in half would make it very hard to read for users with low-vision, another reason I hate this. Lastly, the text decoration underline is removed as this is usually the best indicator something is a link. Now this **looks** like a disabled link!
 
