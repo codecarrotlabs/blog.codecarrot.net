@@ -45,3 +45,5 @@ Hopefully now your photoshop and xhtml/CSS is going swimmingly and you’re near
 
 So what do you reckon? Is this a load of rubbish, is it just obvious?… or is there some value in it?
 Does anyone have any thoughts or tips they could add? 🙂
+
+Desiging is a very critial process, so [let us handle it for you](//www.codecarrot.net) and make a awesome web design for you.
