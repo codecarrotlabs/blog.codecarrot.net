@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Marketing Is Not About Your Company’s Values
-date: 2017-10-05 20:00:00
+date: 2017-11-19 13:50:00
 categories: business
 tags: business customer company marketing
 description: Marketing is really about how customer values translate into aspirations, insecurities, fears and motivations.
