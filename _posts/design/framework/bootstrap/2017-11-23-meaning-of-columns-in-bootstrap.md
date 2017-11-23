@@ -9,8 +9,6 @@ description: If you are confused with the grid system in the bootstrap, particul
 image: layout-12-grid2.png
 ---
 
-https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap
-
 If you are confused with the grid system in the bootstrap, particularly with these classes, you can read this article.
 
 Ignoring the letters *(xs, sm, md, lg)* **for now**, I'll start with just the numbers...
