@@ -21,11 +21,11 @@ Ruby was created back in 1993 by Yukihiro Matsumoto. His main objective wasn’t
 
 ## Pros of Elixir:
 
-# ## 1. Battle-proven solution
+### 1. Battle-proven solution
 
 Elixir is based on the Erlang VM (BEAM). It’s one of the oldest virtual machines in the world, but remains broadly used. It’s actually older than the Java VM (1994) or the C# VM (2000). Erlang and Erlang VM are a the go-to solution for messaging systems or applications that have to manage a lot of persistent connections.
 
-# ## 2. Performance
+### 2. Performance
 
 Elixir is a compiled language, which makes it faster than Ruby. Is it comparable to Node.js? It’s similar performance-wise, but since most of the code runs concurrently, it’s more difficult to write blocking code in CPU-bound applications. Node.js makes use of the JavaScript event loop - it blocks the whole Node.js process when you have your code calculating something. That’s a clear advantage of Elixir over both Ruby and Node.js, especially when speed matters.
 
