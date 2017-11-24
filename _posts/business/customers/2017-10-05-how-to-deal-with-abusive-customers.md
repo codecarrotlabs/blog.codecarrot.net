@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to deal with abusive customers
-date: 2017-10-05 20:00:00
+date: 2017-10-05 20:00:00 +0530
 categories: business
 tags: business customer deal
 description: Do you get email once-in-awhile, from customer support email and getting angry (and slightly abusive), always tempting to lash back in anger.

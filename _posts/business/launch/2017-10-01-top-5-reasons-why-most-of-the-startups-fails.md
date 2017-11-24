@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Top 5 Reasons - Why Most Of The Startups Fail?
-date: 2017-10-01 05:26:00
+date: 2017-10-01 05:26:00 +0530
 categories: business
 tags: business entrepreneur startup success
 description: Being a startup founder myself and with a prior experience of building a startup from scratch and sharing both successful moments

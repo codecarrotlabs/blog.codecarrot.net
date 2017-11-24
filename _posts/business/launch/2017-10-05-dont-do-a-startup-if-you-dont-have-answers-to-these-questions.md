@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Don't Do A Startup If You Don't Have Answers To These Questions?
-date: 2017-10-05 02:26:00
+date: 2017-10-05 02:26:00 +0530
 categories: business
 tags: business entrepreneur startup success
 description: The most fundamental thing which one has to have if s/he wants to perform any task is that he should have necessary skills and tools to deliver it.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Is your idea good enough to turn into a Product?
-date: 2017-09-10 15:02:00
+date: 2017-09-10 15:02:00 +0530
 categories: business
 tags: product idea launch
 description: Question - How can you make an incredibly dangerous, misguided and high-risk bet with a single sentence? Answer - “I have an idea for an app

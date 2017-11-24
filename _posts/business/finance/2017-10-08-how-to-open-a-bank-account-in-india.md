@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to open a bank account in India
-date: 2017-10-08 21:41:00
+date: 2017-10-08 21:41:00 +0530
 categories: business
 tags: business money life-aboard india
 description: Are you planning on moving to India permanently? Or perhaps you often travel there for pleasure? India has long been popular as a holiday destination, and with good reason. Not only are there lots of different cultures to experience and places to explore, it’s also incredibly beautiful.

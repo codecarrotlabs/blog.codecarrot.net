@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Entrepreneurs - Don’t Neglect Your Health!
-date: 2017-10-05 00:10:00
+date: 2017-10-05 00:10:00 +0530
 categories: business
 tags: startup business entrepreneurs health
 description: Millions of people dream to work on their dream project and few of those bravo’s who have the courage and conviction goes on to venture into their startup

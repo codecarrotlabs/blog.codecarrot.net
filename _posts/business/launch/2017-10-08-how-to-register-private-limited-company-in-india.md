@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Register a Private Limited Company in India
-date: 2017-10-08 22:26:00
+date: 2017-10-08 22:26:00 +0530
 categories: business
 tags: business entrepreneur startup business india
 description: Looking to register your business as a private company? Here is everything you need to know about how to register a private limited company.

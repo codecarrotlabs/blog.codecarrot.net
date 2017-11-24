@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 7 Ways To Make Your Business Stand Out In A Crowd Of Competitors
-date: 2017-09-26 02:00:00
+date: 2017-09-26 02:00:00 +0530
 categories: business
 tags: competitors business smallbiz smallbusiness
 description: In a world where the competition regularly claims to be 1, it’s difficult to differentiate and build your own identity. Difficult, but not impossible.

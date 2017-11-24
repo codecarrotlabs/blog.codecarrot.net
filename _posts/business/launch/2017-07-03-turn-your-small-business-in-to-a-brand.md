@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Turn Your Small Business Into a Brand
-date: 2017-07-03 12:00:00
+date: 2017-07-03 12:00:00 +0530
 categories: business
 tags: smallbiz brand market customer
 description: How do you turn your small business into a big brand? These tips will help you market your business and turn it into a lovable brand.
