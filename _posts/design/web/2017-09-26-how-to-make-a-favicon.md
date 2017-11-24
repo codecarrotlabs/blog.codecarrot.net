@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Make a Favicon
-date: 2017-09-26 13:57:00
+date: 2017-09-26 13:57:00 +0530
 categories: design
 tags: design favicon icon make-favicon
 description: One of the most frustrating and confusing elements of modern web design is the favicon. Short for favorite icon it's the picture you see in browser tabs.

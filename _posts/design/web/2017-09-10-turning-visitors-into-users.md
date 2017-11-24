@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Turning Visitors into Users
-date: 2017-09-10 21:58:00
+date: 2017-09-10 21:58:00 +0530
 categories: design
 tags: visitor users
 description: Thousands of people may be visiting your site every day, but if you don’t convince them that they should be using your product, subscribing to your service, or registering in some way, then your web app’s homepage is simply not

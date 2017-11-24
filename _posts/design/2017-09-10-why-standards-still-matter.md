@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Why standards still matter?
-date: 2017-09-10 21:25:00
+date: 2017-09-10 21:25:00 +0530
 categories: design
 tags: standards designer website
 description: Throughout my web design and development career I have found incredible amounts of valuable help and fantastic resources while searching for solutions to various problems.

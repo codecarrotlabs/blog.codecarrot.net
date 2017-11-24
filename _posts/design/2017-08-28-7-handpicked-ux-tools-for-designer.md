@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 7 Handpicked UX tools for designers
-date: 2017-08-28 01:00:00
+date: 2017-08-28 01:00:00 +0530
 categories: design
 tags: ux ui tools designer-tools collaboration prototyping graphic-design
 description: A master of UX design needs to master many skillsets - graphic design, prototyping, user research, and design collaboration.

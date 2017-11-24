@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Meaning of Columns in Bootstrap
-date: 2017-11-23 16:43:00
+date: 2017-11-23 16:43:00 +0530
 categories: design
 tags: standards designer website
 description: If you are confused with the grid system in the bootstrap, particularly with these classes, you can read this article.

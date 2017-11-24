@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: PSD to HTML is Dead
-date: 2017-09-02 17:25:00
+date: 2017-09-02 17:25:00 +0530
 categories: design
 tags: psd html desginer
 description: There are PSD to HTML tutorials are all over the web. In fact, many have searched on Google how to convert PSD to HTML. So why is it dead?

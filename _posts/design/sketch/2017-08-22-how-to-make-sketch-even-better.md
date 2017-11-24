@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Make Sketch Even Better?
-date: 2017-08-22 12:00:00
+date: 2017-08-22 12:00:00 +0530
 categories: design
 tags: sketch designer desing-tools tools ui
 description: A designer's tour on making Sketch more functional and convenient. Sketch is one of the best UI design tools at the moment. It is the first design tool
