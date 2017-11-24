@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 11 Ways You Can Improve Your Business With Google Analytics
-date: 2017-09-27 13:30:00
+date: 2017-09-27 13:30:00 +0530
 categories: business
 tags: google google-analytics business vlog
 description: When you sign in to Google Analytics you probably just look at your overall traffic for the day and see if it was higher or lower than the previous day. After

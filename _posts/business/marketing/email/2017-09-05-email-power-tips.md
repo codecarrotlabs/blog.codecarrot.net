@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: E-Mail power tips
-date: 2017-09-05 14:58:10
+date: 2017-09-05 14:58:10 +0530
 categories: business
 tags: business marketing email tips
 description: I've noticed that when I get stressed at work, it's often because my email inbox is out of control. I've got hundreds of unread emails, with no idea which ones are important. I finally decided I needed to learn how...

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to write a great blog post
-date: 2017-06-27 12:00:00
+date: 2017-06-27 12:00:00 +0530
 categories: business
 tags: business marketing blogging
 description: Knowing how to write a great blog post can be a challenge for beginning bloggers. Get organized from the start with these tips.

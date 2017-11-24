@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Make Your Own Online Videos
-date: 2017-10-05 13:27:00
+date: 2017-10-05 13:27:00 +0530
 categories: business
 tags: business videos marketing
 description: You don't need to pay professional prices to do video marketing. Here's how you can make your own videos for free and in a short amount of time.

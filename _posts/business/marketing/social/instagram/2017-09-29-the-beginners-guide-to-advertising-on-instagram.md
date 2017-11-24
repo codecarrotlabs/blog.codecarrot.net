@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: The Beginners Guide to Advertise on Instagram
-date: 2017-09-29 13:27:00
+date: 2017-09-29 13:27:00 +0530
 categories: business
 tags: instagram marketing business
 description: Instagram now has more than 600 million users. That’s a big audience. For comparison, Twitter only has 313 million monthly active users.

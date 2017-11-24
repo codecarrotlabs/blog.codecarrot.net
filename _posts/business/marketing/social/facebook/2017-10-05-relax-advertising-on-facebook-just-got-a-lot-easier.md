@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Relax, Advertising on Facebook Just Got a Lot Easier
-date: 2017-10-05 06:27:00
+date: 2017-10-05 06:27:00 +0530
 categories: business
 tags: business facebook marketing
 description: Pixels are common across most advertising platforms. They're used to drop a cookie that will track visitors on your website so you can advertise to them later.

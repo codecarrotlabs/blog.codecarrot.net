@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How To Write Product Descriptions To Increase Sales
-date: 2017-10-05 22:55:00
+date: 2017-10-05 22:55:00 +0530
 categories: business
 tags: business ecommerce sales marketing
 description: Ecommerce manager and online store owners often ask about product descriptions. What should they say?

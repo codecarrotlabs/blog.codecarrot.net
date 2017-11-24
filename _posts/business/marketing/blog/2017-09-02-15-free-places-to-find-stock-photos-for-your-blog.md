@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 15 Free Places to Find Stock Photos for Your Blog
-date: 2017-09-02 12:00:00
+date: 2017-09-02 12:00:00 +0530
 categories: business
 tags: business blogging photos
 description: Finding photos for your niche blog can be challenging. Here are four awesome (and free) places to search.

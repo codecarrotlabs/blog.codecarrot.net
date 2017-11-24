@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 5 meaningful ways to make money blogging
-date: 2017-08-28 04:00:00
+date: 2017-08-28 04:00:00 +0530
 categories: business
 tags: business blog earning-money money marketing blogging
 description: Making money off of your digital influence and lifestyle is possible. Learn how to make money blogging as a lifestyle brand.

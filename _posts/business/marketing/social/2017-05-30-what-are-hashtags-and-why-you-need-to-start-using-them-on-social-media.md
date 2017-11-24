@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What are hashtags and why you need to start using them on social media
-date: 2017-05-30 12:00:00
+date: 2017-05-30 12:00:00 +0530
 categories: business
 tags: social social-media hashtags online
 description: Hashtags, hashtags, hashtags! You see them online, on just about every social network website. Sometimes you see them in abundance. Sometimes they're silly, and sometimes they look like they serve a purpose.

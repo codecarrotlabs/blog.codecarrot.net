@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to use digital content marketing to grow awareness, trust and sales
-date: 2017-09-01 22:55:00
+date: 2017-09-01 22:55:00 +0530
 categories: business
 tags: marketing content-marketing marketing sales trust digital digital-content-marketing digital-content
 description: Don't get overwhelmed by the mixed messages when it comes to digital content marketing. Use these simple tips to build out a strategy that's right for you.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How To Turn Your Webinar Into A Magnet For New Customers
-date: 2017-09-10 15:02:00
+date: 2017-09-10 15:02:00 +0530
 categories: business
 tags: webinar customers users subscribers lead money
 description: Running webinars? Here's how we've turned them into one of our top marketing channels. Learn the 6 keys to running a webinar that will make you money.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Using Instagram to drive traffic to your website
-date: 2017-09-01 23:30:00
+date: 2017-09-01 23:30:00 +0530
 categories: business
 tags: business marketing instagram traffic small-business smallbiz social
 description: With over 300 million users, Instagram has much untapped potential. Learn four ways to use Instagram to drive traffic to your small business website.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 5 things to remember when you write business email
-date: 2017-09-29 02:41:00
+date: 2017-09-29 02:41:00 +0530
 categories: business
 tags: email business email-marketing marketing
 description: Did you realize that your company's image is greatly impacted by how you write business email? Consider the five elements that make up a recipe for success!

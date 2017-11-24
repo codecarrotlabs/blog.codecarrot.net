@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Inbound Marketing - A Cost Effective Way for Small Businesses
-date: 2017-09-06 12:03:00
+date: 2017-09-06 12:03:00 +0530
 categories: business
 tags: business marketing smallbiz inbound-marketing
 description: Marketing strategies, techniques, trends and methods have changed rapidly and for the better over years. These changes have expanded the horizon of inventions in this space and has strengthened the customer-brand relationship.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Do you need to spend money on advertising your web app?
-date: 2017-09-10 23:00:00
+date: 2017-09-10 23:00:00 +0530
 categories: business
 tags: web app webapp money advertising marketing
 description: Now that we've built two web apps, we've got a good perspective on what it takes to make them succeed. This is my conclusion - you've got to be prepared to spend cash to advertise your web app. I've been spending

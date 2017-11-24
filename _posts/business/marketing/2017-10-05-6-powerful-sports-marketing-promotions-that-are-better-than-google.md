@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 6 Powerful Sports Marketing Promotions That Are Better Than Google
-date: 2017-10-05 19:27:00
+date: 2017-10-05 19:27:00 +0530
 categories: business
 tags: business sports-marketing marketing google promotions
 description: Yet some organizations have now worked out how to get great coverage without relying on a finicky media, and they're doing it in a unique and powerful way.

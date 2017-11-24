@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Market Your Small Business in India
-date: 2017-07-05 12:00:00
+date: 2017-07-05 12:00:00 +0530
 categories: business
 tags: business smallbiz small-business business marketing india
 description: Any successful business owner will tell you; marketing is the key to a growing business, here are some ideas to market your small business.

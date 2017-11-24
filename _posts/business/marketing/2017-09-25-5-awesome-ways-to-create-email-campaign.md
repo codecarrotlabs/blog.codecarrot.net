@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 5 Awesome Ways To Send E-Mail Campaign
-date: 2017-09-25 20:35:00
+date: 2017-09-25 20:35:00 +0530
 categories: business
 tags: email marketing campaign email-campaign email-marketing
 description: Need ideas on how to improve your email marketing? Check out these five examples of awesome email marketing strategy and design.
