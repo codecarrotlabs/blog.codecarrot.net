@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: JavaScript vs CoffeeScript In Ruby on Rails Applications
-date: 2017-11-01 03:58:45
+date: 2017-11-01 03:58:45 +0530
 categories: code
 tags: ruby-on-rails ruby rails js coffee javascript coffeescript
 description: At CodeCarrot we regularly discuss technologies we use to make sure we are not lagging behind or lose newly emerged

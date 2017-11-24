@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Don’t be Afraid to Break Your Code (Everyone Does)
-date: 2017-10-29 01:59:00
+date: 2017-10-29 01:59:00 +0530
 categories: code
 tags: coding learing
 description: Break your code and put it back together. In the world of developers, that's what everyone does.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What is a Progressive Web App and When You Should Go for It?
-date: 2017-11-01 20:10:00
+date: 2017-11-01 20:10:00 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: Progressive Web Apps are valuable tools for many digital businesses - but some companies can gain more than others. What list are you on?

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Why Ruby is Awesome
-date: 2017-11-16 02:40:35
+date: 2017-11-16 02:40:35 +0530
 categories: code
 tags: ruby-on-rails ruby rails
 description: I’ve been through a few programming languages over the years, and I can say without hesitation that Ruby is my favorite.

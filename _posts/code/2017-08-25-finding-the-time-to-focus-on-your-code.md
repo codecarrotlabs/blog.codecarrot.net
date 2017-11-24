@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Finding the Time to Focus on Your Code
-date: 2017-08-25 10:00:00
+date: 2017-08-25 10:00:00 +0530
 categories: project-management
 tags: staying-focused code time working
 description: Trying to focus on two things at once is hard. You may be able to eat and drive or listen to music while working. But it’s another thing to listen and talk at the same time.

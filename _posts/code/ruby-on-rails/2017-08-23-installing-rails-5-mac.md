@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Install Rails 5 on Mac
-date: 2017-08-23 02:00:00
+date: 2017-08-23 02:00:00 +0530
 categories: code
 tags: ruby-on-rails rails ruby mac
 description: As a little nudge for those of you who still haven't discovered how awesome Rails is, here's how to install Rails 5 on Mac.

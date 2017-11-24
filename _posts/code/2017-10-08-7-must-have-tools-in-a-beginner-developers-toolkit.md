@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 7 Must-Have Tools in a Beginner Developer’s Toolkit
-date: 2017-10-08 23:21:00
+date: 2017-10-08 23:21:00 +0530
 categories: project-management
 tags: project-management developer
 description: Being confident in coding is one of the ways to a expert developer, here are the 5 expert tips on how to improve your coding confidence.

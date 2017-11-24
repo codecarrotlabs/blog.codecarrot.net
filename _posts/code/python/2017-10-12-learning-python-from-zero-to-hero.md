@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Learning Python - From Zero to Hero
-date: 2017-10-12 23:39:00
+date: 2017-10-12 23:39:00 +0530
 categories: code
 tags: dev coding python
 description: Python is not just a server side language, according to its creator guido van rossum, it's high-level programming language, and its core design philosophy is all about code readability.
@@ -287,7 +287,7 @@ dictionary = { "some_key": "some_value" }
 
 for key in dictionary:
 		print("%s --> %s" %(key, dictionary[key]))
-		
+
 # some_key --> some_value
 ```
 
@@ -316,7 +316,7 @@ dictionary_tk = {
 
 for attribute, value in dictionary_tk.items():
 		print("My %s is %s" %(attribute, value))
-		
+
 # My name is Leandro
 # My nickname is Tk
 # My nationality is Brazilian

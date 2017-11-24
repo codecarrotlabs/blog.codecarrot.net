@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Patterns that Will Help You Be a Better Developer
-date: 2017-11-10 01:17:40
+date: 2017-11-10 01:17:40 +0530
 categories: code
 tags: coding coding-pattern developer
 description: Check out how patterns will help you keep your code clean and effective. In today’s fast moving world deadlines can be a real nightmare, especially for devs who have to focus on the code they’re writing to keep its quality high.
@@ -39,15 +39,15 @@ def DashboardViewObject
     @project = project
     @raports = raports
   end
-  
+
   def raports_available?
     @raports.recent.any?
   end
-  
+
   def projects_with_people
     @project_with_users ||= "#{project.name} owned by #{project.owner}"
   end
-  
+
   def due_raports
     @due_raports ||= "Due date passed #{(raports.due_date - Date.today).to_i} days ago"
   end

@@ -2,14 +2,14 @@
 layout: post
 author: yashumittal
 title: How Developing SPA Influenced Me & My Code
-date: 2017-11-09 21:47:40
+date: 2017-11-09 21:47:40 +0530
 categories: code
-tags: coding 
+tags: coding
 description: I’d like to share my thoughts about what’s different (the good and the not-so-good) in SPA’s and why as a web developer, you should care about it. Of course, YMMV, so I encourage you to share your opinions in the comments!
 image: 1425999341-bulb.jpg
 ---
 
-I’d like to share my thoughts about what’s different (the good and the not-so-good) in SPA’s and why as a web developer, you should care about it. Of course, YMMV, so I encourage you to share your opinions in the comments! 
+I’d like to share my thoughts about what’s different (the good and the not-so-good) in SPA’s and why as a web developer, you should care about it. Of course, YMMV, so I encourage you to share your opinions in the comments!
 
 ## Background
 

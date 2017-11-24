@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Developer’s Guide to Writing Effective Code
-date: 2017-11-10 15:19:00
+date: 2017-11-10 15:19:00 +0530
 categories: code
 tags: coding developer writing
 description: We take a look at some best practices to keep in mind while writing code to ensure that your code is clean, readable, maintainable, and easy to debug.
@@ -13,7 +13,7 @@ Without a doubt, coding is a tough job. Hell, a lot of things have been said abo
 
 Before going through the ways to write effective code, let us quickly look at the benefits of writing clean code:
 
-**Makes it easier to solve problems.** If you are an engineer, this one is for you. Imagine a situation where messy code is thrown at you and you are expected to make a functionality work in an hour’s time. Is it as easy as the client feels? I’m sure it is not! 
+**Makes it easier to solve problems.** If you are an engineer, this one is for you. Imagine a situation where messy code is thrown at you and you are expected to make a functionality work in an hour’s time. Is it as easy as the client feels? I’m sure it is not!
 
 **Saves time in maintenance.** Clean code is easier to understand so if you have a maintenance task on hand, it will help you spend less time on identifying specific segments so that you can focus your energies on fixing or revising the code.
 
@@ -29,7 +29,7 @@ A naming convention means you decide to call variables by names that are self-ex
 
 ## Use Comments
 
-This is absolutely straightforward, though I understand that some coders hate taking extra time to add comments. Comments are also important so that if your or another programmer comes back to the code for modifications in future, the code is easily understood. 
+This is absolutely straightforward, though I understand that some coders hate taking extra time to add comments. Comments are also important so that if your or another programmer comes back to the code for modifications in future, the code is easily understood.
 
 This simply explains everything. If code has comments, it helps you in identifying the problem easier, and fix the code in less time.
 

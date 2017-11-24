@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Rails 5.1's form_with vs. form_tag vs. form_for
-date: 2017-09-12 16:18:00
+date: 2017-09-12 16:18:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails javascript web-development programming
 description: form_tag and form_for are soft deprecated and they will be replaced by form_with in the future. If you want to know more about form_with

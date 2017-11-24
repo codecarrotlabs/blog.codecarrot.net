@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 4 Big Challenges of Learning to Code
-date: 2017-10-28 22:17:00
+date: 2017-10-28 22:17:00 +0530
 categories: code
 tags: coding learing
 description: When you hear that anyone can learn the skills they need to become a developer, there’s one important caveat. If you’re going to learn to code, you need to be willing to work hard.

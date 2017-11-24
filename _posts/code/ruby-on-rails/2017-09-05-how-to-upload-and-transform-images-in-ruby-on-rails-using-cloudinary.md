@@ -2,9 +2,9 @@
 layout: post
 author: yashumittal
 title: How To Upload And Transform Images in Ruby on Rails Using Cloudinary
-date: 2017-09-05 05:35:00
+date: 2017-09-05 05:35:00 +0530
 categories: code
-tags: ruby-on-rails ruby rails images cloudinary application 
+tags: ruby-on-rails ruby rails images cloudinary application
 description: Upload And Transform Images - Short and great guide to setup and configure Cloudinary in your Ruby on Rails application.
 image: ruby-on-rails.png
 ---

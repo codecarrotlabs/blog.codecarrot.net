@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Ruby on Rails in Machine Learning - Yay or Nay?
-date: 2017-11-12 14:58:45
+date: 2017-11-12 14:58:45 +0530
 categories: code
 tags: ruby-on-rails ruby rails machine-learning
 description: Machine Learning can take your app to the next level. What technology should you use to Make the most of it?
@@ -60,7 +60,7 @@ What are the main benefits of such a combination?
 
 * It’s easy and convenient to connect our app with other microservices. The Rails framework provides many reliable ways of communication between different services. It does not break the integrity with the core services.
 * Rails is great for building MVPs. Developers can build a web application fast and pitch it to investors.
-* It is a stable solution with a really good documentation. Moreover, there are many famous companies which trusted this framework and built efficient software. 
+* It is a stable solution with a really good documentation. Moreover, there are many famous companies which trusted this framework and built efficient software.
 * Active community support also makes this choice smart.
 * With the help of gems, Rails packages, developers can quickly build more complex parts of an application.
 

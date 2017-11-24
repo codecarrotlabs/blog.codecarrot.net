@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: When is PWA a Better Approach for Me Than Native Apps
-date: 2017-11-01 14:10:00
+date: 2017-11-01 14:10:00 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: Progressive Web Apps offer many benefits in terms of user experience and business-wise. When is it worth investing in a new application based on PWA concept?

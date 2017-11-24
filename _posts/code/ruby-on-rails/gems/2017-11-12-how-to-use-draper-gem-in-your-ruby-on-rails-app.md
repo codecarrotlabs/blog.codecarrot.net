@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How To Use Draper Gem In Your Ruby on Rails App
-date: 2017-11-12 13:24:00
+date: 2017-11-12 13:24:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails draper gems
 description: Draper adds an object-oriented layer of presentation logic to your Rails application. Without Draper, this functionality might have been tangled up in procedural helpers or adding bulk to your models.
@@ -11,7 +11,7 @@ image: 9503a57339ac09104f7d44082834e709.jpg
 
 Draper adds an object-oriented layer of presentation logic to your Rails application.
 
-Without Draper, this functionality might have been tangled up in procedural helpers or adding bulk to your models. With Draper decorators, you can wrap your models with presentation-related logic to organise - and test - this layer of your app much more effectively. 
+Without Draper, this functionality might have been tangled up in procedural helpers or adding bulk to your models. With Draper decorators, you can wrap your models with presentation-related logic to organise - and test - this layer of your app much more effectively.
 
 ## What we will use
 
@@ -50,11 +50,11 @@ IMO the syntax is not clear enough but in some situation has a huge potential an
 
 ## Step 1
 
-Add `draper gem` to Gemfile 
+Add `draper gem` to Gemfile
 
 ## Step 2
 
-Add a decorator class to a given class 
+Add a decorator class to a given class
 
 ```rb
 class ArticleDecorator < Draper::Decorator

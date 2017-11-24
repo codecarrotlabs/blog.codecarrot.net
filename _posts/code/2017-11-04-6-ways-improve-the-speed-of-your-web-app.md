@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 6 Ways to Improve The Speed of Your Web App
-date: 2017-11-04 18:29:40
+date: 2017-11-04 18:29:40 +0530
 categories: code
 tags: coding web-app speed
 description: 6 ways to reach top page load speeds. Quick wins to speed up your web app on the frontend side. Easy checklist to improve the result!

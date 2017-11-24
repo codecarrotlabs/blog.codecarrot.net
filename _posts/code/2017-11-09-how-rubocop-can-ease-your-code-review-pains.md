@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How RuboCop can ease your code review pains
-date: 2017-11-09 23:19:40
+date: 2017-11-09 23:19:40 +0530
 categories: code
 tags: coding rubocop
 description: If you are a coder trying to adhere to the style of your colleagues’ code, or if you occasionally find yourself overlooking an obvious syntactic error, Rubocop —a static code analysis tool—is here to help.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: If You’re Building Any of these 4 Types of Apps, You Need Progressive Web Apps
-date: 2017-11-01 19:35:12
+date: 2017-11-01 19:35:12 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: Progressive Web Apps solve mobile users’ problems. Find out what types of apps can gain the most through PWA.

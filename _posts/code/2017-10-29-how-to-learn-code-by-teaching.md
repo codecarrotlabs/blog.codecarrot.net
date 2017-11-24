@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Learn to Code by Teaching
-date: 2017-10-29 01:17:00
+date: 2017-10-29 01:17:00 +0530
 categories: code
 tags: coding learing
 description: How can you learn to code by teaching or helping others learn? What would you conceivably add to your knowledge base and skill set by explaining something you already know how to do?

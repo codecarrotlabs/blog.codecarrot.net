@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 4 Secrets to Becoming a Developer
-date: 2017-11-04 17:29:40
+date: 2017-11-04 17:29:40 +0530
 categories: code
 tags: coding developer secrets
 description: Here are a few important things to keep at the front of your mind while you're learning to code and becoming a developer.

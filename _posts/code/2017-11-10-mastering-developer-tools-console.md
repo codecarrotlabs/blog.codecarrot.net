@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Mastering The Developer Tools Console
-date: 2017-11-10 00:19:00
+date: 2017-11-10 00:19:00 +0530
 categories: code
 tags: developer developer-tools dev-tools console coding
 description: Learn how to use the developer tools console to debug your front-end web applications.

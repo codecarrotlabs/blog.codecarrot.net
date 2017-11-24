@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Ruby on Rails for E-commerce
-date: 2017-10-05 12:18:00
+date: 2017-10-05 12:18:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails ecommerce coding
 description: Spree is the most popular e-commerce framework built on Ruby on Rails, supported by the community and constantly updated to better fit your needs.

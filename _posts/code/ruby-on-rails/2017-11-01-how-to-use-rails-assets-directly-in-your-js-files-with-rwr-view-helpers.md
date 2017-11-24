@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How To Use Rails Assets Directly In Your JS Files With RWR View Helpers
-date: 2017-11-01 03:18:00
+date: 2017-11-01 03:18:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails js
 description: During our work with React there has always been a problem with using image paths (rails adding digest hashes) in our React components - we had to pass it as a prop from views to redux containers and from there to our dumb components. That involves a lot of redundant steps, making it more likely that something will go wrong

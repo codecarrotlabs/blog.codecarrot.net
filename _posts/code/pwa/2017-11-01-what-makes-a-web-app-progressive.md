@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What Makes a Web App Progressive
-date: 2017-11-01 13:50:00
+date: 2017-11-01 13:50:00 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: Progressive Web Apps - a new trend in web development enthusiastically promoted by Google. Find out what they are about and how you can use them.

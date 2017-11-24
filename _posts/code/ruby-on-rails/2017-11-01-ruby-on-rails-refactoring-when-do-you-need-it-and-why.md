@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Ruby on Rails Refactoring - When Do You Need It and Why?
-date: 2017-11-01 03:58:45
+date: 2017-11-01 03:58:45 +0530
 categories: code
 tags: ruby-on-rails ruby rails
 description: Refactoring can lower development costs and save your project from failure, but it's also risky. Find out how to do it the right way for your Ruby on Rails app.

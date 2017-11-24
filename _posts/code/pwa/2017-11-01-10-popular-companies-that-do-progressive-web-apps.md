@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 10 Popular Companies that Do Progressive Web Apps
-date: 2017-11-01 19:10:00
+date: 2017-11-01 19:10:00 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: 30% Speed Gain, 88% Performance Improvement, 5x Lower Data Usage and More. These Companies Have Already
