@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Want to Write for Us? Here's What to Publish (and we pay!)
-date: 2017-09-04 12:00:00
+date: 2017-09-04 12:00:00 +0530
 categories: update
 tags: update blogging writing publish-article
 description: Got business/design/code/growth/project-management/tips advice to share? Here’s what we look for from contributors.

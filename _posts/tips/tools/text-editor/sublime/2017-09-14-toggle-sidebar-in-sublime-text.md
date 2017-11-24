@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Toggle Sidebar in Sublime Text
-date: 2017-09-14 22:30:00
+date: 2017-09-14 22:30:00 +0530
 categories: tips
 tags: tips sublime-text text-editor
 description: The shortcut for toggle sidebar in Sublime Text wasn't working for me. Searching about it in the internets, I discovered that you've to press command

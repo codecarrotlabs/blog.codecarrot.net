@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: The Four P’s to Problem Solving
-date: 2017-11-04 15:14:20
+date: 2017-11-04 15:14:20 +0530
 categories: project-management
 tags: project-management
 description: Being a great designer means you’re able to solve great problems. In more cases than one a client will present you with a problem and your job is to solve that problem using your tools.

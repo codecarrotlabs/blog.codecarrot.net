@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to force HTTPS using .htaccess file in cPanel
-date: 2017-10-25 02:52:00
+date: 2017-10-25 02:52:00 +0530
 categories: tips
 tags: tips https cpanel
 description: How to force HTTPS using .htaccess file in cPanel - Once a SSL certificate is installed and a site can be reached via https
@@ -44,7 +44,7 @@ Let’s take an overview of the most common situations in which a redirection fr
 To redirect all sites within a cPanel account, one of the following blocks should be added to .htaccess:
 
 ```
-a. RewriteEngine On 
+a. RewriteEngine On
 RewriteCond %{HTTPS} !=on
 RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
 ```
@@ -52,7 +52,7 @@ RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
 This block enables rewriting capabilities, verifies that the initial request does not already have https://, and rewrites the entire requested URL, replacing http:// with https:// (**e.g.**, http://domain.com/subfolder/index.php will be replaced with https://domain.com/subfolder/index.php).
 
 ```
-b. RewriteEngine On 
+b. RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
 ```

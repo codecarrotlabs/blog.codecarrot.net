@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Google Counts Site Speed As A Ranking Factor
-date: 2017-10-06 20:46:10
+date: 2017-10-06 20:46:10 +0530
 categories: tips
 tags: tips ranking-factor website-speed google website site seo
 description: Search Engine Land is the leading industry source for daily, must-read news and in-depth analysis about search engine technology.

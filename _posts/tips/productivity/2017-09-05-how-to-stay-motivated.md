@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Stay Motivated
-date: 2017-09-05 01:39:10
+date: 2017-09-05 01:39:10 +0530
 categories: tips
 tags: tips motivated productivity
 description: Staying motivated can be tough, especially on longer projects. The solution is different for everyone, but I've found a few techniques that work.

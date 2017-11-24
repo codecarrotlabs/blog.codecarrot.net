@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Free and low-cost online tools for freelancers
-date: 2017-09-05 15:28:10
+date: 2017-09-05 15:28:10 +0530
 categories: tips
 tags: tips freelancer tools
 description: Stay head and neck above the competition. Use these online tools for marketing consultants and make your freelance work quick and easy.

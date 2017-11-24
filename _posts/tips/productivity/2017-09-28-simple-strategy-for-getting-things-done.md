@@ -2,10 +2,10 @@
 layout: post
 author: yashumittal
 title: Simple Strategy to Getting Things Done
-date: 2017-09-28 16:40:00
+date: 2017-09-28 16:40:00 +0530
 categories: tips
 tags: tips working work-done strategy productivity
-description: Learn the simple strategy to getting work done is right way and achieve the goals in the easiest and simplest way possible. 
+description: Learn the simple strategy to getting work done is right way and achieve the goals in the easiest and simplest way possible.
 image: p1264m1066840f.jpg
 ---
 

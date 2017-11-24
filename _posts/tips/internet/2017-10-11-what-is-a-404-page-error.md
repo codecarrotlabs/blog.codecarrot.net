@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What is a 404 page error?
-date: 2017-10-11 20:00:00
+date: 2017-10-11 20:00:00 +0530
 categories: tips
 tags: tips error
 description: One of the most common errors you can come across while browsing the Internet is a 404 or Page Not Found error. This error often occurs when you follow a broken link or if you type in a website address that doesn’t exist.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Working with Files and Folders
-date: 2017-08-30 12:40:00
+date: 2017-08-30 12:40:00 +0530
 categories: tips
 tags: tips files folders working productivity
 description: Files and folders are a key concept in almost any career. Whether you want to create websites or iPhone apps it's important to understand files and folders.

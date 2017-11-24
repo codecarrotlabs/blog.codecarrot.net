@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Slaying the Dragon - Imposter Syndrome
-date: 2017-10-28 21:56:00
+date: 2017-10-28 21:56:00 +0530
 categories: tips
 tags: tips slaying imposter imposter-syndrome
 description: Technology is changing at a ridiculous pace, and while you might feel like you’re the only person falling behind, the truth is no one person is on top of it all. Instead, get to know Imposter Syndrome beyond the buzzword so you can conquer it.
@@ -19,7 +19,7 @@ Technology is changing at a ridiculous pace, and while you might feel like you�
 
 ## Own your Awesome
 
-Imposter Syndrome is a concept describing high-achieving individuals who are marked by an inability to internalize their accomplishments and a persistent fear of being exposed as a “fraud”. The main takeaway time and again is the fear of being exposed as a fraud. That feeling of being an imposter. But let’s shift our focus a bit. The real problem here is the inability to internalize accomplishments. For years whenever anyone complimented me on something at work, I would respond with, “I got lucky.” Meanwhile, I would simultaneously berate myself for any mistake no matter how trivial. Someone finally called me out on it and pointed out all the work I had put in that got me to the “lucky” moment (and much of that work included mistakes which became learning opportunities.) 
+Imposter Syndrome is a concept describing high-achieving individuals who are marked by an inability to internalize their accomplishments and a persistent fear of being exposed as a “fraud”. The main takeaway time and again is the fear of being exposed as a fraud. That feeling of being an imposter. But let’s shift our focus a bit. The real problem here is the inability to internalize accomplishments. For years whenever anyone complimented me on something at work, I would respond with, “I got lucky.” Meanwhile, I would simultaneously berate myself for any mistake no matter how trivial. Someone finally called me out on it and pointed out all the work I had put in that got me to the “lucky” moment (and much of that work included mistakes which became learning opportunities.)
 
 I’m not saying I easily celebrated my wins from that day forward. It continues to be a process for me. But, the key was actually becoming mindful of the problem. When those wins happen, pause and celebrate them! Recognize all the hard work you put in that got you to this moment. Software Development by nature pits you against many failures and few wins. It’s challenging work, which is likely what attracted you to the field at least in part. Embrace the process.
 
@@ -29,7 +29,7 @@ The real problem with Imposter Syndrome is the inability to internalize accompli
 
 ## Own your Mistakes
 
-New tools and technologies are released every day and nobody can keep up, yet we all feel like we should be able to. This is defeating only if you let it be. When I get stuck in a series of mistakes I grab a can of WD-40, but not for the reason you might be thinking. Do you know how it got its name? The chemist, Norm Larsen, called the formula “Water Displacement #40” in the lab as it was his 40th attempt to create the substance. We could easily think of this as 39 failures. But I challenge you instead to think of it as a 40 step process. Learning is a journey. View these missteps as an opportunity to learn and move forward. 
+New tools and technologies are released every day and nobody can keep up, yet we all feel like we should be able to. This is defeating only if you let it be. When I get stuck in a series of mistakes I grab a can of WD-40, but not for the reason you might be thinking. Do you know how it got its name? The chemist, Norm Larsen, called the formula “Water Displacement #40” in the lab as it was his 40th attempt to create the substance. We could easily think of this as 39 failures. But I challenge you instead to think of it as a 40 step process. Learning is a journey. View these missteps as an opportunity to learn and move forward.
 
 Don’t suffer in silence. You will constantly be using new skills, which means mistake will happen frequently. By acknowledging them and seeking input from others, you will not only improve but likely learn that others deal with these obstacles consistently as well. Knowing that your colleagues and counterparts also feel inadequate at times can help ease your distress.
 

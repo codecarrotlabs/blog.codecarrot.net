@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 5 Great Hidden Features in the Chrome DevTools
-date: 2017-08-31 00:00:10
+date: 2017-08-31 00:00:10 +0530
 categories: tips
 tags: tips dev devtools chrome extensions chrome-devtools
 description: The Chrome DevTools are a set of panels built into Google Chrome that help web developers inspect code. DevTools can debug HTML, CSS, JavaScript, and more.

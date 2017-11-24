@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Start Thinking Community!
-date: 2017-09-28 16:39:00
+date: 2017-09-28 16:39:00 +0530
 categories: growth
 tags: growth community thinking
 description: The idea guaranteed to fail in meetings with any client is a message board. Companies in general fear public dissent from real people. They say things like, So if we ship the wrong thing, or our customer has a bad...

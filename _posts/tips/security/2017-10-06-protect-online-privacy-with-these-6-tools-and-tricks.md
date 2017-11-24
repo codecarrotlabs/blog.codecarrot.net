@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Protect online privacy with these 6 tools and tricks
-date: 2017-10-06 20:00:00
+date: 2017-10-06 20:00:00 +0530
 categories: tips
 tags: tips security privacy tools tricks tips protect
 description: Web designers and developers have an extra level of responsibility to their clients to protect online privacy. Start using these 6 tools and tricks today!

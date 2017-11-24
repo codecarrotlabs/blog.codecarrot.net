@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 9 SEO Tips to Improve Website Performance and Drive More Traffic
-date: 2017-08-23 12:00:00
+date: 2017-08-23 12:00:00 +0530
 categories: tips
 tags: tips seo traffic search-engine-optimization
 description: SEO is really important for many projects. It can increase the number of people who view your application or even boost conversions allowing the user to buy products straight from the search engine.

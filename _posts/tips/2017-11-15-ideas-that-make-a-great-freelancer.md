@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Ideas That Make a Great Freelancer
-date: 2017-11-15 12:05:10
+date: 2017-11-15 12:05:10 +0530
 categories: tips
 tags: tips ideas freelancer jobs
 description: Want to know how to be a freelancer that makes enough money? Here are a few pointers that will help you make the most of a freelance job.

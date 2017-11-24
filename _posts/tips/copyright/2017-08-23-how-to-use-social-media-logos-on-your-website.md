@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Use Social Media Logos on Your Website
-date: 2017-08-23 12:00:00
+date: 2017-08-23 12:00:00 +0530
 categories: tips
 tags: tips website logos social-media copyright
 description: It's tough to find a site on the web today that doesn't include Facebook, Twitter, and other social media logos in its design. You probably want to include them on your own site, but where to find them.

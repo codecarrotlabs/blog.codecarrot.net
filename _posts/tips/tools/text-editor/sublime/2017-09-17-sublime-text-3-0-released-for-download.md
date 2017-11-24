@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Sublime text 3.0 Released for Download
-date: 2017-09-17 17:50:30
+date: 2017-09-17 17:50:30 +0530
 categories: tips
 tags: tips text-editor developing programing sublime sublime-text coding
 description: There is some good news for lovers of the popular code editor, Sublime Text, as it has released the new final version of Sublime

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 9 security tips to protect your website from hackers
-date: 2017-10-11 20:20:00
+date: 2017-10-11 20:20:00 +0530
 categories: tips
 tags: tips security privacy tools hackers tricks tips protect
 description: Pro advice for optimizing your website security and avoiding hacking disasters. You may not think your site has anything worth being hacked for, but websites are compromised all the time.

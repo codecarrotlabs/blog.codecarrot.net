@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Sublime Text 2 Tips and Shortcuts
-date: 2017-11-16 20:22:30
+date: 2017-11-16 20:22:30 +0530
 categories: tips
 tags: tips coding sublime-text sublime text-editor
 description: You must be thinking, why I am writing a article on Sublime Text 2, now when they have already launched Sublime Text 3.

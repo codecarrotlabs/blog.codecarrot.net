@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Who contributed the most to open source in 2017? Let’s analyze GitHub’s data and find out.
-date: 2017-10-27 00:52:00
+date: 2017-10-27 00:52:00 +0530
 categories: tips
 tags: tips github
 description: Let's take a peek sneek in github and check who has contributed the most to open source repository on github. Let’s analyze GitHub’s data and find out.
@@ -98,12 +98,12 @@ period AS (
   FROM `githubarchive.month.2017*` a
 ),
 repo_stars AS (
-  SELECT repo.id, COUNT(DISTINCT actor.login) stars, APPROX_TOP_COUNT(repo.name, 1)[OFFSET(0)].value repo_name 
+  SELECT repo.id, COUNT(DISTINCT actor.login) stars, APPROX_TOP_COUNT(repo.name, 1)[OFFSET(0)].value repo_name
   FROM period
   WHERE type='WatchEvent'
   GROUP BY 1
   HAVING stars>20
-), 
+),
 pushers_guess_emails_and_top_projects AS (
   SELECT *
     # , REGEXP_EXTRACT(email, r'@(.*)') domain
@@ -129,9 +129,9 @@ SELECT * FROM (
     , ARRAY(
         SELECT AS STRUCT JSON_EXTRACT_SCALAR(repo, '$.repo_name') repo_name
         , CAST(JSON_EXTRACT_SCALAR(repo, '$.stars') AS INT64) stars
-        , COUNT(*) githubers_from_domain FROM UNNEST(repos) repo 
-        GROUP BY 1, 2 
-        HAVING githubers_from_domain>1 
+        , COUNT(*) githubers_from_domain FROM UNNEST(repos) repo
+        GROUP BY 1, 2
+        HAVING githubers_from_domain>1
         ORDER BY stars DESC LIMIT 3
       ) top
     , (SELECT SUM(CAST(JSON_EXTRACT_SCALAR(repo, '$.stars') AS INT64)) FROM (SELECT DISTINCT repo FROM UNNEST(repos) repo)) sum_stars_projects_contributed_to

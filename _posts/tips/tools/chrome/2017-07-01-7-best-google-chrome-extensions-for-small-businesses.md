@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 7 Best Google Chrome Extensions for Small Businesses
-date: 2017-07-01 12:00:00
+date: 2017-07-01 12:00:00 +0530
 categories: tips
 tags: tips smallbiz google chrome google-chrome chrome-extensions
 description: Here are some handy chrome extensions for small businesses online. It makes life so much easier for anyone on the internet. Browser extensions and plugins or tools that help with managing tasks online.

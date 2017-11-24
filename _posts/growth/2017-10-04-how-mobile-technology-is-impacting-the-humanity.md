@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How Mobile Technology is Impacting The Humanity?
-date: 2017-10-04 01:12:00
+date: 2017-10-04 01:12:00 +0530
 categories: growth
 tags: growth mobile technology android ios
 description: We as a new age entrepreneur are blessed to be a part of this 21st century revolution which has been mostly ruled by Mobile device and mobile apps.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 10 Tips for Going Freelance for the First Time
-date: 2017-09-02 14:39:00
+date: 2017-09-02 14:39:00 +0530
 categories: growth
 tags: freelancer work-remotely working-from-home
 description: Want to work remotely as a freelancer. These 10 tips will help you to boost up your confident for going freelancer for the first time.

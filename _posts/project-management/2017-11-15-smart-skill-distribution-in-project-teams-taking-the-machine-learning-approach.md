@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Smart Skill Distribution in Project Teams – Taking the Machine Learning Approach
-date: 2017-11-15 15:28:10
+date: 2017-11-15 15:28:10 +0530
 categories: project-management
 tags: project-management coding project machine-learning skills tools
 description: Take advantage of internal data, see that Machine Learning is not so hard, and learn about k-means clustering in this hands-on guide.

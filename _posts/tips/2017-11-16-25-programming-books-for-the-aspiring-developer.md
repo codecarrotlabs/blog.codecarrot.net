@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 25 Programming Books for the Aspiring Developer
-date: 2017-11-16 05:35:00
+date: 2017-11-16 05:35:00 +0530
 categories: tips
 tags: tips developers books programming learning
 description: But with so many programming books to choose from how do you know which ones to choose?

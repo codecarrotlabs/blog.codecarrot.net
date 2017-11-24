@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: DevTools Tips For Sublime Text Users
-date: 2017-10-18 01:29:00
+date: 2017-10-18 01:29:00 +0530
 categories: tips
 tags: devtools sublime sublime-text chrome google google-chrome tips
 description: Your existing knowledge of features in Sublime Text and apply them to another powerful tool in your arsenal — the Chrome DevTools.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Outsource Effectively and Earn Back Your Time
-date: 2017-11-09 20:31:45
+date: 2017-11-09 20:31:45 +0530
 categories: tips
 tags: tips productivity
 description: Learning how to delegate and outsource is the key to creating a good work/life balance and becoming an effective entrepreneur.
@@ -50,7 +50,7 @@ When contracting out a role or task you’ll need to consider:
 Here are some tips for effective delegation:
 
 * **Define a clear outcome:** Describe the result you want (and don’t want). If it’s a measurable result, then agree upon a way to quantify it. Make sure your requirements are clear and, if relevant, that your instructions account for obstacles ("If this happens, then do this instead...").
-* **Over-communicate:** Explain *why* you want it done and what your venture is about. There’s no such thing as too much context or information around a task, so make sure you're both on the same page. 
+* **Over-communicate:** Explain *why* you want it done and what your venture is about. There’s no such thing as too much context or information around a task, so make sure you're both on the same page.
 * **Set deadlines:** If there’s a clear deliverable at the end (e.g. a logo design) make sure both you and the contractor are clear about when it’s expected. If you specify a date but no time, the assumption is that it’s due at the end of that day (midnight). For creative tasks, be sure you leave enough time to account for revisions.
 * **Be wary of time zone differences:** When you’re working with remote help, it’s important to be aware of differences in working hours when establishing deadlines or meetings.
 * **Establish a line of communication:** Make it easy for both you and the contractor to get in touch with one another if the need arises. Email is usually fine for communicating, but consider using Skype or Google Hangouts since they let you send instant messages, make calls and share what’s on your screen. For more complex, long-term remote teams, employ a tool like Trello or Slack to better facilitate the flow of necessary information.

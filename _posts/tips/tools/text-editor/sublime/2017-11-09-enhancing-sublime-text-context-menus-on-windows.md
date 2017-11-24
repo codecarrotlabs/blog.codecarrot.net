@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Enhancing Sublime Text Context Menus on Windows
-date: 2017-11-09 20:22:30
+date: 2017-11-09 20:22:30 +0530
 categories: tips
 tags: tips coding sublime-text sublime windows text-editor
 description: Sublime Text, by default, will give you the option to add Open with Sublime Text to the context menu when right-clicking any file. This is great and I use it a lot, make sure you've selected it during the install before starting this.

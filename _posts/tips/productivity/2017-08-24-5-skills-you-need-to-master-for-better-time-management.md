@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 5 Skills You Need to Master for Better Time Management
-date: 2017-08-24 12:00:00
+date: 2017-08-24 12:00:00 +0530
 categories: tips
 tips: tips skills management planning staying-focused productivity
 description: Strategies for better time management - S.M.A.R.T. method, Pomodoro timer, Prioritizing matrix and tips for better tasks planning and staying focused.
