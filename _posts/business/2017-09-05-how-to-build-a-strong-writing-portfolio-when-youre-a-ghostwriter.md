@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Build a Strong Writing Portfolio When You’re a Ghostwriter
-date: 2017-09-05 01:35:00
+date: 2017-09-05 01:35:00 +0530
 categories: business
 tags: portfolio writer clients
 description: Even if you’re a ghostwriter, you still need a strong writing portfolio to show your skill and work to your next client.

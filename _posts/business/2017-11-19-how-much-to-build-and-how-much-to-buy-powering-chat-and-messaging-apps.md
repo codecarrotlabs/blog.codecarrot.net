@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How much to build and how much to buy - powering chat and messaging apps
-date: 2017-11-19 13:21:00
+date: 2017-11-19 13:21:00 +0530
 categories: business
 tags: business chat messaging apps
 description: When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and chatbots — choosing the right platforms, frameworks, and protocols can make or break your business.

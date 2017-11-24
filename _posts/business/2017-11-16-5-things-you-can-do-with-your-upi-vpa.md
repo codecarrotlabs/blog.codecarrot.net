@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 5 Things You Can Do With Your UPI VPA
-date: 2017-11-16 02:00:00
+date: 2017-11-16 02:00:00 +0530
 categories: business
 tags: business upi india vpa money
 description: Have you tried using UPI for your small business? Here are five crucial things you need to know about using your UPI VPA.

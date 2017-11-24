@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Your Step-by-Step Guide to A/B Testing with Google Analytics
-date: 2017-11-19 13:21:00
+date: 2017-11-19 13:21:00 +0530
 categories: business
 tags: business ab ab-testing google google-analytics
 description: Learn A/B testing with Google Analytics. 5 easy steps to learn the whole process with a case study of Kapitall that increased its conversion by 44%.

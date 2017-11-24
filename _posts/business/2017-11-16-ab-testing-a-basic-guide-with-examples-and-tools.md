@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: A/B Testing - A Basic Guide with Examples and Tools
-date: 2017-11-16 05:25:49
+date: 2017-11-16 05:25:49 +0530
 categories: business
 tags: business ab-testing tools
 description: What is A/B testing? Should you be doing it? Here is everything you need to know about A/B testing, A/B testing examples and tools you can perform with.

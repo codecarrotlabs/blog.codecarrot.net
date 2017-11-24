@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Should You Use Chatbots for Your Small Business?
-date: 2017-11-15 11:00:00
+date: 2017-11-15 11:00:00 +0530
 categories: business
 tags: business smallbiz chatbots
 description: Wondering if you should use a chatbot for your small business? Here are a few reasons why you should use chatbots for business and a list of suggestions.
