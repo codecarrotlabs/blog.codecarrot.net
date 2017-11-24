@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Relax your CSS with Normalize.css
-date: 2017-06-04 12:00:00
+date: 2017-06-04 12:00:00 +0530
 categories: code
 tags: css normalize css3
 description: Normalize.css - Make browsers render all elements more consistently. A small CSS file that provides better cross-browser consistency in the default styling of HTML elements

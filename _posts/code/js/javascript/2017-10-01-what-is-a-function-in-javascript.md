@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What is functions in Javascript?
-date: 2017-10-01 17:40:00
+date: 2017-10-01 17:40:00 +0530
 categories: code
 tags: coding javascript js functions
 description: Learn all about Functions in JavaScript — invocation, return, parameters, declarations, and expressions.

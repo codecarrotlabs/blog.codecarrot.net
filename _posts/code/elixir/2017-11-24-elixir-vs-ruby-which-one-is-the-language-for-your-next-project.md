@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Elixir vs Ruby - Which One is the Language for Your Next Project?
-date: 2017-11-24 13:59:50
+date: 2017-11-24 13:59:50 +0530
 categories: code
 tags: coding elixir ruby web-development
 description: RoR is a trusted technology. Elixir is the new, hot solution. RoR is great for fast prototyping, and Elixir for hardware efficiency. Which is better for you?

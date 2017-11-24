@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Mr.Bucket for developers and designers to showcase their templates
-date: 2017-09-04 18:59:00
+date: 2017-09-04 18:59:00 +0530
 categories: code
 tags: open-source designer developers templates mr-bucket
 description: Mr.Bucket for developers and designer is the newest incarnation of a web app offering a tailored, uncluttered experience for showcasing their templates - check it out.

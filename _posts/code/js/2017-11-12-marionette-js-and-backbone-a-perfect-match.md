@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Marionette.js and backbone, a perfect match?
-date: 2017-11-12 14:30:00
+date: 2017-11-12 14:30:00 +0530
 categories: code
 tags: coding backbone marionette js javascript
 description: Despite its popularity, backbone.js has many drawbacks. With a steep learning curve, shortage of opinionated patterns, lots of boilerplate code, and poor memory management/cleanup strategies, backbone usage can be discouraging. In this article, I will focus on how to refactor a backbone application using marionette.js —a framework that can mitigate many of backbone’s shortcomings.
@@ -46,7 +46,7 @@ class PostView extends Backbone.View
     @
   ratingChanged: ->
     console.log(“rating is now #{@model.get(‘rating’)}”)
-    
+
 # marionette
 class PostView extends Marionette.ItemView
   className: 'post'
@@ -103,7 +103,7 @@ class PostsView extends Backbone.View
     @
   startFetch: ->
     # this function executes when request to server is initiated
-  
+
 # marionette
 class PostsView extends Marionette.CollectionView
   itemView: PostView
@@ -252,7 +252,7 @@ Application.reqres.setHandler "post:get", (id) ->
   post = new Post(id: id)
   post.fetch()
   post
-  
+
 # request a response
 
 Application.request("post:get", 10)
@@ -281,7 +281,7 @@ Marionette provides a global messaging bus (called a vent) where components can 
 
 @listenTo Application.vent, "someevent", (argument)->
   # do something with argument
-  
+
 # defined in component 2
 
 @listenTo Application.vent, "someevent", (argument)->

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Hosting a Ruby on Rails App - DevOps Solutions Comparison - AWS, Google Cloud Platform, Microsoft Azure, Heroku and Digital Ocean
-date: 2017-11-01 15:21:00
+date: 2017-11-01 15:21:00 +0530
 categories: code
 tags: coding aws google-cloud microsoft-azure heroku digital-ocean devops
 description: Choosing between dozens of excellent hosting providers for Ruby on Rails app might not be easy. With our comparison, it won’t seem so hard anymore.

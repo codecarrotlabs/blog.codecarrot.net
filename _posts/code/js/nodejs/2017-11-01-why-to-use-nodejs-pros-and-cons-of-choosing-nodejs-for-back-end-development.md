@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Why to Use Node.js - Pros and Cons of Choosing Node.js for Back-end Development
-date: 2017-11-01 16:52:00
+date: 2017-11-01 16:52:00 +0530
 categories: code
 tags: coding nodejs
 description: Pros and cons of Node.js, a runtime environment for writing server-side apps in Javascript. Learn what are the advantages and disadvantages of using Node.js.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Comparison between Vue, React and Angular
-date: 2017-10-01 17:10:00
+date: 2017-10-01 17:10:00 +0530
 categories: code
 tags: coding vue vuejs angular angularjs react framework application web web-interfaces
 description: Angular is a popular, fully-fledged JavaScript framework used to build modern web applications. React and VueJS are up-and-coming JavaScript libraries

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Is Node.js Good for E-commerce? - All You Should Know about Building Online Store with Node.js
-date: 2017-11-01 18:52:00
+date: 2017-11-01 18:52:00 +0530
 categories: code
 tags: coding nodejs
 description: Choosing stack is an individual case and depends on many factors. Will Node.js meet your requirements and needs?

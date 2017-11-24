@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Why jQuery is the Most Popular JavaScript Library
-date: 2017-08-30 12:50:00
+date: 2017-08-30 12:50:00 +0530
 categories: code
 tags: jquery javascript
 description: John Resig released jQuery on August 26th, 2006 and changed the front-end development landscape forever.

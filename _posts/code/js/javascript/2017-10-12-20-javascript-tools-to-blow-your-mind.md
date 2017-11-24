@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 20 JavaScript tools to blow your mind
-date: 2017-10-12 00:00:10
+date: 2017-10-12 00:00:10 +0530
 categories: code
 tags: coding javascript tools
 description: JavaScript started its life as a browser-based language used for adding interactivity to web pages, but it has evolved tremendously over the past few years.

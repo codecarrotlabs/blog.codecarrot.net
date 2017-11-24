@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 14 Handy jQuery Code Snippets for Developers
-date: 2017-09-14 22:50:00
+date: 2017-09-14 22:50:00 +0530
 categories: code
 tags: jquery javascript
 description: The jQuery dev team has been releasing code updates frequently since the project began. Here some of my go-to jQuery code snippets for developers.

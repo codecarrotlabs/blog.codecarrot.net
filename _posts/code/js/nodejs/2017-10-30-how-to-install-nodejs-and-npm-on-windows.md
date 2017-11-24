@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Install Node.js® and NPM on Windows
-date: 2017-10-30 23:52:00
+date: 2017-10-30 23:52:00 +0530
 categories: code
 tags: coding npm nodejs windows
 description: JavaScript is quickly becoming the go-to language for web developers. Front-end web developers use JavaScript to add user interface enhancements, add interactivity, and talk to back-end web services using AJAX. Web developers who work on the server-side are also flocking

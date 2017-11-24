@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Applying Normalize.css to Relax Your CSS File
-date: 2017-10-08 03:50:00
+date: 2017-10-08 03:50:00 +0530
 categories: code
 tags: css normalize.css css3 vlog
 description: Normalize.css, a new CSS tool we can use as an alternative to traditional CSS reset methods.

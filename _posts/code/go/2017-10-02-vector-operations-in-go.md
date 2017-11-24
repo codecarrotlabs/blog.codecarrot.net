@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Vector Operations in Go
-date: 2017-10-02 05:02:00
+date: 2017-10-02 05:02:00 +0530
 categories: code
 tags: go coding images vector vector-images
 description: Vectors are the core mathematical tool hiding inside the ray tracing algorithm. They allow us to describe relations in 3 dimensional space. In this blog post I will describe all of the needed vector operations that will be used in GoRay.

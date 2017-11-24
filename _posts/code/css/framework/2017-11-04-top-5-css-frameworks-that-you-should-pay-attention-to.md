@@ -2,9 +2,9 @@
 layout: post
 author: yashumittal
 title: Top 5 CSS Frameworks That You Should Pay Attention TO
-date: 2017-11-04 19:54:00
+date: 2017-11-04 19:54:00 +0530
 categories: code
-tags: css frameworks 
+tags: css frameworks
 description: A web developer and UI guru takes a look at five of his favorite CSS frameworks, and gives the corresponding HTML, CSS, and JavaScript to create awesome UIs.
 image: Foundation-and-Bootstrap-modified.png
 ---

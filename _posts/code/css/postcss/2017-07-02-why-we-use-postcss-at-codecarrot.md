@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Why We Use PostCSS at CodeCarrot
-date: 2017-07-02 12:00:00
+date: 2017-07-02 12:00:00 +0530
 categories: code
 tags: css postcss css3
 description: PostCSS provides a set of extremely useful features that would make every CSS codebase more maintainable and it can work alongside SASS or replace it.

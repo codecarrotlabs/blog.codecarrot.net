@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Creating Images in Go
-date: 2017-10-03 02:02:00
+date: 2017-10-03 02:02:00 +0530
 categories: code
 tags: go coding images
 description: Go has a built-in image package, that allows to easily create images, and save them as files on the disk.

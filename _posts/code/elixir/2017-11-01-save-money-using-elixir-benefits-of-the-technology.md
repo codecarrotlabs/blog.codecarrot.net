@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Save Money Using Elixir - The Benefits of The Technology
-date: 2017-11-01 02:25:00
+date: 2017-11-01 02:25:00 +0530
 categories: code
 tags: coding elixir
 description: Elixir, a new trending backend technology, promises to significantly cut costs by providing exceptional performance. How does it look in reality?

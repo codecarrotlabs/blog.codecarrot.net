@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 9 Great Apps Written with React Native
-date: 2017-11-20 20:37:00
+date: 2017-11-20 20:37:00 +0530
 categories: code
 tags: coding react facebook framework react-native mobile
 description: React Native has been used in production in Instagram, Airbnb, Skype and, of course, Facebook. Check out more apps written in React Native.

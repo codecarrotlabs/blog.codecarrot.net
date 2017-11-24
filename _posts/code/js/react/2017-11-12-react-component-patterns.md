@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: React Component Patterns
-date: 2017-11-12 13:55:00
+date: 2017-11-12 13:55:00 +0530
 categories: code
 tags: coding react facebook framework react-native
 description: Stateful x Stateless, Container x Presentational, HOCs, Render Callbacks and more. It’s been a while since I’ve been working with React — a Facebook library to build user interfaces using JavaScript.

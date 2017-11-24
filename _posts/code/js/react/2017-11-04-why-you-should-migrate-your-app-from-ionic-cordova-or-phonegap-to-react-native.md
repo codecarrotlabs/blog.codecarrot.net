@@ -2,9 +2,9 @@
 layout: post
 author: yashumittal
 title: Why You Should Migrate Your App From Ionic, Cordova, or PhoneGap to React Native
-date: 2017-11-04 18:43:00
+date: 2017-11-04 18:43:00 +0530
 categories: code
-tags: coding react ionic cordova phonegap react-native 
+tags: coding react ionic cordova phonegap react-native
 description: A few years back, hybrid apps built with Ionic, Cordova or PhoneGap were a perfect and cost-effective alternative to native development. However, with the technology moving
 image: shripal-daphtary-278736.jpg
 ---

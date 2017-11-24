@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)
-date: 2017-11-10 15:51:00
+date: 2017-11-10 15:51:00 +0530
 categories: code
 tags: coding puppeteer js node-js chrome javascript web
 description: Learn to Automate and Scrape the web with Headless Chrome. Puppeteer is a Node library API that allows us to control headless Chrome.
@@ -180,7 +180,7 @@ const puppeteer = require('puppeteer');
 
 let scrape = async () => {
   // Actual Scraping goes Here...
-  
+
   // Return a value
 };
 
@@ -205,7 +205,7 @@ Now run node `scrape.js` in the console. You should get `test` returned! Perfect
 
 ### Step 1: Setup
 
-First thing we need to do is create an instance of our browser, open up a new page, and navigate to a URL. 
+First thing we need to do is create an instance of our browser, open up a new page, and navigate to a URL.
 
 Here’s how we do that:
 
@@ -416,7 +416,7 @@ The main difference between this challenge and the previous example is the need 
 ```js
 const result = await page.evaluate(() => {
   let data = []; // Create an empty array
-  let elements = document.querySelectorAll('xxx'); // Select all 
+  let elements = document.querySelectorAll('xxx'); // Select all
   // Loop through each proudct
     // Select the title
     // Select the price
@@ -425,7 +425,7 @@ const result = await page.evaluate(() => {
 });
 ```
 
-If you couldn’t figure it out, that’s OK! This was a tricky one… Here’s one possible solution. In a future article, I’ll dive more into this code and how it works. We’ll also look at more advanced scraping techniques. 
+If you couldn’t figure it out, that’s OK! This was a tricky one… Here’s one possible solution. In a future article, I’ll dive more into this code and how it works. We’ll also look at more advanced scraping techniques.
 
 **Solution**
 

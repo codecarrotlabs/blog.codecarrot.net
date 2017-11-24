@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Sass control directives - @if, @for, @each and @while
-date: 2017-10-24 02:10:00
+date: 2017-10-24 02:10:00 +0530
 categories: code
 tags: css coding sass
 description: Sass control directives are the cornerstone of creating libraries for reuse and distribution, and need to be among the very first items on your list of things to learn when taking your Sass skills to the next level.

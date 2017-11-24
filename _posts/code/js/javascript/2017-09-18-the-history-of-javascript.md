@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: The History of JavaScript
-date: 2017-09-18 00:10:00
+date: 2017-09-18 00:10:00 +0530
 categories: code
 tags: javascript history develop developers js
 description: JavaScript is also know as the language of the Web Nearly all web browsers can run JavaScript, making it one of the most popular programming languages in the world.

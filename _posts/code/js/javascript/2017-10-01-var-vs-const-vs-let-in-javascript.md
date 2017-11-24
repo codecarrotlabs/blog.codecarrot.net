@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Var vs Const vs Let in Javascript
-date: 2017-10-01 19:40:00
+date: 2017-10-01 19:40:00 +0530
 categories: code
 tags: coding javascript js var const let
 description: Variables creation depend on how you declare them, and ES6 offers options to make controlling scope easier.

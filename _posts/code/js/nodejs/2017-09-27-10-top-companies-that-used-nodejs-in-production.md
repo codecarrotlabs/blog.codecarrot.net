@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 10 Top Companies that Used Node.js in Production (examples)
-date: 2017-09-27 01:10:00
+date: 2017-09-27 01:10:00 +0530
 categories: code
 tags: nodejs companies server javascript coding
 description: Node.js - a runtime environment that allows writing server-side apps in Javascript. Companies like Netflix, LinkedIn and NASA use Node.js in production. See examples.

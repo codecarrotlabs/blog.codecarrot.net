@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How Your Android Code Compiles To Deliver .APK Package File?
-date: 2017-10-01 04:02:00
+date: 2017-10-01 04:02:00 +0530
 categories: code
 tags: android coding mobile-app-development SDK package APK code-compiling
 description: Programmer plays a vital role in setting up computers with necessary tools, together decode the entire process of writing a code and getting the finished APK.

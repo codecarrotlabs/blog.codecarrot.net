@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What is git?
-date: 2017-10-03 23:55:00
+date: 2017-10-03 23:55:00 +0530
 categories: code
 tags: coding github git
 description: Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features

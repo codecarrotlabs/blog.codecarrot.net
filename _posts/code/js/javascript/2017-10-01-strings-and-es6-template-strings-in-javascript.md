@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title:  Strings and ES6 Template Strings in JavaScript
-date: 2017-10-01 13:10:00
+date: 2017-10-01 13:10:00 +0530
 categories: code
 tags: coding javascript js strings template
 description: JavaScript was built at a time when Unicode was a 16-bit character set, so all characters in JavaScript are 16 bits wide.

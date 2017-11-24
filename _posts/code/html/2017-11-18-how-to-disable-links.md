@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: How to Disable Links
-date: 2017-11-18 17:55:00
+date: 2017-11-18 17:55:00 +0530
 categories: code
 tags: coding links html links a
 description: The topic of disabling links popped up at my work the other day. Somehow, a disabled anchor style was added to our typography styles last year when I was"

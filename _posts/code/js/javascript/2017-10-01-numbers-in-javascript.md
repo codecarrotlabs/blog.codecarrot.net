@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title:  Numbers in JavaScript
-date: 2017-10-01 16:39:00
+date: 2017-10-01 16:39:00 +0530
 categories: code
 tags: coding javascript js numbers
 description: Computer’s and data, these two words have an awesome relationship with each other. Inside the computer’s world, there is only data.

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Why You Should Commit to Learning with Open Source
-date: 2017-10-29 02:29:40
+date: 2017-10-29 02:29:40 +0530
 categories: code
 tags: coding learing open-source
 description: Chances are you’ve probably encountered the term “Open Source” before. Open Source Software, or OSS, is a kind of software that whose code is made available for everyone to read. Depending on the license, you can most likely reuse it

@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Writing Your Own jQuery Plugins
-date: 2017-09-05 02:06:50
+date: 2017-09-05 02:06:50 +0530
 categories: code
 tags: jquery plugin
 description: Learn how to write your own jQuery plugins, complete with options and callbacks in this step-by-step tutorial.

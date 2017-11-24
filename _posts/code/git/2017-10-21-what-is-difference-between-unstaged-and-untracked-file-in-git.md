@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: What is Difference Between Unstaged and Untracked File in Git?
-date: 2017-10-21 02:04:30
+date: 2017-10-21 02:04:30 +0530
 categories: code
 tags: coding github git
 description: Whenever you initialize a new repository with git init, Git creates a directory called Git Directory, which store information about branch, tag, remote, etc. Git's object data. Generally it is .git in the current repository.
@@ -35,7 +35,7 @@ In simple terms, it stores all the information about what will go with the next 
 
 So, to commit something, all of the commit's changes pass these areas one by one.
 
-working directory is where you do the modifications in your files, then you stage the changes using `git add.` 
+working directory is where you do the modifications in your files, then you stage the changes using `git add.`
 
 Now your changes are in staging area. You can now commit these changes using `git commit` or you can choose to modify even more.
 

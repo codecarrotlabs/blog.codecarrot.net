@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 4 Kinds of Applications to Build with React Native
-date: 2017-11-20 19:55:00
+date: 2017-11-20 19:55:00 +0530
 categories: code
 tags: coding react facebook framework react-native application
 description: React Native Has Many Advantages over Native Development, but It’s Not the Best Fit for All Kinds of Apps
