@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: CodeCarrot has moved to Https
-date: 2017-11-29 18:45:55
+date: 2017-11-29 18:45:55 +0530
 categories: update
 tags: update https
 description: Discover why and how the CodeCarrot and Blogs has moved to HTTPS, the secure version of the web protocol that helps to protect user privacy.
