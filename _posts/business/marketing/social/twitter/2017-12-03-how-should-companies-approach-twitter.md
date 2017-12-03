@@ -22,3 +22,7 @@ If, as a company founder, CEO or manger, you have employed a marketing person to
 If you don’t think that the public at large is particularly interested in you (as the founder) then you might go for a ‘company’ Twitter account where you announce news and offer support to your followers but don’t talk about personal stuff since the account is meant to be the voice of the company.
 
 Or of course you could do a mixture of the two where you have an official company twitter account which includes news, offers and support and a bit of personal input from the team. But the founder also has a personal account which gives an insight into his or her personal world while being also peppered with company updates.
+
+You can follow [CodeCarrot on twitter](//www.twitter.com/codecarrotnet).
+
+[![CodeCarrot Twitter Page](//blog.codecarrot.net/images/codecarrot-twitter.png)](//www.twitter.com/codecarrotnet).
