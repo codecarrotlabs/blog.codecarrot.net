@@ -5,11 +5,11 @@ title: How Should Companies Approach Twitter?
 date: 2017-12-03 21:54:00 +0530
 categories: business
 tags: twitter marketing companies social-media
-description: While I was planning to write a new blog post for [CodeCarrot](//www.codecarrot,net). My friend asked me Should a company tweet as itself on Twitter (ie @codecarrotnet) or should the Twitter account be written from a more personal perspective (ie @mittalyashu77)?
+description: While I was planning to write a new blog post for CodeCarrot. My friend asked me Should a company tweet as itself on Twitter (ie @codecarrotnet) or should the Twitter account be written from a more personal perspective (ie @mittalyashu77)?
 image: Disneyland-Resort-on-Twitter.png
 ---
 
-While I was planning to write a new blog post for [CodeCarrot](//www.codecarrot,net). My friend asked me "Should a company tweet as itself on Twitter *(ie [@codecarrotnet](//www.twitter.com/codecarrotnet))* or should the Twitter account be written from a more personal perspective *(ie [@mittalyashu77](//www.twitter.com/mittalyashu77))*?"
+While I was planning to write a new blog post for [CodeCarrot](//www.codecarrot.net). My friend asked me "Should a company tweet as itself on Twitter *(ie [@codecarrotnet](//www.twitter.com/codecarrotnet))* or should the Twitter account be written from a more personal perspective *(ie [@mittalyashu77](//www.twitter.com/mittalyashu77))*?"
 
 If the Twitter account is written from the company perspective then followers might expect certain things; updates on **what the company is doing** and customer support, for example. Followers may not expect to hear that [@codecarrotnet](//www.twitter.com/codecarrotnet) is having coffee with its buddies in Starbucks – that might throw some people and feel a bit weird.
 
