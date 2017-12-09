@@ -60,7 +60,7 @@ The answer is simple, either:
 
 Teams performing Scoping Sessions typically develop the product, so it’s a very important time for everyone to agree about as many details of the project as possible.
 
-If you wish to see all the website we have served, follow [this link](//codecarrot.net/clients.html).
+If you wish to see all the website we have served, follow [this link](//www.codecarrot.net/clients.html).
 
 Now we are ready to start developing your product! We are here to help, assist and support you from day one!
 
