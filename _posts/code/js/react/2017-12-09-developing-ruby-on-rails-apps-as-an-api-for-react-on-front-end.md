@@ -4,7 +4,7 @@ author: yashumittal
 title: Developing Ruby on Rails Apps as an API for React on Front-end
 date: 2017-12-09 17:01:00 +0530
 categories: code
-tags: coding react facebook framework react-native mobile rubyonrails ruby rails
+tags: coding react facebook framework react-native rubyonrails ruby rails
 description: Users expect apps to be engaging, responsive and fast. Ruby on Rails and React setup is the stack you should go for if you want to meet their expectations.
 image: pexels-photo-209726.jpeg
 ---
