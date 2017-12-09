@@ -10,7 +10,8 @@ image: 1425999552-1412068618.jpg
 ---
 
 The very real danger with commenting code is that it becomes outdated while the codebase rapidly evolves. And out of date comments are far worse than no comments. So what's the alternative?
-At Netguru we aim for fast iterations as part of that goal we've come to the opinion that comments in code are not worthwhile. That's not to say we never comment code, but it's a guideline to write code that is easy to read.
+
+At CodeCarrot we aim for fast iterations as part of that goal we've come to the opinion that comments in code are not worthwhile. That's not to say we never comment code, but it's a guideline to write code that is easy to read.
 
 The very real danger with commenting code is that it becomes outdated while the codebase rapidly evolves. And out of date comments are far worse than no comments. So what's the alternative?
 
