@@ -15,7 +15,7 @@ There’s no guaranteed formula for building a flawless landing page, but it’s
 
 **Seven Must-Have Components of a Flawless Landing Page:**
 
-1. **Compelling imagery:** The world runs on visuals! Choose [high-quality, attention-grabbing images](//unsplash.com) or videos that are relevant to your cause. Bonus points if they spark an emotion!
+1. **Compelling imagery:** The world runs on visuals! Choose [high-quality, attention-grabbing images](//www.unsplash.com/@yashumittal) or videos that are relevant to your cause. Bonus points if they spark an emotion!
 
 2. **Attractive Design:** Keep your design clean and simple, yet impactful. Color matters. Pick a scheme that sets the mood, and pair that with a seamless layout. Consider whitespace and legibility — give your content room to breathe.
 
