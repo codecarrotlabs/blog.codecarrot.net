@@ -49,7 +49,7 @@ To sum up:
 *  You will be provided with an extensive report showing how to forge your idea into a live product.
 *  This is the first step you need to take, to kick start with the development.
 *  The technical aspects of the application will not be defined in detail, but sufficient enough to interest new investors and get funding necessary  to start development.
-*  [See this](//codecarrot.net/services/product-design) for more info about Product Design.
+*  [See this](//www.codecarrot.net/services/product-design.html) for more info about Product Design.
 
 After the app is initially defined so **what do I do next**?
 
