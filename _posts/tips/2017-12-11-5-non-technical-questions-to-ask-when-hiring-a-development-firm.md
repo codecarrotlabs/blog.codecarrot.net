@@ -4,7 +4,7 @@ author: yashumittal
 title: 5 Non-Technical Questions To Ask When Hiring A Development Firm
 date: 2017-12-11 02:51:00 +0530
 categories: tips
-tags: tips work life job
+tags: tips technical development hiring job firm
 description: Hiring a software development firm is often one of the largest decisions a new web or mobile product company will make.
 image: 1_plEaN007eQK8SMdNzYNGQg.png
 ---
