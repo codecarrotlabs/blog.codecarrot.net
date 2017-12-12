@@ -5,7 +5,7 @@ title: Ready to Become a Full-Time Entrepreneur? Here's How to Quit Your Job
 date: 2017-12-13 05:10:00 +0530
 categories: business
 tags: business entrepreneurs job
-description:
+description: In most cases, resigning is an exciting but scary experience. On one hand, you’re likely pursuing a better opportunity, such as a new job or starting your own business.
 image: full-time-entreprenur.jpeg
 ---
 
