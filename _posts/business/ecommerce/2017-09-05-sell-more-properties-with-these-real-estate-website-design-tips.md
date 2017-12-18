@@ -9,7 +9,7 @@ description: Attention real estate agents - Want more solid leads? Use these rea
 image: sell-more-properties.jpg
 ---
 
-If you don't have a website for your business. You can get is [developed from Codecarrot](//codecarrot.net/).
+If you don't have a website for your business. You can get is [developed from Codecarrot](//www.codecarrot.net/).
 
 Your website is more than just a piece of web real estate. Properly built and maintained, a site can help you bring in more clients, more sales and greater earnings. It gives potential customers a way to explore what you have to offer, and you a way to sell your services to those who are looking for them. Your real estate website design is a dynamic representation of you, your team or your brokerage, and should be crafted with care and strategy.
 
