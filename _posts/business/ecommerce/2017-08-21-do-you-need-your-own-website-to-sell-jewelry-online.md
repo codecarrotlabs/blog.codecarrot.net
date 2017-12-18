@@ -75,7 +75,7 @@ Perhaps one of the most important considerations when choosing your domain name 
 
 ## 2. Create your eCommerce store
 
-It's now time to get your [website developed](//codecarrot.net/) where you can sell jewelry online. Start by choosing a [host](//codecarrot.net/hosting.html). You can hire [CodeCarrot development team](//codecarrot.net/) to do the heavy lifting for developing your eCommerce website for you.
+It's now time to get your [website developed](//www.codecarrot.net/) where you can sell jewelry online. Start by choosing a [host](//www.codecarrot.net/). You can hire [CodeCarrot development team](//www.codecarrot.net/) to do the heavy lifting for developing your eCommerce website for you.
 
 The two main things you will need are payment gateways and an SSL certificate.
 
