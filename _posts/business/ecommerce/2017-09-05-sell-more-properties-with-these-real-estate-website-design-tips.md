@@ -45,4 +45,4 @@ However you lay out your real estate website design, make sure your contact info
 It’s also a good idea to have a clear and concise contact page that is accessible through the main navigation of the website.
 </div>
 
-Don't have a website for your business, no worries, we will [create it for you](//codecarrot.net/).
+Don't have a website for your business, no worries, we will [create it for you](//www.codecarrot.net/).
