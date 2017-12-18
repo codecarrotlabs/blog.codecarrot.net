@@ -6,7 +6,7 @@ date: 2017-06-18 12:00:00 +0530
 categories: business
 tags: customer surprise creative marketing
 description: As the web continues to drastically change how we shop, entrepreneurs are finding a renewed faith in the power of a great customer experience.
-image: man-laughing-on-celebration.jpg
+image: //cdn.codecarrot.net/images/man-laughing-on-celebration.jpg
 ---
 
 As the web continues to drastically change how we purchase the products and services, entrepreneurs are finding a renewed faith in the power of a great customer experience.
@@ -19,7 +19,7 @@ In addition to the uniqueness of your products and the prices you're able to off
 
 It's been proven in a number of consumer studies that a vast majority of consumers will pay for better service, and since a great experience is a known cause for increased brand loyalty and word of mouth referrals.
 
-![Trust throught the Advertisments](//blog.codecarrot.net/images/trust-throught-the-advertisments.png)
+![Trust throught the Advertisments](//cdn.codecarrot.net/images/trust-throught-the-advertisments.png)
 
 **If you can't go toe-to-toe with the big guys on price, amazing service should be your winning proposition.**
 
@@ -33,7 +33,7 @@ If you've ever read that fascinating study about the power of mints—where wait
 
 Small gifts to customers (a free comb after a haircut, etc.) are nothing new, so today I thought I'd highlight a great example of a company that took things to a whole new level.
 
-![Gifts](//blog.codecarrot.net/images/gifts.jpg)
+![Gifts](//cdn.codecarrot.net/images/gifts.jpg)
 
 ## 2. A Thank You Note
 
@@ -43,7 +43,7 @@ In fact, it's been argued that technology has actually made the handwritten note
 
 There are so many instances of customers being truly appreciative of thank you notes.
 
-![Thank You Card](//blog.codecarrot.net/images/thank-you-card.jpg)
+![Thank You Card](//cdn.codecarrot.net/images/thank-you-card.jpg)
 
 Here are some quick tips on writing a killer thank you note:
 
@@ -61,7 +61,7 @@ Even if your business doesn't lend itself to something that personalized, rememb
 
 This can be especially powerful for large purchases or "habit forming" purchases. If you sell products for a hobby, for instance, it might be nice to check in with those who have purchased a beginner's set or beginner equipment to see how they are doing.
 
-![Check in With Customers](//blog.codecarrot.net/images/check-in-with-customers.jpg)
+![Check in With Customers](//cdn.codecarrot.net/images/check-in-with-customers.jpg)
 
 Imagine the impression a business would leave if after buying your first set of golf clubs, you got an automated email from "Jim" asking you how they were treating you, and if you've been able to hit the driving range yet? Pretty powerful stuff, and all hinging on the very frugal cost of a personal follow-up email.
 
@@ -103,7 +103,7 @@ The problem is that many companies stop at help content and FAQs alone, forgetti
 
 You're actually seeing an example of this in action right now! [The CodeCarrot Garage](www.codecarrot.net/garage) regularly delivers great ecommerce related content to their current and prospective customers, all of which goes hand in hand with the web and mobile application development service we provide.
 
-![Helping Each Other](//blog.codecarrot.net/images/helping-each-other.jpg)
+![Helping Each Other](//cdn.codecarrot.net/images/helping-each-other.jpg)
 
 Let’s say you own a local shop that sells eatable items. How cool would it be to hold regular events where you bring in experts to talk about ingredients and health related issues? The more educated your customers become, the more they will appreciate what you sell, thus the more valuable they are to your business.
 
@@ -119,7 +119,7 @@ No one wants to hear bad news. **Especially if it’s a customer complaint**
 
 But what if you could stop customer complaints before they happen? No, we’re not suggesting you break out the Ouija board just yet.
 
-[![How to stop customer complaints before they happen](//blog.codecarrot.net/images/stop-customer-complaints-before-they-happen.jpg)](/how-to-stop-customer-complaints-before-they-happen/)
+[![How to stop customer complaints before they happen](//cdn.codecarrot.net/images/stop-customer-complaints-before-they-happen.jpg)](/how-to-stop-customer-complaints-before-they-happen/)
 
 All it actually takes is a little empathy and foresight.
 
