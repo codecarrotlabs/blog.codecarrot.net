@@ -9,7 +9,7 @@ description: Vue.js is a progressive framework for building user interfaces. Thi
 image: hello_world.gif
 ---
 
-![Vuejs website screenshot](//blog.codecarrot.net/images/vuejs-website-screenshot.png)
+![Vuejs website screenshot](//cdn.codecarrot.net/images/vuejs-website-screenshot.png)
 
 Vue.js is a progressive framework for building user interfaces. This is lean, this is fast, and unlike frameworks like React and Angular, it’s straightforward to get started. Here we will build a simple Hello World app, and it will just take 2 minutes for the whole process:
 

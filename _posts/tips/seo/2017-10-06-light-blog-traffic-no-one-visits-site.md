@@ -37,7 +37,7 @@ Think of your website as a virtual welcome mat for your business.
 
 Nearly half (47 percent) of consumers expect sites to load in just a couple seconds. In fact, page abandonment increases with page load time. In other words, the slower your website is, the more likely visitors are to leave your site without exploring more content (or buying anything).
 
-![Welcome on Board mat](//blog.codecarrot.net/images/welcome-on-board-mat.jpeg)
+![Welcome on Board mat](//cdn.codecarrot.net/images/welcome-on-board-mat.jpeg)
 
 At [CodeCarrot](//codecarrot.net/), our developers obsess over performance data so we can provide the best possible outcomes for our customers.
 
@@ -59,4 +59,4 @@ You don't want your website visitors to leave your website because your website 
 
 Let's make your **website like flash** with [CodeCarrot](//codecarrot.net/).
 
-[![make your website like flash with codecarrot](//blog.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](//codecarrot.net/)
+[![make your website like flash with codecarrot](//cdn.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](//codecarrot.net/)

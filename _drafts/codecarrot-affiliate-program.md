@@ -4,7 +4,7 @@ title: Love CodeCarrot? Spread the Word and Earn Money with the CodeCarrot Affil
 date:   2017-08-26 12:00:00
 categories: update
 description:
-image: http://blog.codecarrot.net/images/
+image: http://cdn.codecarrot.net/images/
 ---
 
 http://blog.teamtreehouse.com/treehouse-affiliate-program

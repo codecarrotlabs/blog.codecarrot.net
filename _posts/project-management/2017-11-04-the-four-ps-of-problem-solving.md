@@ -39,7 +39,7 @@ The process I’m going to share with you is one I have put together over the ye
 3. The third step is **perform**. We simply put the plan into action.
 4. Then our final step is **perfect**. This is when we check to see if our end goal has fulfilled the problem. If not we can go back, review and rework the solution.
 
-![Prep](//blog.codecarrot.net/images/1_ASecviRBC--O9B4E6ZKeKw.png)
+![Prep](//cdn.codecarrot.net/images/1_ASecviRBC--O9B4E6ZKeKw.png)
 
 ## Prep
 
@@ -89,7 +89,7 @@ Marty was now ready to move onto his next step, the planning stage.
 
 ***
 
-![Plan](//blog.codecarrot.net/images/1_x4pEevQdn7cRlxl_xUl8MQ.png)
+![Plan](//cdn.codecarrot.net/images/1_x4pEevQdn7cRlxl_xUl8MQ.png)
 
 ## Plan
 
@@ -112,7 +112,7 @@ Now the planning stage is read for action we’re ready to move onto the next st
 
 ***
 
-![Perform](//blog.codecarrot.net/images/1_YvoOk1My3lmx5HoRCSa-Ew.png)
+![Perform](//cdn.codecarrot.net/images/1_YvoOk1My3lmx5HoRCSa-Ew.png)
 
 ## Perform
 
@@ -149,7 +149,7 @@ As you can see the performance part of the problem solving process can be quite 
 
 Now that we understand the performance stage lets take a look at the final stage in the problem solving process.
 
-![Perfect](//blog.codecarrot.net/images/1_2RPifFZ6UjJXJuG0C813NQ.png)
+![Perfect](//cdn.codecarrot.net/images/1_2RPifFZ6UjJXJuG0C813NQ.png)
 
 ## Perfect
 

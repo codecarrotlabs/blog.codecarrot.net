@@ -21,7 +21,7 @@ Have you heard of a technology sabbath? It’s a concept that is becoming more p
 
 We only have so much time in a day to work with. You need to be deliberate about how you spend that time. The “jar of rocks” analogy is a great way to visualize this. If you fill your day first with small, insignificant tasks (the sand), then you won’t have room for your important work (the large rocks). So take the time to figure out your priorities and build your day around them.
 
-![Jar of rocks](//blog.codecarrot.net/images/jar-of-rocks.jpg)
+![Jar of rocks](//cdn.codecarrot.net/images/jar-of-rocks.jpg)
 
 Be honest to yourself and others about your limitations
 

@@ -59,7 +59,7 @@ Before we start you need to login at [cloudinary.com](//cloudinary.com/). Create
 
 On the Dashboard page, you should see all account details, just click on `YML link` and save this file in app `config` directory.
 
-![Dashboard view of cloudinary.com](//blog.codecarrot.net/images/dashboard-view-of-cloudinarycom.png)
+![Dashboard view of cloudinary.com](//cdn.codecarrot.net/images/dashboard-view-of-cloudinarycom.png)
 
 *It's highly recommended to avoid storing API keys in repo*, so you should later edit this config file and move keys to `secrets.yml` or `ENV`.
 
@@ -140,4 +140,4 @@ If you don't want to search through documentation for any advices, I recommend u
 
 Cloudinary is a great, easy to use tool which can considerably speed up your development. If you need to process images, it's definitely worth to try. If you have any questions, feel free to ask in comment section below.
 
-[![Make your business online with a website](//blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)

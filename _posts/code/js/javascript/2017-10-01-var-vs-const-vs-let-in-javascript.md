@@ -71,7 +71,7 @@ function getValue(condition) {
 
 Here below is the screenshot that shows the difference between var and let (Check the comments within the code block).
 
-![difference between var and let](//blog.codecarrot.net/images/1-14x2AVmAVC2NmkS7u4pK6g.png)
+![difference between var and let](//cdn.codecarrot.net/images/1-14x2AVmAVC2NmkS7u4pK6g.png)
 
 As you can see, the getValue function with `let` behaves similar to other programming languages. As, variable value is declared using let instead of var , the declaration isn’t hoisted to the top of the function definition, and the variable value is no longer accessible once execution flows out of the if block. If condition evaluates to false, then value is never declared or initialized.
 

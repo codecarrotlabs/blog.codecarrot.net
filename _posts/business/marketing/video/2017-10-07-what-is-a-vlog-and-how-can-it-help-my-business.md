@@ -77,7 +77,7 @@ Both of these options have value. The owner understands the business and is pass
 
 ### Embed the videos on your website.
 
-![What Is A Vlog YouTube](//blog.codecarrot.net/images/what-is-a-vlog-youtube.jpg)
+![What Is A Vlog YouTube](//cdn.codecarrot.net/images/what-is-a-vlog-youtube.jpg)
 
 Many vloggers solely host their videos on one video-sharing platform. While sites like YouTube offer an easy way to produce, edit, and promote videos, you don’t control the environment. That means you are restricted to the constraints of the platform. YouTube can manipulate your content, decide whether to show your video in search results, and place ads over your videos, which can hurt your viewers’ experiences.
 

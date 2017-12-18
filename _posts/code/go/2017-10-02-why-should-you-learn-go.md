@@ -52,7 +52,7 @@ For an example, creating new thread in Java is not memory efficient. As every th
 
 On the other hand, Go was released in 2009 when multi-core processors were already available. That’s why Go is built with keeping concurrency in mind. Go has goroutines instead of threads. They consume almost 2KB memory from the heap. So, you can spin millions of goroutines at any time.
 
-![How Goroutines work?](//blog.codecarrot.net/images/1-NFojvbkdRkxz0ZDbu4ysNA.jpeg)
+![How Goroutines work?](//cdn.codecarrot.net/images/1-NFojvbkdRkxz0ZDbu4ysNA.jpeg)
 
 **Other benefits are:**
 
@@ -70,7 +70,7 @@ You can see Rob Pike’s excellent talk *concurrency is not parallelism to get m
 
 All the above points, make Go very powerful to handle concurrency like Java, C and C++ while keeping concurrency execution code strait and beautiful like Earlang.
 
-![Go takes good of both the worlds. Easy to write concurrent and efficient to manage concurrency](//blog.codecarrot.net/images/1-xbsHBQJReC5l_VO4XgNSIQ.png)
+![Go takes good of both the worlds. Easy to write concurrent and efficient to manage concurrency](//cdn.codecarrot.net/images/1-xbsHBQJReC5l_VO4XgNSIQ.png)
 
 ## Go runs directly on underlying hardware.
 
@@ -78,11 +78,11 @@ One most considerable benefit of using C, C++ over other modern higher level lan
 
 Processors understand binaries. Generally, when you build an application using Java or other JVM-based languages when you compile your project, it compiles the human readable code to byte-code which can be understood by JVM or other virtual machines that run on top of underlying OS. While execution, VM interprets those bytecodes and convert them to the binaries that processors can understand.
 
-![Execution steps for VM based languages](//blog.codecarrot.net/images/1-TVR-VLVg68KwCOLjqQmQAw.png)
+![Execution steps for VM based languages](//cdn.codecarrot.net/images/1-TVR-VLVg68KwCOLjqQmQAw.png)
 
 While on the other side, C/C++ does not execute on VMs and that removes one step from the execution cycle and increases the performance. It directly compiles the human readable code to binaries.
 
-![Human readable code process shown](//blog.codecarrot.net/images/1-ii6xUkU_PchybiG8_GnOjA.png)
+![Human readable code process shown](//cdn.codecarrot.net/images/1-ii6xUkU_PchybiG8_GnOjA.png)
 
 But, freeing and allocating variable in those languages is a huge pain. While most of the programming languages handle object allocation and removing using Garbage Collector or Reference Counting algorithms.
 

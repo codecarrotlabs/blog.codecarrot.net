@@ -218,7 +218,7 @@ This example generates a link with the `target` attribute set to `_blank`.
 
 ## Item Numbering
 
-![ul li 5 items](//blog.codecarrot.net/images/ul-li-item-5.gif)
+![ul li 5 items](//cdn.codecarrot.net/images/ul-li-item-5.gif)
 
 Emmet also includes a feature that allows you to automatically add numbers to your HTML. This is useful for applications like setting unique classes on list items. Just add a dollar sign `$` to your abbreviation where you want the number to appear and Emmet will take care of the rest.
 

@@ -27,7 +27,7 @@ This process is far from ideal, as lots of companies failed to get their depende
 
 ## 01. Enter the Node.js API
 
-![Enter the node.js api](//blog.codecarrot.net/images/YUsX5W2DrjQrMGc5J9Cmb-650-80.jpg)
+![Enter the node.js api](//cdn.codecarrot.net/images/YUsX5W2DrjQrMGc5J9Cmb-650-80.jpg)
 
 *Machine agnostic: Native modules now work with Microsoft’s Chakra as well as different Node.js versions*
 
@@ -65,7 +65,7 @@ In the heart of Node.js is the JavaScript engine that interprets your JavaScript
 
 ## 03. Updated JavaScript Engine
 
-![Updated JavaScript Engine](//blog.codecarrot.net/images/qnnXLGrpMAmRaWUFfPB2wA-650-80.jpg)
+![Updated JavaScript Engine](//cdn.codecarrot.net/images/qnnXLGrpMAmRaWUFfPB2wA-650-80.jpg)
 
 *Big news: Node.js will be able to update the V8 engine without a major release*
 

@@ -13,7 +13,7 @@ It's a great code editor. It can be an IDE if you want it to be, but at it's hea
 
 Sublime Text, by default, will give you the option to add Open with Sublime Text to the context menu when right-clicking any file. This is great and I use it a lot, make sure you've selected it during the install before starting this.
 
-![Open as Sublime Project](//blog.codecarrot.net/images/open-as-sublime-project.png)
+![Open as Sublime Project](//cdn.codecarrot.net/images/open-as-sublime-project.png)
 
 One thing that I have trouble with is that I do have other context menu enhancements and the Open with Sublime Text doesn't always jump out at me. So one thing we're going to do is add the Sublime Text icon to the existing context menu option. The other thing we're going to do is add an **Open Directory with Sublime Text** action to the context menu when we right-click on a directory. All it takes is creating a .reg file to update your registry.
 

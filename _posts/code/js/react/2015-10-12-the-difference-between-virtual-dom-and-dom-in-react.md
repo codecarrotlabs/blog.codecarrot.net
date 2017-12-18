@@ -11,7 +11,7 @@ image: react-website-header-2015.png
 
 React attacks us with the virtual DOM right away, on the main page. This feature seems to be very important!
 
-![React Virtual DOM](//blog.codecarrot.net/images/react-website-header-2015.png)
+![React Virtual DOM](//cdn.codecarrot.net/images/react-website-header-2015.png)
 
 But what does “virtual DOM” mean exactly?
 
@@ -66,7 +66,7 @@ First of all - the Virtual DOM was not invented by React, but React uses it and 
 
 The *Virtual DOM* is an abstraction of the HTML DOM. It is lightweight and detached from the browser-specific implementation details. Since the DOM itself was already an abstraction, the virtual DOM is, in fact, an abstraction of an abstraction.
 
-![Can't go for virtual dom need to go deeper](//blog.codecarrot.net/images/can-t-go-for-virtual-dom-need-to-go-deeper.jpg)
+![Can't go for virtual dom need to go deeper](//cdn.codecarrot.net/images/can-t-go-for-virtual-dom-need-to-go-deeper.jpg)
 
 Perhaps it’s better to think of the virtual DOM as *React’s local and simplified copy of the HTML DOM*. It allows React to do its computations within this abstract world and skip the “real” DOM operations, often slow and browser-specific.
 

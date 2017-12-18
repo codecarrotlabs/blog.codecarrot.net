@@ -15,7 +15,7 @@ I'm a great believer in the power of a website to promote a brand.
 
 But you don't have to be a multinational company to benefit from the promotional power of the web. Anyone who wants to make an impression online - whether it's to land a sweet new job, promote a pet project, or just connect with like-minded netizens - can do it with a personal website.
 
-![Why you should have a personal website?](//blog.codecarrot.net/images/lady-working-illustration.png)
+![Why you should have a personal website?](//cdn.codecarrot.net/images/lady-working-illustration.png)
 
 ## Beyond Social Media
 

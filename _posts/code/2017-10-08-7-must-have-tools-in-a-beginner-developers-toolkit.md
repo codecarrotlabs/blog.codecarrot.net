@@ -15,19 +15,19 @@ When you’re new to coding, you’ll start to hear about all the latest and gre
 
 I love using [sublime text](/how-to-sync-sublime-text-packages-and-settings-across-multiple-computers-with-cloud-storage), but you can use atom or visual studio too.
 
-![Atom text editor](//blog.codecarrot.net/images/atom-mark@1200x630-914x480.png)
+![Atom text editor](//cdn.codecarrot.net/images/atom-mark@1200x630-914x480.png)
 
 Whether you’re learning to code, the first tool you’ll need is a code editor. Depending on a developer’s preference, you may get different recommendations. But for when you’re first getting started, there are two great options we’d recommend: **[Atom](//atom.io/) and [Visual Studio Code](//code.visualstudio.com/)**. Both are open source, beginner friendly and best of all they’re completely free!
 
 ## Collaborate and share your code on GitHub
 
-![Github Logo](//blog.codecarrot.net/images/octocat-939x480.jpeg)
+![Github Logo](//cdn.codecarrot.net/images/octocat-939x480.jpeg)
 
 [GitHub](//github.com/mittalyashu) is a huge collaboration development platform built on top of a distributed version control system called [Git](/what-is-git). From when you’re a beginner through to when you’re a pro, GitHub will be the most valuable place for you to share & collaborate with other developers on code. If you’re entirely new to GitHub, check out the GitHub Basics beginner course to learn how to navigate the site, explore open source software, and best practices for sharing and collaborating.
 
 ## Inspect with Chrome DevTools
 
-![Developer Tool Bar Screenshot](//blog.codecarrot.net/images/1-DvIYrAYv_JeL74nA.png)
+![Developer Tool Bar Screenshot](//cdn.codecarrot.net/images/1-DvIYrAYv_JeL74nA.png)
 
 If you’re interested in front end web design and development, then first on your list has to be [Chrome Developer Tools](//developer.chrome.com/devtools) (DevTools). DevTools has a lot of different uses, but when you’re first learning it’s particularly useful for inspecting exactly how any page is built and styled. It’s also great for debugging. Check out this workshop with Guil Hernandez to learn how to debug your CSS using DevTools.
 
@@ -37,7 +37,7 @@ Another bonus of Chrome DevTools is that they’re constantly updated with new d
 
 ## Visualize with the Firefox Grid inspector tool
 
-![Firefox grid inspector](//blog.codecarrot.net/images/firefox-developer-tools-css-grid-723x480.jpg)
+![Firefox grid inspector](//cdn.codecarrot.net/images/firefox-developer-tools-css-grid-723x480.jpg)
 
 Mozilla Firefox also provides some awesome developer tools, but one that is particularly helpful for beginners interested in front end is the new CSS Grid Inspector tool. The tools allows you to layout specs so you can visualize exactly how you build your grid in the browser, which saves on making tweaks to your code later.
 

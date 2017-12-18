@@ -26,8 +26,8 @@ Aside from the Animate CSS library I will also be including a copy of my own sty
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
   <title>Animate.css Basic Webpage Demos</title>
   <meta name="author" content="Jake Rocheleau">
-  <link rel="shortcut icon" href="//blog.codecarrot.net/images/favicon.png">
-  <link rel="icon" href="//blog.codecarrot.net/images/favicon.png">
+  <link rel="shortcut icon" href="//cdn.codecarrot.net/images/favicon.png">
+  <link rel="icon" href="//cdn.codecarrot.net/images/favicon.png">
   <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
   <link rel="stylesheet" type="text/css" media="all" href="css/animate.css">
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oxygen:400,700">

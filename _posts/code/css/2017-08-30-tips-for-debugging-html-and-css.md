@@ -19,7 +19,7 @@ The steps outlined below are in no particular order. Debugging is part technical
 
 Even though these are in no particular order, my debugging instincts usually jump to syntax first. I ask myself, “Did I miss a semicolon? Did I forget to close an HTML element?” No matter how experienced you become, you’ll still make typos and mistakes. Often times you can simply switch back to your text editor, look at the last thing you wrote, and fix the problem.
 
-![CSS Lint](//blog.codecarrot.net/images/csslint.png)
+![CSS Lint](//cdn.codecarrot.net/images/csslint.png)
 
 However, if you’re working in a large project, it might be helpful to use a validation tool. The [W3C markup validation service](//validator.w3.org/) and the [W3C CSS validator](//jigsaw.w3.org/css-validator/) are perfect for this, because any warnings or errors will reveal places to check your code. Sometimes these results can be difficult to read, though, because these validators aren’t specifically designed for detailed debugging. An alternative is to use a linting tool like [CSS Lint](//csslint.net/), which can perform an analysis of your code and help you find errors.
 
@@ -35,7 +35,7 @@ Second, check to make sure that the HTML elements and CSS properties that you’
 
 When debugging, it can be helpful to outline elements on the page to figure out how they’re being rendered in relation to one another. You could write CSS to do this yourself, but a better way is to use the [Web Developer](//chrispederick.com/work/web-developer/) browser extension available for Chrome, Firefox, and Opera.
 
-![Screenshot of the Web Developer extension in Google Chrome, outlining elements on //blog.codecarrot.net](//blog.codecarrot.net/images/webdeveloper-outline-block-level-elements.png)
+![Screenshot of the Web Developer extension in Google Chrome, outlining elements on //blog.codecarrot.net](//cdn.codecarrot.net/images/webdeveloper-outline-block-level-elements.png)
 
 The Web Developer extension allows you to outline elements based on different criteria, such as display type or element type. At first glance this might seem trivial, but in a convoluted web of cascading declarations, it can be easy to lose track of *which element ultimately ended up with which properties and values*. This is helpful for catching rogue floats or mixed display types. And speaking of display types…
 
@@ -49,7 +49,7 @@ CSS works best when you build within the standards outlined by the W3C. However,
 
 If you’re wondering how your CSS is affecting a particular page element, the Chrome DevTools make it easy to toggle each property. In the Google Chrome web browser, simply right click and choose Inspect Element from the context menu. This will bring up the Chrome DevTools.
 
-![Screenshot of the Styles panel in the Chrome DevTools](//blog.codecarrot.net/images/chrome-styles.png)
+![Screenshot of the Styles panel in the Chrome DevTools](//cdn.codecarrot.net/images/chrome-styles.png)
 
 On the right side of the Elements panel, you should see a tab called *Styles* with some CSS inside of it. This shows you which CSS declarations are being applied to the selected element, and if you hover over each CSS property, you can uncheck them individually. When a property is crossed out, it typically means that it is being overridden elsewhere. You may need to uncheck a property in several places to actually remove it from an element.
 
@@ -61,6 +61,6 @@ In the Elements panel of the Chrome DevTools, right next to the Styles tab you�
 
 At the top of the Computed tab there’s a very important diagram that every web professional should make use of. This is a representation of the box model and it shows you how much space an element occupies in pixels.
 
-![Screenshot of the Computed panel in the Chrome DevTools](//blog.codecarrot.net/images/chrome-computed.png)
+![Screenshot of the Computed panel in the Chrome DevTools](//cdn.codecarrot.net/images/chrome-computed.png)
 
 More specifically, it breaks down an element’s space into content, padding, margin, and border. When elements aren’t spaced quite right, this can be incredibly helpful because you can literally “do the math” and figure out which element is a problem. For example, if you have three floated elements that should all be on the same line, and the last element is instead jumping down to the next line, you can inspect the width of the parent container and then compare its value to the widths of the three elements.

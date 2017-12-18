@@ -11,7 +11,7 @@ image: 6-30-12_Git.jpg
 
 ## What is Git?
 
-![What is Git?](//blog.codecarrot.net/images/what-is-git.svg)
+![What is Git?](//cdn.codecarrot.net/images/what-is-git.svg)
 
 **Performance / Security / Flexibility / Version control with Git**
 

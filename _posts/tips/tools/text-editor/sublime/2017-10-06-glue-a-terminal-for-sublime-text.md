@@ -94,7 +94,7 @@ Glue works with many of your favorite system utilities and allows you to extend 
 $ grep "def" *.py
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with grep](//blog.codecarrot.net/images/grep-examplebQ52OZGjH.png)
+![Screenshot of the terminal opening in sublime text using glue with grep](//cdn.codecarrot.net/images/grep-examplebQ52OZGjH.png)
 
 ### Glue + git
 
@@ -104,7 +104,7 @@ $ git add .
 $ git commit -m "'initial commit'"
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with git](//blog.codecarrot.net/images/git-example45yHF45.png)
+![Screenshot of the terminal opening in sublime text using glue with git](//cdn.codecarrot.net/images/git-example45yHF45.png)
 
 ### Glue + cURL
 
@@ -112,7 +112,7 @@ $ git commit -m "'initial commit'"
 $ curl -sS //raw.githubusercontent.com/chrissimpkins/naked/master/lib/Naked/app.py
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with curl](//blog.codecarrot.net/images/curl-example43fFERY45.png)
+![Screenshot of the terminal opening in sublime text using glue with curl](//cdn.codecarrot.net/images/curl-example43fFERY45.png)
 
 ### Glue + Your Own Scripts
 
@@ -123,7 +123,7 @@ $ ruby test.rb
 $ ./test.sh
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with your own scrips](//blog.codecarrot.net/images/scripting-language-example34GFDretr334.png)
+![Screenshot of the terminal opening in sublime text using glue with your own scrips](//cdn.codecarrot.net/images/scripting-language-example34GFDretr334.png)
 
 ***
 

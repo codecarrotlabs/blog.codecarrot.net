@@ -13,7 +13,7 @@ image: articleocw-599af35e5ad57.png
 
 Learn to Automate and Scrape the web with Headless Chrome
 
-![Puppeteer Logo](//blog.codecarrot.net/images/1_kk8ovQKB-45FsZ8TZM-vjg.png)
+![Puppeteer Logo](//cdn.codecarrot.net/images/1_kk8ovQKB-45FsZ8TZM-vjg.png)
 
 **What Will We Learn?**
 
@@ -113,7 +113,7 @@ node test.js
 
 And here’s the resulting screenshot:
 
-![1_OHQ4myaGuBWxqkJ_G1hxoA.png](//blog.codecarrot.net/images/1_OHQ4myaGuBWxqkJ_G1hxoA.png)
+![1_OHQ4myaGuBWxqkJ_G1hxoA.png](//cdn.codecarrot.net/images/1_OHQ4myaGuBWxqkJ_G1hxoA.png)
 
 Awesome! For added fun (and easier debugging) we can run our code in a non-headless manner.
 
@@ -145,7 +145,7 @@ await page.setViewport({width: 1000, height: 500})
 
 Which results in this much nicer looking screenshot:
 
-![1_5nobu4vdUesXZg1cgWlySg.png](//blog.codecarrot.net/images/1_5nobu4vdUesXZg1cgWlySg.png)
+![1_5nobu4vdUesXZg1cgWlySg.png](//cdn.codecarrot.net/images/1_5nobu4vdUesXZg1cgWlySg.png)
 
 Here’s what our final code for this example looks like:
 
@@ -260,7 +260,7 @@ Setup is complete. Now, lets scrape!
 
 As you’ve probably ascertained by now, Books to Scrape has a big library of real books and fake data on those books. What we’re going to do is select the first book on the page and return the title and price of that book. Here’s the homepage of Books to Scrape. I’m interested in clicking on the first book (outlined in red below)
 
-![1_SJi9SPF1a7gGcZ_mEnScgg.png](//blog.codecarrot.net/images/1_SJi9SPF1a7gGcZ_mEnScgg.png)
+![1_SJi9SPF1a7gGcZ_mEnScgg.png](//cdn.codecarrot.net/images/1_SJi9SPF1a7gGcZ_mEnScgg.png)
 
 Looking at the Puppeteer API we can find the method that allows us to click on a page:
 
@@ -270,11 +270,11 @@ Looking at the Puppeteer API we can find the method that allows us to click on a
 
 Luckily, the Google Chrome Developer Tools make it very easy to determine the selector for a particular element. Simply right click on the image and select inspect:
 
-![1_PSffzKaJrObAdfA1QRLCpg.png](//blog.codecarrot.net/images/1_PSffzKaJrObAdfA1QRLCpg.png)
+![1_PSffzKaJrObAdfA1QRLCpg.png](//cdn.codecarrot.net/images/1_PSffzKaJrObAdfA1QRLCpg.png)
 
 This will open up the Elements Panel with the element highlighted. You can now click on the three dots on the left hand side, select copy, then select copy selector:
 
-![1_fUXgbZ7LTGSvkqadYUPbAw.png](//blog.codecarrot.net/images/1_fUXgbZ7LTGSvkqadYUPbAw.png)
+![1_fUXgbZ7LTGSvkqadYUPbAw.png](//cdn.codecarrot.net/images/1_fUXgbZ7LTGSvkqadYUPbAw.png)
 
 Awesome! We now have our selector copied and we can insert our click method into our program. Here’s what that looks like:
 
@@ -286,7 +286,7 @@ Our window will now click on the first product image and navigate to that produc
 
 On the new page, we’re interested in both the product title and product price — outlined below in red
 
-![1_ccol1C8a4b1wGXUdV8qfTA.png](//blog.codecarrot.net/images/1_ccol1C8a4b1wGXUdV8qfTA.png)
+![1_ccol1C8a4b1wGXUdV8qfTA.png](//cdn.codecarrot.net/images/1_ccol1C8a4b1wGXUdV8qfTA.png)
 
 In order to retrieve these values, we’ll use the `page.evaluate()` method. This method allows us to use built in DOM selectors like `querySelector()`.
 
@@ -300,7 +300,7 @@ const result = await page.evaluate(() => {
 
 Within our function we can select the elements we desire. We’ll use the Google Developer Tools to figure this out again. Right click on title and select inspect:
 
-![1_jzC0PnWrZsI_SF8t5PgGTA.png](//blog.codecarrot.net/images/1_jzC0PnWrZsI_SF8t5PgGTA.png)
+![1_jzC0PnWrZsI_SF8t5PgGTA.png](//cdn.codecarrot.net/images/1_jzC0PnWrZsI_SF8t5PgGTA.png)
 
 As you’ll see in the elements panel, the title is simply an `h1` element. We can now select this element with the following code:
 
@@ -315,7 +315,7 @@ let title = document.querySelector('h1').innerText;
 
 Similarly, we can select the price by right clicking and inspecting the element:
 
-![1_dKX7qukRfMVfPP2kydD03w.png](//blog.codecarrot.net/images/1_dKX7qukRfMVfPP2kydD03w.png)
+![1_dKX7qukRfMVfPP2kydD03w.png](//cdn.codecarrot.net/images/1_dKX7qukRfMVfPP2kydD03w.png)
 
 As you can see, our price has a class of `price_color`. We can use this class to select the element and its inner text. Here’s the code:
 
@@ -403,7 +403,7 @@ Because there are many ways to scrape a website! (Plus, if we stayed on the home
 
 The Goal — to scrape all of the book titles and prices from the homepage, and return them in an array. Here’s what my final output looks like:
 
-![1_w4YN9E40rzpdmQfwqM2Pcg.png](//blog.codecarrot.net/images/1_w4YN9E40rzpdmQfwqM2Pcg.png)
+![1_w4YN9E40rzpdmQfwqM2Pcg.png](//cdn.codecarrot.net/images/1_w4YN9E40rzpdmQfwqM2Pcg.png)
 
 GO! See if you can accomplish this on your own. It’s very similar to the above program we just created. Scroll down if you get stuck…
 

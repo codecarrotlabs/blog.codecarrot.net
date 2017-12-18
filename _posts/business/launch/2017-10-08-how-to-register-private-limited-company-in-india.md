@@ -117,4 +117,4 @@ Once a Company is duly incorporated, it will remain active and in-existence as l
 
 While registering your company may be a long, tedious process – getting started with an online business may not be. [Get started today](//codecarrot.net/).
 
-[![Make your business online with a website](//blog.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)

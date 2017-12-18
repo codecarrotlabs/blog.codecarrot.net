@@ -9,7 +9,7 @@ description: JavaScript was built at a time when Unicode was a 16-bit character 
 image: 1-3zyOAYB2AfNIC_7O7F_ZNQ.png
 ---
 
-![strings and template strings](//blog.codecarrot.net/images/1-3zyOAYB2AfNIC_7O7F_ZNQ.png)
+![strings and template strings](//cdn.codecarrot.net/images/1-3zyOAYB2AfNIC_7O7F_ZNQ.png)
 
 ## Strings
 

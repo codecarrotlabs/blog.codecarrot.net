@@ -25,7 +25,7 @@ Bootstrap uses a powerful mobile-first flexbox based grid system which helps the
 
 Using their built-in grid sass variables and maps, you can also customise the number of grid tiers using `$grid-breakpoints` and `$container-max-widths` variables respectively. The number of grid columns can also be modified by Sass variables.
 
-![text editor - bootstrap grid customization](//blog.codecarrot.net/images/1-UdaGt7GH9biKJ2hi07Cb4g.png)
+![text editor - bootstrap grid customization](//cdn.codecarrot.net/images/1-UdaGt7GH9biKJ2hi07Cb4g.png)
 
 ## Foundation 6: XY Grid & Flexbox Utilities
 
@@ -33,16 +33,16 @@ Using their built-in grid sass variables and maps, you can also customise the nu
 
 Amazingly, this is an invention actually considering that this is the first web framework supporting all these features. XY Grid is a fully reworked new grid system in v6.4+ which has lots of options including multiple grid types that includes margin grid, padding grid, frame grid, block grid and vertical grid. Here X is the Horizontal direction whereas Y is the Vertical direction. It also supports auto sizing. Believe it or not, XY Grid is a huge advancement in Grids. The things that differentiate XY Grid from others a list apart is that it supports both types of grid gutters, margin and padding respectively. Confused? Why two grid types instead of one. Well I am attaching some images to help you understand the differences between a Margin and Padding Grid.
 
-![Margin: No | Padding: No](//blog.codecarrot.net/images/1-P6-CHj0q4taLgKELO2_LTw.png)
+![Margin: No | Padding: No](//cdn.codecarrot.net/images/1-P6-CHj0q4taLgKELO2_LTw.png)
 *Margin: No | Padding: No*
 
-![Margin: Yes | Padding: N](//blog.codecarrot.net/images/1-UMLCBi1UwIsVsMi0b2uF2g.png)
+![Margin: Yes | Padding: N](//cdn.codecarrot.net/images/1-UMLCBi1UwIsVsMi0b2uF2g.png)
 *Margin: Yes | Padding: N*
 
-![Margin: No | Padding: Yes](//blog.codecarrot.net/images/1-bQ52OZGjHOiCtX4BBtsV8A.png)
+![Margin: No | Padding: Yes](//cdn.codecarrot.net/images/1-bQ52OZGjHOiCtX4BBtsV8A.png)
 *Margin: No | Padding: Yes*
 
-![Margin: Yes | Padding: Yes](//blog.codecarrot.net/images/1-m0HAfzuUY9Ve06ih39CLbQ.png)
+![Margin: Yes | Padding: Yes](//cdn.codecarrot.net/images/1-m0HAfzuUY9Ve06ih39CLbQ.png)
 *Margin: Yes | Padding: Yes*
 
 I hope by now, you understand why having such a flexible and multi grid gutter based system is great for defining layouts. But hey, that’s not all. XY Grid has been inspired from upcoming CSS Grid and thus supports both Vertical and Horizontal Based Grid Systems. Isn’t that cool?
@@ -51,11 +51,11 @@ I hope by now, you understand why having such a flexible and multi grid gutter b
 
 Grid customisation is easy in Foundation. You can also build grids semantically with a powerful set of sass mixins, which you can then use in your own code to build a semantic grid. You can change the maximum width of a grid container via `$grid-container`. The number of columns used in the grid can be changed by `$grid-columns variable`, whereas responsive breakpoints can be easily changed with `$breakpoints`, `$print-breakpoint`, and `$breakpoint-classes` respectively.
 
-![Foundation 6: Grid customisation](//blog.codecarrot.net/images/1-wMogsQp1VJf2Es21YwfyUg.png)
+![Foundation 6: Grid customisation](//cdn.codecarrot.net/images/1-wMogsQp1VJf2Es21YwfyUg.png)
 
 **Responsive Gutters:** The grid gutter aka the space between two columns within the flow of the page (X or Y direction) and the space between the edge of the grid and the edge of the page is responsive. By default, responsive gutters helps the page to have narrow edges in mobile devices whereas it becomes wider on larger screens. This can be easily customised though with `$grid-margin-gutters` and `$grid-padding-gutters respectively`.
 
-![Foundation 6: Grid Gutters customisation](//blog.codecarrot.net/images/1-p8yyphOrjlwLPIIDgsFN-g.png)
+![Foundation 6: Grid Gutters customisation](//cdn.codecarrot.net/images/1-p8yyphOrjlwLPIIDgsFN-g.png)
 
 **Frame Grid:** But that’s not all, Frame Grid in XY Grid incorporates the grid frame exclusively from Foundation for Apps for App Style Layouts. Well when you lay things out horizontally, the browser defaults to 100% of available width, its common no? Obviously! But it’s not the case when you are laying things out vertically, In this case what you need is to specify a height for the grid and there are couple of extremely common cases for heights, and in fact foundation has included a helper class for exactly this case, `.grid-frame`. The first common case is for an outer grid, typically your application layout is where you want to take up exactly the height of the viewport aka the browser window. This is exactly what `.grid-frame` does when applied to a vertical grid outside of any other grid. The other common case is when you are nesting a vertical grid inside of a cell in an existing grid — in this case, you would typically want the vertical grid to take up 100% of the cell, so that the Grid Frame inside of a `.cell` sets the height of the grid to exactly 100% of the available height.
 

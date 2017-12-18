@@ -25,7 +25,7 @@ The question is why are they on your site, hopefully the reason they're there wi
 
 However, don't assume that your calls to action should be the most eye-catching thing on the page as soon as your page loads, your best content should be in center.
 
-![Codecarrot website screenshot](//blog.codecarrot.net/images/1-kNSTfEeFd6bA.png)
+![Codecarrot website screenshot](//cdn.codecarrot.net/images/1-kNSTfEeFd6bA.png)
 
 This is why the users came to your site in the first place not to be sold or marketed to.
 
@@ -33,11 +33,11 @@ Don't distract them, give them what they're looking for and gain their trust.
 
 If the users have never been to your site before they're already taking a risk, so deliver the goods and they might be interested in what else you have to offer.
 
-![CodeCarrot blog subscribe to newsletter screenshot](//blog.codecarrot.net/images/1-ASSbF7jlkgQEHg.png)
+![CodeCarrot blog subscribe to newsletter screenshot](//cdn.codecarrot.net/images/1-ASSbF7jlkgQEHg.png)
 
 A strong call-to-action will build upon this trust bringing users to a new part of the site where they can accomplish a new task one more than likely connected to one of your own corporate goals, if you've shown them great content, they'll trust you enough to subscribe to a newsletter.
 
-![product or service related screenshot](//blog.codecarrot.net/images/download-google-app.png)
+![product or service related screenshot](//cdn.codecarrot.net/images/download-google-app.png)
 
 If you've shown them awesome screenshots and lists of features for your app, perhaps they'll want to download it visually, your call to action should be clear and eye-catching.
 

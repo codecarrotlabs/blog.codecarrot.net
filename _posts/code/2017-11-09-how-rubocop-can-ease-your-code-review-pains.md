@@ -68,6 +68,6 @@ After **adding the plugin in Sublime Text** and restarting the editor, subsequen
 
 Be aware that although these might turn out to be helpful features, RuboCop running in the background will significantly slow your editor down when saving changes. However, if this becomes a nuisance and you still want to keep the process automated, you might choose integrating RuboCop with [Guard as a healthy alternative](//github.com/yujinakayama/guard-rubocop).
 
-![sublime text 3 robocop](//blog.codecarrot.net/images/1425999553-1412162922-rubocop-blogpost-obrazek.png)
+![sublime text 3 robocop](//cdn.codecarrot.net/images/1425999553-1412162922-rubocop-blogpost-obrazek.png)
 
 Thats it! With RuboCop you can nip these silly errors and style issues in the bud before any bad habits can sink in. RuboCop is here to enforce your code and style rules, so that you don’t have a second thought to your code review.

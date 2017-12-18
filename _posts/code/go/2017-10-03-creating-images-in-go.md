@@ -170,6 +170,6 @@ func main() {
 
 ## This code produces the following image:
 
-![Image produced by the code execuated by go](//blog.codecarrot.net/images/167567322689978.png)
+![Image produced by the code execuated by go](//cdn.codecarrot.net/images/167567322689978.png)
 
 That’s all regarding creating and saving images in Go. Next up, a basic camera model, stay tuned.

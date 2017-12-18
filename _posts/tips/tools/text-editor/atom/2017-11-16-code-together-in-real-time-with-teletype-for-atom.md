@@ -15,7 +15,7 @@ Writing code with another programmer is a great way to absorb knowledge, challen
 * Cloud-based IDEs and remote `tmux` sessions ask you to move your entire workflow into a hosted environment, which isn’t always possible or desirable.
 * The connection latency of screen sharing can lead to an awkward dynamic where only one collaborator can comfortably edit.
 
-![32577928-477e444e-c490-11e7-9118-3c69e51bf097.png](//blog.codecarrot.net/images/32577928-477e444e-c490-11e7-9118-3c69e51bf097.png)
+![32577928-477e444e-c490-11e7-9118-3c69e51bf097.png](//cdn.codecarrot.net/images/32577928-477e444e-c490-11e7-9118-3c69e51bf097.png)
 
 GitHub today announced a new feature for its Atom text editor that makes it easier for programmers to work with one another on shared code with [Teletype for Atom](//teletype.atom.io/) — a new way to dive right into code with remote collaborators. Work together in real time with your own configurations in your own programming environment on any file you can open in Atom.
 
@@ -29,7 +29,7 @@ The feature doesn’t include a chat or voice conference system, so people who w
 
 Live collaboration in editing text is nothing new, but GitHub’s approach is designed to help deal with the limitations of existing systems. While Google Docs works well for collaboration on word processing files, it’s missing key features for coders. More tailor-made systems require storing code on a centralized server, which means people working close to one another but far away from the main repository would have to deal with a delay between when one user enters text and when it shows up on another screen.
 
-![687474703a2f2f626c6f672e61746f6d2e696f2f696d672f706f7374732f74656c65747970652f636f64652d746f6765746865722e676966.gif](//blog.codecarrot.net/images/687474703a2f2f626c6f672e61746f6d2e696f2f696d672f706f7374732f74656c65747970652f636f64652d746f6765746865722e676966.gif)
+![687474703a2f2f626c6f672e61746f6d2e696f2f696d672f706f7374732f74656c65747970652f636f64652d746f6765746865722e676966.gif](//cdn.codecarrot.net/images/687474703a2f2f626c6f672e61746f6d2e696f2f696d672f706f7374732f74656c65747970652f636f64652d746f6765746865722e676966.gif)
 
 Screen sharing was another workaround that people have tried, but that system doesn’t work well with multiple people trying to control the same computer at once. Plus, that brings up all sorts of issues around connection latency, as well as privacy, since users could end up having to share their entire screen.
 
@@ -47,23 +47,23 @@ However, Teletype was built so that the number of people that would be useful to
 
 Once you install Teletype via Atom’s settings view or `apm install teletype` on the command line, you can open a “portal” into your local workspace from the new collaboration menu on the status bar.
 
-![teletype-share.gif](//blog.codecarrot.net/images/teletype-share.gif)
+![teletype-share.gif](//cdn.codecarrot.net/images/teletype-share.gif)
 
 Then just share your portal’s secret ID with collaborators via your preferred chat service.
 
-![Send the portal ID to a collaborator via a chat service](//blog.codecarrot.net/images/teletype-invite.gif)
+![Send the portal ID to a collaborator via a chat service](//cdn.codecarrot.net/images/teletype-invite.gif)
 
 Collaborators can enter your portal by clicking “Join” in the collaboration menu and entering the portal ID.
 
-![Once someone has your portal ID, they can join](//blog.codecarrot.net/images/teletype-join.gif)
+![Once someone has your portal ID, they can join](//cdn.codecarrot.net/images/teletype-join.gif)
 
 After joining your portal, collaborators see a new tab in their workspace that lets them view and edit the contents of your active editor. Everyone gets their own cursor, and everyone can type at the same time, but since sharing is at the keystroke-level rather than the pixel-level, participants all keep their own custom key bindings, packages, and themes.
 
-![Everyone gets a cursor](//blog.codecarrot.net/images/teletype-code-together.gif)
+![Everyone gets a cursor](//cdn.codecarrot.net/images/teletype-code-together.gif)
 
 When you share a portal, your code stays on your local disk. As you switch between files, the contents of your current active editor are transmitted to collaborators so they can follow along, but otherwise your workflow will be unchanged.
 
-![Guests follow the host](//blog.codecarrot.net/images/teletype-follow.gif)
+![Guests follow the host](//cdn.codecarrot.net/images/teletype-follow.gif)
 
 ## Implementation details
 

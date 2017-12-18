@@ -17,7 +17,7 @@ Whoever gets closest to the people wins.
 
 The longer is the means of communication, more you are pushing people further away from you.
 
-![Best Communcation Model](//blog.codecarrot.net/images/best-communcation-model.jpg)
+![Best Communcation Model](//cdn.codecarrot.net/images/best-communcation-model.jpg)
 
 Our mission here at [CodeCarrot](//www.codecarrot.net/) is to help business to give them an online presence to increase the reach for their business.
 
@@ -33,7 +33,7 @@ A [CodeCarrot Profile](//www.codecarrot.net/profiles) is like a digital business
 
 Let’s take mine profile for example:
 
-![Yashu Mittal - CodeCarrot Profiles](//blog.codecarrot.net/images/yashu-mittal-codecarrot-profile.png)
+![Yashu Mittal - CodeCarrot Profiles](//cdn.codecarrot.net/images/yashu-mittal-codecarrot-profile.png)
 
 I am the Founder and CEO of CodeCarrot Company
 

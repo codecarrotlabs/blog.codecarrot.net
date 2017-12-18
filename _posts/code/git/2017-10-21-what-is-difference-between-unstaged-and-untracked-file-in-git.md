@@ -31,7 +31,7 @@ What this means is that these changes in the untracked files are not yet able to
 
 In simple terms, it stores all the information about what will go with the next commit. It’s also called index.
 
-![Local Operations in Git Repository](//blog.codecarrot.net/images/main-qimg-ef1ac9925df956225785f65119ed6ddc.png)
+![Local Operations in Git Repository](//cdn.codecarrot.net/images/main-qimg-ef1ac9925df956225785f65119ed6ddc.png)
 
 So, to commit something, all of the commit's changes pass these areas one by one.
 

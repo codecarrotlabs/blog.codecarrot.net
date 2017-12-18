@@ -91,7 +91,7 @@ You can read about different filepicker_field options [here](//www.rubydoc.info/
 
 Modal that will allow you to upload your file looks like that:
 
-![Filestack Desktop V3 view](//blog.codecarrot.net/images/filestack-desktop-initial-view.jpg)
+![Filestack Desktop V3 view](//cdn.codecarrot.net/images/filestack-desktop-initial-view.jpg)
 
 If you use devise, remember to properly configure permitted parameters in your ApplicationController (this works for devise 3, there’s a [different syntax](//github.com/plataformatec/devise#strong-parameters) in devise 4):
 

@@ -31,7 +31,7 @@ Seek critique: It rhymes so it must be right. Right?
 
 The longer you work on a project, the more difficult it is to think objectively. This is where critique can be very helpful. Find some trusted colleagues or a friend that will give you honest feedback. If you’re working on a personal project and you feel comfortable posting your work to a public forum, even better.
 
-![Yashu Mittal Behance Profile](//blog.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
+![Yashu Mittal Behance Profile](//cdn.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
 
 *Sites like [Dribbble](//dribbble.com/codecarrot) & [Behance](//www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
 

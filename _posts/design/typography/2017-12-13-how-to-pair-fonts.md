@@ -26,13 +26,13 @@ An additional font can bring emphasis to different kinds of content (headings an
 
 A great example: using serif text for a block quote. The serif text complements the surrounding text and provides a gravitas that the standard font would not.
 
-![If you can dream it, you can do it.](//blog.codecarrot.net/images/ch3-image1.png)
+![If you can dream it, you can do it.](//cdn.codecarrot.net/images/ch3-image1.png)
 
 ### Because the body font is unsuitable
 
 In cases where a superfamily isn’t suitable and the body text font doesn’t work at larger sizes, use a different font for larger text such as headings. Using a *similar* font to the body text is a dangerous game—each font will be subtly different, and while people may not be able to articulate why something *looks* wrong, they’ll feel it. So it’s best to provide some contrast between these 2 different kinds of fonts.
 
-![Heading for text](//blog.codecarrot.net/images/ch3-image2.png)
+![Heading for text](//cdn.codecarrot.net/images/ch3-image2.png)
 
 ### Experimentation
 
@@ -40,7 +40,7 @@ In cases where a superfamily isn’t suitable and the body text font doesn’t w
 
 Once the role of the new font is clear, start searching and mixing fonts. Use the same methods mentioned in the previous chapter to find the required font, and compare it alongside your font to see if it works.
 
-![Heading for text](//blog.codecarrot.net/images/ch3-image3.png)
+![Heading for text](//cdn.codecarrot.net/images/ch3-image3.png)
 
 ### Tips for finding the right font
 
@@ -64,7 +64,7 @@ In traditional print design, it’s common to mix more than 2 fonts to bring con
 
 So if a design is complex and requires more weights of a font, then it’s okay to introduce them.
 
-![Heading for text](//blog.codecarrot.net/images/ch3-image4.png)
+![Heading for text](//cdn.codecarrot.net/images/ch3-image4.png)
 
 This isn’t to say it’s okay to add a bunch of fonts to a design—this has further ramifications like page weight and additional complexity in typesetting. Use only what’s necessary and nothing more.
 

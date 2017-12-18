@@ -23,7 +23,7 @@ In the world of Ruby on Rails, Active Record - as a default ORM library - is use
 
 As it is, ActiveRecord is certainly a great library that will do its job for the early stages of an application’s life (or even longer). However as the time passes and a more customized approach on the data storage level becomes necessary, this is where this pattern comes in handy.
 
-![Untitled_drawing_2.png](//blog.codecarrot.net/images/78ihjr64-Untitled_drawing_2.png)
+![Untitled_drawing_2.png](//cdn.codecarrot.net/images/78ihjr64-Untitled_drawing_2.png)
 
 Thanks to this division, we can easily manage business logic without mixing it with the data persistence layer. If there are any changes involving where we store our data, then we can change it without worrying about how to deal with ActiveRecord.
 

@@ -19,7 +19,7 @@ Quickly loading pages are crucial not only for efficient SEO but also for a good
 
 Breadcrumbs give web crawlers an idea of how your website is structured. In the picture below, you can see that the Guardian uses breadcrumbs to define what article is about. The most obvious use case in e-commerce is to show the category of the product to which a given link leads.
 
-![Using Breadcrumbs for SEO Tips](//blog.codecarrot.net/images/seotips.png)
+![Using Breadcrumbs for SEO Tips](//cdn.codecarrot.net/images/seotips.png)
 
 ## 3. Make Sure You Have Text on Your Website
 

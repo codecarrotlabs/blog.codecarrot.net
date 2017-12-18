@@ -29,7 +29,7 @@ Having the same language both on the front- and the back-end is excellent for ma
 
 Node.js comes with few hard dependencies, rules and guidelines, which leaves the room for freedom and creativity in developing your applications. Being an unopinionated framework, Node.js does not impose strict conventions allowing developers to select the best architecture, design patterns, modules and features for your next project. With Node, your engineering team will have access to thousands of modules for any imaginable purposes via the NPM repository.
 
-[![10 Top Companies that use Node.js](//blog.codecarrot.net/images/10-Top-companies-that-use-nodejs.jpg)](/10-top-companies-that-used-nodejs-in-production)
+[![10 Top Companies that use Node.js](//cdn.codecarrot.net/images/10-Top-companies-that-use-nodejs.jpg)](/10-top-companies-that-used-nodejs-in-production)
 
 ## Node.js Cons
 

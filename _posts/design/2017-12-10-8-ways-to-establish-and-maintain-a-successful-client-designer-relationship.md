@@ -53,7 +53,7 @@ If you don’t trust your designer, then they will spend most of their time tryi
 
 In the design process, asking the right questions is crucial if you want to get the right answers. The question investigates options that you might not have considered before. Why do we want this feature? What if the user will want to close that modal? What if the user will make a mistake?
 
-![But why](//blog.codecarrot.net/images/200_s.gif)
+![But why](//cdn.codecarrot.net/images/200_s.gif)
 
 The questions help both parties understand the solutions. Albert Einstein once said that we cannot solve problems on the level that we made them. The questions help us to get to a higher level of thinking.
 

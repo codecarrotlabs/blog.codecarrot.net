@@ -67,7 +67,7 @@ The only major area where Ruby and Python compete in equal footing is server-sid
 
 Ruby and Python are both programming languages that are popular for being easy to learn, powerful, and open-source with many great features in common.
 
-![Python and ruby has same algorithms](//blog.codecarrot.net/images/main-qimg-24067acdc9023a72fb4dc92140c717d4-c.jpg)
+![Python and ruby has same algorithms](//cdn.codecarrot.net/images/main-qimg-24067acdc9023a72fb4dc92140c717d4-c.jpg)
 
 Ruby was created in 1999, in fact because the author didn’t like Python. The *[Ruby Language FAQ](//ruby-doc.org/docs/ruby-doc-bundle/FAQ/FAQ.html)* describes his thinking:
 
@@ -98,7 +98,7 @@ letters.sort()
 
 Both languages are open source, object-oriented, interpreted, and statically typed with almost identical features:
 
-![features of python and ruby language](//blog.codecarrot.net/images/main-qimg-ebde4be01b518c463f42d48569b552a4-c.jpg)
+![features of python and ruby language](//cdn.codecarrot.net/images/main-qimg-ebde4be01b518c463f42d48569b552a4-c.jpg)
 
 Both also have strong communities of teachers and open-source developers. Ruby has one clear advantage: its community focuses on efficient developer tools that save time by implementing smart defaults and hiding complexity. The Python community is more focused on providing customizable and concise tools that give developers full control over their tools, but come with a steeper learning curve. Ruby’s tools make it simpler for beginners to build complete web applications, while providing the power to customize application functionality. For these reasons, we think that Ruby is the better language to learn with, and that's what we chose to teach as part of our  Full Stack Web Development Track  at Bloc, where I write curriculum
 

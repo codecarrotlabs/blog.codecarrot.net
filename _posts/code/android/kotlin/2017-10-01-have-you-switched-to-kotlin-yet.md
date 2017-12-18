@@ -9,13 +9,13 @@ description: The beauty of being a technology entrepreneur is that you always ge
 image: 1-iofIpMfqpzkfb96iDoZrQQ.jpeg
 ---
 
-![java is old and kotlin is great and fast](//blog.codecarrot.net/images/1-iofIpMfqpzkfb96iDoZrQQ.jpeg)
+![java is old and kotlin is great and fast](//cdn.codecarrot.net/images/1-iofIpMfqpzkfb96iDoZrQQ.jpeg)
 
 <blockquote>
 The beauty of being a technology entrepreneur is that you always get bounty of opportunities to keep yourself upgraded and get paid for the same. You never go out of fashion.
 </blockquote>
 
-![Android loves kotlin](//blog.codecarrot.net/images/1-DvIYrgwJ9EfAYv_JeL74nA.png)
+![Android loves kotlin](//cdn.codecarrot.net/images/1-DvIYrgwJ9EfAYv_JeL74nA.png)
 
 With more than **2 billion** active android devices and more than 80 % market share in mobile OS, the android has become the most preferred development platform for many mobility startups . For many software engineers android development has become the first career choice. Android has come a long way since its inception in 2007, the first commercial device was launched in 2008 as **HTC Dream** since than the operating system has gone through multiple major releases, with the current version being **8.0 “Oreo”**, released in August 2017.
 
@@ -25,7 +25,7 @@ One of the latest announcement made by google at their official event during the
 
 ## Kotlin : What & Why ?
 
-![Benefits of using kotlin](//blog.codecarrot.net/images/1-mw_OcR81G8vIg3ePH9MSeQ.png)
+![Benefits of using kotlin](//cdn.codecarrot.net/images/1-mw_OcR81G8vIg3ePH9MSeQ.png)
 
 ## What?
 

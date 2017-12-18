@@ -15,7 +15,7 @@ image: pexels-photo.jpg
 
 Node.js is an application runtime environment that allows you to write server-side applications in JavaScript. Thanks to its unique I/O model, it excels at the sort of scalable and real-time situations we are increasingly demanding of our servers.  It’s also lightweight, efficient, and its ability to use JavaScript on both frontend and backend opens new avenues for development. It comes as no surprise that so many big companies have leveraged Node.js in production. In this article, I want to discuss when it is worth using Node.js, and in what cases it might not be the best idea.
 
-![when use node.js backend](//blog.codecarrot.net/images/4hg8lh9hoxc-crew-486671-edited.jpg)
+![when use node.js backend](//cdn.codecarrot.net/images/4hg8lh9hoxc-crew-486671-edited.jpg)
 
 ## How is Node.js different from web JavaScript?
 

@@ -75,7 +75,7 @@ It’s time to go back and edit. Read the entire article once for any glaring mi
 
 Once you are done writing and reviewing your own work, send your post to someone else for proofing. Ask them to point out any grammatical errors, in addition to gaps in the content. If you share your article via Google Docs or Microsoft Word, they can leave comments, rather than making direct edits or putting notes into the text.
 
-![Proofreading](//blog.codecarrot.net/images/proofreading.jpg)
+![Proofreading](//cdn.codecarrot.net/images/proofreading.jpg)
 
 Credibility is everything. Get a second set of eyes on your copy before you publish a blog post.
 Step 6: Look for engaging visuals
@@ -107,7 +107,7 @@ Additionally, don’t forget to brainstorm topics that promote your business in 
 
 Once you have a list of ideas, put all of your topics into a content calendar. Arrange them to correspond with seasons, holidays and other times of the year that are important to your readership or business.
 
-![Calendar](//blog.codecarrot.net/images/calendar-inside-tablet.jpg)
+![Calendar](//cdn.codecarrot.net/images/calendar-inside-tablet.jpg)
 
 Create an editorial calendar to plan blog posts that make sense for your readers and your business, at the right time.
 

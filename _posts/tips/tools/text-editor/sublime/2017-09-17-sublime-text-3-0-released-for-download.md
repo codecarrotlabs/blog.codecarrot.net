@@ -19,7 +19,7 @@ The new Sublime Text also has some interesting visual changes, which can be seen
 
 Don't forget to take a look at the new Sublime icon.
 
-![New sublime text logo](//blog.codecarrot.net/images/sublime-text-new-logo-preview.png)
+![New sublime text logo](//cdn.codecarrot.net/images/sublime-text-new-logo-preview.png)
 
 In addition, compared to the last beta, 3.0 brings a completely new UI theme, a new syntax highlighting engine, Touch Bar for MacOS, touch input for Windows.
 

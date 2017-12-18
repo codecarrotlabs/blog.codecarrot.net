@@ -17,7 +17,7 @@ Modern web applications such as Facebook, or Instagram focus on microinteraction
 
 There are many combinations of different technologies and frameworks you can base your SPA on. We’ve researched and tested many options that include RoR, Node.js, Angular, Ember, or React. In this piece we want to focus on a setup which includes Ruby on Rails on the backend with React on the frontend  which is one of the optimal choices for SPAs. It allows for fast rendering, great user-experience and quick development. What else do you need?
 
-![Ruby on rails and react.jpg](//blog.codecarrot.net/images/ruby-on-rails-and-react-benefits-of-setup.png)
+![Ruby on rails and react.jpg](//cdn.codecarrot.net/images/ruby-on-rails-and-react-benefits-of-setup.png)
 
 ## Benefits of Using React for a Ruby on Rails Backend
 
@@ -51,7 +51,7 @@ The tools and libraries available in RoR make it way easier for the team to crea
 
 React uses virtual [DOM (Document Object Model)](/the-difference-between-virtual-dom-and-dom-in-react) technology that speeds up app rendering. The end user gets a faster and highly-interactive application with more-native-app-like experience.
 
-![Ruby on rails and react](//blog.codecarrot.net/images/ruby-on-rails-and-react-when-you-should-you-use-it.png)
+![Ruby on rails and react](//cdn.codecarrot.net/images/ruby-on-rails-and-react-when-you-should-you-use-it.png)
 
 ## Downsides of RoR + React Setup
 
@@ -73,7 +73,7 @@ Finally, if you **plan to later scale your app to mobile platforms**, React will
 
 One of our internal projects aimed at developing a snappy and fast application for real-time tweet streaming. The app was a SPA, so there was no need for website reloading. It enabled instant interaction with a dynamic content. It also provided a well-written front and backend for user account management. Development of the application took one month and involved one developer only. With RoR+React the process went smooth, whereas a traditional RoR setup would have produced more problems.
 
-![CodeCarrot Twitter Account](//blog.codecarrot.net/images/codecarrot-twitter.png)
+![CodeCarrot Twitter Account](//cdn.codecarrot.net/images/codecarrot-twitter.png)
 
 ### Marketplace app
 

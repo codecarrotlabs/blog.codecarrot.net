@@ -31,7 +31,7 @@ Whenever you think up a task or project, but can’t make time for it during the
 
 Think up a great, actionable idea for your business?  Put it in your “next actions” list. Come up with a new marketing idea that will take several hours to implement? Put it in your “next actions list.”
 
-![Next action list](//blog.codecarrot.net/images/nextactionslist.jpg)
+![Next action list](//cdn.codecarrot.net/images/nextactionslist.jpg)
 
 At the end of the week, organize these ideas, tasks, and projects into timeslots throughout your weekends, then pull each task from your next actions list and move  it into your calendar for the weekend. (More on this in the next section)
 
@@ -91,7 +91,7 @@ On paper, sure, but in reality, there are a lot of distractions and excuses to k
 
 My Saturdays are usually the most productive day of my weekends. I like to put myself into “Airplane Mode”. Much like how your phone’s Airplane Mode which disables all of your phone’s connectivity to the internet, I do the same thing by cutting myself off from distractions.
 
-![Yashu Mittal mobile phone screenshot](//blog.codecarrot.net/images/yashumittal-airplane-mode-mobile-screenshot.png)
+![Yashu Mittal mobile phone screenshot](//cdn.codecarrot.net/images/yashumittal-airplane-mode-mobile-screenshot.png)
 
 Though it’s unlikely you’ll be able to get much done without the internet there are tools you can use to help keep you from wandering off and browsing Facebook, while staying connected to the internet.
 

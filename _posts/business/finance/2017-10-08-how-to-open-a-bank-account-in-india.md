@@ -55,7 +55,7 @@ You must keep the account open for at least one year, but not more than five yea
 
 ## What documents do I need?
 
-![Life Aboard Studying Abroad](//blog.codecarrot.net/images/Life-Abroad-Studying-Abroad.jpg)
+![Life Aboard Studying Abroad](//cdn.codecarrot.net/images/Life-Abroad-Studying-Abroad.jpg)
 
 Whether you want to open an account as a resident or non-resident, you will need to provide proof of identity and proof of your address, as well as a recent photograph.
 

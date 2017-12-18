@@ -4,7 +4,7 @@ title: Web design tips for gathering new leads
 date: 2017-06-26 12:00:00
 categories: growth
 description: Download a free checklist of web design tips to boost lead generation on your website, from creating content that converts to measuring results.
-image: http://blog.codecarrot.net/images/table-computer-and-other-stuff.jpg
+image: http://cdn.codecarrot.net/images/table-computer-and-other-stuff.jpg
 ---
 
 https://www.godaddy.com/garage/smallbusiness/launch/web-design-tips-for-gathering-new-leads-worksheet/

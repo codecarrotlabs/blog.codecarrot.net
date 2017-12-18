@@ -61,4 +61,4 @@ Hiring a ghostwriter needn’t be anyone’s shameful little secret, and I’ve 
 
 Ghostwriters provide a valuable service to clients, but it is up to you to advocate for your own careers. Building a strong portfolio not only helps you land more work, it allows to increase your rates, expand your expertise, and establish your professional standing. We can’t let something as singular as a byline stand in the way of earning what your worth.
 
-[![Want to get a portfolio for yourself?](//blog.codecarrot.net/images/want-a-portfolio-website-promo.png)](//codecarrot.net/)
+[![Want to get a portfolio for yourself?](//cdn.codecarrot.net/images/want-a-portfolio-website-promo.png)](//codecarrot.net/)

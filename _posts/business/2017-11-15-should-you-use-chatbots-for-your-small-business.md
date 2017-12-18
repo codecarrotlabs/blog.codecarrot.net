@@ -29,7 +29,7 @@ Chatbots can do a range of things for your business. Here is a list of things:
 
 When we tell you chatbots are a wise investment, don’t believe us. Believe the numbers instead. A recent study conducted by Forrester Consulting found that 93% of online consumers interact with bots today. Put that in perspective with this graph:
 
-![1_7yz2oL1diR_jm6JIB1ugTg.png](//blog.codecarrot.net/images/1_7yz2oL1diR_jm6JIB1ugTg.png)
+![1_7yz2oL1diR_jm6JIB1ugTg.png](//cdn.codecarrot.net/images/1_7yz2oL1diR_jm6JIB1ugTg.png)
 
 ## Other reasons you should get a chatbot for your business
 

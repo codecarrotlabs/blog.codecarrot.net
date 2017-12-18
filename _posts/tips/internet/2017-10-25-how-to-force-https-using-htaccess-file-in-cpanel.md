@@ -21,13 +21,13 @@ When it comes to setting up a rewrite rule, it is useful to know that there is a
 
 **Status code 301 (permanent redirect)** implies that the requested resource has moved to a new location permanently, thus search engines should not take into account the references to a previous location and index a new one. Web-browsers, in turn, will store a new URL in cache, therefore, giving it priority over the initial URL.
 
-![Status code 301](//blog.codecarrot.net/images/force_https1.png)
+![Status code 301](//cdn.codecarrot.net/images/force_https1.png)
 
 ### Status code 302 (temporary redirect)
 
 **Status code 302 (temporary redirect)** means that the redirect has been set for a limited period of time. Search engines in this case should honor both locations as equal and the initial one would remain valid. Accordingly, browsers will not cache the new URL and the redirection will be executed every time the initial URL is requested.
 
-![Status code 302](//blog.codecarrot.net/images/force_https2.png)
+![Status code 302](//cdn.codecarrot.net/images/force_https2.png)
 
 **NOTE:** Enabling a 302 redirect for a long period of time can significantly decrease a website’s ranking in search results. In terms of HTTP-HTTPS redirect, all site requests are split between http://domain.com and https://domain.com, since both are indexed by search engines separately. Therefore, in most cases a 301 status code is preferable for HTTP-HTTPS redirects.
 
@@ -63,7 +63,7 @@ This block works the same as the previous one, just with the help of a different
 
 To enable a redirect for a single site, one can specify any of the blocks listed below in .htaccess:
 
-![Enable https using code in .htaccess](//blog.codecarrot.net/images/enable-https-using-code-in-htaccess.png)
+![Enable https using code in .htaccess](//cdn.codecarrot.net/images/enable-https-using-code-in-htaccess.png)
 
 Generally, all of the rule sets above do the same job: checking the port (80 for http, 443 for https), verifying whether a domain name in the initial request is with or without “www.” alias, and rewriting the URL with https://. You may choose which one to implement based on your individual preference.
 
@@ -71,7 +71,7 @@ Generally, all of the rule sets above do the same job: checking the port (80 for
 
 If you need to setup a redirect for all sites within Cpanel account except of one or a few, the block of code specified below can be added to .htaccess:
 
-![Disabling rewrite rule application for a specific site](//blog.codecarrot.net/images/disabling-rewrite-rule-application-for-a-specific-site.png)
+![Disabling rewrite rule application for a specific site](//cdn.codecarrot.net/images/disabling-rewrite-rule-application-for-a-specific-site.png)
 
 The first condition in the block matches the requested URL against the domain name, included to conditional value (the one that should NOT be redirected), and stops rewriting if they match. It is possible to add domain names to the conditional directive, separating them with the `”|”` symbol, or to specify several conditional directives, (see examples in previous section).
 
@@ -79,7 +79,7 @@ The first condition in the block matches the requested URL against the domain na
 
 Sometimes you may need to redirect a certain part of a website located in a specific subfolder, while leaving the rest of the site as-is. To do this, insert the following block to .htaccess:
 
-![Enabling HTTPS for a specific subfolder](//blog.codecarrot.net/images/enabling-https-for-a-specific-subfolder.png)
+![Enabling HTTPS for a specific subfolder](//cdn.codecarrot.net/images/enabling-https-for-a-specific-subfolder.png)
 
 This rule is applied if only a specified subfolder is mentioned in the initial request.
 
@@ -87,13 +87,13 @@ This rule is applied if only a specified subfolder is mentioned in the initial r
 
 The rewrite rule for redirecting a specific page is similar to the previous one:
 
-![Forcing HTTPS for a specific page](//blog.codecarrot.net/images/forcing-https-for-a-specific-page.png)
+![Forcing HTTPS for a specific page](//cdn.codecarrot.net/images/forcing-https-for-a-specific-page.png)
 
 Only the requested page will be redirected; other site content will remain unaffected.
 
 If the page that needs to be redirected is located in a specific subfolder, the RewriteRule line should be modified as follows:
 
-![Forcing HTTPS for a specific page 2](//blog.codecarrot.net/images/forcing-https-for-a-specific-page2.png)
+![Forcing HTTPS for a specific page 2](//cdn.codecarrot.net/images/forcing-https-for-a-specific-page2.png)
 
 (in the above example, “test” is the subfolder in question)
 
@@ -101,7 +101,7 @@ If the page that needs to be redirected is located in a specific subfolder, the 
 
 If you have a number of pages with the same name, located in different subfolders (the example “index.html” is used below), you may enable HTTPS redirect for all of them at once. Do this by applying the ruleset as shown below:
 
-![Setting up redirect for a specific file name, regardless of location](//blog.codecarrot.net/images/setting-up-redirect-for-a-specific-file-name-regardless-of-location.png)
+![Setting up redirect for a specific file name, regardless of location](//cdn.codecarrot.net/images/setting-up-redirect-for-a-specific-file-name-regardless-of-location.png)
 
 Only the pages with the file names that match the {REQUEST_FILENAME} parameter value will be redirected to HTTPS.
 
@@ -109,6 +109,6 @@ Only the pages with the file names that match the {REQUEST_FILENAME} parameter v
 
 Each rewrite rule ends with so-called “rewrite flag”s (specified in square brackets, e.g. [R,L]). These flags help to control the rewriting process to be performed correctly. To set a redirect with a 301 status code (permanent), you will need to assign this code to the R-flag in brackets by adding “=301”.
 
-![How to specify a redirect status code in rewrite rule](//blog.codecarrot.net/images/force_https3.png)
+![How to specify a redirect status code in rewrite rule](//cdn.codecarrot.net/images/force_https3.png)
 
 **NOTE:** If there is no value specified for the R-flag, a redirection will be executed with a 302 status code by default.

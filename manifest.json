@@ -3,32 +3,32 @@
 	"short_name": "Codecarrot",
 	"icons": [
 		{
-			"src": "http://blog.codecarrot.net/images/favicon.png",
+			"src": "http://cdn.codecarrot.net/images/favicon.png",
 			"sizes": "96x96",
 			"type": "image/png"
 		},
 		{
-			"src": "http://blog.codecarrot.net/images/favicon.png",
+			"src": "http://cdn.codecarrot.net/images/favicon.png",
 			"sizes": "128x128",
 			"type": "image/png"
 		},
 		{
-			"src": "http://blog.codecarrot.net/images/favicon.png",
+			"src": "http://cdn.codecarrot.net/images/favicon.png",
 			"sizes": "144x144",
 			"type": "image/png"
 		},
 		{
-			"src": "http://blog.codecarrot.net/images/favicon.png",
+			"src": "http://cdn.codecarrot.net/images/favicon.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "http://blog.codecarrot.net/images/favicon.png",
+			"src": "http://cdn.codecarrot.net/images/favicon.png",
 			"sizes": "384x384",
 			"type": "image/png"
 		},
 		{
-			"src": "http://blog.codecarrot.net/images/favicon.png",
+			"src": "http://cdn.codecarrot.net/images/favicon.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}

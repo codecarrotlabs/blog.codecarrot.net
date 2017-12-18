@@ -27,7 +27,7 @@ Keep in mind that even if you want to apply for a loan, lenders will ask how muc
 
 ## Business credit cards
 
-![Person handing over the card](//blog.codecarrot.net/images/person-handing-over-the-card.jpg)
+![Person handing over the card](//cdn.codecarrot.net/images/person-handing-over-the-card.jpg)
 
 Credit cards are never good for long-term financing because they tend to have higher interest rates than loans. But for short-term financing, a 0-percent annual percentage rate (APR) business credit card is among your best options. The 0-percent APR lasts for an introductory period, with most ranging between six and 15 months.
 

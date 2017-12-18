@@ -39,7 +39,7 @@ From well-known sites to independent curated collections, downloadable fonts are
 
 Get your creative juices flowing with these stimulating type resources.
 
-![Tricks that will help you learn hand-lettering](//blog.codecarrot.net/images/hand-lettering-hl-thumb.jpg)
+![Tricks that will help you learn hand-lettering](//cdn.codecarrot.net/images/hand-lettering-hl-thumb.jpg)
 
 **Read more:** [Tricks that will help you learn hand-lettering](/tricks-that-will-help-you-learn-hand-lettering)
 
@@ -84,7 +84,7 @@ Use these tools to get exact font measurements.
 
 A font match made in Heaven—and you get to be cupid!
 
-![PT Serif Regular Then Italic](//blog.codecarrot.net/images/pt-serif.png)
+![PT Serif Regular Then Italic](//cdn.codecarrot.net/images/pt-serif.png)
 
 * [Font Pair](//fontpair.co/) – Pair google fonts together
 * [Font Combinator](//font-combinator.com/) – Preview fonts in browser-based way

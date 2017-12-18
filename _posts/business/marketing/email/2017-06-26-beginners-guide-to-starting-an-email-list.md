@@ -35,7 +35,7 @@ OK, here’s how you do NOT get people on your list: buy them. That’s right �
 To put it mildly, sending random emails to people these days pisses them off. No one likes to be added to a list without their permission. It’s the fastest way to tick off potential readers and to get your address sent over to spamville.
 </blockquote>
 
-![No Junk Mail](//blog.codecarrot.net/images/no-junk-mail.jpg)
+![No Junk Mail](//cdn.codecarrot.net/images/no-junk-mail.jpg)
 
 You want to create a list of people who actually agree to be on your list. The best way to get them to agree? Make it easy! Include a big, fat sign-up button on your blog. Most good email marketing programs also enable you to add a sign-up form to your Facebook page.
 

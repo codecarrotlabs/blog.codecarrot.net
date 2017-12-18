@@ -21,7 +21,7 @@ Who doesn’t like options, right! You can test absolutely anything: a form or t
 
 **Check out this A/B testing example:**
 
-![ab-testing.png](//blog.codecarrot.net/images/ab-testing.png)
+![ab-testing.png](//cdn.codecarrot.net/images/ab-testing.png)
 
 From the above image, it is clear that **Version A** had 23% lower Control as compare to **Version B**.
 

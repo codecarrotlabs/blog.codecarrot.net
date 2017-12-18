@@ -33,7 +33,7 @@ When we think about the strengths of Node.js, the first thing that comes to our 
 
 Node.js is written in Javascript, a programming language that dominates front-end development. Some of the most popular front-end frameworks, such as Ember, React, and Angular, leverage power and flexibility of JS to create dynamic Web 2.0 applications. With Node.js installed server-side, developers can use the same programming language across the web stack. The same language at the front end and the back end means you need a smaller and more efficient team, which can communicate better and, as a result, deliver tasks much faster.
 
-![Benchmark runtime - Lower is better](//blog.codecarrot.net/images/image1-14.png)
+![Benchmark runtime - Lower is better](//cdn.codecarrot.net/images/image1-14.png)
 
 ### 3. Scalable solution
 

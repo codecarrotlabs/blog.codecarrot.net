@@ -22,7 +22,7 @@ Symbol overrides were a game changer in Sketch’s workflow.
 
 Back in the old days, we needed to create a separate version of every symbol instance. Basically, the role of a symbol was limited to a very simple element like a single state icon or a button.
 
-![create a separate version of every symbol instance in sketch](//blog.codecarrot.net/images/image13-1.png)
+![create a separate version of every symbol instance in sketch](//cdn.codecarrot.net/images/image13-1.png)
 
 For example, if we needed an iOS tab bar, then we needed to have multiple versions of every state of the button. If we had 5 tabs, then we needed to have at least 5 symbols for that. If we wanted to show different “notifications” for every element and every screen, then we needed to create separate versions of the symbols with the notifications. By and large, every other “state” of the symbol would force you to create a completely new, dedicated symbol.
 
@@ -34,23 +34,23 @@ To override the states or simply use different colors of the same icons, we need
 
 **Proposed solution (basic):**
 
-![create multiple versions of that same icon only with a different fill color in sketch](//blog.codecarrot.net/images/image09.png)
+![create multiple versions of that same icon only with a different fill color in sketch](//cdn.codecarrot.net/images/image09.png)
 
 We can approach this problem in the same way as the text layers are treated in symbols. They are editable. So this lets us simply choose the fill color.
 
 **Proposed solution (advanced):**
 
-![choose the fill color in sketch](//blog.codecarrot.net/images/image08.png)
+![choose the fill color in sketch](//cdn.codecarrot.net/images/image08.png)
 
 As you can see here, we can go even further and open more options for the non-destructive edition of an in-symbol symbol element (I feel that we need a broader terminology here, by the way). In this model, the beginning of the axis of the nested symbol is in its top left corner. We could even change its place and size, transform it, change its opacity and blending of the override. But wait a second! It ain’t that easy. What if the symbol has multiple elements in various colors? I am glad you asked. We could approach it in two ways:
 
 1. Showing the following menu only when the content of symbol is a single (combined) shape, or a set of shapes with identical fill colors.
 
-![Menu shows when shape is combined or color is filled in sketch](//blog.codecarrot.net/images/image07.png)
+![Menu shows when shape is combined or color is filled in sketch](//cdn.codecarrot.net/images/image07.png)
 
 2. Show the following menu only for the element that has the colors from the library (this indicates that the colors can be changed).
 
-![Show menu for the element that color has changed in sketch](//blog.codecarrot.net/images/image10.png)
+![Show menu for the element that color has changed in sketch](//cdn.codecarrot.net/images/image10.png)
 
 Necessity is the mother of invention, so I am currently using a workaround: I use plain colors as a mask that I can change, but it has its limitations and requires additional work.
 
@@ -58,7 +58,7 @@ Necessity is the mother of invention, so I am currently using a workaround: I us
 
 It would be great to be able to cycle through blending modes quickly.
 
-![blending modes quickly in sketch](//blog.codecarrot.net/images/image12.png)
+![blending modes quickly in sketch](//cdn.codecarrot.net/images/image12.png)
 
 When you want to see what effect the blending mode will have, you need to:
 
@@ -78,31 +78,31 @@ As our project progresses, we build more and more advanced symbol instances. Let
 
 This is our base symbol:
 
-![Sample Image for iOS Navigation Bar in sketch](//blog.codecarrot.net/images/image05-1.png)
+![Sample Image for iOS Navigation Bar in sketch](//cdn.codecarrot.net/images/image05-1.png)
 
 An example of a flexible symbol.
 
 It let us create the following instances (by simply turning on and off the elements):
 
-![turning on and off the elements of Sample Image for iOS Navigation Bar in sketch](//blog.codecarrot.net/images/image03-4.png)
+![turning on and off the elements of Sample Image for iOS Navigation Bar in sketch](//cdn.codecarrot.net/images/image03-4.png)
 
 **Problem:**
 
 Let’s assume that we have 40 instances like that in the project. During the design iteration we discover that we need to add another element to that symbol, which will be visible only in some specific new screens:
 
-![Visible elements only in some specific new screens for iOS Navigation Bar in sketch](//blog.codecarrot.net/images/image06.png)
+![Visible elements only in some specific new screens for iOS Navigation Bar in sketch](//cdn.codecarrot.net/images/image06.png)
 
 We added a new element to the symbol
 
 Adding a new element will affect ALL the 40 instances:
 
-![Effect of adding 40 instances for iOS Navigation Bar in sketch](//blog.codecarrot.net/images/image04-2.png)
+![Effect of adding 40 instances for iOS Navigation Bar in sketch](//cdn.codecarrot.net/images/image04-2.png)
 
 The new element was added to all of the instances, which ruins the project a bit ;)
 
 **Solution:**
 
-![Hiding new elements for iOS Navigation Bar in sketch](//blog.codecarrot.net/images/image14-1.png)
+![Hiding new elements for iOS Navigation Bar in sketch](//cdn.codecarrot.net/images/image14-1.png)
 
 Since it is better to hide that new element in one base symbol than to look for it in 40 instances, it would be great to have that option (hide by default) in the base symbol.
 
@@ -128,7 +128,7 @@ Most software utilizes this simple trick, making the life of millions of people 
 
 ## 7. Spacebar for moving a created patch point
 
-![Spacebar for moving a created patch point in sketch](//blog.codecarrot.net/images/patch-point-in-sketch.png)
+![Spacebar for moving a created patch point in sketch](//cdn.codecarrot.net/images/patch-point-in-sketch.png)
 
 What if you want to change the position of the created point?
 

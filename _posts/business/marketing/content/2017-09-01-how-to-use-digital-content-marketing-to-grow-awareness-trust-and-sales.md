@@ -47,7 +47,7 @@ If you’re going to venture into audio podcasting, you’ll probably want to ha
 
 The most important thing is to choose something that you’re good at, that you can commit to doing consistently, and hopefully that you’ll enjoy creating.
 
-![Person capturing a picture using canon camera](//blog.codecarrot.net/images/person-capturing-a-picture.jpg)
+![Person capturing a picture using canon camera](//cdn.codecarrot.net/images/person-capturing-a-picture.jpg)
 
 ## Give your content time to grow
 

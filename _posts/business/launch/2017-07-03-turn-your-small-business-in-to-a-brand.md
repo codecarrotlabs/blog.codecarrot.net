@@ -20,7 +20,7 @@ Branding your business lead you towards the path of discovering your business be
 3.  What is the image of your business among prospects and customers?
 4.  Name the qualities that you can relate to your business.
 
-![Brand](//blog.codecarrot.net/images/brand.png)
+![Brand](//cdn.codecarrot.net/images/brand.png)
 
 ## Follow this Checklist
 

@@ -62,7 +62,7 @@ Responsibilities are great, but an employer wants relevant and results-driven ex
 
 The most important thing to remember is that you are not writing your resume for you to look at and admire all of your accomplishments. You are writing your resume for your audience. You must tailor towards the industry and include specific key achievements and value that you bring to the job and company.
 
-[![Resume Website](//blog.codecarrot.net/images/kards-template.png)](//www.codecarrot.net/)
+[![Resume Website](//cdn.codecarrot.net/images/kards-template.png)](//www.codecarrot.net/)
 
 Would you like to use this template for your own resume website?
 

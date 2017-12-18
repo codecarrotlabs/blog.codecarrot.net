@@ -28,7 +28,7 @@ A savings bank account is pretty much what the word means – a bank account tha
 * A recent colour photograph.
 * Proof of Address (Electricity bill, rental agreement, LPG/Gas bill).
 
-![money-animated-gif-12.gif](//blog.codecarrot.net/images/money-animated-gif-12.gif)
+![money-animated-gif-12.gif](//cdn.codecarrot.net/images/money-animated-gif-12.gif)
 
 ## What is a Current Account?
 

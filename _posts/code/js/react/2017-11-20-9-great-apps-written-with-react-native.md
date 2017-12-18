@@ -17,7 +17,7 @@ The idea of creating apps using only one paradigm for all platforms sounds a bit
 
 The dev team converted the Events Dashboard feature in the Facebook for iOS app to [React Native to test app performance, such as startup time, which is crucial in this kind of applications](/why-you-should-consider-react-native-for-your-mobile-app). It is a significant part of the user’s first impression of the app and determines whether they will stay or leave. What they achieved was cutting time-to-market in half. Read about their journey with React Native here.
 
-![pexels-photo-267482.jpeg](//blog.codecarrot.net/images/pexels-photo-267482.jpeg)
+![pexels-photo-267482.jpeg](//cdn.codecarrot.net/images/pexels-photo-267482.jpeg)
 
 ## Skype
 
@@ -25,7 +25,7 @@ Skype has recently announced that it is testing a new Android app written in Rea
 
 It's also worth noting that the [GitHub repo](//github.com/Microsoft/react-native-windows) with the React Native plugin for Universal Windows Platforms was recently moved to Microsoft. That means that not only can we expect Skype for iOS but also a desktop version which will be the first the big React Native project for Windows. This is a good sign for the platform. Very soon we might see RN working quite well on Windows too.
 
-![mobile-phone-android-apps-phone-163065.jpeg](//blog.codecarrot.net/images/mobile-phone-android-apps-phone-163065.jpeg)
+![mobile-phone-android-apps-phone-163065.jpeg](//cdn.codecarrot.net/images/mobile-phone-android-apps-phone-163065.jpeg)
 
 ## Facebook Ads
 
@@ -39,7 +39,7 @@ Instagram took the challenge to integrate React Native into their existing nativ
 
 The dev team at Instagram faced a few problems on the way, but they substantially improved developer velocity. 85% to 99% of code was shared between Android and iOS apps, depending on products, thus the team was able to deliver the app much faster than they would have with a native solution.
 
-![IndyMockups_01.png](//blog.codecarrot.net/images/IndyMockups_01.png)
+![IndyMockups_01.png](//cdn.codecarrot.net/images/IndyMockups_01.png)
 
 ## Walmart
 
@@ -47,7 +47,7 @@ Walmart aims really high, aspiring to become the world’s largest online retail
 
 Walmart managed to improve performance of the app on both iOS and Android by using less resources and within shorter time span. 95% of the codebase was shared between platforms while skills and experience of developers were leveraged across the organization. React Native allowed for great performance, nearly identical to native apps, and extremely smooth animations.
 
-![IndyMockups_02.png](//blog.codecarrot.net/images/IndyMockups_02.png)
+![IndyMockups_02.png](//cdn.codecarrot.net/images/IndyMockups_02.png)
 
 ## Airbnb
 
@@ -63,7 +63,7 @@ Despite a few weaknesses the team at SoundCloud spotted, their experience with t
 
 The dev team at Yeti Smart Home faced a similar problem as the guys at SoundCloud. They lacked iOS and Android developers, but they really wanted to start building native apps. That’s why they turned to React Native, a framework that seemed to be a better option than learning from scratch, to create good native experiences in Swift and Java separately. It wasn’t too easy at the beginning, as React Native was still a very immature landscape. Only with time and contribution of the growing Open Source community, the project moved forward faster and faster and then they could jump outside the mobile screen to design components that would control different devices. React Native, thanks to its modular construction, made it possible to reuse those “little bricks” to build each interface.
 
-![pexels-photo (3).jpg](//blog.codecarrot.net/images/pexels-photo3.jpg)
+![pexels-photo (3).jpg](//cdn.codecarrot.net/images/pexels-photo3.jpg)
 
 ## Uber Eats
 

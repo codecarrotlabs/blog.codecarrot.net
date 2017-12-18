@@ -33,7 +33,7 @@ It's called a server because it 'serves' up the right content when requested - t
 
 There are many companies and services that will rent you space on a server and host your website. Think of it like a bricks and mortar shop, you pay an ongoing hosting fee, which is a bit like paying rent, leaving them to take care the technical aspects of running a server so you don't have to.
 
-![Web Hosting like Real E-State](//blog.codecarrot.net/images/web-hosting-like-real-e-state.png)
+![Web Hosting like Real E-State](//cdn.codecarrot.net/images/web-hosting-like-real-e-state.png)
 
 **Online real E-State**
 

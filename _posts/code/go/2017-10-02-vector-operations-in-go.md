@@ -98,7 +98,7 @@ This operation is achieved by adding the corresponding coefficients of two vecto
 
 Geometrically it looks like this:
 
-![Geometric definition of adding two vectors](//blog.codecarrot.net/images/addition1506789318.png)
+![Geometric definition of adding two vectors](//cdn.codecarrot.net/images/addition1506789318.png)
 
 ```go
 go
@@ -120,7 +120,7 @@ func TestAdd(t *testing.T) {
 
 Subtraction is similar to addition, with the difference that we add a negated vector:
 
-![Geometric definition of subtracting two vectors](//blog.codecarrot.net/images/4f89-b0b4-f7fce53f.png)
+![Geometric definition of subtracting two vectors](//cdn.codecarrot.net/images/4f89-b0b4-f7fce53f.png)
 
 Analogically to addition of two vectors, we subtract the corresponding coefficients of two vectors:
 
@@ -144,7 +144,7 @@ func TestSub(t *testing.T) {
 
 Multiplying by a scalar can be interpreted as scaling the vector (modifying it's length). This operation is also pretty straightforward, as we have to multiply each coefficient by the scalar:
 
-![Geometric definition of scaling a vector](//blog.codecarrot.net/images/scaling1506789318751.png)
+![Geometric definition of scaling a vector](//cdn.codecarrot.net/images/scaling1506789318751.png)
 
 ```go
 go
@@ -173,18 +173,18 @@ This operation is particularly important in the context of the ray tracing algor
 
 It's algebraic definition is the following:
 
-![Dot product algebraic definition](//blog.codecarrot.net/images/algebraic_dot_product.svg)
+![Dot product algebraic definition](//cdn.codecarrot.net/images/algebraic_dot_product.svg)
 
 It's a simple equation, we multiply corresponding coefficients of both vectors, and then sum those multiplications. But this definition isn't of much use in context of the ray tracing algorithm. What we need here is the geometric definition:
 
-![Dot product geometric definition](//blog.codecarrot.net/images/geometric_dot_product.svg)
+![Dot product geometric definition](//cdn.codecarrot.net/images/geometric_dot_product.svg)
 
 The notation `||A||` means length of vector A (more on that in a sec). `θ` is the angle between the vectors. The fact that we use the cosine function gives us some interesting cases:
 
 1. When the vectors are orthogonal, then the angle between them is 90°. This means that the cosine is 0 and the whole dot product is 0
 2. When the vectors are codirectional, then the angle between them is 0°. This means that the cosine is 1 and the dot product evaluates to:
 
-![Dot product geometric definition](//blog.codecarrot.net/images/geometric_dot_product_codirectional.svg)
+![Dot product geometric definition](//cdn.codecarrot.net/images/geometric_dot_product_codirectional.svg)
 
 This two cases give us a way to determine if two rays are orthogonal or co-directional, which has a huge meaning when evaluating materials of objects.
 
@@ -213,7 +213,7 @@ Pretty simple, eh?
 
 As stated earlier, we denote the length of a vector A like this `- ||A||`. It's algebraic definition is following:
 
-![Vector length algebraic definition](//blog.codecarrot.net/images/vector_length.svg)
+![Vector length algebraic definition](//cdn.codecarrot.net/images/vector_length.svg)
 
 As you can see, it's basically a dot product of a vector with itself, under a square root.
 
@@ -243,11 +243,11 @@ Additionally this operation is defined in `R3`
 
 The cross product can be also used for calculating a surface normal (the surface that is defined by the two vectors).
 
-![Cross product](//blog.codecarrot.net/images/cross_product.png)
+![Cross product](//cdn.codecarrot.net/images/cross_product.png)
 
 The cross product formula is somewhat hard to remember:
 
-![Cross product formula](//blog.codecarrot.net/images/cross_product.svg)
+![Cross product formula](//cdn.codecarrot.net/images/cross_product.svg)
 
 The implementation looks like this:
 
@@ -272,7 +272,7 @@ func TestCrossProduct(t *testing.T) {
 
 Also called calculating a unit vector - versor:
 
-![Vector normalization formula](//blog.codecarrot.net/images/vector_normalization.svg)
+![Vector normalization formula](//cdn.codecarrot.net/images/vector_normalization.svg)
 
 All we have to do, is divide (multiply by 1 / x) each of the vectors components by the length of the vector:
 

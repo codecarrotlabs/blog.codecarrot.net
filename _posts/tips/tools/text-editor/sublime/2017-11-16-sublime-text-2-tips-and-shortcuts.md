@@ -57,7 +57,7 @@ There are other keyboard shortcuts for jumping to a line and going to a symbol b
 
 OK this one is also important and I can't recommend it enough. **Learn to split your editor windows**. I never used this feature in previous IDEs and now I wonder how I ever lived without it. Whether you have a unit test in one window and an implementation in the other, or some HTML and CSS, this feature is just always handy.
 
-![Split panes in Sublime](//blog.codecarrot.net/images/sublime-split-panes.png)
+![Split panes in Sublime](//cdn.codecarrot.net/images/sublime-split-panes.png)
 
 I *live* in split panes. They've changed my workflow significantly for the better. Less time switching between files and finding your place is an incredible advantage. You can access them through `View > Layouts`. It will behoove you to learn these keyboard shortcuts. Also learn the shortcuts for `View > Focus Group` and `View > Move File to Group`.
 

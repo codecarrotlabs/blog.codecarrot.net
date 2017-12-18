@@ -21,7 +21,7 @@ It is comprised of several parts there are new browser API's and features like D
 
 If you are new to HTML5, you're probably more interested in the new elements or tags that are available.
 
-![Screenshot of the basic html5 code](//blog.codecarrot.net/images/screenshot-of-the-basic-html5-code.png)
+![Screenshot of the basic html5 code](//cdn.codecarrot.net/images/screenshot-of-the-basic-html5-code.png)
 
 ## 1. HTML5 doctype.
 

@@ -19,7 +19,7 @@ Let’s look at seven ways to help your business stand out from the crowd. Each 
 
 Most forward thinking companies are familiar with the benefits of getting a website and start blogging. If you’re tired of being overlooked online; if you’re seeking a fresh way to share ideas, bring more awareness about your product/service and have your voice heard, get involved with corporate website and blogging.
 
-[![Make your business online with a website Promo](//blog.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website Promo](//cdn.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](//codecarrot.net/)
 
 ## 2. Provide Legendary Customer Service
 

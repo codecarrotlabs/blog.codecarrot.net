@@ -25,4 +25,4 @@ Or of course you could do a mixture of the two where you have an official compan
 
 You can follow [CodeCarrot on twitter](//www.twitter.com/codecarrotnet).
 
-[![CodeCarrot Twitter Page](//blog.codecarrot.net/images/codecarrot-twitter.png)](//www.twitter.com/codecarrotnet).
+[![CodeCarrot Twitter Page](//cdn.codecarrot.net/images/codecarrot-twitter.png)](//www.twitter.com/codecarrotnet).
