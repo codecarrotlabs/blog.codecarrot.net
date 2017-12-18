@@ -35,7 +35,7 @@ You need to anticipate and eliminate these opportunities for frustration, so tha
 
 ## The Most Common Sources of Frustration for Customers
 
-While complaints can take many forms, there are a few key things that can leave customers dissatisfied if they aren’t handled properly. If you can master these critical issues, your business will start getting less complaints and more [happy customers](/7-creative-ways-to-surprise-and-delight-your-customers/) instead.
+While complaints can take many forms, there are a few key things that can leave customers dissatisfied if they aren’t handled properly. If you can master these critical issues, your business will start getting less complaints and more [happy customers](/7-creative-ways-to-surprise-and-delight-your-customers) instead.
 
 Keeping your customers happy is all about managing expectations. Most customer complaints are caused by a disconnect between expectation and reality, so you need be able to more accurately align your customers’ expectations with likely outcomes.
 
