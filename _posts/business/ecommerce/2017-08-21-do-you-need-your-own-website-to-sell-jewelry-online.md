@@ -25,7 +25,7 @@ While I’m not saying shut down your Etsy shop, it’s worth investing time and
 
 **Instant credibility**
 
-Having your own website makes your business look legit. On your own site, you have the ability to fully customize your own branding and layout in a way that you can’t on sites like Etsy. You can direct the flow of traffic, encourage people to [sign up for your newsletter](/beginners-guide-to-starting-an-email-list/) (hello, handy pop-ups!) and show them similar products they might like.
+Having your own website makes your business look legit. On your own site, you have the ability to fully customize your own branding and layout in a way that you can’t on sites like Etsy. You can direct the flow of traffic, encourage people to [sign up for your newsletter](/beginners-guide-to-starting-an-email-list) (hello, handy pop-ups!) and show them similar products they might like.
 
 **All the profits**
 
