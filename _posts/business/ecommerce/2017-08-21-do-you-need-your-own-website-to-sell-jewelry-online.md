@@ -99,7 +99,7 @@ Even if you have a payment gateway set up with a secure third-party provider, yo
 
 Now that your store is set up, it’s time to fill it with your beautiful, handmade jewelry! Be sure to use well-lit, high-resolution photos to highlight your pieces. Add in compelling sales copy and use language that will resonate with your ideal customer. Try to incorporate relevant keywords when you can to increase your chances of being found in search results.
 
-Once your shop is set up, you’re ready to go! Be sure to test it out to make sure the checkout process works and everything flows smoothly. Before you know it, you could find yourself saying goodbye to the big eCommerce platforms. And hello to your own jewelry store [developed by CodeCarrot](//codecarrot.net/)
+Once your shop is set up, you’re ready to go! Be sure to test it out to make sure the checkout process works and everything flows smoothly. Before you know it, you could find yourself saying goodbye to the big eCommerce platforms. And hello to your own jewelry store [developed by CodeCarrot](//www.codecarrot.net/)
 
 ## P.S. Can we send you an email?
 
