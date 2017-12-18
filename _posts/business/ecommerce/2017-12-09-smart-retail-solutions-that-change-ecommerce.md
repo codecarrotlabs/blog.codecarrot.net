@@ -6,7 +6,7 @@ date: 2017-12-09 17:41:54 +0530
 categories: business
 tags: business marketing online-store store ecommerce
 description: A world in which nearly everybody now carries around a smart device – i.e. the smartphone – is what has enabled this revolution in retail. Read on if you want to find out how smart retail can take ecommerce to the next level.
-image: 1425999721-1424868813-smartretail.jpg
+image: //cdn.codecarrot.net/images/1425999721-1424868813-smartretail.jpg
 ---
 
 A world in which nearly everybody now carries around a smart device – i.e. the smartphone – is what has enabled this revolution in retail. Read on if you want to find out how smart retail can take ecommerce to the next level.
