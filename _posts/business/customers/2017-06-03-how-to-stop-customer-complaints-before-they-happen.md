@@ -83,8 +83,7 @@ Keeping your website clean, organized, and easy to navigate is just as important
 
 To avoid annoying your customers, you need to put a mobile responsive website at the heart of your website strategy. Nearly ⅓ of smartphone users will immediately navigate away from a website if it takes too long to load or they can’t find what they’re looking for right away.
 
-
-That’s huge, especially since more than half of all Google searches are now happening on smartphones and tablets rather than computer and laptops. However, if you get a website with CodeCarrot, you’ll be good to go since [every template](//codecarrot.net/template.html) is already fully mobile responsive.
+That’s huge, especially since more than half of all Google searches are now happening on smartphones and tablets rather than computer and laptops. However, if you get a website with CodeCarrot, you’ll be good to go since [every template](//www.codecarrot.net) is already fully mobile responsive.
 
 Load times in particular take a toll on your customers’ patience. According to [Google](//www.thinkwithgoogle.com/articles/speed-is-key-optimize-your-mobile-experience.html), 40% of customers will abandon a website if it takes longer than three seconds to load. Wondering how your website stacks up? Try running it through [Google’s PageSpeed Insights](//developers.google.com/speed/pagespeed/insights/).
 
