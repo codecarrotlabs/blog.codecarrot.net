@@ -101,7 +101,7 @@ I've always thought the term content marketing was a bit odd, given that the "ma
 
 The problem is that many companies stop at help content and FAQs alone, forgetting that all content is marketing. What this means is that helping people solve their problems decreases the likelihood that they'll "date around."
 
-You're actually seeing an example of this in action right now! [The CodeCarrot Garage](www.codecarrot.net/garage) regularly delivers great ecommerce related content to their current and prospective customers, all of which goes hand in hand with the web and mobile application development service we provide.
+You're actually seeing an example of this in action right now! [The CodeCarrot Blog](//blog.codecarrot.net/) regularly delivers great ecommerce related content to their current and prospective customers, all of which goes hand in hand with the web and mobile application development service we provide.
 
 ![Helping Each Other](//cdn.codecarrot.net/images/helping-each-other.jpg)
 
