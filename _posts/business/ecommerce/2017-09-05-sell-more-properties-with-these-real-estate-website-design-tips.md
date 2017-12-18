@@ -25,11 +25,11 @@ With the right real estate website design, you can better attract the right clie
 
 A large part of shopping for a home these days is online research. People want as much information as possible before ever setting foot on a property. If you can make your real estate website a resource for potential buyers, you will simplify the process. At a minimum, your site should have the following elements to meet the needs of today’s home buyer.
 
-1. Searchable listings
+### 1. Searchable listings
 
 Some statistics show that 80 percent of all property shoppers search online when looking for a new home. If you have the listings right on your site, it will be easy for them to turn to you when they find the one they love.
 
-2. Photos, photos and more photos
+### 2. Photos, photos and more photos
 
 Along with being able to search for available properties, customers should be greeted by high-quality imagery the moment they land on your website. We’re talking full-page images that exhibit the beautiful details of the properties you sell.
 
@@ -37,7 +37,7 @@ Along with being able to search for available properties, customers should be gr
 Show pictures of the available homes, pictures of properties you’ve sold, pictures of the neighborhoods in the area — show pictures of everything. And, more importantly, make it easy to view them.
 </blockquote>
 
-3. Prominent contact information
+### 3. Prominent contact information
 
 However you lay out your real estate website design, make sure your contact information is always visible on screen. In many cases, this means including a phone number in a sticky header, as well as the footer.
 
