@@ -6,7 +6,7 @@ date: 2017-06-03 12:00:00 +0530
 categories: business
 tags: customer
 description: The most common causes behind customer complaints and how to fix them. No, we’re not suggesting you break out the Ouija board just yet.
-image: stop-customer-complaints-before-they-happen.jpg
+image: //cdn.codecarrot.net/images/stop-customer-complaints-before-they-happen.jpg
 ---
 
 No one wants to hear bad news. **Especially if it's a customer complaint**
@@ -119,7 +119,7 @@ It's crucial that you don't just copy and paste these templates verbatim. Custom
 
 Here are three basic email templates that you can use as a jump-off point for responding to complaints.
 
-Here are three basic [email templates](../documents/e-mail-template-for-responding.pdf) that you can use as a jump-off point for responding to complaints.
+Here are three basic [email templates](//cdn.codecarrot.net/documents/e-mail-template-for-responding.pdf) that you can use as a jump-off point for responding to complaints.
 
 ## Create a Better Shopping Experience for Your Customers
 
