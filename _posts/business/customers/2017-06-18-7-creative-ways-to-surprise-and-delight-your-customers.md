@@ -19,7 +19,7 @@ In addition to the uniqueness of your products and the prices you're able to off
 
 It's been proven in a number of consumer studies that a vast majority of consumers will pay for better service, and since a great experience is a known cause for increased brand loyalty and word of mouth referrals.
 
-![Trust throught the Advertisments](//cdn.codecarrot.net/images/trust-throught-the-advertisments.png)
+![Trust through the Advertisements](//cdn.codecarrot.net/images/trust-throught-the-advertisments.png)
 
 **If you can't go toe-to-toe with the big guys on price, amazing service should be your winning proposition.**
 
