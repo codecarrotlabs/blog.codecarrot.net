@@ -59,7 +59,7 @@ You must keep the account open for at least one year, but not more than five yea
 
 Whether you want to open an account as a resident or non-resident, you will need to provide proof of identity and proof of your address, as well as a recent photograph.
 
-You can prove your identity by presenting your passport or your driving licence.
+You can prove your identity by presenting your passport or your driving license.
 
 If these documents contain your address, they can also be accepted as proof of address. If they don’t, you’ll need to submit at least another document.
 
