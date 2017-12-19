@@ -6,7 +6,7 @@ date: 2017-10-01 05:26:00 +0530
 categories: business
 tags: business entrepreneur startup success
 description: Being a startup founder myself and with a prior experience of building a startup from scratch and sharing both successful moments
-image: startup-failure.jpg
+image: //cdn.codecarrot.net/images/startup-failure.jpg
 ---
 
 Being a **startup** founder myself and with a prior experience of building a startup from scratch and sharing both successful moments and moments of failure one great learning has been that we can’t pin point any specific reason for the startup failures. There can be more than 50–100 reasons which can lead to startup not able pulling it off and eventually have to shut the shop or pivot to different business model or restructure the entire startup business.

@@ -6,7 +6,7 @@ date: 2017-10-08 22:26:00 +0530
 categories: business
 tags: business entrepreneur startup business india
 description: Looking to register your business as a private company? Here is everything you need to know about how to register a private limited company.
-image: sign-register-company.jpg
+image: //cdn.codecarrot.net/images/sign-register-company.jpg
 ---
 
 Looking to register your business as a private limited company? Here is everything you need to know to help you get started.

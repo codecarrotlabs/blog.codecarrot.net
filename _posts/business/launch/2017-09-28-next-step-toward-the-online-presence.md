@@ -6,7 +6,7 @@ date: 2017-09-28 01:26:00 +0530
 categories: business
 tags: online online-presence customers social social-media
 description: A social media profile is a quick, simple and cheap way for you to establish an online presence. This should be the first step she takes to help customers engage
-image: 466265092.jpg
+image: //cdn.codecarrot.net/images/466265092.jpg
 ---
 
 **Answer this quiz:** What you will do if you are running a local bakery. After getting the business up and running over the last six months, she’s now ready to create a digital presence.
