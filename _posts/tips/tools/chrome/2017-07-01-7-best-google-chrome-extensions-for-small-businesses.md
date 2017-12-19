@@ -14,34 +14,34 @@ It’d be fair to say Chrome extensions are the best thing since sliced bread! I
 
 ## Here is a list of best Google Chrome extensions for small businesses:
 
-#### 1.  [Convergehub Lead Generator](//chrome.google.com/webstore/detail/convergehub-lead-generato/mjcffemmfdpcjekgonelgmphacdhhbod)
+### 1.  [Convergehub Lead Generator](//chrome.google.com/webstore/detail/convergehub-lead-generato/mjcffemmfdpcjekgonelgmphacdhhbod)
 
 Looking for new leads on social media? Why do the work manually when you can get an extension to do that for you!
 Convergehub, a CRM platform came up with a chrome extension that allows you to collect all your leads’ contact details and pre-fills a form that you can later access in your Convergehub account. This is great if you are looking to build a database from your social media contacts.
 
 **BONUS:** You may also like the [Hunter](//chrome.google.com/webstore/detail/hunter/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en) Google Chrome extension to help you collect more leads when you are on a certain website.
 
-#### 2.  [Plann3r – Scheduling Meetings](//chrome.google.com/webstore/detail/assistantto-scheduling-as/ndddjdifcfcddfdgedlcmfjamionaago?hl=en)
+### 2.  [Plann3r – Scheduling Meetings](//chrome.google.com/webstore/detail/assistantto-scheduling-as/ndddjdifcfcddfdgedlcmfjamionaago?hl=en)
 
 An entrepreneur like you must have so many things to keep in mind. Keeping track of meetings can get tricky in your busy schedule. Step away from your traditional calendar invites and switch to the swanky Plann3r Chrome extension that finds the perfect slots for meetings and fits them right in!
 
-#### 3.  [Tellq – Operations Center](//chrome.google.com/webstore/detail/tellq-click-to-call-exten/nejgjdchlppiojlbelendnlgfnmbkgfa?hl=en)
+### 3.  [Tellq – Operations Center](//chrome.google.com/webstore/detail/tellq-click-to-call-exten/nejgjdchlppiojlbelendnlgfnmbkgfa?hl=en)
 
 Looking to organize how operations work in your small business? Tellq is your in-house call center operator that helps you make calls with a click. With Tellq, you can manage your calling workflows, integrate it with your support platform (Zendesk or Helpdesk) and even figure out strategies to optimize your customer communication via calls.
 
-#### 4.  [Asana – Manage Projects ](//chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk)
+### 4.  [Asana – Manage Projects ](//chrome.google.com/webstore/detail/asana-extension-for-chrom/khnpeclbnipcdacdkhejifenadikeghk)
 
 Asana is a great tool that can help you organize your tasks and manage your projects efficiently. You can also assign people to tasks and share the tasks with them to keep a check on completion. With the Chrome Extension, you can add tasks from any website, save articles you want to read and share them with your assignees.
 
-#### 5.  [Docusign – Digital Signature](//chrome.google.com/webstore/detail/docusign-secure-electroni/goblijolcnempeilmnkmfbhohlpngemd?hl=en)
+### 5.  [Docusign – Digital Signature](//chrome.google.com/webstore/detail/docusign-secure-electroni/goblijolcnempeilmnkmfbhohlpngemd?hl=en)
 
 Struggling with digital signatures? Don’t worry! Let this Chrome Extension do all the work for you. With Docusign, you can put your signature on any/all PDF, Word or email docs just by clicking on the extension. Sign up and store your signature in Google Drive with Docusign and access it whenever you need it. You can also make edits whenever you want!
 
-#### 6.  [Buffer – Social Media Management](//chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh?hl=en)
+### 6.  [Buffer – Social Media Management](//chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh?hl=en)
 
 With the Buffer tool, you can post on multiple social media simultaneously. You can also schedule posts and push them out at any time you want. With the chrome extension, you can access Buffer whenever and add posts to queue that can be spaced out over time throughout the day.
 
-#### 7.  [LastPass – Password Management](//chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+### 7.  [LastPass – Password Management](//chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
 
 Having troubles remembering passwords? Cleaned up your browser and now all the stored passwords are gone? LastPass to the rescue! LastPass for Chrome helps you manage all your usernames and passwords for all the websites you frequent or even those you visit sparingly. Saves you time and effort.
 
