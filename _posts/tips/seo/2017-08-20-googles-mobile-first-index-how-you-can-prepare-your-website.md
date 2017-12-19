@@ -6,7 +6,7 @@ date: 2017-08-20 12:00:00 +0530
 categories: tips
 tags: tips website seo google
 description: You may or may not have heard the Google is switching to mobile-first index in the near future. What does that mean for your website, how can you prepare?
-image: mobile-on-book.jpg
+image: //cdn.codecarrot.net/images/mobile-on-book.jpg
 ---
 
 You may have heard that Google will be switching to a mobile-first index in the near future, but if you’re not sure what this means or how it will affect your site, don’t panic. With a little preparation, you won’t have to worry about Google turning your rankings upside down. The following information explains the basics of the update and walks you through the steps you should take to get ready.
