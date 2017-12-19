@@ -6,7 +6,7 @@ date: 2017-11-15 15:28:10 +0530
 categories: tips
 tags: tips whatsapp business free tools
 description: Don't have Whatsapp Business? Turn your regular Whatsapp into a business hub with these free Whatsapp tools for businesses to grow online.
-image: Whatsapp-tools-1.png
+image: //cdn.codecarrot.net/images/Whatsapp-tools-1.png
 ---
 
 Are you a WhatsApp seller? There are many ways you can use the Facebook-owned messaging service. We have put together a list of free WhatsApp tools for businesses that you can use to grow online.
