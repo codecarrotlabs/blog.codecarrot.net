@@ -9,7 +9,7 @@ description: You put so much time and energy into your blog, but what happens wh
 image: //cdn.codecarrot.net/images/man-sitting-alone-in-stadium.jpg
 ---
 
-If you have a blog website and want to light up your blog traffic, go ahead read the article but if you don't have and want to get one, [click here](//codecarrot.net/).
+If you have a blog website and want to light up your blog traffic, go ahead read the article but if you don't have and want to get one, [click here](//www.codecarrot.net/).
 
 If you’ve ever clicked a link to a new website only to watch your web browser sputter and stall, you know that a slow website is a pain. In fact, when websites take a long time to load, some visitors cut and run.
 
@@ -39,7 +39,7 @@ Nearly half (47 percent) of consumers expect sites to load in just a couple seco
 
 ![Welcome on Board mat](//cdn.codecarrot.net/images/welcome-on-board-mat.jpeg)
 
-At [CodeCarrot](//codecarrot.net/), our developers obsess over performance data so we can provide the best possible outcomes for our customers.
+At [CodeCarrot](//www.codecarrot.net/), our developers obsess over performance data so we can provide the best possible outcomes for our customers.
 
 **Pro tip:** Avoid creating huge pages on your website. Consider splitting your content into multiple, smaller pages if possible.
 
@@ -57,6 +57,6 @@ If you have doubts about your existing site, try out the user experience yoursel
 
 You don't want your website visitors to leave your website because your website is too slow. Why don't we make it fast for you?
 
-Let's make your **website like flash** with [CodeCarrot](//codecarrot.net/).
+Let's make your **website like flash** with [CodeCarrot](//www.codecarrot.net/).
 
-[![make your website like flash with codecarrot](//cdn.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](//codecarrot.net/)
+[![make your website like flash with codecarrot](//cdn.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](//www.codecarrot.net/)
