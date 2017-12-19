@@ -6,7 +6,7 @@ date: 2017-09-12 19:29:00 +0530
 categories: business
 tags: finance money startup
 description: If there's one clear obstacle most business owners must come overcome it's how to finance your business. Take an in-depth look at four options available.
-image: fabian-blank-78637.jpg
+image: //cdn.codecarrot.net/images/fabian-blank-78637.jpg
 ---
 
 If there’s one obstacle that stops many would-be business owners in their tracks, it’s financing. Although there are business ideas that require little startup capital, the motto “you need to spend money to make money” often holds true. Whether it’s to launch or expand your business, you’ll likely need financing at some point. There are four common options to finance your business that you can choose.
