@@ -33,7 +33,7 @@ Think about the last time you had a craving for a chocolate cake. You probably s
 
 You might see a website for a local bakery...or you might discover a good option in local listings.
 
-[![Make business online with codecarrot banner](59337e706e67.png)](//codecarrot.net/)
+[![Make business online with codecarrot banner](59337e706e67.png)](//www.codecarrot.net/)
 
 Some businesses use local listings to create a digital presence, using products like [Google My Business](//www.google.com/business/). These types of directories let businesses publish details like descriptions, reviews, maps and images.
 
@@ -53,6 +53,6 @@ Apps could even let her place an order right then, so when she comes in she can 
 
 So, to recap: whether you use a website, local business listings, social media, mobile apps, or all of the above, the trick is to decide what you want customers to do, then create a home that accomplishes those goals. Together, these things work as your digital storefront: your space to interact with customers online.
 
-[![Make your business online with a website Promo](//cdn.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website Promo](//cdn.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
 
 We’ve got lessons covering all of these areas, but for the next little while we’ll be focusing on websites: you'll learn the basics like how websites work, how to pick and register a proper domain name, and how to make whatever you decide to do online as friendly as possible to your digital visitors AND support the goals of your business. And if you keep watching, we’ll cover all of this and more.
