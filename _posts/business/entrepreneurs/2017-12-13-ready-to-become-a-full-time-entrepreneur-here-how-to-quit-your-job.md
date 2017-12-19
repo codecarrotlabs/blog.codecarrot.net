@@ -6,7 +6,7 @@ date: 2017-12-13 05:10:00 +0530
 categories: business
 tags: business entrepreneurs job
 description: In most cases, resigning is an exciting but scary experience. On one hand, you’re likely pursuing a better opportunity, such as a new job or starting your own business.
-image: full-time-entreprenur.jpeg
+image: //cdn.codecarrot.net/images/full-time-entreprenur.jpeg
 ---
 
 In most cases, resigning is an exciting but scary experience. On one hand, you’re likely pursuing a better opportunity, such as a new job or starting your own business. On the other hand, letting go of a stable job is always tough. This is especially true if you’re leaving your job to launch a company, or commit to your existing business full-time.
