@@ -25,9 +25,9 @@ If your domain name is long and complex, you risk customers mistyping or misspel
 
 Try using keywords that describe your business and the services you offer. For example, if you’re a glass replacement business, you may want to register GlassRepair.com or GlassReplacement.com.
 
-<blockquote>
+<div class="callout">
 Include the keywords that people enter when searching for your products or services.
-</blockquote>
+</div>
 
 It helps improve your rank on search engines (which increases traffic) and just makes more sense to your customers.
 
