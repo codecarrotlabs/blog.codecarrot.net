@@ -40,7 +40,7 @@ A current account is designed especially for businesses transacting regularly. T
 * No interest offered on minimum balance.
 * No cap on the number of free transactions.
 * Overdraft facility available. You can withdraw money from the account even if you have zero balance. The bank will treat it as a loan. This is important for working capital for businesses.
-* Other banking services like chequebooks, deposits etc., are free.
+* Other banking services like cheque books, deposits etc., are free.
 
 ### Documents required for opening a Current account:
 
