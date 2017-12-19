@@ -6,7 +6,7 @@ date: 2017-11-16 20:22:30 +0530
 categories: tips
 tags: tips coding sublime-text sublime text-editor
 description: You must be thinking, why I am writing a article on Sublime Text 2, now when they have already launched Sublime Text 3.
-image: sublime-text-2-pixafy-roundup-blog-graphic1.png
+image: //cdn.codecarrot.net/images/sublime-text-2-pixafy-roundup-blog-graphic1.png
 ---
 
 You must be thinking, why I am writing a article on Sublime Text 2, now when they have already launched Sublime Text 3. But not everyone has upgraded to ST3, so here's some tips and shortcuts for them.

@@ -6,7 +6,7 @@ date: 2017-11-07 23:30:00 +0530
 categories: tips
 tags: tips sublime-text text-editor react es6 react-native
 description: Lately I've been writing a lot of React in Sublime and one of the most difficult aspects to deal with has been the improper syntax highlighting.
-image: 01_basic_javascript_syntax_highlighting-1.png
+image: //cdn.codecarrot.net/images/01_basic_javascript_syntax_highlighting-1.png
 ---
 
 Lately I've been writing a lot of React in Sublime and one of the most difficult aspects to deal with has been the improper syntax highlighting. When writing React components the basic JavaScript syntax highlighting that I was using would consistently highlight parts of my code incorrectly, as it didn't know how to deal with the JSX. Specifically it would have issues when I closed my HTML tag on a separate line as seen in the image below.
