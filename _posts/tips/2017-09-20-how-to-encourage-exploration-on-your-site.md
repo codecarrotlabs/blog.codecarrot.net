@@ -6,7 +6,7 @@ date: 2017-09-20 01:20:00 +0530
 categories: tips
 tags: tips site
 description: YouTube has added a really nice touch to their site that encourages people to explore and view other videos. This has the obvious financial benefit
-image: a-cartoon-exploring-in-snow.jpg
+image: //cdn.codecarrot.net/images/a-cartoon-exploring-in-snow.jpg
 ---
 
 YouTube has added a really nice touch to their site that encourages people to explore and view other videos. This has the obvious financial benefit to them of increasing video and page views, thus increasing advertising revenue.

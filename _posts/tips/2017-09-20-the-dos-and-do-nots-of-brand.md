@@ -6,7 +6,7 @@ date: 2017-09-20 20:35:10 +0530
 categories: tips
 tags: tips branding
 description: Brand is one of those things that often falls by the wayside with developers. Developers are constantly creating amazing technologies and incredible platforms that are fundamentally changing the way marketing and branding works.
-image: bigstock-Brand-Branding-Marketing-Strat-90154346.jpg
+image: //cdn.codecarrot.net/images/bigstock-Brand-Branding-Marketing-Strat-90154346.jpg
 ---
 
 Brand is one of those things that often falls by the wayside with developers. Developers are constantly creating amazing technologies and incredible platforms that are fundamentally changing the way marketing and branding works.

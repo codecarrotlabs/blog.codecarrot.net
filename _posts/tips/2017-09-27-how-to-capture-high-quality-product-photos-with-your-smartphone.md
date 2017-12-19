@@ -6,7 +6,7 @@ date: 2017-09-27 17:35:10 +0530
 categories: tips
 tags: tips products marketing smartphone photos mobile selfie
 description: Before you spend money to rent a DSLR camera and a lens for your product photography, consider using the quality
-image: iphone-cam.jpg
+image: //cdn.codecarrot.net/images/iphone-cam.jpg
 ---
 
 Before you spend money to rent a DSLR camera and a lens for your product photography, consider using the quality camera that you carry around with you all the time: your smartphone.
