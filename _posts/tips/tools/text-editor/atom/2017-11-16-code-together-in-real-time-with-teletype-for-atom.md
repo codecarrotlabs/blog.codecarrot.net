@@ -6,7 +6,7 @@ date: 2017-11-16 15:28:10 +0530
 categories: tips
 tags: tips atom text-editor tools
 description: Writing code with another programmer is a great way to absorb knowledge, challenge yourself with new perspectives, and ultimately write better software. It can also be a fulfilling way to get to know the mind of another human being. Unfortunately, the logistics of writing code with another programmer can be such a hassle that many people don’t bother.
-image: original-teletype.jpg
+image: //cdn.codecarrot.net/images/original-teletype.jpg
 ---
 
 Writing code with another programmer is a great way to absorb knowledge, challenge yourself with new perspectives, and ultimately write better software. It can also be a fulfilling way to get to know the mind of another human being. Unfortunately, the logistics of writing code with another programmer can be such a hassle that many people don’t bother. Here are some of the common obstacles:

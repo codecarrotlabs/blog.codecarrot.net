@@ -6,7 +6,7 @@ date: 2017-09-14 22:30:00 +0530
 categories: tips
 tags: tips sublime-text text-editor
 description: The shortcut for toggle sidebar in Sublime Text wasn't working for me. Searching about it in the internets, I discovered that you've to press command
-image: 5933707352792e706e67.png
+image: //cdn.codecarrot.net/images/5933707352792e706e67.png
 ---
 
 The shortcut for toggle sidebar in Sublime Text wasn't working for me. Searching about it in the internets, I discovered that you've to press `command+k` and then `command+b`, they call it a sequential shortcut.
