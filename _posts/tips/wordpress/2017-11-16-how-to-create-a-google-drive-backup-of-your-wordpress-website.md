@@ -6,7 +6,7 @@ date: 2017-11-16 12:51:00 +0530
 categories: tips
 tags: tips
 description: Keeping an updated backup is one of the most important things you can do for your website. Disaster can hit at any time and having that backup can make the difference of getting your site back to running quickly or not at all. Just as crucial is where you store your backups.
-image: shutterstock_234298681-960.jpg
+image: //cdn.codecarrot.net/images/shutterstock_234298681-960.jpg
 ---
 
 Keeping an updated backup is one of the most important things you can do for your website. Disaster can hit at any time and having that backup can make the difference of getting your site back to running quickly or not at all. Just as crucial is where you store your backups. In this article we’ll step through how to perform a Google Drive backup.
