@@ -6,7 +6,7 @@ date: 2017-09-10 15:02:00 +0530
 categories: business
 tags: product idea launch
 description: Question - How can you make an incredibly dangerous, misguided and high-risk bet with a single sentence? Answer - “I have an idea for an app
-image: patrick-tomasso-319754.jpg
+image: //cdn.codecarrot.net/images/patrick-tomasso-319754.jpg
 ---
 
 ## Question: How can you make an incredibly dangerous, misguided and high-risk bet with a single sentence?
