@@ -33,7 +33,6 @@ As it was mentioned before, developers have a significant influence over SEO. Fi
 
 In order to avoid such scenario, you can take advantage of the tools that enable you to both measure your website condition from the search engine’s perspective and help optimise different variables to improve app performance. We can recommend [Google’s PageSpeed Insights](//developers.google.com/speed/pagespeed/insights/).
 
-
 Improving the speed of an application should start with code and database optimisation. Remember that high quality of your code can prevent the vast majority of bugs and app crashes. Also think about minimization of your apps js files. It will speed up your app. The size of images also matters. Optimising images is probably one of the easiest tactics to start from, but also a very effective one.
 
 Other quick wins in the area of HTML syntax include using proper meta tags like subpage title, alt attributes on images and CSS classes instead of inline styles. On top of that you should implement an SSL certificate on your site. It will activate the padlock and the https protocol, making connections from a web server to a browser more secure. Finally, we recommend using [Schema.org](//schema.org/) for structured results on Google.
