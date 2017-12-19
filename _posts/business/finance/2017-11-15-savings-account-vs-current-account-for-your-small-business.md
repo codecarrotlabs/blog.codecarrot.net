@@ -49,7 +49,7 @@ A current account is designed especially for businesses transacting regularly. T
 * Proof of Address
 * Recent colour photograph
 * PAN Form 49/ Form 60 if you have applied for a PAN
-* A Cheque from an existing savings bank account / current account.
+* A cheque from an existing savings bank account / current account.
 
 ## Savings Account vs Current Account:
 
