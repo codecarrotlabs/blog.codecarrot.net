@@ -33,7 +33,7 @@ Think about the last time you had a craving for a chocolate cake. You probably s
 
 You might see a website for a local bakery...or you might discover a good option in local listings.
 
-[![Make business online with codecarrot banner](59337e706e67.png)](//www.codecarrot.net/)
+[![Make business online with codecarrot banner](//cdn.codecarrot.net/images/59337e706e67.png)](//www.codecarrot.net/)
 
 Some businesses use local listings to create a digital presence, using products like [Google My Business](//www.google.com/business/). These types of directories let businesses publish details like descriptions, reviews, maps and images.
 
