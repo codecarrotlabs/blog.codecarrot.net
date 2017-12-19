@@ -9,8 +9,6 @@ description: If you see a need and are moved to help, don’t wait for someone e
 image: //cdn.codecarrot.net/images/how-to-make-a-difference-min.jpg
 ---
 
-https://www.godaddy.com/garage/make-difference-cause-matters/
-
 If you see a need and are moved to help, act on that impulse. Remember that most causes —  [HASI Foundation](//www.codecarrot.net/clients.html) — often can’t get enough help. You don’t need to wait for someone else to step up and set things into action when you can do it yourself. Want to know how to make a difference? Just use these five steps.
 
 ## Get started in 5 simple steps
