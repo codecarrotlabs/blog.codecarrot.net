@@ -251,7 +251,3 @@ You can use the same technique with any compiled application or interpreted scri
 ## Learn More
 
 The Glue documentation is available [here](//gluedocs.readthedocs.org/).
-
-## Issue Reporting
-
-If you come across a bug in the plugin, please report it on [the GitHub repository](//github.com/chrissimpkins/glue/issues).
