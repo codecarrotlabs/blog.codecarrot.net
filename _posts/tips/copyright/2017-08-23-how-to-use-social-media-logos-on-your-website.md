@@ -31,7 +31,7 @@ That Facebook logo that's a trademarked property that belongs to Facebook, you a
 
 ![Search Facebook brand guidelines on google](//cdn.codecarrot.net/images/search-facebook-brand-guidelines-on-google.png)
 
-Finding a social media company's brand guidelines is easy, just Google Facebook or twitter or whatever logo you're looking for plus the words brand guidelines. At or near the top of the search results is going to be just what you're looking for you, just need to make sure you're going to an official website if it's a TWitter logo you're looking for make sure you're looking at the brand guideline page on [twitter.com](//twitter.com).
+Finding a social media company's brand guidelines is easy, just Google Facebook or twitter or whatever logo you're looking for plus the words brand guidelines. At or near the top of the search results is going to be just what you're looking for you, just need to make sure you're going to an official website if it's a Twitter logo you're looking for make sure you're looking at the brand guideline page on [twitter.com](//twitter.com).
 
 Don't get all your information about social media logs from blog posts, they might go out of date quickly.
 
