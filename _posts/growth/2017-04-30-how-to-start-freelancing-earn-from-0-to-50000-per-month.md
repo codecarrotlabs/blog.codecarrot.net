@@ -6,7 +6,7 @@ date: 2017-04-30 12:00:00 +0530
 categories: growth
 tags: growth freelancer remote-work working-from-home
 description: Show off your skills by working as a freelancer. Sometimes you might feel like you're wasting your time, earning nothing. This is why you need to know about freelance jobs.
-image: start-freelancing-work.png
+image: //cdn.codecarrot.net/images/start-freelancing-work.png
 ---
 
 ![The ultimate guide to Freelancing Jobs](//cdn.codecarrot.net/images/ultimate-guide-to-freelancing-jobs.png)
