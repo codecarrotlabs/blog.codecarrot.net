@@ -6,7 +6,7 @@ date: 2017-12-13 07:51:00 +0530
 categories: tips
 tags: tips website ingredients
 description: Having the name of the business in the website’s domain name is the best idea. That way it’s easy for customers to find her online, and also recognize her business in town.
-image: 405_1.jpg
+image: //cdn.codecarrot.net/images/405_1.jpg
 ---
 
 The best website address for your business would be: **www.yourbusinessname.com**

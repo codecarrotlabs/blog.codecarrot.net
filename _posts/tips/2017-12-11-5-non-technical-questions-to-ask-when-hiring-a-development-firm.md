@@ -6,7 +6,7 @@ date: 2017-12-11 02:51:00 +0530
 categories: tips
 tags: tips technical development hiring job firm
 description: Hiring a software development firm is often one of the largest decisions a new web or mobile product company will make.
-image: 1_plEaN007eQK8SMdNzYNGQg.png
+image: //cdn.codecarrot.net/images/1_plEaN007eQK8SMdNzYNGQg.png
 ---
 
 Hiring a software development firm is often one of the largest decisions a new web or mobile product company will make. Questions about technology choices, programming languages, frameworks, development methodologies, and the like are all important, but so are the non-technical questions sometimes overlooked by technically-focused or inexperienced entrepreneurs and product authors. Here are a few to keep in mind.

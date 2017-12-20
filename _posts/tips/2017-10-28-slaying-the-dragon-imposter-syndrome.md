@@ -6,7 +6,7 @@ date: 2017-10-28 21:56:00 +0530
 categories: tips
 tags: tips slaying imposter imposter-syndrome
 description: Technology is changing at a ridiculous pace, and while you might feel like you’re the only person falling behind, the truth is no one person is on top of it all. Instead, get to know Imposter Syndrome beyond the buzzword so you can conquer it.
-image: imposter_darker.png
+image: //cdn.codecarrot.net/images/imposter_darker.png
 ---
 
 Another day, another new JavaScript framework. And another person on your team who is somehow already an expert on it. How does everyone else keep up in the ever-changing world while you feel like you’ll never know nearly enough? When will everyone else notice you’re a hack who’s barely keeping up? How long can you keep up this charade?

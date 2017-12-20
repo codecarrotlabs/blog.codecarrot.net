@@ -6,7 +6,7 @@ date: 2017-11-15 12:05:10 +0530
 categories: tips
 tags: tips ideas freelancer jobs
 description: Want to know how to be a freelancer that makes enough money? Here are a few pointers that will help you make the most of a freelance job.
-image: creative-ideas.png
+image: //cdn.codecarrot.net/images/creative-ideas.png
 ---
 
 Being a freelancer is synonymous to being your own boss, working on your own terms and conditions flexible working hours etc. Being a freelancer also means working without the backing of an HR team, on multiple projects under various bosses, chasing deadlines, dealing with different clients, erratic work hours and making sure there is enough work in the kitty that keeps the money coming.
