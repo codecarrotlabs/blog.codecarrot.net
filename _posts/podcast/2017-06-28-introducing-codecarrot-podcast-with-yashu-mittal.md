@@ -19,7 +19,7 @@ So we’d go grab a chia (aka Tea), talk about a topic on the walk over, come ba
 
 ## The Places You Can Listen To CodeCarrot Garage Podcast
 
-You can catch [CodeCarrot Garage Podcast](/blog.codecarrot.net/podcast) in all of the places that you listen to your favorite podcasts — just search for CodeCarrot Podcast — but here are the links so you can subscribe right here, right now so you never miss a new episode:
+You can catch [CodeCarrot Blog Podcast](/blog.codecarrot.net/podcast) in all of the places that you listen to your favorite podcasts — just search for CodeCarrot Podcast — but here are the links so you can subscribe right here, right now so you never miss a new episode:
 
 * Listen to [CodeCarrot Podcast on Youtube](//www.youtube.com/playlist?list=PLivsd0rd3CZDPW0EFnh7_QuKVYACyaVXL)
 
