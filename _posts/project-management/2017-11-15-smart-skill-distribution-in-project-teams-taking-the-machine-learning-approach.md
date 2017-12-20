@@ -6,7 +6,7 @@ date: 2017-11-15 15:28:10 +0530
 categories: project-management
 tags: project-management coding project machine-learning skills tools
 description: Take advantage of internal data, see that Machine Learning is not so hard, and learn about k-means clustering in this hands-on guide.
-image: team-photo-generic-360777-edited.jpeg
+image: //cdn.codecarrot.net/images/team-photo-generic-360777-edited.jpeg
 ---
 
 At CodeCarrot, we’re continuously trying to optimise our internal processes. One of our processes consists in balancing the skills of individual employees when composing project teams, which ranks rather high on the headaches-per-hour scale.

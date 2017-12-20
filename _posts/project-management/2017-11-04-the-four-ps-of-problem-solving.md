@@ -6,7 +6,7 @@ date: 2017-11-04 15:14:20 +0530
 categories: project-management
 tags: project-management
 description: Being a great designer means you’re able to solve great problems. In more cases than one a client will present you with a problem and your job is to solve that problem using your tools.
-image: 1_E0qIHAqSP2J4rJ6A32w-BA.png
+image: //cdn.codecarrot.net/images/1_E0qIHAqSP2J4rJ6A32w-BA.png
 ---
 
 ## The Four P’s to Problem Solving
