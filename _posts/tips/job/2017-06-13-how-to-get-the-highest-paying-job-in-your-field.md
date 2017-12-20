@@ -6,7 +6,7 @@ date: 2017-06-13 15:00:00 +0530
 categories: tips
 tags: tips job salary skills
 description: Job searching is incredibly stressful, daunting and overwhelming. In order to get the interview, you need a resume that enhances as well as emphasizes your skills to the prospective employer.
-image: highest-paying-job-in-your-field.jpg
+image: //cdn.codecarrot.net/images/highest-paying-job-in-your-field.jpg
 ---
 
 Job searching is incredibly stressful, daunting and overwhelming. In order to get the interview, you need a resume that enhances as well as emphasizes your skills to the prospective employer. Numerous studies show that an average of 250 resumes are submitted for each job posting and employers only spend 5-7 seconds reviewing each resume. With such a small amount of time to spare, your resume must stand out among the rest.

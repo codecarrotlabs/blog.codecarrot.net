@@ -6,7 +6,7 @@ date: 2017-10-27 00:52:00 +0530
 categories: tips
 tags: tips github
 description: Let's take a peek sneek in github and check who has contributed the most to open source repository on github. Let’s analyze GitHub’s data and find out.
-image: 1_ywkHH3kMMVdGhXe6LDq7IA.png
+image: //cdn.codecarrot.net/images/1_ywkHH3kMMVdGhXe6LDq7IA.png
 ---
 
 ![Top contributor on Github in 2017](//cdn.codecarrot.net/images/1_ywkHH3kMMVdGhXe6LDq7IA.png)
