@@ -25,7 +25,7 @@ You can catch [CodeCarrot Blog Podcast](//blog.codecarrot.net/category/podcast/)
 
 And don’t hesitate to send or tweet us feedback about the show, including what you want to hear more of.
 
-[Click here to learn about how CodeCarrot helps business to make an online presence for their business.](//goo.gl/hrMxqg)
+[Click here to learn about how CodeCarrot helps business to make an online presence for their business.](//www.codecarrot.net/)
 
 Be the first to know when a new episode of CodeCarrot Garage Podcast comes out.
 
