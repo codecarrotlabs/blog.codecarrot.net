@@ -6,7 +6,7 @@ date: 2017-08-23 12:00:00 +0530
 categories: tips
 tags: tips website logos social-media copyright
 description: It's tough to find a site on the web today that doesn't include Facebook, Twitter, and other social media logos in its design. You probably want to include them on your own site, but where to find them.
-image: socialmedia_guide.png
+image: //cdn.codecarrot.net/images/socialmedia_guide.png
 ---
 
 It’s tough to find a site on the web today that doesn’t include Facebook, Twitter, and other social media logos in its design. You probably want to include them on your own site, but where do you find the actual icons? And are there rules for how to use them?
