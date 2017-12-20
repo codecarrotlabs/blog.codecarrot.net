@@ -5,7 +5,7 @@ title: Node.js vs Ruby on Rails Comparison - Which Environment to Choose for You
 date: 2017-12-10 00:51:00 +0530
 categories: code
 tags: coding nodejs rubyonrails ruby rails js node javascript
-description: Node.js and Ruby on Rails are two popular server-side solutions for web app development. Choosing the right one is one of the most important decisions to make.
+description: Node.js and Ruby on Rails are two popular server-side solutions for web app development. Choosing the right one is one of the most important.
 image: pexels-photo-340152-1.jpeg
 ---
 
