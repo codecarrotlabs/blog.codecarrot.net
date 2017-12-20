@@ -6,7 +6,7 @@ date: 2017-10-25 02:52:00 +0530
 categories: tips
 tags: tips https cpanel
 description: How to force HTTPS using .htaccess file in cPanel - Once a SSL certificate is installed and a site can be reached via https
-image: https-lock.png
+image: //cdn.codecarrot.net/images/https-lock.png
 ---
 
 Once a SSL certificate is installed and a site can be reached via **https://** appropriately, visitors should be able to access the whole site or key pages via **https://** automatically. In other words, by typing domain.com in a web-browser, a user should be redirected to https://domain.com to access the site securely.

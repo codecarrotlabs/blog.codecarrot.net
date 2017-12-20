@@ -6,7 +6,7 @@ date: 2017-06-01 12:00:00 +0530
 categories: tips
 tags: tips websites business smallbusiness smallbiz
 description: How websites works and why domain name and hosting is important for your website. We'll run down the basics - without getting too technical, promise! - on web servers and domain names
-image: how-websites-work.jpg
+image: //cdn.codecarrot.net/images/how-websites-work.jpg
 ---
 
 We'll run down the basics - without getting too technical, promise! - on web servers and domain names, what they do for you and how to find what you need to get started. Before that,
