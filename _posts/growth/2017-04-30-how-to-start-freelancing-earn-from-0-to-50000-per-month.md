@@ -135,7 +135,7 @@ Most people use a generic copy-pasted robotic cover letters. So stand out from t
 
 * **Show your enthusiasm:** Let the person know you want to start the project soon. Example: Tell the client you can start working on the project as soon as he/she picks your bid.
 
-* **Include time estimation:**Tell the client how fast you can complete the job.
+* **Include time estimation:** Tell the client how fast you can complete the job.
 
 Try to do quick jobs that are easy to complete in a short period of time. This will help you get feedback quickly.
 
