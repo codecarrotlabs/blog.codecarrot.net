@@ -4,7 +4,7 @@ author: yashumittal
 title: How to Increase Website Readership
 date: 2017-12-21 23:51:00 +0530
 categories: tips
-tags: tips website ingredients
+tags: tips website
 description: Google today processes more than 40,000 searches every second which amounts to over 3.5 billion searches per day and 1.2 trillion searches annually.
 image: //cdn.codecarrot.net/images/jens-kreuter-58481.jpg
 ---
