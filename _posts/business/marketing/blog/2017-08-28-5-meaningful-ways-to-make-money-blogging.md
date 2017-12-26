@@ -6,7 +6,7 @@ date: 2017-08-28 04:00:00 +0530
 categories: business
 tags: business blog earning-money money marketing blogging
 description: Making money off of your digital influence and lifestyle is possible. Learn how to make money blogging as a lifestyle brand.
-image: andrew-neel-308138.jpg
+image: //cdn.codecarrot.net/images/andrew-neel-308138.jpg
 ---
 
 The burden is to create meaningful partnerships and authentic content — and if I want to really make a living, I have to be about more than just some sidebar ads and affiliate links. Sure, those things contribute, but I have to be meatier than that.
