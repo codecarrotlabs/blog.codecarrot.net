@@ -6,7 +6,7 @@ date: 2017-08-24 12:00:00 +0530
 categories: tips
 tips: tips skills management planning staying-focused productivity
 description: Strategies for better time management - S.M.A.R.T. method, Pomodoro timer, Prioritizing matrix and tips for better tasks planning and staying focused.
-image: calendar-app-business-time-management-workspace.jpg
+image: //cdn.codecarrot.net/images/calendar-app-business-time-management-workspace.jpg
 ---
 
 We all complain about the lack of time. We don’t have enough time at work and weekends are always too short. So invest some time, read this article and learn the most crucial skills needed to manage time efficiently and have more time to do the things you love.
