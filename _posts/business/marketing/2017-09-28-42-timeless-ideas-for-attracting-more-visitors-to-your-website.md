@@ -6,7 +6,7 @@ date: 2017-09-28 22:41:00 +0530
 categories: business
 tags: marketing visitors ideas website business
 description: The latest social media fads may come and go, but some strategies for attracting an audience online will always be in style. Here are 42 of my favorite
-image: 466292.jpg
+image: //cdn.codecarrot.net/images/466292.jpg
 ---
 
 The latest social media fads may come and go, but some strategies for attracting an audience online will always be in style.
