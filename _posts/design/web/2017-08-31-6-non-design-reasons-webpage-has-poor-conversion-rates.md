@@ -6,7 +6,7 @@ date: 2017-08-31 00:48:00 +0530
 categories: design
 tags: designer conversion money webpage
 description: Solving the non-design issues will help you boost conversion rates and will also take less time, money and effort than redesign and implementation.
-image: i-think-i-like-you-steven-scott.jpg
+image: //cdn.codecarrot.net/images/i-think-i-like-you-steven-scott.jpg
 ---
 
 Conversion rates are one of the most popular and accurate KPIs in web apps. That’s why you want to keep them high. There are many reasons why conversion rates are low, and we usually associate them with design issues. That said, the reasons for poor conversion rates can go way beyond interfaces, colors and the content used. Solving the non-design issues mentioned in this article will [help you boost conversion rates and will also take less time, money and effort than redesign and implementation](6-reasons-why-your-frontend-maintenance-costs-so-much).
