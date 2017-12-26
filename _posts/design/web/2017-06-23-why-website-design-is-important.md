@@ -27,7 +27,7 @@ If your company has a logo and that logo is utilised frequently in print materia
 
 Most people are comfortable reading a web page the same way they read a book, from top to bottom, left to right. Web designers also take this into account when designing for a website. This will help get the message across more effectively for website visitors who could be current or potential customers.
 
-With **CodeCarrot [website development plan](//codecarrot.net/)**, you can get a SEO ready website.
+With **CodeCarrot [website development plan](//www.codecarrot.net/)**, you can get a SEO ready website.
 Many people do not know that placing important information in these areas of a website also improves search engine optimization (SEO).
 
 When you include important company-related keywords into the html-based text, search engines such as Google and Bing are able to crawl your website easily, increasing your search engine placement and giving your website and firm more overall visibility.
@@ -58,7 +58,7 @@ More and more users do business on their mobile phones these days.  If you take 
 
 Artwork is beautiful, but is it always functional? Websites can be both, which is another reason we love them so much.  Web design is an amazing blend of logic and creative thought. It’s easy to forget how much we need and appreciate good sites until we see a bad one.  Practical aesthetics allow websites to turn emotional appeal into solid action.
 
-We create data driven products. You can make your business online with a website, get your website designed with [CodeCarrot](//codecarrot.net/)
+We create data driven products. You can make your business online with a website, get your website designed with [CodeCarrot](//www.codecarrot.net/)
 
 ## P.S. Can we send you an email?
 
