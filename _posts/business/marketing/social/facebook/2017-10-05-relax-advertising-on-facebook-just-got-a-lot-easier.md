@@ -96,4 +96,4 @@ Name your Pixel and click "Create Pixel".
 
 Your Pixel code will now pop up. In order for your pixel to work properly, it needs to be displayed on every page of your website. The best place to put the code is in the <head></head> section of your index page.
 
-If you [get your store](//codecarrot.net/), the process is much simpler. Scroll through the code and look for a string of 15 numbers. That's your Pixel ID. Copy this number. If you need any help with your website, [team at CodeCarrot](//codecarrot.net/) is happy to help you.
+If you [get your store](//www.codecarrot.net/), the process is much simpler. Scroll through the code and look for a string of 15 numbers. That's your Pixel ID. Copy this number. If you need any help with your website, [team at CodeCarrot](//www.codecarrot.net/) is happy to help you.
