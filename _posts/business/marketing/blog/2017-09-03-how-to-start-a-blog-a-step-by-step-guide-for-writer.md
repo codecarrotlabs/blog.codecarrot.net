@@ -35,7 +35,7 @@ Now that you’ve picked out your domain name, it’s time to choose a web host.
 
 ## 3. Coding and designing
 
-Don't worry, you don't have to do the techy stuff of coding and designing, [we're here to do](//codecarrot.net/) it.
+Don't worry, you don't have to do the techy stuff of coding and designing, [we're here to do](//www.codecarrot.net/) it.
 
 To get started all you need is to visit [codecarrot.net](//www.codecarrot.net/) and start a chat, one of our representative will happy to help you.
 
