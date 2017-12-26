@@ -6,7 +6,7 @@ date: 2017-09-26 14:35:00 +0530
 categories: design
 tags: design favicon icon make-favicon
 description: Obsessive cheat sheet to favicon sizes/types. Short for favorite icon it's the picture you see in browser tabs.
-image: 74739.jpg
+image: //cdn.codecarrot.net/images/74739.jpg
 ---
 
 ## HTML
