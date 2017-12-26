@@ -47,7 +47,7 @@ One misconception about websites is that they’re only for national companies o
 
 Plus, search engines often rank results according to location. In other words, if you’re looking for “shoe stores near me,” Google won’t offer you a name-brand result in New York (unless of course you live in New York).
 
-So it’s pretty clear — an online presence has big benefits even for small businesses who deal locally. No matter where you are located, you can [get started with an efficient website](//codecarrot.net/) that draws in customers.
+So it’s pretty clear — an online presence has big benefits even for small businesses who deal locally. No matter where you are located, you can [get started with an efficient website](//www.codecarrot.net/) that draws in customers.
 
 ## A website builds credibility.
 
@@ -63,7 +63,7 @@ If you think having a Facebook page or an online directory listing (like Yellow 
 Building your online presence through social platforms (while important) is not enough.
 </div>
 
-When you publish through, or rely on, a third-party platform, you’re at their mercy. If the platform decides to close your account, change their policies or revise their programming, you might lose the ability to connect with your audience. Yet, when you run your own website, you’re in control of both the content you produce and the platform you or the [team you hire](//codecarrot.net/) to maintain it for you.
+When you publish through, or rely on, a third-party platform, you’re at their mercy. If the platform decides to close your account, change their policies or revise their programming, you might lose the ability to connect with your audience. Yet, when you run your own website, you’re in control of both the content you produce and the platform you or the [team you hire](//www.codecarrot.net/) to maintain it for you.
 
 Websites are simple and affordable to set up.
 
@@ -71,4 +71,4 @@ Many small business owners rely on using third-party platforms or avoid setting 
 
 But building and maintaining a website is **easier and cheaper** than ever before.
 
-Take my advice, small business owners — there are no more excuses. If you’re putting off building a website, you’re hurting your business. It’s time to [get started](//codecarrot.net/)!
+Take my advice, small business owners — there are no more excuses. If you’re putting off building a website, you’re hurting your business. It’s time to [get started](//www.codecarrot.net/)!

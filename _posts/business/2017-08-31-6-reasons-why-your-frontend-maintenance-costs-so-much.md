@@ -43,4 +43,4 @@ Automatic tests are the essential ingredient of refactoring and maintenance. Any
 
 There are a few of reasons why the maintenance of your app might be expensive, and you can actually prevent most of them from happening. Very often, it’s a matter of implementing efficient processes from the very beginning. The next thing is to make sure your team delivers only top-quality code, regardless of how much time is left until the deadline. Obviously, we could name a host of other reasons, but having the above bases covered will help you solve the majority of issues.
 
-Spending too much on your app maintenance? [Contact us](//codecarrot.net/).
+Spending too much on your app maintenance? [Contact us](//www.codecarrot.net/).
