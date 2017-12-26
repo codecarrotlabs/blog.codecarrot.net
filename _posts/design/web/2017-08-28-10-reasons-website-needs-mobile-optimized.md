@@ -136,7 +136,7 @@ Now is the time to invest in mobile ad spending, and you need a responsive desig
 
 The first step to optimizing for mobile is implementing a responsive website design.
 
-Hire [CodeCarrot team](//codecarrot.net) for making your website responsive.
+Hire [CodeCarrot team](//www.codecarrot.net) for making your website responsive.
 
 The second step is optimizing your marketing efforts for mobile within your responsive design. This involves analyzing how customers are engaging with your site and adjusting accordingly.
 
