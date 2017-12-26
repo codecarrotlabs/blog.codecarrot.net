@@ -6,7 +6,7 @@ date: 2017-06-27 12:00:00 +0530
 categories: business
 tags: business marketing blogging
 description: Knowing how to write a great blog post can be a challenge for beginning bloggers. Get organized from the start with these tips.
-image: how-to-write-a-great-blog-post.jpg
+image: //cdn.codecarrot.net/images/how-to-write-a-great-blog-post.jpg
 ---
 
 Blogs have become the go-to for sharing information, whether on a product, service or general topic of interest.
