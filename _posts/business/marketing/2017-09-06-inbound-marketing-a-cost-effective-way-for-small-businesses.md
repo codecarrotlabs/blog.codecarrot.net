@@ -69,4 +69,4 @@ Making use of different inbound marketing techniques and tools, this process eve
 
 **Pro Tip:** Getting a website for your business is a key to success, as it increase the reach of your business to the whole internet *(a.k.a Internet)*
 
-[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)

@@ -55,7 +55,7 @@ The [Google Webmasters tool](//www.google.com/webmasters/#?modal_active=none) is
 
 Webmasters is a free tool. Link your website and AdWords account to the tool to start configuring it. Submit your sitemap (which you can create [here](//www.xml-sitemaps.com/)), set a robots.txt file to tell Google what pages of your website you don’t want to show and set up other customizable elements of your website to start getting insights on what you should improve to appear immediately when someone searches with your focus keywords.
 
-Using these tools can help you get massive traffic to your [website](//www.codecarrot.net/) or [online store](//codecarrot.net/store.html).
+Using these tools can help you get massive traffic to your [website](//www.codecarrot.net/) or [online store](//www.codecarrot.net/store.html).
 
 Read this blog on [hashtags and why you need to start using them on social media](/what-are-hashtags-and-why-you-need-to-start-using-them-on-social-media/).
 
