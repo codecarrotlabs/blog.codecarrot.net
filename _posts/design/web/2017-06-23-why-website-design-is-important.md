@@ -6,7 +6,7 @@ date: 2017-06-23 12:00:00 +0530
 categories: design
 tags: website designing
 description: Web design is one of the most effective services you can utilize for your business. But any web designer will tell you, creating sites isn't just a service—it's an art.
-image: why-website-design-is-important.jpg
+image: //cdn.codecarrot.net/images/why-website-design-is-important.jpg
 ---
 
 You may ask yourself why seek help updating your current website? Yes, your current website looks outdated compared to the competition but does a credible, compelling website design really matter?
