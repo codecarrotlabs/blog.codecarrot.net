@@ -48,15 +48,15 @@ If you have a well-designed site for your business, you’ll get more customer c
 
 **2.  Sites Can Help Your Branding**
 
-If you have a shoddy looking website, it’s going to hurt your brand.  A scammy-looking website will drive customers away.  On the other hand, an elegant site can help people connect with your branding.  Creative but simple websites send the message that your brand is useful, modern, and service-based.  Having a user-friendly page makes potential customers more likely to reach out or trust you enough to contact you.  Your site directly reflects your branding, but don’t let that scare you.  Instead, realise the potential it provides—you have ultimate control over how visitors perceive your company.
+If you have a shoddy looking website, it’s going to hurt your brand. A scammy-looking website will drive customers away.  On the other hand, an elegant site can help people connect with your branding.  Creative but simple websites send the message that your brand is useful, modern, and service-based.  Having a user-friendly page makes potential customers more likely to reach out or trust you enough to contact you.  Your site directly reflects your branding, but don’t let that scare you.  Instead, realise the potential it provides—you have ultimate control over how visitors perceive your company.
 
 **3.  Responsive Web Design Helps You Reach More Customers**
 
-More and more users do business on their mobile phones these days.  If you take advantage of responsive web design, your business can have a new set of customers.  You can gear business towards those people who aren’t always near a computer.  Using web design effectively allows you to capitalize on the technology of the time to gain all the customers you can.
+More and more users do business on their mobile phones these days. If you take advantage of responsive web design, your business can have a new set of customers. You can gear business towards those people who aren’t always near a computer.  Using web design effectively allows you to capitalize on the technology of the time to gain all the customers you can.
 
 **4.  Beauty And Functionality**
 
-Artwork is beautiful, but is it always functional? Websites can be both, which is another reason we love them so much.  Web design is an amazing blend of logic and creative thought. It’s easy to forget how much we need and appreciate good sites until we see a bad one.  Practical aesthetics allow websites to turn emotional appeal into solid action.
+Artwork is beautiful, but is it always functional? Websites can be both, which is another reason we love them so much.  Web design is an amazing blend of logic and creative thought. It’s easy to forget how much we need and appreciate good sites until we see a bad one. Practical aesthetics allow websites to turn emotional appeal into solid action.
 
 We create data driven products. You can make your business online with a website, get your website designed with [CodeCarrot](//www.codecarrot.net/)
 
