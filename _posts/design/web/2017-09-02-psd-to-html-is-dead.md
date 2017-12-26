@@ -78,4 +78,4 @@ These two examples have a key difference from the PSD to HTML way of thinking. H
 
 Everyone’s workflow is different and nobody knows how to make the perfect website. You should always do whatever is most effective for you and your colleagues. Pushing pixels around in Photoshop is a ton of fun, but I can admit to many occasions when I’ve pushed the pixels too far. The key is to know yourself and what makes you perform at your best.
 
-Looking for a **customized website** for your business or project. Let's make it possible with [Codecarrot](//codecarrot.net/).
+Looking for a **customized website** for your business or project. Let's make it possible with [CodeCarrot](//www.codecarrot.net/).
