@@ -6,7 +6,7 @@ date: 2017-09-05 17:00:00 +0530
 categories: business
 tags: smallbiz grow weekends
 description: Building your business on the side is not easy. You come home after a long day of work, you spend the little time you have with your family and friends, and you
-image: 249h.jpg
+image: //cdn.codecarrot.net/images/249h.jpg
 ---
 
 Building your business on the side is not easy. You come home after a long day of work, you spend the little time you have with your family and friends, and you try to jam in a productive session, working on your side business before going to bed.

@@ -6,7 +6,7 @@ date: 2017-09-02 15:46:00 +0530
 categories: business
 tags: apps smallbiz productivity
 description: Being a small business owner requires multitasking and juggling to-do's all day! Make your life easier with these powerful productivity apps for business.
-image: rami-al-zayat-170349.jpg
+image: //cdn.codecarrot.net/images/rami-al-zayat-170349.jpg
 ---
 
 Small business owners wear many different hats throughout the day. The constant juggling between tasks can be overwhelming. As a result, it’s possible for important details to get lost in the shuffle. Rein in your tasks and make room to earn more with these 12 powerful productivity apps for business.
