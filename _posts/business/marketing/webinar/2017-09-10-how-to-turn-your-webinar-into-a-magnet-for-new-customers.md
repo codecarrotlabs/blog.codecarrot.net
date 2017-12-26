@@ -129,7 +129,7 @@ It doesn’t get much more straightforward than that: if you saw something you l
 
 If you don't have a website for your business. You can get one, [right now](//codecarrot.net/).
 
-[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
 
 
 Instead of filling out a form and waiting to hear back, they can talk to our team and ask questions about what they just saw live — even while the webinar is still going on.
