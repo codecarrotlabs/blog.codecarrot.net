@@ -6,7 +6,7 @@ date: 2017-09-05 01:39:10 +0530
 categories: tips
 tags: tips motivated productivity
 description: Staying motivated can be tough, especially on longer projects. The solution is different for everyone, but I've found a few techniques that work.
-image: margarida-csilva-121801.jpg
+image: //cdn.codecarrot.net/images/margarida-csilva-121801.jpg
 ---
 
 Staying motivated can be tough, especially on longer projects. Recently a professional acquaintance told me about a 3-year-long client project. This is an extreme case, but long projects are not uncommon in the tech industry. In fact, I’m working on a personal side project right now that I expect will take about 1.5 years. How do you keep going once the initial rush of a new idea has faded? Through trial and error, I’ve found a few techniques that work for me, and I hope that by sharing them you can stay motivated too.
