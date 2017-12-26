@@ -95,7 +95,7 @@ To ensure that your guest post gets accepted, you will want to pitch the blog ow
 
 ### Become a Familiar Face in the Blog Community
 
-To increase your chances of getting accepted as a guest blogger, you will want to get some recognition from the blog owner first. The best way to do this is to take a week or two and comment on their latest posts. You’ll get bonus points for sharing those posts on Twitter too – just be sure to include the blog owner’s @username on Twitter. This way, when you pitch your guest post, you won’t be a complete stranger.
+To increase your chances of getting accepted as a guest blogger, you will want to get some recognition from the blog owner first. The best way to do this is to take a week or two and comment on their latest posts. You’ll get bonus points for sharing those posts on Twitter too – just be sure to include the blog owner’s [@username](//www.twitter.com/codecarrotnet) on Twitter. This way, when you pitch your guest post, you won’t be a complete stranger.
 
 The Best Times to Pitch a Guest Post
 You won’t always have a golden opportunity to pitch a guest post, but there are certain things to take advantage of when they arise. These include the following.
