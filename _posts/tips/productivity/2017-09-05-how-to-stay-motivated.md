@@ -33,7 +33,7 @@ The longer you work on a project, the more difficult it is to think objectively.
 
 ![Yashu Mittal Behance Profile](//cdn.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
 
-*Sites like [Dribbble](//dribbble.com/codecarrot) & [Behance](//www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
+*Sites like [Dribbble](//dribbble.com/mittalyashu) & [Behance](//www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
 
 Other people will typically find obvious flaws immediately. There might be major problems with your work that are right in front of your face, but you might not notice them because you’ve learned to ignore them. It’s a common human flaw to spend a lot of time on unimportant details, but a fresh pair of eyes can help you refocus. Don’t fall into the trap of working hard on the wrong problem.
 
