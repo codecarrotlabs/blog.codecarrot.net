@@ -6,7 +6,7 @@ date: 2017-09-10 11:24:00 +0530
 categories: business
 tags: recruitment hire job team
 description: 5 Recruiting Metrics that Matter. Time to Hire. The Time to Hire metric should be a leading indicator that determines recruiting forecasting rather than efficiency.
-image: maarten-van-den-heuvel-73124.jpg
+image: //cdn.codecarrot.net/images/maarten-van-den-heuvel-73124.jpg
 ---
 
 Human Resources has traditionally been a transactional operation, focused on tactical initiatives or short-term objectives. Lately, there’s been a growing demand for HR leaders to gain a “seat at the table” in order to play a more critical and strategic role at an organization.
