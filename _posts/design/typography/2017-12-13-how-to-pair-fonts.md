@@ -6,7 +6,7 @@ date: 2017-12-13 02:15:48 +0530
 categories: design
 tags: designing typography fonts
 description: Combining different typefaces is an indispensable part of providing readers with an elegant, pleasurable read.
-image: ch3-hero.png
+image: //cdn.codecarrot.net/images/ch3-hero.png
 ---
 
 We’ve already gone over how to describe typefaces and how to choose a font, so now it’s time to learn about mixing fonts. Combining different typefaces is an indispensable part of providing readers with an elegant, pleasurable read.

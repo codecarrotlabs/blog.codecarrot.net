@@ -6,7 +6,7 @@ date: 2017-12-13 01:15:48 +0530
 categories: design
 tags: designing typography fonts identifiers
 description: Everyone, even non-designers, can agree that the smallest typographical change can make a world of difference. Over 40 free typography resources—font identifiers, downloadable fonts, courses, and more.
-image: marcus-depaula-43304.jpg
+image: //cdn.codecarrot.net/images/marcus-depaula-43304.jpg
 ---
 
 Everyone, even non-designers, can agree that the smallest typographical change can make a world of difference. Elevating designs through typography is a skill every designer should have in their back pocket.
