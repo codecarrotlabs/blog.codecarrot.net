@@ -90,7 +90,7 @@ You’ve spent time writing and publishing, and now it’s time to get eyes on y
 
 **Social media:** Share your blog post on the social platforms which you’re active. Use a clever caption that doesn’t repeat the headline, but entices the reader to click through. For example, with a list post, you might write: “Are you as shocked about #5 as we are?” If you maintain a social calendar, plug articles into it before writing. Make sure your social strategy lines up with your content calendar so articles are ready in time for sharing.
 
-**Email marketing:** If you’re interested in developing a readership, now’s the time to start building a [subscriber list](//www.codecarrot.net/garage/market/beginners-guide-to-starting-an-email-list). Email is a great platform for sharing blog posts in a weekly or monthly newsletter.
+**Email marketing:** If you’re interested in developing a readership, now’s the time to start building a [subscriber list](/beginners-guide-to-starting-an-email-list). Email is a great platform for sharing blog posts in a weekly or monthly newsletter.
 
 **Auto-sharing:** There are two ways to get your blog posts shared automatically via WordPress, the most popular (and in my opinion, the best) blogging platform available. The first is connecting WordPress with your social media profiles. When you publish, this automatically shares the post for you. You can also put a “Follow My Blog widget” in your sidebar on post pages. When people sign up, they’re automatically sent your new articles when they go live.
 
