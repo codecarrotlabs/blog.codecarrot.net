@@ -119,4 +119,4 @@ It’s a demo showcasing a bunch of different masking techniques that all use th
 
 But this little pen acts more like a guided intro to different image masking effects you can do. Awesome place to start if you want to dive into SVGs & masks with simple demos.
 
-**NOTE:** All these videos have recorded from the respective owner of the CodePen's work.
+**NOTE:** All these videos have recorded from the respective owner from CodePen.
