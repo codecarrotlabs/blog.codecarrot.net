@@ -37,7 +37,7 @@ Automatic tests are the essential ingredient of refactoring and maintenance. Any
 
 ## No Readme
 
-[Readme is one of the key files on your project](how-to-write-a-perfect-readme) – you will need every time a new developer joins the team. Don’t underestimate the power of the good old readme. A readme makes clear what the requirements for the app are, how to use it, build it and eventually deploy it. If you don’t keep it updated from the very beginning, it can make your dev team spend hours on tackling problems somebody already solved earlier.
+[Readme is one of the key files on your project](/how-to-write-a-perfect-readme) – you will need every time a new developer joins the team. Don’t underestimate the power of the good old readme. A readme makes clear what the requirements for the app are, how to use it, build it and eventually deploy it. If you don’t keep it updated from the very beginning, it can make your dev team spend hours on tackling problems somebody already solved earlier.
 
 ## Summary
 
