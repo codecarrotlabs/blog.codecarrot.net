@@ -141,4 +141,4 @@ Organized by location, BigFoto is perfect for travel bloggers. If your recent tr
 
 Photos are free to use, even for commercial purposes. The site asks for a link back to BigFoto.
 
-Start using these images in your [new blogging website](//codecarrot.net/).
+Start using these images in your [new blogging website](//www.codecarrot.net/).
