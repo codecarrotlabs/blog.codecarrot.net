@@ -85,7 +85,7 @@ If you have a file upload form then you need to treat all files with great suspi
 
 So what can you do to prevent this? Ultimately you want to stop users from being able to execute any file they upload. By default web servers won't attempt to execute files with image extensions, but it isn't recommended to rely solely on checking the file extension as a file with the name image.jpg.php has been known to get through.
 
-Some options are to rename the file on upload to ensure the correct file extension, or to change the file permissions, for example, chmod 0666 so it can't be executed. If using `*nix` you could create a [.htaccess](/how-to-remove-php-html-htm-extensions-with-htaccess/) file (see below) that will only allow access to set files preventing the double extension attack mentioned earlier.
+Some options are to rename the file on upload to ensure the correct file extension, or to change the file permissions, for example, chmod 0666 so it can't be executed. If using `*nix` you could create a [.htaccess](/how-to-remove-php-html-htm-extensions-with-htaccess) file (see below) that will only allow access to set files preventing the double extension attack mentioned earlier.
 
 ```sql
 deny from all
