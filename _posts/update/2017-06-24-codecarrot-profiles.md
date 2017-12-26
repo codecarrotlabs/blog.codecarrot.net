@@ -21,7 +21,7 @@ The longer is the means of communication, more you are pushing people further aw
 
 Our mission here at [CodeCarrot](//www.codecarrot.net/) is to help business to give them an online presence to increase the reach for their business.
 
-And today, we're launching another tool that you use to connect with people in a modren and personal way: [CodeCarrot Profiles](//www.codecarrot.net/profiles).
+And today, we're launching another tool that you use to connect with people in a modern and personal way: [CodeCarrot Profiles](//www.codecarrot.net/profiles).
 
 ## Introducing CodeCarrot Profiles: Your Digital Business Card
 
