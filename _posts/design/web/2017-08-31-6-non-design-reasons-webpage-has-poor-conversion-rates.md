@@ -39,4 +39,4 @@ Have you ever used your web app on mobile? Have you used it on a device other th
 
 A perfect design is not the only way you can increase conversion rates. There are a lot of things to consider, among them page load speed issues. You should make the overall performance and compatibility a priority when working on your products – make sure you have top experts working on it.
 
-Do you want your app to take 1-second delay in page load time? Which equals 7-percent drop in conversion. If not? Then [contact us](//codecarrot.net)
+Do you want your app to take 1-second delay in page load time? Which equals 7-percent drop in conversion. If not? Then [contact us](//www.codecarrot.net)
