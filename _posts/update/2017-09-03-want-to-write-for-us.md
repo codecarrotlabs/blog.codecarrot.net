@@ -21,7 +21,7 @@ Contributors looking to send readers to their website, portfolio or book can opt
 
 * To get a sense for the type of work we publish, read our site! That’s the best way to familiarize yourself with our voice and style.
 * Then, [check out our contributor guidelines](//codecarrot.zendesk.com/hc/en-us/sections/115000388872-Contributor-Guidelines). We love writers who pay close attention to detail and submit their posts in our preferred manner.
-* Share your Box Notes with **[contact@codecarrot.net](mailto:contact@codecarrot.net)**. Make sure we can edit it.
+* Share your Dropbox Paper with **[contact@codecarrot.net](mailto:contact@codecarrot.net)**. Make sure we can edit it.
 * Allow one-two weeks for a response to your pitch or submission before following up (We get a lot of ‘em!).
 
 What topics would you like to see covered on CodeCarrot Blogs? You can comment in this [card](//trello.com/c/lUGGS5Qa).
