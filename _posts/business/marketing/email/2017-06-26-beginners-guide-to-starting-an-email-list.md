@@ -6,7 +6,7 @@ date: 2017-06-26 12:00:00 +0530
 categories: business
 tags: business marketing email
 description: Learn why starting an email list is key to building business, how to get and keep subscribers, and what to avoid. No experience necessary.
-image: starting-an-email-list.jpg
+image: //cdn.codecarrot.net/images/starting-an-email-list.jpg
 ---
 
 If you’re like most people, you started blogging to share information and make money while at it. But to make money with your blog, you need to get visitors to your site. And how can you drive traffic to your blog to show off all that glorious new content? It’s all about starting an email list.
