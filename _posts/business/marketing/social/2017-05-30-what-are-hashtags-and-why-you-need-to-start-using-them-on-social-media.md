@@ -6,7 +6,7 @@ date: 2017-05-30 12:00:00 +0530
 categories: business
 tags: social social-media hashtags online
 description: Hashtags, hashtags, hashtags! You see them online, on just about every social network website. Sometimes you see them in abundance. Sometimes they're silly, and sometimes they look like they serve a purpose.
-image: start-using-hashtag-in-social-media.png
+image: //cdn.codecarrot.net/images/start-using-hashtag-in-social-media.png
 ---
 
 Hashtags, hashtags, hashtags! You see them online, on just about every social network website. Sometimes you see them in abundance. Sometimes they're silly, and sometimes they look like they serve a purpose. So, what are hashtags and why should you care?
