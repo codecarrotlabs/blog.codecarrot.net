@@ -6,7 +6,7 @@ date: 2017-09-03 00:00:18 +0530
 categories: business
 tags: business blogging writers
 description: Starting a blog can seem like a lot of work, but we’ve made it easy with this step-by-step guide just for writers. Here’s how to start a blog from scratch.
-image: braden-collum-87874.jpg
+image: //cdn.codecarrot.net/images/braden-collum-87874.jpg
 ---
 
 So you want to start a blog?

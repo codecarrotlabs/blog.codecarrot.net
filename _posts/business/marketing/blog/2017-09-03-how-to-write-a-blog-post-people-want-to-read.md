@@ -6,7 +6,7 @@ date: 2017-09-03 00:00:46 +0530
 categories: business
 tags: business blogging marketing
 description: Get people to read your blog post by following this method by writing a blog post which people actually want to read.
-image: prasanna-kumar-218699.jpg
+image: //cdn.codecarrot.net/images/prasanna-kumar-218699.jpg
 ---
 
 If you have some blog and want to share it with world. Get your own blogging website with [Codecarrot](//www.codecarrot.net).
