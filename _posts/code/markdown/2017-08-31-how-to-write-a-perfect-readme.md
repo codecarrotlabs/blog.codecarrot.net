@@ -6,7 +6,7 @@ date: 2017-08-31 00:53:00 +0530
 categories: code
 tags: markdown readme conversion-rates
 description: Solving the non-design issues will help you boost conversion rates and will also take less time, money and effort than redesign and implementation.
-image: joseph-chan-256778.jpg
+image: //cdn.codecarrot.net/images/joseph-chan-256778.jpg
 ---
 
 The clarity of readme files is critical for software developers. That information varies from installation instructions to potential bugs and depends on the nature of the software. Fortunately, there is a set of good practices to follow if you want your ReadMe to be neat.
