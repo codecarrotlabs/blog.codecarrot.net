@@ -39,7 +39,7 @@ Like a book. It sort of takes care of No. 3, plus it allows for an income that d
 
 You have a cool brand that people love engaging with, and so does other-similar-blogger-who-also-has-the-ability-to-create-something-beautiful. Maybe it’s time to partner up. Aligning with a complementary brand to create something new is a lucrative way to help breathe life (and money) into your personal brand.
 
-[![Food Court Template](//mir-s3-cdn-cf.behance.net/project_modules/1400/17a4f256135641.59a1dfe5c3f6d.png)](//www.behance.net/gallery/56135641/Food-Court-Template)
+[![Food Court Template](//cdn.codecarrot.net/images/17a4f256135641.59a1dfe5c3f6d.png)](//www.behance.net/gallery/56135641/Food-Court-Template)
 
 ## P.S. Can we send you an email?
 
