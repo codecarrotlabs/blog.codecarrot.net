@@ -6,7 +6,7 @@ date: 2017-11-19 13:21:00 +0530
 categories: business
 tags: business ab ab-testing google google-analytics
 description: Learn A/B testing with Google Analytics. 5 easy steps to learn the whole process with a case study of Kapitall that increased its conversion by 44%.
-image: 6537-01-ab-testing-1.jpg
+image: //cdn.codecarrot.net/images/6537-01-ab-testing-1.jpg
 ---
 
 A/B testing can be as simple as reciting the alphabet…

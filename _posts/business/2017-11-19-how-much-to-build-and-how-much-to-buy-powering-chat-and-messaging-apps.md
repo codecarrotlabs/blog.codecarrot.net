@@ -6,7 +6,7 @@ date: 2017-11-19 13:21:00 +0530
 categories: business
 tags: business chat messaging apps
 description: When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and chatbots — choosing the right platforms, frameworks, and protocols can make or break your business.
-image: 1_OXWXXpMEqJja5J21hmD1fw.png
+image: //cdn.codecarrot.net/images/1_OXWXXpMEqJja5J21hmD1fw.png
 ---
 
 When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and chatbots — choosing the right platforms, frameworks, and protocols can make or break your business.
