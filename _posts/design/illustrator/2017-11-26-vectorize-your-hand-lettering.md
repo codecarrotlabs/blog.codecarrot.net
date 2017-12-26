@@ -6,7 +6,7 @@ date: 2017-11-26 14:40:30 +0530
 categories: design
 tags: illustrator letter adobe drawing
 description: We need an initial sketch of a hand lettering which can be quite rough as we can always adjust it on Illustrator. The sketch is only for a reference; we can tweak it anytime in the software.
-image: 171.jpg
+image: //cdn.codecarrot.net/images/171.jpg
 ---
 
 We need an initial sketch of a hand lettering which can be quite rough as we can always adjust it on Illustrator. The sketch is only for a reference; we can tweak it anytime in the software. We're going to scan the sketch and import it to Illustrator and then begin tracing it using the Pen tool (P).
