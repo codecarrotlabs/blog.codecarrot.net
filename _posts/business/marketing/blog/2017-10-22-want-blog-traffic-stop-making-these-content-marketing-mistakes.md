@@ -6,7 +6,7 @@ date: 2017-10-22 23:30:00 +0530
 categories: business
 tags: marketing tips blog traffic content-marketing
 description: Content marketing can be an asset to your company or a liability. Blog traffic is a major factor in building an online business, but only if you do it well.
-image: increase-blog-traffic.png
+image: //cdn.codecarrot.net/images/increase-blog-traffic.png
 ---
 
 [Content marketing](/44-content-marketing-resources) can be an asset to your company if its used well, but it can also become a gigantic liability if the execution is poor.
