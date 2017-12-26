@@ -6,7 +6,7 @@ date: 2017-10-11 20:20:00 +0530
 categories: tips
 tags: tips security online
 description: We all know that it’s important to have secure passwords for all of the online services that we use, but making sure that all those passwords are unique and that all the data that we transmit over the web is
-image: StockSnap_70GQNT6XZM.jpg
+image: //cdn.codecarrot.net/images/StockSnap_70GQNT6XZM.jpg
 ---
 
 We all know that it’s important to have secure passwords for all of the online services that we use, but making sure that all those passwords are unique and that all the data that we transmit over the web is encrypted and secure is challenging – and it’s also inconvenient.
