@@ -6,7 +6,7 @@ date: 2017-09-10 21:25:00 +0530
 categories: design
 tags: standards designer website
 description: Throughout my web design and development career I have found incredible amounts of valuable help and fantastic resources while searching for solutions to various problems.
-image: hands-measuring-a-gear.jpg
+image: //cdn.codecarrot.net/images/hands-measuring-a-gear.jpg
 ---
 
 Throughout my Web design and development career I have found incredible amounts of valuable help and fantastic resources while searching for solutions to various problems. In the last few years I have found most of this helpful information on Web standards and accessibility-oriented blogs and forums. It’s amazing that so many people are willing to spend so much time to share their knowledge with others and help make the Web a better place.

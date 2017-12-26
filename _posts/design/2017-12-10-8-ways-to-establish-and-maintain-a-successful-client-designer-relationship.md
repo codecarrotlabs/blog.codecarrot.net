@@ -6,7 +6,7 @@ date: 2017-12-10 15:10:00 +0530
 categories: design
 tags: designing designer
 description: Why is it important to establish and maintain a successful relationship with a client if you are a designer? Read our 8 how-tos on client-designer relationships.
-image: rawpixel-com-423665.jpg
+image: //cdn.codecarrot.net/images/rawpixel-com-423665.jpg
 ---
 
 I’ve been working as a product designer for a while, met dozens of clients and learned a lot. One of the things that I came to understand during the process is that clients and designers sometimes suffer from communication problems, because they have misunderstood their roles. As a consequence, projects cost more than expected, take more time, and their quality is inferior. There is a way to avoid it, though! Read on and learn how to establish and maintain an effective client-designer relationship that will translate into your product’s success.
