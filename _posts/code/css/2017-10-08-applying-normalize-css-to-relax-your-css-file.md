@@ -6,7 +6,7 @@ date: 2017-10-08 03:50:00 +0530
 categories: code
 tags: css normalize.css css3 vlog
 description: Normalize.css, a new CSS tool we can use as an alternative to traditional CSS reset methods.
-image: 659592657.png
+image: //cdn.codecarrot.net/images/659592657.png
 ---
 
 In this vlog will learn about [Normalize.css](//codecarrotnet.github.io/normalize.css/), a new CSS tool we can use as an alternative to traditional CSS reset methods.

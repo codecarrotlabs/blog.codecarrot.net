@@ -6,7 +6,7 @@ date: 2017-08-30 15:02:00 +0530
 categories: code
 tags: debugging html css tips css3
 description: Debugging HTML and CSS problems can ruin creative momentum, but if you know how to debug rendering issues, building
-image: lights.jpg
+image: //cdn.codecarrot.net/images/lights.jpg
 ---
 
 Debugging HTML and CSS problems can really ruin your creative momentum, but they’re inevitable when building almost any web project. It’s annoying when you’re designing a page and suddenly you notice that something isn’t quite aligned right or colored correctly.

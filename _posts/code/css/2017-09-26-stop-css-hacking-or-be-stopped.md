@@ -6,7 +6,7 @@ date: 2017-09-26 13:10:00 +0530
 categories: code
 tags: code css3 css hacking
 description: CSS has experienced a colourful and unusual history. From historic slow adoption to the current slow rate of development, ugly hacks have meant filling in the gaps is par for the course. With CSS1, we had a simple and elegant...
-image: css-1.png
+image: //cdn.codecarrot.net/images/css-1.png
 ---
 
 CSS has experienced a colourful and unusual history. From historic slow adoption to the current slow rate of development, ugly hacks have meant filling in the gaps is par for the course.
