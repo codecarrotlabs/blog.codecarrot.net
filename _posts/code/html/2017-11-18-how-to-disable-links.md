@@ -6,7 +6,7 @@ date: 2017-11-18 17:55:00 +0530
 categories: code
 tags: coding links html links a
 description: The topic of disabling links popped up at my work the other day. Somehow, a disabled anchor style was added to our typography styles last year when I was"
-image: jj-ying-215308.jpg
+image: //cdn.codecarrot.net/images/jj-ying-215308.jpg
 ---
 
 The topic of disabling links popped up at my work the other day. Somehow, a "disabled" anchor style was added to our typography styles last year when I wasn't looking. There is a problem though: there is no real way to disable an `<a>` link *(with a valid `href` attribute)* in HTML. Not to mention, why would you even want to? Links are the basis of the web.
