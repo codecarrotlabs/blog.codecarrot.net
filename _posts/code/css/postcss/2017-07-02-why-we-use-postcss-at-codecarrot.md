@@ -6,7 +6,7 @@ date: 2017-07-02 12:00:00 +0530
 categories: code
 tags: css postcss css3
 description: PostCSS provides a set of extremely useful features that would make every CSS codebase more maintainable and it can work alongside SASS or replace it.
-image: why-we-use-postcss-at-codecarrot.jpg
+image: //cdn.codecarrot.net/images/why-we-use-postcss-at-codecarrot.jpg
 ---
 
 <blockquote>

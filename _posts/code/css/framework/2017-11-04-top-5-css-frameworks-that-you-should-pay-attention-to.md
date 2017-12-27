@@ -6,7 +6,7 @@ date: 2017-11-04 19:54:00 +0530
 categories: code
 tags: css frameworks
 description: A web developer and UI guru takes a look at five of his favorite CSS frameworks, and gives the corresponding HTML, CSS, and JavaScript to create awesome UIs.
-image: Foundation-and-Bootstrap-modified.png
+image: //cdn.codecarrot.net/images/Foundation-and-Bootstrap-modified.png
 ---
 
 CSS frameworks are gaining a lot of popularity these days and to be honest, it’s hard to imagine a website without using them. As all development tools, CSS frameworks are in a constant state of evolution and improvement and thus we highly recommend that you keep an eye on the modern trends. To make it easier for you, we’ve come up with top-5 most popular CSS frameworks of 2017 that you may want to deploy (if you are not using them already).
