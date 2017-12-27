@@ -6,7 +6,7 @@ date: 2017-10-02 10:02:00 +0530
 categories: code
 tags: go coding learning new-language programming
 description: Nothing makes a developer crazy than a new programming language, right? So, I started learning Go before 4 to 5 months and here I am going to tell you about why you should also learn this new language.
-image: DSC03466.jpg
+image: //cdn.codecarrot.net/images/DSC03466.jpg
 ---
 
 <blockquote>
@@ -25,7 +25,7 @@ I am not going to teach you, how you can write “Hello World!!” in this artic
 
 First Pentium 4 processor with 3.0GHz clock speed was introduced back in 2004 by Intel. Today, my Mackbook Pro 2016 has clock speed of 2.9GHz. So, nearly in one decade, there is no too much gain in the raw processing power. You can see the comparison of increasing the processing power with the time in below chart.
 
-![comparison of increasing the processing power](1-Azz7YwzYYR6lDKFj8iIGZg.png)
+![comparison of increasing the processing power](//cdn.codecarrot.net/images/1-Azz7YwzYYR6lDKFj8iIGZg.png)
 
 From the above chart you can see that the single-thread performance and the frequency of the processor remained steady for almost a decade. If you are thinking that adding more transistor is the solution, then you are wrong. This is because at smaller scale some quantum properties starts to emerge (like tunneling) and because it actually costs more to put more transistors (why?) and the number of transistors you can add per dollar starts to fall.
 
@@ -105,7 +105,7 @@ Go intentionally leaves out many features of many features of modern OOP languag
 
 Above changes make Go very different from other languages and it makes programming in Go different from other. You may not like some points from above. But, it is not like you can not code your application without above features. All you have to do is write 2–3 more lines. But on the positive side, it will make your code cleaner and add more clarity to your code.
 
-![Code readability vs, Efficiency.](1-nlpYI256BR71xMBWd1nlfg.png)
+![Code readability vs, Efficiency.](//cdn.codecarrot.net/images/1-nlpYI256BR71xMBWd1nlfg.png)
 
 Above graph displays that Go is almost as efficient as C/C++, while keeping the code syntax simple as Ruby, Python and other languages. That is a win-win situation for both humans and processors!!!
 
