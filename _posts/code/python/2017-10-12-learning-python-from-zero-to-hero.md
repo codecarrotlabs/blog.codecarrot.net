@@ -521,8 +521,10 @@ We don’t use the term “private” here, since no attribute is really private
 As the `public instance variable`, we can define the `non-public instance` variable both within the constructor method or within the class. The syntax difference is: for `non-public instance variables`, use an underscore (`_`) before the `variable` name.
 
 <blockquote>
-“‘Private’ instance variables that cannot be accessed except from inside an object don’t exist in Python. However, there is a convention that is followed by most Python code: a name prefixed with an underscore (e.g. _spam) should be treated as a non-public part of the API (whether it is a function, a method or a data member)”— [Python Software Foundation](//docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references)
+“‘Private’ instance variables that cannot be accessed except from inside an object don’t exist in Python. However, there is a convention that is followed by most Python code: a name prefixed with an underscore (e.g. `_spam`) should be treated as a non-public part of the API (whether it is a function, a method or a data member)”— Python Software Foundation
 </blockquote>
+
+[Python Software Foundation](//docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references)
 
 Here’s an example:
 
