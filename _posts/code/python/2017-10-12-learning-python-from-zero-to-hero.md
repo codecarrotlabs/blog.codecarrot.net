@@ -6,7 +6,7 @@ date: 2017-10-12 23:39:00 +0530
 categories: code
 tags: dev coding python
 description: Python is not just a server side language, according to its creator guido van rossum, it's high-level programming language, and its core design philosophy is all about code readability.
-image: 1-ueWmI48uuShON-hX7LwI0w.png
+image: //cdn.codecarrot.net/images/1-ueWmI48uuShON-hX7LwI0w.png
 ---
 
 First of all, what is Python? According to its creator, Guido van Rossum, Python is a

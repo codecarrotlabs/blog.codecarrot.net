@@ -6,7 +6,7 @@ date: 2017-11-01 19:35:12 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: Progressive Web Apps solve mobile users’ problems. Find out what types of apps can gain the most through PWA.
-image: phone-on-city-332031-edited.jpeg
+image: //cdn.codecarrot.net/images/phone-on-city-332031-edited.jpeg
 ---
 
 Progressive Web Apps is a concept in web development that focuses on making web apps fast, reliable, and engaging for all users, regardless of what device they own and how well their internet connection works. But can all businesses benefit from PWAs? What criteria should you meet before investing in this technology?
