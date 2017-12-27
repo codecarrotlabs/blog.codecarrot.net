@@ -27,7 +27,7 @@ What Normalize.css does is it preserves useful browser default styles instead of
 
 All HTML elements will render consistently and in line with modern web standards.
 
-You can download Normalize.css at [codecarrotnet.github.io/normalize.css](http;//codecarrotnet.github.io/normalize.css/). Or grab the files on GitHub at [github.com/codecarrotnet/normalize.css](//github.com/codecarrotnet/normalize.css).
+You can download Normalize.css at [codecarrotnet.github.io/normalize.css](//codecarrotnet.github.io/normalize.css/). Or grab the files on GitHub at [github.com/codecarrotnet/normalize.css](//github.com/codecarrotnet/normalize.css).
 
 So save the file in your project folder, then you can link to it from your HTML file right above your main style sheet. Or you can import it from your main style sheet and you’re all set.
 
