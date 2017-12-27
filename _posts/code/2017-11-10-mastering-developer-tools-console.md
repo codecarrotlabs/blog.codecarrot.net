@@ -6,7 +6,7 @@ date: 2017-11-10 00:19:00 +0530
 categories: code
 tags: developer developer-tools dev-tools console coding
 description: Learn how to use the developer tools console to debug your front-end web applications.
-image: alessandro_pilastrini_terminal_icon.png
+image: //cdn.codecarrot.net/images/alessandro_pilastrini_terminal_icon.png
 ---
 
 The developer tools console is one of the most powerful tools available to you when it comes to debugging your front-end web applications. The console has an API that provides a number of methods that make debugging easier. It’s not uncommon to see developers using `console.log()` or `console.dir()` to investigate problems; but the developer tools console has a lot more to offer.

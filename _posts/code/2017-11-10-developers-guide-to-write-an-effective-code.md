@@ -6,7 +6,7 @@ date: 2017-11-10 15:19:00 +0530
 categories: code
 tags: coding developer writing
 description: We take a look at some best practices to keep in mind while writing code to ensure that your code is clean, readable, maintainable, and easy to debug.
-image: christopher-gower-291246.jpg
+image: //cdn.codecarrot.net/images/christopher-gower-291246.jpg
 ---
 
 Without a doubt, coding is a tough job. Hell, a lot of things have been said about the ease of learning a programming language, but it’s a beast of a challenge when you actually implement that knowledge and understanding to a complex problem. If you had a look at some old code, it must have been messy, unclear or jumbled as if it was written while a developer was having a fight at his desk. And believe me, there is no place for such code now, especially because of the demand to be scalable.

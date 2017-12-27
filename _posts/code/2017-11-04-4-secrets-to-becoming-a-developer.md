@@ -6,7 +6,7 @@ date: 2017-11-04 17:29:40 +0530
 categories: code
 tags: coding developer secrets
 description: Here are a few important things to keep at the front of your mind while you're learning to code and becoming a developer.
-image: secrets.png
+image: //cdn.codecarrot.net/images/secrets.png
 ---
 
 We all arrive new to coding with expectations. You know it won’t be easy and you’ll have to work hard. You’re prepared to spend a lot of time at your keyboard with the goal of being able to create something awesome. But what are some aspects of learning to code that you might not expect?
