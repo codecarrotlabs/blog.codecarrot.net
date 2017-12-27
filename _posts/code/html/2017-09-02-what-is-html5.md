@@ -67,4 +67,4 @@ Section element just helps us in breaking the specific sections of our website.
 
 Address element is used to wrap various types of addresses.
 
-Do you also [want a website](//codecarrot.net) for yourself? Get a successful project with [Codecarrot](//codecarrot.net).
+Do you also [want a website](//www.codecarrot.net) for yourself? Get a successful project with [Codecarrot](//www.codecarrot.net).
