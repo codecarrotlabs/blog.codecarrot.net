@@ -63,7 +63,7 @@ On the other hand, Go was released in 2009 when multi-core processors were alrea
 * Also, goroutines and OS threads do not have 1:1 mapping. A single goroutine can run on multiple threads. Goroutines are multiplexed into small number of OS threads.
 
 <blockquote>
-You can see Rob Pike’s excellent talk *concurrency is not parallelism to get more deep understanding on this.
+You can see Rob Pike’s excellent talk concurrency is not parallelism to get more deep understanding on this.
 </blockquote>
 
 * [Concurrency is not parallelism](//blog.golang.org/concurrency-is-not-parallelism)
