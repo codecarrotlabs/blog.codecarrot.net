@@ -6,7 +6,7 @@ date: 2017-10-29 01:59:00 +0530
 categories: code
 tags: coding learing
 description: Break your code and put it back together. In the world of developers, that's what everyone does.
-image: Stressed.png
+image: //cdn.codecarrot.net/images/Stressed.png
 ---
 
 Our instinct tells us that things shouldn’t be broken, but when it comes to coding, reverse that thought process. Regardless of what type (and level) of developer you are, coding relies on using a programming language to solve a problem, so naturally problem-solving is the most valuable skill you can have. So what’s the best way to improve your problem-solving skills? Find out what does and doesn’t work. Put your ideas to the test. Break your code and put it back together. In the world of developers, that’s what everyone does.

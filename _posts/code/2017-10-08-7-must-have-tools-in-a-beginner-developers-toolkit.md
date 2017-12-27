@@ -6,7 +6,7 @@ date: 2017-10-08 23:21:00 +0530
 categories: project-management
 tags: project-management developer
 description: Being confident in coding is one of the ways to a expert developer, here are the 5 expert tips on how to improve your coding confidence.
-image: todd-quackenbush-701.jpg
+image: //cdn.codecarrot.net/images/todd-quackenbush-701.jpg
 ---
 
 When you’re new to coding, you’ll start to hear about all the latest and greatest tools for developers. Coding is ultimately problem-solving, which is why new tools are constantly being created to help solve those problems. As you grow your skills, you’ll start to be able to test out the tools that best fit your needs and projects. But, when you’re first getting started, what are some of the essential tools that should be in a developer’s toolkit?

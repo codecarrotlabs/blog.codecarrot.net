@@ -6,7 +6,7 @@ date: 2017-10-09 00:01:00 +0530
 categories: code
 tags: coding docker container
 description: Have you heard of Docker, but still don't know exactly what it is? Let's fix that. Docker is the world’s leading software container platform.
-image: group_5622_0.png
+image: //cdn.codecarrot.net/images/group_5622_0.png
 ---
 
 ## What is Docker?
