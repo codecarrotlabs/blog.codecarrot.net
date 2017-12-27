@@ -6,7 +6,7 @@ date: 2017-11-24 13:59:50 +0530
 categories: code
 tags: coding elixir ruby web-development
 description: RoR is a trusted technology. Elixir is the new, hot solution. RoR is great for fast prototyping, and Elixir for hardware efficiency. Which is better for you?
-image: applesandoranges-167668-edited.jpg
+image: //cdn.codecarrot.net/images/applesandoranges-167668-edited.jpg
 ---
 
 Ruby is the one of the main language we use for web development at [CodeCarrot](//www.codecarrot.net/). It’s already solid on its own, but gets even better with Ruby on Rails - a great framework that had a major influence on web development. Still, life goes on and the whole tech industry keeps moving forward. New languages are invented, new frameworks are created and different architectures gain popularity. The Ruby community is looking towards Elixir, a language based on the Erlang VM - the language that helped WhatsApp build their product. As an app owner, you’re probably wondering which language to choose for your new project. This article aims to shed some light on the pros and cons of both Ruby and Elixir.
