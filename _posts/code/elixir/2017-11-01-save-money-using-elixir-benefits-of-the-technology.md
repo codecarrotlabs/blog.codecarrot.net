@@ -9,7 +9,7 @@ description: Elixir, a new trending backend technology, promises to significantl
 image: //cdn.codecarrot.net/images/pexels-photo-60500.jpeg
 ---
 
-Building an application that handles millions of users and performs thousands of concurrent operations can be expensive both to develop and maintain. Elixir, a new trending backend technology, promises to cut costs significantly by providing exceptional performance. The [CodeCarrot](//codecarrot.net/) team have recently dug beneath the surface of Elixir to verify whether it delivers on its promises.
+Building an application that handles millions of users and performs thousands of concurrent operations can be expensive both to develop and maintain. Elixir, a new trending backend technology, promises to cut costs significantly by providing exceptional performance. The [CodeCarrot](//www.codecarrot.net/) team have recently dug beneath the surface of Elixir to verify whether it delivers on its promises.
 
 Elixir is a functional programming language and runs on Erlang’s battle-tested virtual machine. Compared to Ruby and its ecosystem, Elixir is fresh and small, but it’s growing rapidly with more and more developers running Elixir apps and more and more packages being developed each week.
 
