@@ -9,7 +9,7 @@ description: These colorful, cute free icons are sure to save you a ton of time 
 image: //cdn.codecarrot.net/images/food-icons-hero.gif
 ---
 
-Sorry if you’re hungry—this isn’t going to help. Inspired by their favorite foods, our friends at Vecteezy created a pack of free icons ([click here to download it]()) that just might be the key ingredient to your next product design project.
+Sorry if you’re hungry—this isn’t going to help. Inspired by their favorite foods, our friends at Vecteezy created a pack of free icons ([click here to download it](//www.instamojo.com/codecarrot/21-tasty-food-icons/)) that just might be the key ingredient to your next product design project.
 
 ![Tasty Food Icon Preview](//cdn.codecarrot.net/images/free-icons-food.png)
 
