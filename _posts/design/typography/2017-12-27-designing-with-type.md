@@ -13,7 +13,7 @@ image: //cdn.codecarrot.net/images/designing-with-type.jpg
 
 Learn basic type terms, the mechanics behind the best font pairings, how to use type on a grid, and much more.
 
-You’ll receive the following chapters:
+You’ll learn the following in this eBook:
 
 1. Describing typefaces
 2. Choosing a font
