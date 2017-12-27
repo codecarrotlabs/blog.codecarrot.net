@@ -6,7 +6,7 @@ date: 2017-11-15 14:17:40 +0530
 categories: code
 tags: coding coding developer
 description: Working Your Way Up the Learning Curve. There’s just a lot of stuff to learn in web development. Front-end or back-end? React, Angular, Ruby, .NET? AJAX, JSON, SQL, MySQL, noSQL??
-image: 1_7aJPlxn8gwhI7JjcBFr-tQ.jpeg
+image: //cdn.codecarrot.net/images/1_7aJPlxn8gwhI7JjcBFr-tQ.jpeg
 ---
 
 ## Coding is damn hard.

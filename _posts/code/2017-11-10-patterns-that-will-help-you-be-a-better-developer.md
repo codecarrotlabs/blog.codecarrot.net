@@ -6,7 +6,7 @@ date: 2017-11-10 01:17:40 +0530
 categories: code
 tags: coding coding-pattern developer
 description: Check out how patterns will help you keep your code clean and effective. In today’s fast moving world deadlines can be a real nightmare, especially for devs who have to focus on the code they’re writing to keep its quality high.
-image: stairpath-565865-edited.jpg
+image: //cdn.codecarrot.net/images/stairpath-565865-edited.jpg
 ---
 
 In today’s fast moving world deadlines can be a real nightmare, especially for devs who have to focus on the code they’re writing to keep its quality high. One solution to help devs deal with time pressure, while keeping the code clear of bugs and easy to test, is to use patterns: methodologies for creating code that solve the most common problems in development. In this article we describe the ones we use and see the most.

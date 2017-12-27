@@ -6,7 +6,7 @@ date: 2017-12-03 22:35:00 +0530
 categories: code
 tags: coding
 description: A discussion of the Agile practice of code reviews, where teams collaboratively review code created by their peers to find bugs and suggest improvements.
-image: lee-campbell-86958.jpg
+image: //cdn.codecarrot.net/images/lee-campbell-86958.jpg
 ---
 
 Building a startup is hard, building software for it is not easier. But what makes software great? Good code. But how can you be sure that the code is good?
