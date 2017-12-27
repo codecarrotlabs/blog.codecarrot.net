@@ -6,14 +6,14 @@ date: 2017-10-01 04:02:00 +0530
 categories: code
 tags: android coding mobile-app-development SDK package APK code-compiling
 description: Programmer plays a vital role in setting up computers with necessary tools, together decode the entire process of writing a code and getting the finished APK.
-image: code-to-android-file1600.png
+image: //cdn.codecarrot.net/images/code-to-android-file1600.png
 ---
 
 New age programmers rely heavily on API, SDK’s , Smart Editors to write codes, but there is a lot of process which goes behind to bring forth the finished product. Technically there are following stakeholders involved to make development happen
 
 1. Laptop
 2. Software/Editor/SDK/Frameworks/Libraries
-3. [Programmers](//codecarrot.net/)
+3. [Programmers](//www.codecarrot.net/)
 
 Programmer plays a vital role in setting up computers with necessary tools and software's before they start developing any project using the editor. How your code which you write compiles and becomes an executable file is what we seldom give a thought. Today we will together decode the entire process of writing a code and getting the finished APK.
 
