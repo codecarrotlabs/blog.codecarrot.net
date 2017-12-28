@@ -41,7 +41,7 @@ Finally, React Native is still build on Android 6.0 and we can see many new upda
 
 [![Instagram users React Native too](//cdn.codecarrot.net/images/instagram-also-use-react.png)](/9-great-apps-written-with-react-native)
 
-What if your app is not performant enough? Quick glimpse into the inner workings of this framework exposes some problems. While the native platform and JavaScriptCore are really fast the communication between them is not.
+What if your app is not performant enough? Quick glimpse into the inner workings of this framework exposes some problems. While the native platform and JavaScript Core are really fast the communication between them is not.
 
 Let's say that you want to implement an efficient custom view displaying real time data and reacting to user input. In such scenario, you'll need to go back to native implementations. Depending on the functionality that you need to export, bridging them through react native might have negative impact on performance and end user experience. You might end up doing strange hacks just to bypass the react native bridge and still never reach full native performance.
 
