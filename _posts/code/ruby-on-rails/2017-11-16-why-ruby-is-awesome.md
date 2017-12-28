@@ -6,7 +6,7 @@ date: 2017-11-16 02:40:35 +0530
 categories: code
 tags: ruby-on-rails ruby rails
 description: I’ve been through a few programming languages over the years, and I can say without hesitation that Ruby is my favorite.
-image: Ruby-1.jpg
+image: //cdn.codecarrot.net/images/Ruby-1.jpg
 ---
 
 I’ve been through a few programming languages over the years, and I can say without hesitation that Ruby is my favorite. Not the “best” (there is no “best” programming language), but my favorite.
