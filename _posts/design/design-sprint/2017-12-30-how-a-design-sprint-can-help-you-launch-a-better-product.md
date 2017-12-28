@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: How a Product Design Sprint Can Help You Launch a Better Product
+title: How a Design Sprint Can Help You Launch a Better Product
 date: 2017-12-30 01:09:42 +0530
 categories: design
 tags: design design-sprint product launch
