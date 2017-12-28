@@ -5,7 +5,7 @@ title: 23 Obvious Signs You’re a Writer
 date: 2017-12-22 23:51:00 +0530
 categories: tips
 tags: tips writer
-description: Endless caffeine, a little bit of procrastination, blank Word documents, piles of notebooks, bouts of self-doubt and the satisfying clickety-clack of the keyboard.
+description: Endless caffeine, a little bit of procrastination, blank Word documents, piles of notebooks, bouts of self-doubt.
 image: //cdn.codecarrot.net/images/photodune-5057545-writing-woman-lying-in-bed-s.jpg
 ---
 
