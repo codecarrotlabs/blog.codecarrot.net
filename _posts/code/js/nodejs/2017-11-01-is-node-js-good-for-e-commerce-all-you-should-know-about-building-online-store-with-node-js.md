@@ -6,7 +6,7 @@ date: 2017-11-01 18:52:00 +0530
 categories: code
 tags: coding nodejs
 description: Choosing stack is an individual case and depends on many factors. Will Node.js meet your requirements and needs?
-image: StockSnap_0K2OHEKTRH-154362-edited.jpg
+image: //cdn.codecarrot.net/images/StockSnap_0K2OHEKTRH-154362-edited.jpg
 ---
 
 E-commerce platform is a complex system from a technical perspective. To make all the pieces work together, you need a reliable technology that will support it. [Node.js is fast and scalable](/why-to-use-nodejs-pros-and-cons-of-choosing-nodejs-for-back-end-development), but how to make sure it’s the right match for your platform?

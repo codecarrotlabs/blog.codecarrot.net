@@ -6,7 +6,7 @@ date: 2017-09-27 01:29:00 +0530
 categories: code
 tags: nodejs backend development backend coding
 description: Get a full picture of Node.js as a backend and avoid making serious mistakes in development that could cost you money.
-image: pexels-photo.jpg
+image: //cdn.codecarrot.net/images/pexels-photo.jpg
 ---
 
 [Airbnb, LinkedIn, Walmart, Uber, and even NASA have used Node.js in production](/10-top-companies-that-used-nodejs-in-production). Many smaller enterprises and startups follow their lead and leverage the technology in building applications. The benefits of Node.js are countless, but you should also be aware of its constraints. Get a full picture of Node.js and avoid making serious mistakes in development that could cost you money.

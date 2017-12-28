@@ -6,7 +6,7 @@ date: 2017-10-11 21:29:00 +0530
 categories: code
 tags: nodejs coding
 description: The latest major release of Node.js brings many significant improvements to the JavaScript community, including an updated JavaScript engine, npm version 5, Google's V8, Node.js API, async_hooks, a WHATWG URL parser, more secure Buffers and more.
-image: dSLsz4Aqa4zWZdn5hSFRBS-970-80.jpg
+image: //cdn.codecarrot.net/images/dSLsz4Aqa4zWZdn5hSFRBS-970-80.jpg
 ---
 
 The latest major release of Node.js brings many significant improvements to the JavaScript community, including an updated JavaScript engine, npm version 5, Google's V8, Node.js API, async_hooks, a WHATWG URL parser, more secure Buffers and more. Here we'll update you on these features and the other most important aspects of this release.
