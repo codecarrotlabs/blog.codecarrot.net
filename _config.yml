@@ -3,12 +3,12 @@ title: CodeCarrot Blog - Ruby on Rails, Online Marketing, Development, Design, a
 email: contact@codecarrot.net
 description: CodeCarrot Blogs - Ruby on Rails, Web Development, Designing, Startups, Outsourcing, Remote work, Online Marketing and more.
 baseurl: ""
-url: "http://blog.codecarrot.net/"
+url: "https://blog.codecarrot.net"
 twitter:
   username: codecarrotnet
 github:
   username:  codecarrotnet
-logo: "http://cdn.codecarrot.net/images/favicon.png"
+logo: "https://cdn.codecarrot.net/images/favicon.png"
 webmaster_verifications:
   google: 4YT4xkzM4wsDqWQY6J6LQplYCKTXAgI410kIAGE22VA
 facebook:
