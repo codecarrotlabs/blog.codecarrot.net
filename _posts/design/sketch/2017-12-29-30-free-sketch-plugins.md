@@ -34,7 +34,7 @@ The Batch Create Symbols plugin allows you to select a bunch of layers, click, a
 ## Confetti
 
 <video controls>
-  <source src="//cdn.codecarrot.net/videos/confetti–sketch-plugin-for-generating-confetti-patterns.mp4" type="video/mp4">
+  <source src="https://cdn.codecarrot.net/videos/confetti–sketch-plugin-for-generating-confetti-patterns.mp4" type="video/mp4">
 </video>
 
 Here’s a fun one. Confetti will automatically take a group of layers or symbols and blast them around randomly to form confetti patterns. Sure, you could copy and paste a bunch of little tiny layers by hand, but where’s the fun in that?
@@ -52,7 +52,7 @@ If you’ve ever created a colorful gradient that got a bit gray and dingy in th
 ## Craft
 
 <video controls>
-  <source src="//cdn.codecarrot.net/videos/craft-by-invision-labs-ui-design-plugins-for-sketch-and-photoshop.mp4" type="video/mp4">
+  <source src="https://cdn.codecarrot.net/videos/craft-by-invision-labs-ui-design-plugins-for-sketch-and-photoshop.mp4" type="video/mp4">
 </video>
 
 The singular must-have in every UI/UX designer’s tool belt, Craft is a suite of plugins for Photoshop and Sketch that help streamline your design workflow by automating tedious actions and pulling in more realistic sample data.

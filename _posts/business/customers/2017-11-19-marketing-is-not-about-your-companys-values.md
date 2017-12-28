@@ -14,7 +14,7 @@ Marketing Is Not About Your Company’s Values, it’s about your customer’s v
 Twenty years ago, in 1997, Steve Jobs told us,
 
 <video poster="/path/to/poster.jpg" controls>
-  <source src="//cdn.codecarrot.net/videos/steve-jobs-marketing-is-about-values.mp4" type="video/mp4">
+  <source src="https://cdn.codecarrot.net/videos/steve-jobs-marketing-is-about-values.mp4" type="video/mp4">
 </video>
 
 <div class="callout">
