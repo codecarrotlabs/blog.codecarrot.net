@@ -6,7 +6,7 @@ date: 2017-10-01 13:10:00 +0530
 categories: code
 tags: coding javascript js strings template
 description: JavaScript was built at a time when Unicode was a 16-bit character set, so all characters in JavaScript are 16 bits wide.
-image: 1-3zyOAYB2AfNIC_7O7F_ZNQ.png
+image: //cdn.codecarrot.net/images/1-3zyOAYB2AfNIC_7O7F_ZNQ.png
 ---
 
 ![strings and template strings](//cdn.codecarrot.net/images/1-3zyOAYB2AfNIC_7O7F_ZNQ.png)
