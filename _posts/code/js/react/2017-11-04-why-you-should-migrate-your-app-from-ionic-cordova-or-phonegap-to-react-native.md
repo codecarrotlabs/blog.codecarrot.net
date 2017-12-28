@@ -9,7 +9,7 @@ description: A few years back, hybrid apps built with Ionic, Cordova or PhoneGap
 image: shripal-daphtary-278736.jpg
 ---
 
-A few years back, hybrid apps built with Ionic, Cordova or PhoneGap were a perfect and cost-effective alternative to native development. However, with the technology moving forward, they might not meet users’ expectations anymore. [React Native](//www.codecarrot.net/react-native) is a good alternative that can save your app from going under.
+A few years back, hybrid apps built with Ionic, Cordova or PhoneGap were a perfect and cost-effective alternative to native development. However, with the technology moving forward, they might not meet users’ expectations anymore. [React Native](//www.codecarrot.net/services/react-native) is a good alternative that can save your app from going under.
 
 ## Differences Between Ionic, Cordova, PhoneGap, and React Native
 
