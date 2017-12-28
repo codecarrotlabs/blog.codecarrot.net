@@ -3,7 +3,7 @@
 CodeCarrot Blogs - Ruby on Rails, Web Development, Designing, Startups, Outsourcing, Remote work, Online Marketing and more.
 
 ### Find us on internet:
-*  [Website](http://www.codecarrot.net)
+*  [Website](https://www.codecarrot.net)
 *  [Github](https://www.github.com/codecarrot.net)
 *  [Dribbble](https://www.dribbble.com/codecarrot)
 *  [Behance](https://www.behance.net/codecarrot)
