@@ -14,7 +14,7 @@ webmaster_verifications:
 facebook:
  app_id: 181159655729057
 
-permalink: /:title/
+permalink: :title/
 
 paginate_path: "/page/:num/"
 paginate: 12
