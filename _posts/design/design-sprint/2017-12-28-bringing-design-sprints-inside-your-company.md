@@ -3,8 +3,8 @@ layout: post
 author: yashumittal
 title: Bringing Design Sprints Inside Your Company
 date: 2017-12-28 00:09:42 +0530
-categories: design company design-sprint
-tags: design standards designer website teams
+categories: design
+tags: design standards designer website teams company design-sprint
 description: If you’re the one minting design sprints inside your company, you’re probably also struggling to get others to play ball.
 image: //cdn.codecarrot.net/images/nh-sprints-hero.jpg
 ---
