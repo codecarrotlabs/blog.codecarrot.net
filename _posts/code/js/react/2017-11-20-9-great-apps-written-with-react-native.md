@@ -6,14 +6,14 @@ date: 2017-11-20 20:37:00 +0530
 categories: code
 tags: coding react facebook framework react-native mobile
 description: React Native has been used in production in Instagram, Airbnb, Skype and, of course, Facebook. Check out more apps written in React Native.
-image: StockSnap_3M1WKORDOL-610982-edited.jpg
+image: //cdn.codecarrot.net/images/StockSnap_3M1WKORDOL-610982-edited.jpg
 ---
 
 The idea of creating apps using only one paradigm for all platforms sounds a bit unreal. However, [React Native, despite its immaturity, enables to accelerate the process of building apps across different platforms, thanks to the possibility of reusing most of the code between them](/why-you-should-consider-react-native-for-your-mobile-app). No wonder that many companies settle upon React Native for their mobile apps. Here is a list of those that have leveraged this framework in production.
 
 ## Facebook
 
-[React Native](//www.codecarrot.net/react-native) started as Facebook’s hackathon project developed in response to the company’s needs. Facebook wanted to bring all the benefits of web development - such as fast iterations and having a single team build the whole product - to mobile. That’s how React Native was brought to life and leveraged in mobile app development for both iOS and Android apps.
+[React Native](//www.codecarrot.net/services/react-native) started as Facebook’s hackathon project developed in response to the company’s needs. Facebook wanted to bring all the benefits of web development - such as fast iterations and having a single team build the whole product - to mobile. That’s how React Native was brought to life and leveraged in mobile app development for both iOS and Android apps.
 
 The dev team converted the Events Dashboard feature in the Facebook for iOS app to [React Native to test app performance, such as startup time, which is crucial in this kind of applications](/why-you-should-consider-react-native-for-your-mobile-app). It is a significant part of the user’s first impression of the app and determines whether they will stay or leave. What they achieved was cutting time-to-market in half. Read about their journey with React Native here.
 

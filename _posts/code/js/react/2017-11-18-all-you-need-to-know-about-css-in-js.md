@@ -6,7 +6,7 @@ date: 2017-11-18 18:43:00 +0530
 categories: code
 tags: coding react facebook native-apps react-native css js javascript
 description: Thinking in components — No longer do you have to maintain bunch of style-sheets. CSS-in-JS abstracts the CSS model to the component level, rather than the document level (modularity).
-image: 1_OH0dDfJAGv6aEGFk2zLAxw.jpeg
+image: //cdn.codecarrot.net/images/1_OH0dDfJAGv6aEGFk2zLAxw.jpeg
 ---
 
 TL;DR: **Thinking in components** — No longer do you have to maintain bunch of style-sheets. CSS-in-JS abstracts the CSS model to the component level, rather than the document level (modularity).

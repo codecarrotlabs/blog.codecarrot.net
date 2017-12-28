@@ -6,7 +6,7 @@ date: 2017-12-09 17:01:00 +0530
 categories: code
 tags: coding react facebook framework react-native rubyonrails ruby rails
 description: Users expect apps to be engaging, responsive and fast. Ruby on Rails and React setup is the stack you should go for.
-image: pexels-photo-209726.jpeg
+image: //cdn.codecarrot.net/images/pexels-photo-209726.jpeg
 ---
 
 Currently, more and more applications have dynamic content. Users expect apps to be engaging, responsive and fast. If you want to live up to these expectations you will need a proven technology on the backend with interactive framework on the frontend. Otherwise, users might get discouraged from using your app and move to a competitor. Having tested many combinations we’ve found a great solution for quick development of dynamic applications. What’s our secret?
