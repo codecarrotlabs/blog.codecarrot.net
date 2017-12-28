@@ -6,7 +6,7 @@ date: 2015-10-12 21:29:00 +0530
 categories: code
 tags: coding react facebook framework react-native virtual-dom dom
 description: React attacks us with the virtual DOM right away, on the main page. This feature seems to be very important! But what does &quot;virtual DOM&quot; mean exactly?
-image: react-website-header-2015.png
+image: //cdn.codecarrot.net/images/react-website-header-2015.png
 ---
 
 React attacks us with the virtual DOM right away, on the main page. This feature seems to be very important!

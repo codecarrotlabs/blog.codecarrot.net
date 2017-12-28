@@ -6,7 +6,7 @@ date: 2017-10-04 00:04:00 +0530
 categories: code
 tags: coding vue vuejs app hello-world
 description: Vue.js is a progressive framework for building user interfaces. This is lean, this is fast, and unlike frameworks like React and Angular,
-image: hello_world.gif
+image: //cdn.codecarrot.net/images/hello_world.gif
 ---
 
 ![Vuejs website screenshot](//cdn.codecarrot.net/images/vuejs-website-screenshot.png)
