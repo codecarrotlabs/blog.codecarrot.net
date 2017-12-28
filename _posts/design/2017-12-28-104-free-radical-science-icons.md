@@ -6,7 +6,7 @@ date: 2017-12-28 07:10:00 +0530
 categories: design
 tags: design science icons
 description: A free pack of beautifully designed icons perfect for that science-related app, website, or print project you're working on.
-image: https:https://cdn.codecarrot.net/images/free-science-icons-prev.jpg
+image: https://cdn.codecarrot.net/images/free-science-icons-prev.jpg
 ---
 
 What do designers and chemists have in common? They both have all the solutions.
