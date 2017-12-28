@@ -6,7 +6,7 @@ date: 2017-09-05 05:35:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails images cloudinary application
 description: Upload And Transform Images - Short and great guide to setup and configure Cloudinary in your Ruby on Rails application.
-image: ruby-on-rails.png
+image: //cdn.codecarrot.net/images/ruby-on-rails.png
 ---
 
 Cloudinary is the image back-end for web and mobile developers. In other words, it allows you to upload images to the cloud (let's say it's something similar to S3), but in addition it allows you to do many different image (and video!) transformations on the fly, just by changing URL params.
