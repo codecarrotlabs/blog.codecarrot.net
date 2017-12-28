@@ -6,7 +6,7 @@ date: 2017-09-14 22:50:00 +0530
 categories: code
 tags: jquery javascript
 description: The jQuery dev team has been releasing code updates frequently since the project began. Here some of my go-to jQuery code snippets for developers.
-image: jquerysnippets2-658x243.png
+image: //cdn.codecarrot.net/images/jquerysnippets2-658x243.png
 ---
 
 The jQuery dev team has been releasing code updates frequently since the project began. JavaScript developers have never had an easier framework to code on frontend interfaces. For anybody just getting started in web development you can be certain to run into some jQuery code on the web.
