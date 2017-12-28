@@ -6,7 +6,7 @@ date: 2017-12-13 05:10:00 +0530
 categories: business
 tags: business entrepreneurs job
 description: In most cases, resigning is an exciting but scary experience. On one hand, you’re likely pursuing a better opportunity, such as a new job or starting your own business.
-image: //cdn.codecarrot.net/images/full-time-entreprenur.jpeg
+image: https://cdn.codecarrot.net/images/full-time-entreprenur.jpeg
 ---
 
 In most cases, resigning is an exciting but scary experience. On one hand, you’re likely pursuing a better opportunity, such as a new job or starting your own business. On the other hand, letting go of a stable job is always tough. This is especially true if you’re leaving your job to launch a company, or commit to your existing business full-time.
@@ -17,7 +17,7 @@ By resigning professionally, you can make sure you don’t close any doors or so
 
 ## Get Your Ducks in a Row
 
-![Get Your Ducks in a Row](//cdn.codecarrot.net/images/ducks-in-row.jpeg)
+![Get Your Ducks in a Row](https://cdn.codecarrot.net/images/ducks-in-row.jpeg)
 
 Resigning from your job, especially a good one, isn’t a decision to make suddenly. Many people spend years building their business on the side before taking the leap. Only you know when you’re ready to leave your full-time jobbehind.
 
@@ -42,7 +42,7 @@ Are you willing and able to hold yourself accountable for getting things done? Y
 
 ## How To Resign Professionally
 
-![How To Resign Professionally](//cdn.codecarrot.net/images/resign-professionally.jpeg)
+![How To Resign Professionally](https://cdn.codecarrot.net/images/resign-professionally.jpeg)
 
 If you’ve made your decision and laid the groundwork for resigning, here’s how to do it right.
 It doesn’t matter what your relationship with your employer is. Whether it's awesome or awful, don’t ruin it. You never know when you’ll run into people in the future when they could help—or harm—you. Keep things friendly.
@@ -59,7 +59,7 @@ Oh, and before you do anything else, read over your contract or the terms of you
 
 ## Write Your Resignation Letter
 
-![Write Your Resignation Letter](//cdn.codecarrot.net/images/resignation-letter.jpeg)
+![Write Your Resignation Letter](https://cdn.codecarrot.net/images/resignation-letter.jpeg)
 
 When it comes to actually writing your resignation letter, there are a few best practices to consider.
 
@@ -81,7 +81,7 @@ Your resignation letter is also a good time to outline how much help you’re wi
 
 ## What Happens Next
 
-![What Happens Next](//cdn.codecarrot.net/images/cup-of-coffee.jpeg)
+![What Happens Next](https://cdn.codecarrot.net/images/cup-of-coffee.jpeg)
 
 After you submit your letter of resignation, your boss may want to chat with you. Especially if they didn’t see it coming. At this point, you may want to discuss more of your reasons, such as wanting to focus on your own business—but you’re not obligated to.
 

@@ -6,7 +6,7 @@ date: 2017-12-18 20:31:45 +0530
 categories: tips
 tags: tips productivity
 description: Don’t we all wish we had a little more time? There never seems to be enough of it when it comes to checking everything off our to-do list and getting
-image: //cdn.codecarrot.net/images/time-clock-with-background-pattern.png
+image: https://cdn.codecarrot.net/images/time-clock-with-background-pattern.png
 ---
 
 Don’t we all wish we had a little more time? There never seems to be enough of it when it comes to checking everything off our to-do list and getting all our work done. What would you do for even just 10 minutes of your day back?

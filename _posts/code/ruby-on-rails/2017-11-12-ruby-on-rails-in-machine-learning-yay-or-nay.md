@@ -6,7 +6,7 @@ date: 2017-11-12 14:58:45 +0530
 categories: code
 tags: ruby-on-rails ruby rails machine-learning
 description: Machine Learning can take your app to the next level. What technology should you use to Make the most of it?
-image: //cdn.codecarrot.net/images/dominik-scythe-414905.jpg
+image: https://cdn.codecarrot.net/images/dominik-scythe-414905.jpg
 ---
 
 Machine Learning is a trending field of Computer Science turning computer’s computations into a new level and giving a number of unique opportunities. It’s getting more and more popular, and it’s common for modern web application as well as services, such as Netflix, Spotify, Amazon.com and Facebook. Machine Learning is a good solution for apps based on recommendations or some kind of predictions. If you want to build such apps, you will need an efficient backend technology to support it. Is Ruby on Rails the right choice?

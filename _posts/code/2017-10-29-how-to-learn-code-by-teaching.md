@@ -6,7 +6,7 @@ date: 2017-10-29 01:17:00 +0530
 categories: code
 tags: coding learing
 description: How can you learn to code by teaching or helping others learn? What would you conceivably add to your knowledge base and skill set by explaining something you already know how to do?
-image: //cdn.codecarrot.net/images/Screen-Shot-2017-09-06-at-23.48.24.png
+image: https://cdn.codecarrot.net/images/Screen-Shot-2017-09-06-at-23.48.24.png
 ---
 
 If you’re anything like I was two years ago, you just read that title and thought ”wait, what? Learn to code by teaching?” On its face, it defies logic. How can you possibly learn by teaching or helping others learn? What would you conceivably add to your knowledge base and skill set by explaining something you already know how to do? When I first started answering talking with other developers in the [Developer Community](//developer-community.flock.com/), I did it because I wanted to give back to the Community that had helped answer my questions. I honestly never considered the possibility of learning about code by helping others learn about code. Having answered many questions from other developers, I can tell you what I’ve personally learned by helping others.

@@ -6,7 +6,7 @@ date: 2017-11-15 14:17:40 +0530
 categories: code
 tags: coding coding developer
 description: Working Your Way Up the Learning Curve. There’s just a lot of stuff to learn in web development. Front-end or back-end? React, Angular, Ruby, .NET? AJAX, JSON, SQL, MySQL, noSQL??
-image: //cdn.codecarrot.net/images/1_7aJPlxn8gwhI7JjcBFr-tQ.jpeg
+image: https://cdn.codecarrot.net/images/1_7aJPlxn8gwhI7JjcBFr-tQ.jpeg
 ---
 
 ## Coding is damn hard.
@@ -17,7 +17,7 @@ There’s just a lot of stuff to learn in web development. Front-end or back-end
 
 You may feel at times that you’re drowning in technobabble.
 
-![11S00bVViOB6a4.gif](//cdn.codecarrot.net/images/11S00bVViOB6a4.gif)
+![11S00bVViOB6a4.gif](https://cdn.codecarrot.net/images/11S00bVViOB6a4.gif)
 
 The good news is, you can get good at coding. The bad news is, you are not going to master it in 12 weeks. Sorry if you’ve been told otherwise. Now, you can certainly pick up some of the basics in that time. But it will take years of practice and hard work before you become an expert.
 
@@ -56,7 +56,7 @@ The problem here, of course, is that it’s quite difficult to perfectly remembe
 
 You need to write down that solution in a place where you’ll be able to go back and reference it. It doesn’t have to be in a 3-ring binder like in middle school. It could be in a Word doc, a Google doc, or even a paper notebook.
 
-![xkmQfH1TB0dLW.gif](//cdn.codecarrot.net/images/xkmQfH1TB0dLW.gif)
+![xkmQfH1TB0dLW.gif](https://cdn.codecarrot.net/images/xkmQfH1TB0dLW.gif)
 
 ## Understand the Why
 
@@ -107,6 +107,6 @@ You can learn a lot from a good coding bootcamp or from online courses. But it�
 
 Try to be patient. It’s like learning a language by living overseas. The more you immerse yourself and surround yourself in it, the more it will start to make sense. You’ll start making connections, and one day you’ll look back and realize that you just *get it*, in a way that you didn’t before.
 
-![3o7btNhMBytxAM6YBa.gif](//cdn.codecarrot.net/images/3o7btNhMBytxAM6YBa.gif)
+![3o7btNhMBytxAM6YBa.gif](https://cdn.codecarrot.net/images/3o7btNhMBytxAM6YBa.gif)
 
 This is the first installment of a two-part series about how to not suck at coding. The [next part](/how-to-not-suck-at-coding-part-2) addresses problem-solving techniques.

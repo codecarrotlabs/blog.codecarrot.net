@@ -6,7 +6,7 @@ date: 2017-09-05 02:06:50 +0530
 categories: code
 tags: jquery plugin
 description: Learn how to write your own jQuery plugins, complete with options and callbacks in this step-by-step tutorial.
-image: //cdn.codecarrot.net/images/writing-your-own-jquery-plugin.png
+image: https://cdn.codecarrot.net/images/writing-your-own-jquery-plugin.png
 ---
 
 [jQuery](//jquery.com/) is great. It’s cross-browser, easy to learn, and makes adding interactivity to your website a breeze. It also comes with plenty of [plugins](//plugins.jquery.com/) to do almost whatever you need it to do.
@@ -19,7 +19,7 @@ Writing your own jQuery plugin isn’t as hard as it might seem at first. This t
 
 We’ll start with the old chesnut of programming tutorials, a “Hello, World!” plugin. Before we can do anything, we need to establish our file and link it to our HTML document. First, we’ll create our plugin file and put it in the “js” directory of our website. It’s traditional to start our filename with “jquery,” followed by the actual plugin name, so we’ll call this “jquery.hello-world.js”.
 
-![Screenshot of the folder creating new jquery plugin](//cdn.codecarrot.net/images/screenshot-of-the-folder-creating-new-jquery-plugin.png)
+![Screenshot of the folder creating new jquery plugin](https://cdn.codecarrot.net/images/screenshot-of-the-folder-creating-new-jquery-plugin.png)
 
 Next, we’ll need to make sure our plugin file, as well as it’s jQuery core big brother, are linked in our HTML file, so place the following two lines at the bottom of your HTML document, just before the closing `</body>` tag:
 
@@ -65,7 +65,7 @@ When we’re invoking the plugin by attaching it to a jQuery selector, the objec
 
 Suppose we wanted to change the text of all of our `<h2>` headers on the following page:
 
-![Static view of html file in writing your own jquery plugin](//cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin.png)
+![Static view of html file in writing your own jquery plugin](https://cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin.png)
 
 We would invoke the plugin as you’re already familiar, like so:
 
@@ -79,7 +79,7 @@ $(document).ready( function() {
 
 To yield this:
 
-![Static view of html file in writing your own jquery plugin after adding custom js script](//cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-after-adding-custom-js-script.png)
+![Static view of html file in writing your own jquery plugin after adding custom js script](https://cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-after-adding-custom-js-script.png)
 
 We’re not quite done yet. While our plugin technically works, it’s living in its own little isolated world. That is, if you try and chain another jQuery action onto it, nothing’s going to happen because our plugin has led to a dead end. To fix this, be sure to return the results of the plugin as it loops through the DOM elements:
 
@@ -123,7 +123,7 @@ $(document).ready( function() {
 
 Our web page now looks like this:
 
-![Screenshot of the folder creating new jquery plugin translate to spanish](//cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-translate-to-spanish.png)
+![Screenshot of the folder creating new jquery plugin translate to spanish](https://cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-translate-to-spanish.png)
 
 Complete Customization FTW
 
@@ -180,7 +180,7 @@ $('h2').helloWorld({
 });
 ```
 
-![Screenshot of the folder creating new jquery plugin speaking french](//cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-speaking-french.png)
+![Screenshot of the folder creating new jquery plugin speaking french](https://cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-speaking-french.png)
 
 *Et voilà!* We now have a plugin with a number of possible objects, and the ability to easily add more (or subtract what’s there) in the future without impacting legacy users of the plugin. Hooray for maintainability!
 
@@ -225,7 +225,7 @@ $('h2').helloWorld({
 
 And as a result, we see our callback as our plugin is executed:
 
-![Screenshot of the folder creating new jquery plugin displaying alert](//cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-display-alert.png)
+![Screenshot of the folder creating new jquery plugin displaying alert](https://cdn.codecarrot.net/images/static-view-of-html-file-in-writing-your-own-jquery-plugin-display-alert.png)
 
 ## Conclusion
 

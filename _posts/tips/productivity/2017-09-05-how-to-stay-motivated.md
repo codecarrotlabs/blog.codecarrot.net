@@ -6,7 +6,7 @@ date: 2017-09-05 01:39:10 +0530
 categories: tips
 tags: tips motivated productivity
 description: Staying motivated can be tough, especially on longer projects. The solution is different for everyone, but I've found a few techniques that work.
-image: //cdn.codecarrot.net/images/margarida-csilva-121801.jpg
+image: https://cdn.codecarrot.net/images/margarida-csilva-121801.jpg
 ---
 
 Staying motivated can be tough, especially on longer projects. Recently a professional acquaintance told me about a 3-year-long client project. This is an extreme case, but long projects are not uncommon in the tech industry. In fact, I’m working on a personal side project right now that I expect will take about 1.5 years. How do you keep going once the initial rush of a new idea has faded? Through trial and error, I’ve found a few techniques that work for me, and I hope that by sharing them you can stay motivated too.
@@ -31,7 +31,7 @@ Seek critique: It rhymes so it must be right. Right?
 
 The longer you work on a project, the more difficult it is to think objectively. This is where critique can be very helpful. Find some trusted colleagues or a friend that will give you honest feedback. If you’re working on a personal project and you feel comfortable posting your work to a public forum, even better.
 
-![Yashu Mittal Behance Profile](//cdn.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
+![Yashu Mittal Behance Profile](https://cdn.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
 
 *Sites like [Dribbble](//dribbble.com/mittalyashu) & [Behance](//www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
 

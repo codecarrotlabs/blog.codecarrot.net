@@ -6,7 +6,7 @@ date: 2017-11-15 21:41:00 +0530
 categories: business
 tags: business india
 description: Savings account vs current account - which bank account should you get for your small business? Here is everything you need to know!
-image: //cdn.codecarrot.net/images/account-1.png
+image: https://cdn.codecarrot.net/images/account-1.png
 ---
 
 Wondering if you should open a savings bank account or a current account for your small business? Let us help you understand what these account types are and what account is most suitable for your business type. Here is a complete explanation on Savings account vs Current account.
@@ -28,7 +28,7 @@ A savings bank account is pretty much what the word means – a bank account tha
 * A recent colour photograph.
 * Proof of Address (Electricity bill, rental agreement, LPG/Gas bill).
 
-![money-animated-gif-12.gif](//cdn.codecarrot.net/images/money-animated-gif-12.gif)
+![money-animated-gif-12.gif](https://cdn.codecarrot.net/images/money-animated-gif-12.gif)
 
 ## What is a Current Account?
 

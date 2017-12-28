@@ -6,7 +6,7 @@ date: 2017-12-10 00:51:00 +0530
 categories: code
 tags: coding nodejs rubyonrails ruby rails js node javascript
 description: Node.js and Ruby on Rails are two popular server-side solutions for web app development. Choosing the right one is one of the most important.
-image: //cdn.codecarrot.net/images/pexels-photo-340152-1.jpeg
+image: https://cdn.codecarrot.net/images/pexels-photo-340152-1.jpeg
 ---
 
 Node.js and Ruby on Rails (RoR) are two popular server-side solutions for web application development. Despite the fact that both environments can manage apps of any complexity, they are built around different concepts and architectures.
@@ -33,7 +33,7 @@ When we think about the strengths of Node.js, the first thing that comes to our 
 
 Node.js is written in Javascript, a programming language that dominates front-end development. Some of the most popular front-end frameworks, such as Ember, React, and Angular, leverage power and flexibility of JS to create dynamic Web 2.0 applications. With Node.js installed server-side, developers can use the same programming language across the web stack. The same language at the front end and the back end means you need a smaller and more efficient team, which can communicate better and, as a result, deliver tasks much faster.
 
-![Benchmark runtime - Lower is better](//cdn.codecarrot.net/images/image1-14.png)
+![Benchmark runtime - Lower is better](https://cdn.codecarrot.net/images/image1-14.png)
 
 ### 3. Scalable solution
 

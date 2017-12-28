@@ -6,7 +6,7 @@ date: 2017-11-23 16:43:00 +0530
 categories: design
 tags: standards designer website
 description: If you are confused with the grid system in the bootstrap, particularly with these classes, you can read this article.
-image: //cdn.codecarrot.net/images/layout-12-grid2.png
+image: https://cdn.codecarrot.net/images/layout-12-grid2.png
 ---
 
 If you are confused with the grid system in the bootstrap, particularly with these classes, you can read this article.

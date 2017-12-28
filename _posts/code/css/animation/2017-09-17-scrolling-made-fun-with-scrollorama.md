@@ -6,7 +6,7 @@ date: 2017-09-17 22:40:00 +0530
 categories: code
 tags: code css3 css design html5 jquery javascript typography vlog
 description: Just when you thought scrolling your web page was getting boring. Scrollorama has stepped the scroll game up with this remarkable jQuery Plugin.
-image: //cdn.codecarrot.net/images/girl-scrolling.gif
+image: https://cdn.codecarrot.net/images/girl-scrolling.gif
 ---
 
 Just when you thought scrolling your web page was getting boring. [Scrollorama](//johnpolacek.github.com/scrollorama/) has stepped the scroll game up with this remarkable jQuery Plugin. Scrollorama allows you to manipulate text when you scroll the page. You can do everything from Transitions to Zoom to Parallax.

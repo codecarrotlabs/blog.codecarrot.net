@@ -6,7 +6,7 @@ date: 2017-10-06 02:26:00 +0530
 categories: business
 tags: business entrepreneur startup business
 description: One thing many people learn from starting their own business is that you have to be in the right mindset from the very beginning. If you have the drive then all the rest should fall into place.
-image: //cdn.codecarrot.net/images/goh-rhy-yan-274211.jpg
+image: https://cdn.codecarrot.net/images/goh-rhy-yan-274211.jpg
 ---
 
 One thing many people learn from starting their own business is that you have to be in the right mindset from the very beginning. If you have the drive then all the rest should fall into place. But there are key questions you should be asking yourself before you even think about quitting your day job.

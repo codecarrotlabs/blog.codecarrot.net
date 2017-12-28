@@ -6,7 +6,7 @@ date: 2017-10-05 00:10:00 +0530
 categories: business
 tags: startup business entrepreneurs health
 description: Millions of people dream to work on their dream project and few of those bravo’s who have the courage and conviction goes on to venture into their startup
-image: //cdn.codecarrot.net/images/1-oL8r6CjXarRuIL0J9kI3bw.jpeg
+image: https://cdn.codecarrot.net/images/1-oL8r6CjXarRuIL0J9kI3bw.jpeg
 ---
 
 Millions of people dream to work on their dream project and few of those bravo’s who have the courage and conviction goes on to venture into their startup, but very few of them manage to sustain. Do you know why ? Well one of the key factor which plays a vital role in keeping startup/businesses in a healthy state is that their founders and key team members are physically and emotionally healthy.

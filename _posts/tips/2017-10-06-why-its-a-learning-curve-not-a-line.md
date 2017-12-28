@@ -6,7 +6,7 @@ date: 2017-10-06 00:01:00 +0530
 categories: tips
 tags: tips web-developer design learning
 description: Learning anything new can be exciting, but it can also be tough. It's important to remember that learning is not linear, it's called a learning curve for a reason.
-image: //cdn.codecarrot.net/images/joe-neric-223562.jpg
+image: https://cdn.codecarrot.net/images/joe-neric-223562.jpg
 ---
 
 Learning anything new can be exciting, but it can also be tough. We go into it with the expectation that we’re going to spend a certain amount of time every day or week learning something about a specific topic. We are all striving for some degree of mastery over the topic we choose. If you’re anything like me, then you will feel frustrated when your study time doesn’t yield the same amount of learning as it did the day before, but this is natural and part of the process. Learning is not linear.

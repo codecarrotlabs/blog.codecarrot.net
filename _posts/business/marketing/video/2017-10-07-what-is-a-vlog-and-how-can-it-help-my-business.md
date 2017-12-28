@@ -6,7 +6,7 @@ date: 2017-10-07 22:27:00 +0530
 categories: business
 tags: business video blog marketing social
 description: Businesses can benefit greatly by integrating vlogs into their digital marketing initiative. What is a vlog? Find out here and get started today.
-image: //cdn.codecarrot.net/images/i-did-a-thing.jpg
+image: https://cdn.codecarrot.net/images/i-did-a-thing.jpg
 ---
 
 It’s a strange-looking word and if you have never seen it before, you may be wondering, what is a vlog? A vlog is the shortened, colloquial term for a video blog. In other words, vlogging is the act of producing and publishing frequent video content on an owned website or channel on a sharing platform. Vlogging is becoming increasingly popular because it’s a cost-effective tactic that drives visibility and increases online engagement with customers.
@@ -77,7 +77,7 @@ Both of these options have value. The owner understands the business and is pass
 
 ### Embed the videos on your website.
 
-![What Is A Vlog YouTube](//cdn.codecarrot.net/images/what-is-a-vlog-youtube.jpg)
+![What Is A Vlog YouTube](https://cdn.codecarrot.net/images/what-is-a-vlog-youtube.jpg)
 
 Many vloggers solely host their videos on one video-sharing platform. While sites like YouTube offer an easy way to produce, edit, and promote videos, you don’t control the environment. That means you are restricted to the constraints of the platform. YouTube can manipulate your content, decide whether to show your video in search results, and place ads over your videos, which can hurt your viewers’ experiences.
 

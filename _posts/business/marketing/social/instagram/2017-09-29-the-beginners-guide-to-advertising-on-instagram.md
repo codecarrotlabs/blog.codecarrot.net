@@ -6,7 +6,7 @@ date: 2017-09-29 13:27:00 +0530
 categories: business
 tags: instagram marketing business
 description: Instagram now has more than 600 million users. That’s a big audience. For comparison, Twitter only has 313 million monthly active users.
-image: //cdn.codecarrot.net/images/instagram-ads-1024x535.jpg
+image: https://cdn.codecarrot.net/images/instagram-ads-1024x535.jpg
 ---
 
 Instagram now has more than [600 million users](//blog.instagram.com/post/154506585127/161215-600million). That’s a big audience. For comparison, Twitter only has [313 million monthly active users](//about.twitter.com/company).
@@ -105,11 +105,11 @@ The first step to creating an Instagram ad is to link your Instagram account to 
 
 Visit the Settings for your Facebook page and click on "Instagram Ads".
 
-![Connect Facebook Page with Instagram Account](//cdn.codecarrot.net/images/16756608537322689978.png)
+![Connect Facebook Page with Instagram Account](https://cdn.codecarrot.net/images/16756608537322689978.png)
 
 Next, click "Add an Account" and fill in your Instagram login credentials. If you don't already have an Instagram account, you can also create one now. When you're finished click "Confirm".
 
-![Confirm the account connecting with facebook page](//cdn.codecarrot.net/images/Screen_Shot_6.09.46_PM.png)
+![Confirm the account connecting with facebook page](https://cdn.codecarrot.net/images/Screen_Shot_6.09.46_PM.png)
 
 ### Step 2 - Create a Campaign
 
@@ -119,11 +119,11 @@ In the Ads Manager, click on "+ Create Campaign" near the top left corner of the
 
 Next, choose your campaign objective. Be aware that not all objectives are compatible with Instagram Stories Ads.
 
-![Instagram campaign objectives screenshot](//cdn.codecarrot.net/images/Screen_Shot_2017-03-23_at_10.20.03_PM.png)
+![Instagram campaign objectives screenshot](https://cdn.codecarrot.net/images/Screen_Shot_2017-03-23_at_10.20.03_PM.png)
 
 The "Conversions" objective is great choice for ecommerce businesses that want to drive sales. Note that in order to use this objective, you need to have a the [Facebook pixel](/relax-advertising-on-facebook-just-got-a-lot-easier) installed on your website. If you don't have one installed yet, you'll get a message letting you know.
 
-![Screenshot of Conversions campaign objective](//cdn.codecarrot.net/images/Screen_Shot_10.28.55_PM.png)
+![Screenshot of Conversions campaign objective](https://cdn.codecarrot.net/images/Screen_Shot_10.28.55_PM.png)
 
 **Pro Tip:** [The Beginner's Guide to the New Facebook Pixel](/relax-advertising-on-facebook-just-got-a-lot-easier)
 
@@ -131,7 +131,7 @@ The "Conversions" objective is great choice for ecommerce businesses that want t
 
 On the Ad Set page, you'll be able to choose "Purchase" as the type of conversion you want to optimize for.
 
-![Selecting "Purchase" conversion screenshot](//cdn.codecarrot.net/images/Screen_Shot_10.30.37_PM.png)
+![Selecting "Purchase" conversion screenshot](https://cdn.codecarrot.net/images/Screen_Shot_10.30.37_PM.png)
 
 Next, you can define who you want to see your ads, and how much money you want to spend. All the same targeting options are available for Instagram ads as for Facebook ads.
 
@@ -139,17 +139,17 @@ If you have any Custom Audiences already created, you can select them for target
 
 Next, select your ad Placements. You'll see the option to run your campaign on Instagram, as well as Facebook and Messenger.
 
-![Ad Placements screenshot](//cdn.codecarrot.net/images/Screen_Shot_10.37.32_PM.png)
+![Ad Placements screenshot](https://cdn.codecarrot.net/images/Screen_Shot_10.37.32_PM.png)
 
 When figuring out how much you want to spend, I recommend starting low. You can always increase the budget later if your ad is performing well.
 
 When you're finished choosing who to target and how much to spend, click "Continue" in the bottom right.
 
-![Instagram advertising budget screenshot](//cdn.codecarrot.net/images/Screen_Shot_at_10.40.27_PM.png)
+![Instagram advertising budget screenshot](https://cdn.codecarrot.net/images/Screen_Shot_at_10.40.27_PM.png)
 
 On the next screen you'll see an option to choose your ad format. Note that the Canvas format is not compatible with Instagram. Once you've decided, scroll down to upload your images or videos.
 
-![Screenshot of Instagram ad formats](//cdn.codecarrot.net/images/Screen_Shot_2017-03-23_at_10.42.17_PM.png)
+![Screenshot of Instagram ad formats](https://cdn.codecarrot.net/images/Screen_Shot_2017-03-23_at_10.42.17_PM.png)
 
 After you've uploaded your visuals, scroll down further and you'll see an option on the left to add text to your ad.
 

@@ -6,12 +6,12 @@ date: 2017-10-28 22:17:00 +0530
 categories: code
 tags: coding learing
 description: When you hear that anyone can learn the skills they need to become a developer, there’s one important caveat. If you’re going to learn to code, you need to be willing to work hard.
-image: //cdn.codecarrot.net/images/JESHOOTS.com_.png
+image: https://cdn.codecarrot.net/images/JESHOOTS.com_.png
 ---
 
 When you hear that anyone can learn the skills they need to become a developer, there’s one important caveat. If you’re going to learn to code, you need to be willing to work hard. Coding is an attainable skill, but it isn’t easy and there are challenges you’ll encounter along the way. We recently asked some of our students – who are now developers – what they found most challenging about learning to code. Here are 4 of the major challenges of learning to code that they shared.
 
-![Working Place](//cdn.codecarrot.net/images/JESHOOTS.com_.png)
+![Working Place](https://cdn.codecarrot.net/images/JESHOOTS.com_.png)
 
 ## 1. Imposter Syndrome
 

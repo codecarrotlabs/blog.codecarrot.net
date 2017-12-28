@@ -6,7 +6,7 @@ date: 2017-09-12 16:18:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails javascript web-development programming
 description: form_tag and form_for are soft deprecated and they will be replaced by form_with in the future. If you want to know more about form_with
-image: //cdn.codecarrot.net/images/1-xFZId_tlC-8I4okYLFQYdA.jpeg
+image: https://cdn.codecarrot.net/images/1-xFZId_tlC-8I4okYLFQYdA.jpeg
 ---
 
 `form_tag` and `form_for` are soft deprecated and they will be replaced by `form_with` in the future. If you want to know more about `form_with` then you can peruse the original [DHH’s proposal](//github.com/rails/rails/issues/25197), check the [pull request](//github.com/rails/rails/pull/26976/files) in which it was implemented, check the [API documentation](//api.rubyonrails.org/classes/ActionView/Helpers/FormHelper.html#method-i-form_with) and play with it in a test project.

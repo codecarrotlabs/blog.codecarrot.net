@@ -6,14 +6,14 @@ date: 2017-11-18 18:43:00 +0530
 categories: code
 tags: coding react facebook native-apps react-native css js javascript
 description: Thinking in components — No longer do you have to maintain bunch of style-sheets. CSS-in-JS abstracts the CSS model to the component level, rather than the document level (modularity).
-image: //cdn.codecarrot.net/images/1_OH0dDfJAGv6aEGFk2zLAxw.jpeg
+image: https://cdn.codecarrot.net/images/1_OH0dDfJAGv6aEGFk2zLAxw.jpeg
 ---
 
 TL;DR: **Thinking in components** — No longer do you have to maintain bunch of style-sheets. CSS-in-JS abstracts the CSS model to the component level, rather than the document level (modularity).
 
 ## Styled React Component Example
 
-![1_DFwkvCRyz9K0Mbl59r2hMg.png](//cdn.codecarrot.net/images/1_DFwkvCRyz9K0Mbl59r2hMg.png)
+![1_DFwkvCRyz9K0Mbl59r2hMg.png](https://cdn.codecarrot.net/images/1_DFwkvCRyz9K0Mbl59r2hMg.png)
 
 ***
 
@@ -27,7 +27,7 @@ I’ve always felt awkward having to maintain a huge folder of stylesheets. I wo
 
 Let’s give CSS-in-JS a shot.
 
-![Small-To-Medium size project CSS](//cdn.codecarrot.net/images/1_bsbmmLcGl2kSJSuKW-JFqw.png)
+![Small-To-Medium size project CSS](https://cdn.codecarrot.net/images/1_bsbmmLcGl2kSJSuKW-JFqw.png)
 
 *Small-To-Medium size project CSS*
 
@@ -104,7 +104,7 @@ Yes — while that’s the case for how it’s been done for a long-long time �
 
 **CSS was never actually made for component based approaches**. CSS-in-JS solves exactly this problem. Shout-out to [Vue](//vuejs.org/) for solving this problem beautifully even tho Vues styles have no access to components state.
 
-![Here’s Bob Ross painting rocks to cool down the tension](//cdn.codecarrot.net/images/1_jk3SeXoIgOfymKO-8JO23A.gif)
+![Here’s Bob Ross painting rocks to cool down the tension](https://cdn.codecarrot.net/images/1_jk3SeXoIgOfymKO-8JO23A.gif)
 
 *Here’s Bob Ross painting rocks to cool down the tension 😄*
 
@@ -135,13 +135,13 @@ The pros out-weight the cons heavily — let’s give CSS-in-JS a shot! **No
 
 *Will provide a quick hello world example for all the popular CSS-in-JS libraries— help yourself to choose which one you like the most based on the syntax.*
 
-![NPM trends](//cdn.codecarrot.net/images/1_xXIXJeI3l6_k-rXg6cqNjw.png)
+![NPM trends](https://cdn.codecarrot.net/images/1_xXIXJeI3l6_k-rXg6cqNjw.png)
 
 *NPM trends*
 
 ## [Styled Components](//www.styled-components.com/)
 
-![1_QvSrt0RgwuOKYlLHLjkDQw.png](//cdn.codecarrot.net/images/1_QvSrt0RgwuOKYlLHLjkDQw.png)
+![1_QvSrt0RgwuOKYlLHLjkDQw.png](https://cdn.codecarrot.net/images/1_QvSrt0RgwuOKYlLHLjkDQw.png)
 JSS-React
 
 ```js
@@ -171,7 +171,7 @@ export default App;
 
 ## [JSS-React](//github.com/cssinjs/react-jss)
 
-![1_z7kPKLW6meQuC5sznIYnkQ.png](//cdn.codecarrot.net/images/1_z7kPKLW6meQuC5sznIYnkQ.png)
+![1_z7kPKLW6meQuC5sznIYnkQ.png](https://cdn.codecarrot.net/images/1_z7kPKLW6meQuC5sznIYnkQ.png)
 
 ```js
 import React from 'react'
@@ -200,7 +200,7 @@ export default injectSheet(styles)(App)
 
 ## [Glamorous](//glamorous.rocks/)
 
-![1_tWuxJKAhaod4WNsm3MkMgQ.png](//cdn.codecarrot.net/images/1_tWuxJKAhaod4WNsm3MkMgQ.png)
+![1_tWuxJKAhaod4WNsm3MkMgQ.png](https://cdn.codecarrot.net/images/1_tWuxJKAhaod4WNsm3MkMgQ.png)
 
 ```js
 import React from 'react'
@@ -225,7 +225,7 @@ export default App;
 
 ## [Radium](//formidable.com/open-source/radium/) (caveat: uses inline styles)
 
-![1_UsS6OxCfH6r7JLWx-wNeIQ.png](//cdn.codecarrot.net/images/1_UsS6OxCfH6r7JLWx-wNeIQ.png)
+![1_UsS6OxCfH6r7JLWx-wNeIQ.png](https://cdn.codecarrot.net/images/1_UsS6OxCfH6r7JLWx-wNeIQ.png)
 
 ```js
 import React, { Component } from 'react';
@@ -285,7 +285,7 @@ class App extends Component {
 
 ## [Stylotron](//github.com/rtsao/styletron)
 
-![1_a0c0iulx7pZFScn0fsAn0w.png](//cdn.codecarrot.net/images/1_a0c0iulx7pZFScn0fsAn0w.png)
+![1_a0c0iulx7pZFScn0fsAn0w.png](https://cdn.codecarrot.net/images/1_a0c0iulx7pZFScn0fsAn0w.png)
 
 ```js
 import React, { Component } from 'react';

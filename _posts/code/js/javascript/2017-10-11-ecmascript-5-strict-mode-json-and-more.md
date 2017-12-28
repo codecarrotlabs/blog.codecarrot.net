@@ -6,7 +6,7 @@ date: 2017-10-11 19:22:00 +0530
 categories: code
 tags: coding javascript js json
 description: ECMAScript 5’s Object and Property system is a huge new aspect of the language and deserved its special consideration.
-image: //cdn.codecarrot.net/images/strictness1.jpg
+image: https://cdn.codecarrot.net/images/strictness1.jpg
 ---
 
 ECMAScript 5’s Object and Property system is a huge new aspect of the language and deserved its special consideration.

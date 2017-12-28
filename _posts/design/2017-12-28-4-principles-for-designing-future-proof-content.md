@@ -6,7 +6,7 @@ date: 2017-12-28 07:10:00 +0530
 categories: design
 tags: design content
 description: Technology moves like a steamroller strapped to a rocket engine—it’s all about the newest thing. So when you’re designing content, you’ve got to wonder - how long will what I create actually last?
-image: //cdn.codecarrot.net/images/rocket-image-from-bottom.jpg
+image: https://cdn.codecarrot.net/images/rocket-image-from-bottom.jpg
 ---
 
 Technology moves like a steamroller strapped to a rocket engine—fast, furious, and flattening everything in its wake. It’s all about the newest thing. So when you’re designing content, you’ve got to wonder: how long will what I create actually last?

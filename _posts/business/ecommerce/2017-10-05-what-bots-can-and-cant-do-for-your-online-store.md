@@ -6,7 +6,7 @@ date: 2017-10-05 05:27:00 +0530
 categories: business
 tags: bots business marketing online-store store conversational-commerce ecommerce-trends how-to-sell-online
 description: It’s hard to talk about conversational commerce without mentioning bots. But where exactly should you employ bots in your business and where should you not?
-image: //cdn.codecarrot.net/images/Shopping-Bots-v2-1.png
+image: https://cdn.codecarrot.net/images/Shopping-Bots-v2-1.png
 ---
 
 Chatbots are essentially programs pretending to be people that you can interact with through text or even voice.

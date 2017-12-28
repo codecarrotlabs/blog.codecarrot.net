@@ -6,7 +6,7 @@ date: 2017-11-20 19:55:00 +0530
 categories: code
 tags: coding react facebook framework react-native application
 description: React Native Has Many Advantages over Native Development, but It’s Not the Best Fit for All Kinds of Apps
-image: //cdn.codecarrot.net/images/pexels-photo-1-1.jpg
+image: https://cdn.codecarrot.net/images/pexels-photo-1-1.jpg
 ---
 
 Every time you want to create an application, you have to ask yourself what kind of OS APIs it needs to utilise and how to do that. Defining a problem-solution fit from the very beginning helps in delivering a top-notch product. Having known what needs to be done, you can decide which tech stack meets your requirements and what are the limitations of chosen technology. Even in programming, there is no rose without a thorn, so you need to be aware what will bud and what can prick.

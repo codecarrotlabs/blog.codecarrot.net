@@ -6,14 +6,14 @@ date: 2017-12-29 13:10:00 +0530
 categories: design
 tags: design plugins sketch
 description: You’ve been working up a storm in Sketch, and for that you deserve all of the high-fives. But now it’s time to kick things up a notch and improve your workflow—so stop what you’re doing and grab these 30 free Sketch plugins.
-image: //cdn.codecarrot.net/images/sketch-plugins-hero.png
+image: https://cdn.codecarrot.net/images/sketch-plugins-hero.png
 ---
 
 You’ve been working up a storm in Sketch, and for that you deserve all of the high-fives. But now it’s time to kick things up a notch and improve your workflow—so stop what you’re doing and grab these 30 free Sketch plugins.
 
 ## BaseAlign
 
-![BaseAlign](//cdn.codecarrot.net/images/BaseAlign.png)
+![BaseAlign](https://cdn.codecarrot.net/images/BaseAlign.png)
 
 Using the alignment tools in Sketch works great for shapes, but with text layers, the vertical alignment is based on the bounding box around the text rather than the text itself. The result is typically that text boxes with different sized fonts end up being shifted up and down, creating a jagged baseline.
 
@@ -23,7 +23,7 @@ Enter the BaseAlign plugin for Sketch. Rather than using the bounding box around
 
 Batch Create Symbols
 
-![Batch Create Symbols](//cdn.codecarrot.net/images/Batch-Create-Symbols.gif)
+![Batch Create Symbols](https://cdn.codecarrot.net/images/Batch-Create-Symbols.gif)
 
 When you dive right in and start designing, it’s easy to get ahead of yourself and create a bunch of elements that are destined to become symbols. It’s in these moments that the painful reminder comes knocking… you can only create one symbol at a time.
 
@@ -43,7 +43,7 @@ Here’s a fun one. Confetti will automatically take a group of layers or symbol
 
 ## Chromatic Sketch
 
-![Chromatic Sketch](//cdn.codecarrot.net/images/Chromatic-Sketch.png)
+![Chromatic Sketch](https://cdn.codecarrot.net/images/Chromatic-Sketch.png)
 
 If you’ve ever created a colorful gradient that got a bit gray and dingy in the middle, it has to do with RGB being a bit of a disadvantage in creating perceptually beautiful gradients when transitioning between 2 different colors. Chromatic Sketch is an amazing plugin that leverages the mathematics behind the LAB color space to take your existing gradient and make it more beautiful. It’s positively mathemagical.
 
@@ -69,7 +69,7 @@ The modern successor to the old Dynamic Button plugin we know and loved from old
 
 ## Find and Replace
 
-![Find and Replace](//cdn.codecarrot.net/images/Find-and-Replace.png)
+![Find and Replace](https://cdn.codecarrot.net/images/Find-and-Replace.png)
 
 Sketch isn’t necessarily a word processor, so if you’ve got a text-heavy document, you may go looking for Find and Replace. Since it isn’t built into Sketch, grab the Find and Replace plugin ASAP. It can be a lifesaver for global text changes.
 
@@ -89,7 +89,7 @@ If you’ve ever found yourself working with a landscape artboard and later deci
 
 ## Magic Mirror 3
 
-![Magic Mirror 3](//cdn.codecarrot.net/images/Magic-Mirror.gif)
+![Magic Mirror 3](https://cdn.codecarrot.net/images/Magic-Mirror.gif)
 
 If you’re a Photoshop convert, you may miss Free Transform from time to time. For instance, when you’re trying to place a screen into a perspective mockup. Magic Mirror 3 lets you slap an artboard into a shape, and it’ll automatically take on the perspective of the shape. If you update the linked artboard, you can update your perspective mockup with a click and be on your merry way without having to dip into Photoshop.
 
@@ -97,7 +97,7 @@ If you’re a Photoshop convert, you may miss Free Transform from time to time. 
 
 ## Map Generator
 
-![Map Generator](//cdn.codecarrot.net/images/Map-Generator.png)
+![Map Generator](https://cdn.codecarrot.net/images/Map-Generator.png)
 
 At one point or another, we’ve all pulled up Google Maps to take a screenshot to pop into our comps. Well… never again. Map generator will grab an address and zoom level from you, then automatically fill the selected shape with an image of your Google Map. So many steps saved.
 
@@ -105,7 +105,7 @@ At one point or another, we’ve all pulled up Google Maps to take a screenshot 
 
 ## Nudge, Push, Shove
 
-![Nudge, Push, Shove](//cdn.codecarrot.net/images/Nudge-Push-Shove.png)
+![Nudge, Push, Shove](https://cdn.codecarrot.net/images/Nudge-Push-Shove.png)
 
 Nudge, Push, Shove allows you to customize exactly how many pixels a layer will move with a nudge from the arrow key, a shift nudge, and an all-new interval: The Shove. All 3 allow you to type your own pixel value to set and forget. Then it’s just business as usual with the native functionality of Sketch following your choices.
 
@@ -113,7 +113,7 @@ Nudge, Push, Shove allows you to customize exactly how many pixels a layer will 
 
 ## Pixel Perfector
 
-![Pixel Perfector](//cdn.codecarrot.net/images/Pixel-Perfector.gif)
+![Pixel Perfector](https://cdn.codecarrot.net/images/Pixel-Perfector.gif)
 
 It’s virtually inevitable that your document will end up with some layers either sized or positioned on floating values (aka half-pixels or fractions of pixels). The hard part is catching, let alone fixing, the offending layers. Pixel Perfector can find and select, or find and fix, any layer positioned or sized to a fraction of a pixel. It can even go one layer at a time so you can take a moment to decide how you’d like to handle rounding off the math.
 
@@ -121,7 +121,7 @@ It’s virtually inevitable that your document will end up with some layers eith
 
 ## Random Size
 
-![Random Size](//cdn.codecarrot.net/images/Random-Size.png)
+![Random Size](https://cdn.codecarrot.net/images/Random-Size.png)
 
 You may have gathered from the name that Random Size will automatically apply a random size to selected layers. What makes this plugin a bit more useful is that you can randomize the width or height of selected layers within a minimum and maximum amount. There’s definitely no quicker way to throw together a bar graph.
 
@@ -143,7 +143,7 @@ Removing guides from a document can be nearly as tedious as creating them in the
 
 ## Rename It
 
-![Rename It](//cdn.codecarrot.net/images/Rename-It.gif)
+![Rename It](https://cdn.codecarrot.net/images/Rename-It.gif)
 
 So you’ve got a few hundred layers named rectangle copy? We all do. Rename It is here to batch rename those layers to get your document cleaned up for handoff, or just for your own sanity. It even has some tricks up its sleeve for modifying existing layer names, or even running a find and replace on the names of selected layers. Essential for the heavy Sketch designer.
 
@@ -151,7 +151,7 @@ So you’ve got a few hundred layers named rectangle copy? We all do. Rename It 
 
 ## Repeat
 
-![Repeat](//cdn.codecarrot.net/images/Repeat.gif)
+![Repeat](https://cdn.codecarrot.net/images/Repeat.gif)
 
 As massively timesaving as it is to use Symbols for global elements (i.e. navigation) on all of your screens, they do have to get on those screens somehow. Repeat will take the selected layer (or layers) and instantly make a copy in the same position on every single artboard. Now it’s never too late to add a global element to 195 artboards.
 
@@ -159,7 +159,7 @@ As massively timesaving as it is to use Symbols for global elements (i.e. naviga
 
 Runner
 
-![Runner](//cdn.codecarrot.net/images/Runner.png)
+![Runner](https://cdn.codecarrot.net/images/Runner.png)
 
 Runner is that super peppy assistant you’ve always wanted. Hit the keyboard shortcut and up pops a search field that allows you to jump anywhere in your document, insert symbols, create styles and symbols, apply styles, and even install plugins. Think Spotlight for Sketch. It sure does make giant documents feel a whole lot smaller.
 
@@ -179,7 +179,7 @@ As the name suggests, Select By Name is a way to search for layers and select th
 
 ## Select Children
 
-![Select Children](//cdn.codecarrot.net/images/Select-Children.gif)
+![Select Children](https://cdn.codecarrot.net/images/Select-Children.gif)
 
 Another simple little timesaver, Select Children will automatically drill down into the selected group and select all of the layers inside. Once you’ve made a habit of the shortcut (Option + Command + A), you won’t be able to live without this one.
 
@@ -199,7 +199,7 @@ Select Parent Artboards is another one that can save many tiny bits of time if y
 
 ## Select Similar Layers
 
-![Select Similar Layers](//cdn.codecarrot.net/images/Select-Similar-Layers.png)
+![Select Similar Layers](https://cdn.codecarrot.net/images/Select-Similar-Layers.png)
 
 If you’re an Illustrator convert, this one is going to fill a hole in your heart. Select Similar Layers will allow you to make a selection, then grab every other layer with a matching fill color, border color, border thickness, font, opacity, blend mode, or name. Once you’re used to having this one at your disposal, it’s tough to live without.
 
@@ -207,7 +207,7 @@ If you’re an Illustrator convert, this one is going to fill a hole in your hea
 
 SketchDistributor
 
-![SketchDistributor](//cdn.codecarrot.net/images/SketchDistrubutor.png)
+![SketchDistributor](https://cdn.codecarrot.net/images/SketchDistrubutor.png)
 
 In addition to the automatic alignment options built into Sketch, we also have the ability to automatically distribute the spacing between layers. Sometimes you’d prefer to set a specific distance between those layers, and Sketch simply averages the existing space.
 
@@ -223,7 +223,7 @@ Similar to the Pixel Perfector plugin, Sketch Nearest 8 is here to keep things l
 
 ## Sketchy Pies
 
-![Sketchy Pies](//cdn.codecarrot.net/images/Sketchy-Pies.jpeg)
+![Sketchy Pies](https://cdn.codecarrot.net/images/Sketchy-Pies.jpeg)
 
 Arguably the most adorable name on this list, Sketchy Pies will convert any circle into a pie chart simply by listing comma-separated hex codes for the desired colors. After the fact, it’s easy to edit the colors by changing the border color property of each pie wedge.
 
@@ -233,7 +233,7 @@ Arguably the most adorable name on this list, Sketchy Pies will convert any circ
 
 ## Sort Me
 
-![Sort Me](//cdn.codecarrot.net/images/Sort-Me.gif)
+![Sort Me](https://cdn.codecarrot.net/images/Sort-Me.gif)
 
 We all put a focus on keeping our artboards organized on the Sketch canvas, but the layer list tends to get a bit out of order. Sort Me quickly sorts your artboards on the layers list alphanumerically. You can even chose ascending or descending order so your document can work the way your brain works.
 
@@ -241,7 +241,7 @@ We all put a focus on keeping our artboards organized on the Sketch canvas, but 
 
 ## Unlock All Layers
 
-![Unlock All Layers](//cdn.codecarrot.net/images/Unlock-All-Layers.gif)
+![Unlock All Layers](https://cdn.codecarrot.net/images/Unlock-All-Layers.gif)
 
 This plugin fills a hole in the Sketch menus. Unlock All Layers saves you the trouble of finding and unlocking locked layers one by one. It’s surely a feature that may one day be built into Sketch, but for now this plugin is here to save the day.
 

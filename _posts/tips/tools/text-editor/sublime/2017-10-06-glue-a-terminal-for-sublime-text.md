@@ -6,7 +6,7 @@ date: 2017-10-06 01:22:30 +0530
 categories: tips
 tags: tips text-editor coding terminal sublime-text sublime
 description: Glue is a plugin that provides an interface to your shell from the Sublime Text editor. It features command entry within the Sublime Text editor window, standard output display in an editor view.
-image: //cdn.codecarrot.net/images/maxresdefault13fef3.jpg
+image: https://cdn.codecarrot.net/images/maxresdefault13fef3.jpg
 ---
 
 [Glue](//gluedocs.readthedocs.io/en/latest/) is a plugin that provides an interface to your shell from the [Sublime Text editor](//www.sublimetext.com/. It features command entry within the Sublime Text editor window, standard output display in an editor view, and it works with most system utilities. This includes any compiled or interpreted source that you develop which effectively allows you to create Sublime Text extensions in any programming language that your system supports.
@@ -94,7 +94,7 @@ Glue works with many of your favorite system utilities and allows you to extend 
 $ grep "def" *.py
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with grep](//cdn.codecarrot.net/images/grep-examplebQ52OZGjH.png)
+![Screenshot of the terminal opening in sublime text using glue with grep](https://cdn.codecarrot.net/images/grep-examplebQ52OZGjH.png)
 
 ### Glue + git
 
@@ -104,7 +104,7 @@ $ git add .
 $ git commit -m "'initial commit'"
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with git](//cdn.codecarrot.net/images/git-example45yHF45.png)
+![Screenshot of the terminal opening in sublime text using glue with git](https://cdn.codecarrot.net/images/git-example45yHF45.png)
 
 ### Glue + cURL
 
@@ -112,7 +112,7 @@ $ git commit -m "'initial commit'"
 $ curl -sS //raw.githubusercontent.com/chrissimpkins/naked/master/lib/Naked/app.py
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with curl](//cdn.codecarrot.net/images/curl-example43fFERY45.png)
+![Screenshot of the terminal opening in sublime text using glue with curl](https://cdn.codecarrot.net/images/curl-example43fFERY45.png)
 
 ### Glue + Your Own Scripts
 
@@ -123,7 +123,7 @@ $ ruby test.rb
 $ ./test.sh
 ```
 
-![Screenshot of the terminal opening in sublime text using glue with your own scrips](//cdn.codecarrot.net/images/scripting-language-example34GFDretr334.png)
+![Screenshot of the terminal opening in sublime text using glue with your own scrips](https://cdn.codecarrot.net/images/scripting-language-example34GFDretr334.png)
 
 ***
 

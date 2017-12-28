@@ -6,7 +6,7 @@ date: 2017-10-22 18:10:00 +0530
 categories: business
 tags: marketing business content-marketing
 description: If there’s one single reason why companies around the world continue to incorporate “content marketing strategies” into their yearly plans – it’s because it has been working for hundreds, if not thousands of years!
-image: //cdn.codecarrot.net/images/resources-banner-1600x600.jpg
+image: https://cdn.codecarrot.net/images/resources-banner-1600x600.jpg
 ---
 
 The term “content marketing” sounds like a hip buzzword to describe the latest marketing craze, but in reality, the concept has been around since the first newsletters came rolling off the presses.

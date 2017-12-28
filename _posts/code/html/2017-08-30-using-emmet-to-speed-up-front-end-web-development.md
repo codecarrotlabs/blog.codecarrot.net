@@ -6,7 +6,7 @@ date: 2017-08-30 13:10:00 +0530
 categories: code
 tags: html front-end development web emmet plugin
 description: Learn how to use Emmet, a plugin for your text editor that allows you to quickly generate HTML and CSS.
-image: //cdn.codecarrot.net/images/emmet.jpg
+image: https://cdn.codecarrot.net/images/emmet.jpg
 ---
 
 Emmet is a plugin for your text editor that provides a number of tools to help you quickly write HTML and CSS code. The plugin, which was previously known as *Zen Coding*, allows you to generate HTML elements using a CSS-like syntax.
@@ -218,7 +218,7 @@ This example generates a link with the `target` attribute set to `_blank`.
 
 ## Item Numbering
 
-![ul li 5 items](//cdn.codecarrot.net/images/ul-li-item-5.gif)
+![ul li 5 items](https://cdn.codecarrot.net/images/ul-li-item-5.gif)
 
 Emmet also includes a feature that allows you to automatically add numbers to your HTML. This is useful for applications like setting unique classes on list items. Just add a dollar sign `$` to your abbreviation where you want the number to appear and Emmet will take care of the rest.
 

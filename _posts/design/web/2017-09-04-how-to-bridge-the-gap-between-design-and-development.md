@@ -6,7 +6,7 @@ date: 2017-09-04 18:25:00 +0530
 categories: design
 tags: designer development
 description: It’s well known that the clash between Design and Development is not simply just a clash between people who do different stuff.
-image: //cdn.codecarrot.net/images/designer-rotating-head-and-developer-up-down.gif
+image: https://cdn.codecarrot.net/images/designer-rotating-head-and-developer-up-down.gif
 ---
 
 It’s well known that the clash between Design and Development is not simply just a clash between people who do different stuff- it’s a clash between two ways of solving problems within given constraints.

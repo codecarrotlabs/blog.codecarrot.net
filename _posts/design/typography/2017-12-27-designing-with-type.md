@@ -6,7 +6,7 @@ date: 2017-12-27 21:15:48 +0530
 categories: design
 tags: designing typography fonts
 description: Learn to use type design to make a stronger product. Introducing Design with Type, a new free eBook.
-image: //cdn.codecarrot.net/images/designing-with-type.jpg
+image: https://cdn.codecarrot.net/images/designing-with-type.jpg
 ---
 
 [Sign up](//www.instamojo.com/codecarrot/designing-with-type/) to receive this free eBook on using typography with purpose.

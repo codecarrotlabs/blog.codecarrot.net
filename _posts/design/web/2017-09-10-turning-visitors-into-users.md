@@ -6,7 +6,7 @@ date: 2017-09-10 21:58:00 +0530
 categories: design
 tags: visitor users
 description: Thousands of people may be visiting your site every day, but if you don’t convince them that they should be using your product, subscribing to your service, or registering in some way, then your web app’s homepage is simply not
-image: //cdn.codecarrot.net/images/clem-onojeghuo-183583.jpg
+image: https://cdn.codecarrot.net/images/clem-onojeghuo-183583.jpg
 ---
 
 Thousands of people may be visiting your site every day, but if you don’t convince them that they should be using your product, subscribing to your service, or registering in some way, then your web app’s homepage is simply not doing its job.
@@ -23,7 +23,7 @@ We invited some leading designers to look at a selection of high-profile apps to
 
 First up, [Blinksale](//www.blinksale.com/) and [Freshbooks](//www.freshbooks.com/), which both offer services that will help the small online business get bills out quicker or easier. Blinksale’s strapline is ‘The easiest way to send invoices online’, whilst Freshbooks is ‘The fastest way to invoice your clients’ – essentially they are competing for the same users.
 
-![Freshbooks and blinksale old Website screenshot](//cdn.codecarrot.net/images/freshbooks-blinksale.gif)
+![Freshbooks and blinksale old Website screenshot](https://cdn.codecarrot.net/images/freshbooks-blinksale.gif)
 
 *View of their older version websites.*
 
@@ -53,7 +53,7 @@ Turning visitors into users your homepage needs to make them feel the way they w
 
 In the web metrics space we looked at Mint and the recently launched CrazyEgg. What’s immediately noticeable is that both sites think its important to let their clients know how the application works by prominently featuring screen shots of their application in action on the home page.
 
-![Screenshot of the mint and crazy egg website](//cdn.codecarrot.net/images/mint-crazy.gif)
+![Screenshot of the mint and crazy egg website](https://cdn.codecarrot.net/images/mint-crazy.gif)
 
 <blockquote>
 Using big design statements to direct your users to a call for action is key for converting visitors to users.

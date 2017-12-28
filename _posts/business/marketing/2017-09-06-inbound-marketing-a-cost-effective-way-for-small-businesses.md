@@ -6,7 +6,7 @@ date: 2017-09-06 12:03:00 +0530
 categories: business
 tags: business marketing smallbiz inbound-marketing
 description: Marketing strategies, techniques, trends and methods have changed rapidly and for the better over years. These changes have expanded the horizon of inventions in this space and has strengthened the customer-brand relationship.
-image: //cdn.codecarrot.net/images/msadetrabaj.jpg
+image: https://cdn.codecarrot.net/images/msadetrabaj.jpg
 ---
 
 [Marketing strategies](/how-to-become-a-digital-marketing-expert-through-blogging), techniques, trends and methods have changed rapidly and for the better over years. These changes have expanded the horizon of inventions in this space and has strengthened the customer-brand relationship.
@@ -69,4 +69,4 @@ Making use of different inbound marketing techniques and tools, this process eve
 
 **Pro Tip:** Getting a website for your business is a key to success, as it increase the reach of your business to the whole internet *(a.k.a Internet)*
 
-[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
+[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)

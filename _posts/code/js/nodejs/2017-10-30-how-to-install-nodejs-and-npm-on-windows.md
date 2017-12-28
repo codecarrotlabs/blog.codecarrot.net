@@ -6,7 +6,7 @@ date: 2017-10-30 23:52:00 +0530
 categories: code
 tags: coding npm nodejs windows
 description: JavaScript is quickly becoming the go-to language for web developers. Front-end web developers use JavaScript to add user interface enhancements, add interactivity, and talk to back-end web services using AJAX. Web developers who work on the server-side are also flocking
-image: //cdn.codecarrot.net/images/nodejs-installer-guide-on-windows.png
+image: https://cdn.codecarrot.net/images/nodejs-installer-guide-on-windows.png
 ---
 
 JavaScript is quickly becoming the go-to language for web developers. Front-end web developers use JavaScript to add user interface enhancements, add interactivity, and talk to back-end web services using AJAX. Web developers who work on the server-side are also flocking to JavaScript because of the efficiencies and speed offered by JavaScript’s event-driven, non-blocking nature.
@@ -28,7 +28,7 @@ Installing Node and NPM is pretty straightforward using the installer package av
 1. **Download the Windows installer from the [Nodes.js® web site](//nodejs.org/).**
 2. **Run the installer** (the .msi file you downloaded in the previous step.)
 3. **Follow the prompts in the installer** (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
-![node installer](//cdn.codecarrot.net/images/node_installer.png)
+![node installer](https://cdn.codecarrot.net/images/node_installer.png)
 4. **Restart your computer.** You won’t be able to run Node.js® until you restart your computer.
 
 ### Test it!

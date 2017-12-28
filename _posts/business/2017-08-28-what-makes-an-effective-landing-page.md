@@ -6,7 +6,7 @@ date: 2017-08-28 02:30:00 +0530
 categories: business
 tags: landing-page page marketing
 description: There’s no guaranteed formula for a flawless landing page, but it’s not hard to see that the best and most effective sites have a few things in common.
-image: //cdn.codecarrot.net/images/rocket.jpg
+image: https://cdn.codecarrot.net/images/rocket.jpg
 ---
 
 It takes a mere fraction of a second for a visitor to evaluate and form an opinion on your website (and as a result, your brand). Bearing in mind that itty-bitty detail, making the perfect first impression should be a top priority. So what does it take to win over these potential leads? A quality landing page that provides an awesome experience.

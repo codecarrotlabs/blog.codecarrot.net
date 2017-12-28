@@ -6,12 +6,12 @@ date: 2017-11-07 23:30:00 +0530
 categories: tips
 tags: tips sublime-text text-editor react es6 react-native
 description: Lately I've been writing a lot of React in Sublime and one of the most difficult aspects to deal with has been the improper syntax highlighting.
-image: //cdn.codecarrot.net/images/01_basic_javascript_syntax_highlighting-1.png
+image: https://cdn.codecarrot.net/images/01_basic_javascript_syntax_highlighting-1.png
 ---
 
 Lately I've been writing a lot of React in Sublime and one of the most difficult aspects to deal with has been the improper syntax highlighting. When writing React components the basic JavaScript syntax highlighting that I was using would consistently highlight parts of my code incorrectly, as it didn't know how to deal with the JSX. Specifically it would have issues when I closed my HTML tag on a separate line as seen in the image below.
 
-![Without using Syntax highlighting](//cdn.codecarrot.net/images/01_basic_javascript_without_syntax_highlighting.png)
+![Without using Syntax highlighting](https://cdn.codecarrot.net/images/01_basic_javascript_without_syntax_highlighting.png)
 
 Fortunately my issue was solved when I read through the [BabelJS page](//www.babeljs.com/) today and discovered their [babel snipppet](//packagecontrol.io/packages/Babel%20Snippets) package! I immediately transitioned over to Sublime and installed the package using the following steps:
 
@@ -23,9 +23,9 @@ After the babel-sublime package is installed there are still a couple of options
 
 1. Open a file with the .js or .jsx extension.
 2. Select  `View -> Syntax -> Open all with current extension as... -> Babel -> JavaScript (Babel)`.
-![list-of-different-js-syntax-highlighting-option](//cdn.codecarrot.net/images/list-of-different-js-syntax-highlighting-option.png)
+![list-of-different-js-syntax-highlighting-option](https://cdn.codecarrot.net/images/list-of-different-js-syntax-highlighting-option.png)
 3. Repeat these steps for other file extensions.
 
 The babel-sublime package also comes with two color themes to choose from as well. It has a "Monokai Phoenix" theme, as well as a "Next" theme which can both be seen below in that order. Both images show the updated syntax highlighting which gracefully handles the closing HTML tag correctly. Coding in React and ES6 never looked better!
 
-![Using Syntax highlighting](//cdn.codecarrot.net/images/01_basic_javascript_syntax_highlighting-1.png)
+![Using Syntax highlighting](https://cdn.codecarrot.net/images/01_basic_javascript_syntax_highlighting-1.png)

@@ -6,7 +6,7 @@ date: 2017-12-09 20:04:28 +0530
 categories: design
 tags: designing ux ux-reivew
 description: Take a look at the list of issues that can be spot during a UX review of the product and learn how your product may benefit from one.
-image: //cdn.codecarrot.net/images/taras-shypka-424932.jpg
+image: https://cdn.codecarrot.net/images/taras-shypka-424932.jpg
 ---
 
 UX review is a process during which we thoroughly analyse the client’s product, focusing on user experience and business value. It’s a diagnosis crucial before any treatment can commence.

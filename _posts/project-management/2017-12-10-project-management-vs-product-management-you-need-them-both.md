@@ -6,7 +6,7 @@ date: 2017-12-10 02:14:20 +0530
 categories: project-management
 tags: project-management
 description: Most software development projects fail. It’s an unpleasant truth, but a truth nonetheless. There are ways you can hedge against failure and set yourself up for success. For example, you can invest time in validating your idea before you get started
-image: //cdn.codecarrot.net/images/estee-janssens-396887.jpg
+image: https://cdn.codecarrot.net/images/estee-janssens-396887.jpg
 ---
 
 Most software development projects fail.

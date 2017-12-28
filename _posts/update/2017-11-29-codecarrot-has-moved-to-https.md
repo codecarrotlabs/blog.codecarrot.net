@@ -6,7 +6,7 @@ date: 2017-11-29 18:45:55 +0530
 categories: update
 tags: update https
 description: Discover why and how the CodeCarrot and Blogs has moved to HTTPS, the secure version of the web protocol that helps to protect user privacy.
-image: //cdn.codecarrot.net/images/secure.jpg
+image: https://cdn.codecarrot.net/images/secure.jpg
 ---
 
 Our content has now been served over HTTPS for two months and we thought it was time to share some of the reasons, processes and challenges behind the project.

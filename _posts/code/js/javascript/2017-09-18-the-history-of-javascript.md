@@ -6,7 +6,7 @@ date: 2017-09-18 00:10:00 +0530
 categories: code
 tags: javascript history develop developers js
 description: JavaScript is also know as the language of the Web Nearly all web browsers can run JavaScript, making it one of the most popular programming languages in the world.
-image: //cdn.codecarrot.net/images/history-of-javascript.png
+image: https://cdn.codecarrot.net/images/history-of-javascript.png
 ---
 
 The World Wide Web was originally a bunch of pages linked together by hyperlinks. Soon people wanted more interaction and so Netscape (an early browser vendor) asked Brendan Eich to develop a new language for their Navigator browser. This needed to be done quickly because of the intense competition between Netscape and Microsoft to be first to market, and Eich managed to create a prototype language in just ten days.

@@ -6,7 +6,7 @@ date: 2017-12-10 15:10:00 +0530
 categories: design
 tags: designing designer
 description: Why is it important to establish and maintain a successful relationship with a client if you are a designer? Read our 8 how-tos on client-designer relationships.
-image: //cdn.codecarrot.net/images/rawpixel-com-423665.jpg
+image: https://cdn.codecarrot.net/images/rawpixel-com-423665.jpg
 ---
 
 I’ve been working as a product designer for a while, met dozens of clients and learned a lot. One of the things that I came to understand during the process is that clients and designers sometimes suffer from communication problems, because they have misunderstood their roles. As a consequence, projects cost more than expected, take more time, and their quality is inferior. There is a way to avoid it, though! Read on and learn how to establish and maintain an effective client-designer relationship that will translate into your product’s success.
@@ -53,7 +53,7 @@ If you don’t trust your designer, then they will spend most of their time tryi
 
 In the design process, asking the right questions is crucial if you want to get the right answers. The question investigates options that you might not have considered before. Why do we want this feature? What if the user will want to close that modal? What if the user will make a mistake?
 
-![But why](//cdn.codecarrot.net/images/200_s.gif)
+![But why](https://cdn.codecarrot.net/images/200_s.gif)
 
 The questions help both parties understand the solutions. Albert Einstein once said that we cannot solve problems on the level that we made them. The questions help us to get to a higher level of thinking.
 

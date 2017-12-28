@@ -6,14 +6,14 @@ date: 2017-11-04 19:54:00 +0530
 categories: code
 tags: css frameworks
 description: A web developer and UI guru takes a look at five of his favorite CSS frameworks, and gives the corresponding HTML, CSS, and JavaScript to create awesome UIs.
-image: //cdn.codecarrot.net/images/Foundation-and-Bootstrap-modified.png
+image: https://cdn.codecarrot.net/images/Foundation-and-Bootstrap-modified.png
 ---
 
 CSS frameworks are gaining a lot of popularity these days and to be honest, it’s hard to imagine a website without using them. As all development tools, CSS frameworks are in a constant state of evolution and improvement and thus we highly recommend that you keep an eye on the modern trends. To make it easier for you, we’ve come up with top-5 most popular CSS frameworks of 2017 that you may want to deploy (if you are not using them already).
 
 ## 1. Bootstrap
 
-![Bootstrap website screenshot](//cdn.codecarrot.net/images/bootstrap-website-screenshot.png)
+![Bootstrap website screenshot](https://cdn.codecarrot.net/images/bootstrap-website-screenshot.png)
 
 [This framework](//getbootstrap.com/) is one of the GitHub stars and is considered the best responsive CSS framework. Designed for front-end development specifically, it helps to build web design concepts, mobile first projects, grid systems, typography, buttons, and so on.
 
@@ -25,7 +25,7 @@ Bootstrap version 3 supports a variety of browsers (their latest versions) and s
 
 ## 2. Foundation
 
-![Zurb Foundation](//cdn.codecarrot.net/images/zurb-foundation-website-screenshot.png)
+![Zurb Foundation](https://cdn.codecarrot.net/images/zurb-foundation-website-screenshot.png)
 
 [Foundation](//foundation.zurb.com/) is an open-source project and another very strong player in the world of CSS frameworks. It is well-known by being incredibly smooth and responsive and can be used for many purposes: building websites, creating email templates, building mobile and web apps.
 
@@ -35,7 +35,7 @@ This framework is also very user-friendly as it offers training, support, and co
 
 ## 3. Bulma
 
-![Bulma Website Screenshot](//cdn.codecarrot.net/images/bulma-website-screenshot.png)
+![Bulma Website Screenshot](https://cdn.codecarrot.net/images/bulma-website-screenshot.png)
 
 [This open source and free framework](//bulma.io/) is great in terms of saving your time and energy and it’s gaining quite a lot of popularity recently since it’s very simple to learn and use.
 
@@ -45,7 +45,7 @@ Firstly, Bulma contains great UI components, like tabs, navigation bar, boxes, p
 
 ## 4. Ulkit
 
-![Ulkit Website screenshot](//cdn.codecarrot.net/images/ulkit-website-screenshot.png)
+![Ulkit Website screenshot](https://cdn.codecarrot.net/images/ulkit-website-screenshot.png)
 
 Not many people know (and use) [this framework](//getuikit.com/) but it has the same functionality as other similar frameworks and should definitely be paid attention to.
 
@@ -55,7 +55,7 @@ This framework is lightweight and modular and is used for creating fast but powe
 
 ## 5. Semantic UI
 
-![Sematic UI Website Screenshot](//cdn.codecarrot.net/images/sematic-website-screenshot.png)
+![Sematic UI Website Screenshot](https://cdn.codecarrot.net/images/sematic-website-screenshot.png)
 
 As you can guess from the name, [Semantic UI](//semantic-ui.com/) is aimed at making the website building process more semantic. Its core feature is utilizing natural language principles thus making the code more readable and easier to understand.
 
@@ -67,6 +67,6 @@ What is also nice about Semantic UI is the fact that it offers well-organized do
 
 ## Wrapping It Up
 
-![CSS Frameworks](//cdn.codecarrot.net/images/css-framework-nfographic.png)
+![CSS Frameworks](https://cdn.codecarrot.net/images/css-framework-nfographic.png)
 
 That’s our top-5 CSS frameworks that I find interesting enough to use and try. Comment if you’ve already tried them or want to suggest something new.

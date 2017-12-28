@@ -6,7 +6,7 @@ date: 2017-08-31 22:18:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails filestack images
 description: Filestack (formerly Filepicker) is a service that allows users to store files in a cloud. Here’s how to use Filestack in a Rails app.
-image: //cdn.codecarrot.net/images/how-to-upload-images-to-filestack-with-rails.png
+image: https://cdn.codecarrot.net/images/how-to-upload-images-to-filestack-with-rails.png
 ---
 
 Filestack (formerly Filepicker) is a service that allows users to store files in a cloud. It has a free plan with some monthly limits: 250 uploads, 500 transformations and 3GB bandwidth. Those numbers get higher if you select one of paid plans. You can also use external storage (S3, Dropbox…), though you have to select any paid plan to enable this feature. Here’s how to use Filestack in a Rails app.
@@ -91,7 +91,7 @@ You can read about different filepicker_field options [here](//www.rubydoc.info/
 
 Modal that will allow you to upload your file looks like that:
 
-![Filestack Desktop V3 view](//cdn.codecarrot.net/images/filestack-desktop-initial-view.jpg)
+![Filestack Desktop V3 view](https://cdn.codecarrot.net/images/filestack-desktop-initial-view.jpg)
 
 If you use devise, remember to properly configure permitted parameters in your ApplicationController (this works for devise 3, there’s a [different syntax](//github.com/plataformatec/devise#strong-parameters) in devise 4):
 

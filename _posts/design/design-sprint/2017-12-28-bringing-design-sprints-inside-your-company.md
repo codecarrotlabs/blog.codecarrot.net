@@ -6,7 +6,7 @@ date: 2017-12-28 00:09:42 +0530
 categories: design
 tags: design standards designer website teams company design-sprint
 description: If you’re the one minting design sprints inside your company, you’re probably also struggling to get others to play ball.
-image: //cdn.codecarrot.net/images/nh-sprints-hero.jpg
+image: https://cdn.codecarrot.net/images/nh-sprints-hero.jpg
 ---
 
 Design sprints are consuming conversations among all sorts of makers—from authors testing out new book concepts to software teams working on the next VR breakthroughs.
@@ -15,7 +15,7 @@ Who wouldn’t love a prescriptive framework that enables you to validate your b
 
 But [design sprints](//www.codecarrot.net/services/design-sprint) are new and disruptive to traditional approaches. That probably means that if you’re the one minting design sprints inside your company, you’re probably also struggling to get others to play ball.
 
-![People discussing in group](//cdn.codecarrot.net/images/nh-sprints-hero.jpg)
+![People discussing in group](https://cdn.codecarrot.net/images/nh-sprints-hero.jpg)
 
 ## Non-believers
 
@@ -27,7 +27,7 @@ Over the past year we’ve run dozens of sprints against our own ideas, as well 
 
 Let’s break down these 3 types of pushback and arm you with some specific tips to help you bring design sprints into your organization, successfully.
 
-![Lessons learned from running a design sprint with an ed-tech startup](//cdn.codecarrot.net/images/nh-sprint-01.jpg)
+![Lessons learned from running a design sprint with an ed-tech startup](https://cdn.codecarrot.net/images/nh-sprint-01.jpg)
 
 ## New is scary
 
@@ -35,7 +35,7 @@ For many, the idea of changing anything stirs up angst. When we kick off with la
 
 Likewise, creative directors squirm that their design processes are already “lean,” “agile,” or both. But I bet they’d love a way to efficiently capture stakeholder and customer insights upfront so their design teams had better direction with the solutions they were building.
 
-![How to assemble your design sprint team](//cdn.codecarrot.net/images/nh-sprint02.jpg)
+![How to assemble your design sprint team](https://cdn.codecarrot.net/images/nh-sprint02.jpg)
 
 ## “5 days in a row will never happen”
 
@@ -59,7 +59,7 @@ When these same people complete their first design sprint with us, not a single 
 
 Most of us are creatures of habit and comfort. We trust what we know already. So when it comes to deciding how to solve a really important problem, most of us want to jump right to the solution. We convince ourselves and others around us that we already know everything we need to know and can just get started.
 
-![People are writing on white board](//cdn.codecarrot.net/images/nhsprint04.jpg)
+![People are writing on white board](https://cdn.codecarrot.net/images/nhsprint04.jpg)
 
 Unfortunately, it’s typically not until weeks or months later that the hard questions appear and you need to start from the beginning, all over again.
 

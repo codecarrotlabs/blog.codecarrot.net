@@ -6,7 +6,7 @@ date: 2017-10-05 23:22:00 +0530
 categories: tips
 tags: tips argument winning
 description: Basically, every single one of us gets defensive when we’re attacked – even if we know we’re wrong. The only way to get the best of an argument is to avoid it.
-image: //cdn.codecarrot.net/images/How-to-win-Arguments.jpg
+image: https://cdn.codecarrot.net/images/How-to-win-Arguments.jpg
 ---
 
 <blockquote>

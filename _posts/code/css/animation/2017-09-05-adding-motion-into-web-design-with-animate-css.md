@@ -6,7 +6,7 @@ date: 2017-09-05 00:50:00 +0530
 categories: code
 tags: css animate motion design web-design css3
 description: Lots of frontend web developers have been getting interested in dynamic interfaces using motion effects. This is all too common with many advancements within popular JavaScript libraries. But there has also been a lot of interest in CSS3 animated effects....
-image: //cdn.codecarrot.net/images/frank-mckenna-132749.jpg
+image: https://cdn.codecarrot.net/images/frank-mckenna-132749.jpg
 ---
 
 Lots of frontend web developers have been getting interested in dynamic interfaces using motion effects. This is all too common with many advancements within popular JavaScript libraries. But there has also been a lot of interest in CSS3 animated effects.
@@ -26,8 +26,8 @@ Aside from the Animate CSS library I will also be including a copy of my own sty
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
   <title>Animate.css Basic Webpage Demos</title>
   <meta name="author" content="Jake Rocheleau">
-  <link rel="shortcut icon" href="//cdn.codecarrot.net/images/favicon.png">
-  <link rel="icon" href="//cdn.codecarrot.net/images/favicon.png">
+  <link rel="shortcut icon" href="https://cdn.codecarrot.net/images/favicon.png">
+  <link rel="icon" href="https://cdn.codecarrot.net/images/favicon.png">
   <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
   <link rel="stylesheet" type="text/css" media="all" href="css/animate.css">
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oxygen:400,700">

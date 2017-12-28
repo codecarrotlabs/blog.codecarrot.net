@@ -6,7 +6,7 @@ date: 2017-10-06 20:00:00 +0530
 categories: tips
 tags: tips security privacy tools tricks tips protect
 description: Web designers and developers have an extra level of responsibility to their clients to protect online privacy. Start using these 6 tools and tricks today!
-image: //cdn.codecarrot.net/images/jason-blackeye-198848.jpg
+image: https://cdn.codecarrot.net/images/jason-blackeye-198848.jpg
 ---
 
 Web designers and developers have an extra level of responsibility to their clients (and themselves) to protect online privacy. If you buy domain names, host websites, or even have conversations about proprietary information and private clients, you need to seriously consider how you protect your privacy online, including your personal information.

@@ -6,7 +6,7 @@ date: 2017-10-01 19:40:00 +0530
 categories: code
 tags: coding javascript js var const let
 description: Variables creation depend on how you declare them, and ES6 offers options to make controlling scope easier.
-image: //cdn.codecarrot.net/images/maxresdefault.jpg
+image: https://cdn.codecarrot.net/images/maxresdefault.jpg
 ---
 
 Traditionally, the way variable declarations work has been that weird part of programming in JavaScript. Variables creation depend on how you declare them, and ES6 offers options to make controlling scope easier. This article will look to clear on why those classic `var` declarations can be confusing and will also introduce block-level bindings aka `const` and `let`.
@@ -71,7 +71,7 @@ function getValue(condition) {
 
 Here below is the screenshot that shows the difference between var and let (Check the comments within the code block).
 
-![difference between var and let](//cdn.codecarrot.net/images/1-14x2AVmAVC2NmkS7u4pK6g.png)
+![difference between var and let](https://cdn.codecarrot.net/images/1-14x2AVmAVC2NmkS7u4pK6g.png)
 
 As you can see, the getValue function with `let` behaves similar to other programming languages. As, variable value is declared using let instead of var , the declaration isn’t hoisted to the top of the function definition, and the variable value is no longer accessible once execution flows out of the if block. If condition evaluates to false, then value is never declared or initialized.
 

@@ -6,12 +6,12 @@ date: 2017-07-11 12:00:00 +0530
 categories: business
 tags: money smallbiz investment equity investors funds launch idea
 description: Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think.
-image: //cdn.codecarrot.net/images/raise-money-for-your-small-business.jpg
+image: https://cdn.codecarrot.net/images/raise-money-for-your-small-business.jpg
 ---
 
 Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think. Here are five easy ways to raise money for your small business:
 
-![Paisa Paisa](//cdn.codecarrot.net/images/paisa-paisa.gif)
+![Paisa Paisa](https://cdn.codecarrot.net/images/paisa-paisa.gif)
 
 ## Do it On Your Own
 
@@ -49,7 +49,7 @@ Some non-profit organizations or NGOs also [support small businesses financially
 
 Angel investors and VCs are very similar. Both are interested in investing in your business, both want a share of your business and profits in return. The only difference is, VCs also want a seat in your office – they want a seat in your board or have some managing rights in your company.
 
-![Throwing Money](//cdn.codecarrot.net/images/throwing-money.gif)
+![Throwing Money](https://cdn.codecarrot.net/images/throwing-money.gif)
 
 Angel investors need to be registered with the Securities Exchange Commission of India and need to have a net worth of at least Rs.20 Lakhs. You can look for Angel Investors at forums like [Angellist](//angel.co/) and [MicroVentures](//www.microventures.com/). VCs are usually large companies that are ready to fund you. [Here](//inc42.com/resources/top-47-active-venture-capital-firms-india-startups/) is a list of famous VCs in India.
 
@@ -65,7 +65,7 @@ While Accelerators don’t offer office space and other physical amenities to a 
 
 **Contests** are another way of securing funding for your business. This includes winning a reality show or a startup event, also probably organized by an angel or VC. A prize money is declared on winning a competition, which can be used as seed funding for your business.
 
-![Money Falling](//cdn.codecarrot.net/images/money-falling.gif)
+![Money Falling](https://cdn.codecarrot.net/images/money-falling.gif)
 
 Think your business is not worth taking the risk for? If these stupid businesses can make millions, so can yours!
 

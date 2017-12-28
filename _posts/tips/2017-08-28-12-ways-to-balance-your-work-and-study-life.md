@@ -6,7 +6,7 @@ date: 2017-08-28 02:51:00 +0530
 categories: tips
 tags: tips work life job
 description: Let's be honest, web developers and designers aren't particularly known for maintaining great work/life balance. Images of hackathons and intense work sessions come to mind easily.
-image: //cdn.codecarrot.net/images/jon-flobrant-1362.jpg
+image: https://cdn.codecarrot.net/images/jon-flobrant-1362.jpg
 ---
 
 Let’s be honest, web developers and designers aren’t particularly known for maintaining great work/life balance. Images of hackathons and intense work sessions come to mind easily. Too often people buy into the idea that “more” means “better” when in reality there is only so much quality work a normal person can do in a day/week/month/year. Why not try to be more intentional about your approach to finding balance?
@@ -21,7 +21,7 @@ Have you heard of a technology sabbath? It’s a concept that is becoming more p
 
 We only have so much time in a day to work with. You need to be deliberate about how you spend that time. The “jar of rocks” analogy is a great way to visualize this. If you fill your day first with small, insignificant tasks (the sand), then you won’t have room for your important work (the large rocks). So take the time to figure out your priorities and build your day around them.
 
-![Jar of rocks](//cdn.codecarrot.net/images/jar-of-rocks.jpg)
+![Jar of rocks](https://cdn.codecarrot.net/images/jar-of-rocks.jpg)
 
 Be honest to yourself and others about your limitations
 

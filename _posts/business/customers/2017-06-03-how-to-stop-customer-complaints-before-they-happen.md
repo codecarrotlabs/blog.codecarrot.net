@@ -6,7 +6,7 @@ date: 2017-06-03 12:00:00 +0530
 categories: business
 tags: customer
 description: The most common causes behind customer complaints and how to fix them. No, we’re not suggesting you break out the Ouija board just yet.
-image: //cdn.codecarrot.net/images/stop-customer-complaints-before-they-happen.jpg
+image: https://cdn.codecarrot.net/images/stop-customer-complaints-before-they-happen.jpg
 ---
 
 No one wants to hear bad news. **Especially if it's a customer complaint**

@@ -6,7 +6,7 @@ date: 2017-10-06 19:01:10 +0530
 categories: tips
 tags: tips blog traffic website-speed visitors website site seo
 description: You put so much time and energy into your blog, but what happens when no one reads it? Here's how to boost blog traffic and gain new readers.
-image: //cdn.codecarrot.net/images/man-sitting-alone-in-stadium.jpg
+image: https://cdn.codecarrot.net/images/man-sitting-alone-in-stadium.jpg
 ---
 
 If you have a blog website and want to light up your blog traffic, go ahead read the article but if you don't have and want to get one, [click here](//www.codecarrot.net/).
@@ -37,7 +37,7 @@ Think of your website as a virtual welcome mat for your business.
 
 Nearly half (47 percent) of consumers expect sites to load in just a couple seconds. In fact, page abandonment increases with page load time. In other words, the slower your website is, the more likely visitors are to leave your site without exploring more content (or buying anything).
 
-![Welcome on Board mat](//cdn.codecarrot.net/images/welcome-on-board-mat.jpeg)
+![Welcome on Board mat](https://cdn.codecarrot.net/images/welcome-on-board-mat.jpeg)
 
 At [CodeCarrot](//www.codecarrot.net/), our developers obsess over performance data so we can provide the best possible outcomes for our customers.
 
@@ -59,4 +59,4 @@ You don't want your website visitors to leave your website because your website 
 
 Let's make your **website like flash** with [CodeCarrot](//www.codecarrot.net/).
 
-[![make your website like flash with codecarrot](//cdn.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](//www.codecarrot.net/)
+[![make your website like flash with codecarrot](https://cdn.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.png)](//www.codecarrot.net/)

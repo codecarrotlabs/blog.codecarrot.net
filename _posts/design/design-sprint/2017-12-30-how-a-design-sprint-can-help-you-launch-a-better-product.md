@@ -6,7 +6,7 @@ date: 2017-12-30 01:09:42 +0530
 categories: design
 tags: design design-sprint product launch
 description: Find out how Design Sprint could reinvent your product's potential. Craft your idea with PDS so it fits your target audience.
-image: //cdn.codecarrot.net/images/business-team-1440x500.jpg
+image: https://cdn.codecarrot.net/images/business-team-1440x500.jpg
 ---
 
 ## What is a Design Sprint?

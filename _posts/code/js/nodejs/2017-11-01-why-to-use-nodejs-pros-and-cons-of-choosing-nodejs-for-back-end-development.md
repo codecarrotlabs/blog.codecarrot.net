@@ -6,7 +6,7 @@ date: 2017-11-01 16:52:00 +0530
 categories: code
 tags: coding nodejs
 description: Pros and cons of Node.js, a runtime environment for writing server-side apps in Javascript. Learn what are the advantages and disadvantages of using Node.js.
-image: //cdn.codecarrot.net/images/coding-924920_1280.jpg
+image: https://cdn.codecarrot.net/images/coding-924920_1280.jpg
 ---
 
 Choosing backend technology is one of the most important decisions that every CEO and CTO have to make. It determines how fast a product can be shipped to market, what is the total cost and how big pain maintenance will be.
@@ -21,7 +21,7 @@ Node.js is actually not a framework, but a runtime environment that allows to ex
 
 According to [Node.js’s 2016 User Survey](//nodejs.org/static/documents/2016-survey-report.pdf) Javascript is one of the most popular programming languages for front-end development. Nearly every front-end developer is familiar with this universal language. Therefore, it is much easier for them to switch to using Node.js at the back-end. It requires less effort and less time to learn and work with, even for a junior Javascript programmer.
 
-![Node.js’s 2016 User Survey](//cdn.codecarrot.net/images/PowerPoint+Presentation+2017-11-01.png)
+![Node.js’s 2016 User Survey](https://cdn.codecarrot.net/images/PowerPoint+Presentation+2017-11-01.png)
 
 ### Freedom in Building Apps
 
@@ -35,7 +35,7 @@ Before Node.js, Javascript was only used for client-side development. It was nec
 
 The Node.js community is a very active and vibrant group of developers who contribute to constant improvement of Node.js. Thanks to the cooperation of JavaScript programmers and their input to the community you get access to a ton of ready solutions, codes in Github and many more possibilities. Even though, it is still at a relatively early stage of development, the community is dynamically evolving and its members go the extra mile to provide others with best and reliable solutions.
 
-![People enjoying at camp fire](//cdn.codecarrot.net/images/pexels-photo-26135-132411-edited.jpg)
+![People enjoying at camp fire](https://cdn.codecarrot.net/images/pexels-photo-26135-132411-edited.jpg)
 
 ### Simultaneous Request Handling
 
@@ -51,7 +51,7 @@ One of the biggest disadvantages of Node.js is that it lacks consistency. Node.j
 
 The fact that Node.js is unopinionated can also be seen as a drawback by some developers. Ruby on Rails provides you with a lot of directions from a fresh install and guides you into their way of doing things, but with Node.js you basically need to write everything from scratch. It might result in a decrease in productivity, slowing your work down. However, if you cooperate with an experienced team of programmers who have internally developed a good processes for developing and maintaining code, you do not have to worry about efficiency.
 
-![Telephone booth](//cdn.codecarrot.net/images/negativespace1-18-029619-edited.jpg)
+![Telephone booth](https://cdn.codecarrot.net/images/negativespace1-18-029619-edited.jpg)
 
 ### Not Suitable for Heavy-Computing Apps
 

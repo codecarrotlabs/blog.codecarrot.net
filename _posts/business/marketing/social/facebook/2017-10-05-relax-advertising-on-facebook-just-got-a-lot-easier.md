@@ -6,7 +6,7 @@ date: 2017-10-05 06:27:00 +0530
 categories: business
 tags: business facebook marketing
 description: Pixels are common across most advertising platforms. They're used to drop a cookie that will track visitors on your website so you can advertise to them later.
-image: //cdn.codecarrot.net/images/pan-xiaozhen-254936.jpg
+image: https://cdn.codecarrot.net/images/pan-xiaozhen-254936.jpg
 ---
 
 I can’t be the only person who finds Facebook advertising confusing. All the features make it a very powerful advertising platform, but they also add complexity. One of the things I used to get particularly frustrated by is pixels.
@@ -21,7 +21,7 @@ In 2015, Facebook took a huge step towards to simplifying this process by introd
 
 If you’ve been using the old pixels (and good for you if you have!) they will still work for the time being. Your old custom audience pixel has already been upgraded to the new pixel, but your conversion pixels will be phased out in the second half of 2016.
 
-![new facebook pixel](//cdn.codecarrot.net/images/New_Facebook_Pixel.png)
+![new facebook pixel](https://cdn.codecarrot.net/images/New_Facebook_Pixel.png)
 
 My recommendation is to switch everything over now rather than leaving it to the last minute. And if you’ve never used any Facebook pixels before, it’s the perfect time to start.
 
@@ -62,7 +62,7 @@ The interesting thing about Custom Conversions is that once one is created, it w
 
 If you want to optimize your ad for a custom conversion, choose “Website Conversion”, type in your domain, and then select the one you’re looking for.
 
-![Screenshot of choosing campaign objective](//cdn.codecarrot.net/images/Facebook_choose_objective.png)
+![Screenshot of choosing campaign objective](https://cdn.codecarrot.net/images/Facebook_choose_objective.png)
 
 The drawback of Custom Conversions is that you’re limited to 20, and at this time, none of them can be deleted. If you’re tracking a lot of different completion pages, you could run into a wall. For that, you’ll need Standard Events.
 
@@ -76,7 +76,7 @@ While Custom Conversions are tied to a URL (usually for some kind of thank you o
 
 There are nine conversion types you can use with Standard Events, each with its own line of code. This code will tell Facebook what to track, and will be inserted into the new Facebook pixel code—but only on the page you want to track conversions on.
 
-![facebook Standard events](//cdn.codecarrot.net/images/Facebook_Standard_Events.png)
+![facebook Standard events](https://cdn.codecarrot.net/images/Facebook_Standard_Events.png)
 
 ## Adding the New Facebook Pixel to Your Website
 
@@ -84,15 +84,15 @@ The new Facebook pixel works similarly to the old custom audience pixel. It need
 
 First, if you haven't already, you'll need to create your Pixel. Start by visiting the [Ads Manager](//www.facebook.com/ads/manager/account/). Once there, click on the Ads Manager menu and select "Pixels" under "Assets".
 
-![facebook ads manager](//cdn.codecarrot.net/images/facebook_Ads_Manager.png)
+![facebook ads manager](https://cdn.codecarrot.net/images/facebook_Ads_Manager.png)
 
 If you haven't created a Pixel already, you'll be prompted to create one now.
 
-![Create pixel on facebook screenshot](//cdn.codecarrot.net/images/Create_pixel_on_facebook.png)
+![Create pixel on facebook screenshot](https://cdn.codecarrot.net/images/Create_pixel_on_facebook.png)
 
 Name your Pixel and click "Create Pixel".
 
-![Name your pixel screenshot](//cdn.codecarrot.net/images/Name_your_pixel_in_facebook.png)
+![Name your pixel screenshot](https://cdn.codecarrot.net/images/Name_your_pixel_in_facebook.png)
 
 Your Pixel code will now pop up. In order for your pixel to work properly, it needs to be displayed on every page of your website. The best place to put the code is in the <head></head> section of your index page.
 

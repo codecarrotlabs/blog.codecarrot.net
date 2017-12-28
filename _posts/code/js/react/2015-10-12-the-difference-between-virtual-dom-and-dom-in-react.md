@@ -6,12 +6,12 @@ date: 2015-10-12 21:29:00 +0530
 categories: code
 tags: coding react facebook framework react-native virtual-dom dom
 description: React attacks us with the virtual DOM right away, on the main page. This feature seems to be very important! But what does &quot;virtual DOM&quot; mean exactly?
-image: //cdn.codecarrot.net/images/react-website-header-2015.png
+image: https://cdn.codecarrot.net/images/react-website-header-2015.png
 ---
 
 React attacks us with the virtual DOM right away, on the main page. This feature seems to be very important!
 
-![React Virtual DOM](//cdn.codecarrot.net/images/react-website-header-2015.png)
+![React Virtual DOM](https://cdn.codecarrot.net/images/react-website-header-2015.png)
 
 But what does “virtual DOM” mean exactly?
 
@@ -66,7 +66,7 @@ First of all - the Virtual DOM was not invented by React, but React uses it and 
 
 The *Virtual DOM* is an abstraction of the HTML DOM. It is lightweight and detached from the browser-specific implementation details. Since the DOM itself was already an abstraction, the virtual DOM is, in fact, an abstraction of an abstraction.
 
-![Can't go for virtual dom need to go deeper](//cdn.codecarrot.net/images/can-t-go-for-virtual-dom-need-to-go-deeper.jpg)
+![Can't go for virtual dom need to go deeper](https://cdn.codecarrot.net/images/can-t-go-for-virtual-dom-need-to-go-deeper.jpg)
 
 Perhaps it’s better to think of the virtual DOM as *React’s local and simplified copy of the HTML DOM*. It allows React to do its computations within this abstract world and skip the “real” DOM operations, often slow and browser-specific.
 

@@ -6,7 +6,7 @@ date: 2017-11-19 13:21:00 +0530
 categories: business
 tags: business ab ab-testing google google-analytics
 description: Learn A/B testing with Google Analytics. 5 easy steps to learn the whole process with a case study of Kapitall that increased its conversion by 44%.
-image: //cdn.codecarrot.net/images/6537-01-ab-testing-1.jpg
+image: https://cdn.codecarrot.net/images/6537-01-ab-testing-1.jpg
 ---
 
 A/B testing can be as simple as reciting the alphabet…
@@ -34,7 +34,7 @@ A conversion for a business could be anything.
 
 **Before you can start conversion testing, you’ll first need to define what your goal is** for each test, so you can accurately identify the winning page design.
 
-![a/b testing Google analytics](//cdn.codecarrot.net/images/a-b-testing-Google-analytics.png)
+![a/b testing Google analytics](https://cdn.codecarrot.net/images/a-b-testing-Google-analytics.png)
 
 There are many conversion testing tools on the market, but the best are usually paid and add to your marketing expenses. The one exception to this rule is Google Analytics.
 
@@ -46,7 +46,7 @@ Google has combined A/B testing and split testing into one term—content experi
 
 You’ll find it in Google Analytics under “Behavior” and “Experiments.” On that page, simply click the button for “Create Experiment.”
 
-![behavior experiment](//cdn.codecarrot.net/images/behavior-experiment.png)
+![behavior experiment](https://cdn.codecarrot.net/images/behavior-experiment.png)
 
 You’ll be take to a screen (pictured below) where you can set up your experiment.
 
@@ -61,7 +61,7 @@ Under “Objective for this experiment,” you’ll define the metric you’ll u
 
 The best part is you can set multiple metrics at one time.
 
-![set objective of a/b testing](//cdn.codecarrot.net/images/first-step-to-set-objective-of-experiment.png)
+![set objective of a/b testing](https://cdn.codecarrot.net/images/first-step-to-set-objective-of-experiment.png)
 
 ## Divide Your Web Traffic
 
@@ -88,7 +88,7 @@ As you can see in the image below, you simply need to enter the URL of your curr
 
 Once you add the original and test pages, look over the preview image to be sure you’ve entered the right URL. Hit the “Save Changes” button after you check for completeness to head to the next experiment section.
 
-![configure the experiment](//cdn.codecarrot.net/images/configure-the-experiment.png)
+![configure the experiment](https://cdn.codecarrot.net/images/configure-the-experiment.png)
 
 Now, you’ll need the experiment code for your testing project.
 
@@ -96,7 +96,7 @@ If Google Analytics tracking codes are properly installed on your original and v
 
 Place this code immediately after the opening head tag at the top of your original web page. Once it’s added, hit the “Save Changes” button again to progress to the final step.
 
-![setup the a/b testing code](//cdn.codecarrot.net/images/setup-the-code.png)
+![setup the a/b testing code](https://cdn.codecarrot.net/images/setup-the-code.png)
 
 **Pro Tips:** You can use the [Google Content Experiments plugin](//wordpress.org/plugins/google-content-experiments/screenshots/) to enter the code on your page.
 
@@ -108,7 +108,7 @@ Sometimes Analytics isn’t able to find the code. In this case, you can skip th
 
 Otherwise, you’ll be given the green flag to start your content experiment. Your experiment will launch and you’ll start seeing reported data within one to two days.
 
-![review the experiment](//cdn.codecarrot.net/images/review-the-experiment.png)
+![review the experiment](https://cdn.codecarrot.net/images/review-the-experiment.png)
 
 ## Check Your Results
 

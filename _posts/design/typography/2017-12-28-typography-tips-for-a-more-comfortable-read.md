@@ -6,14 +6,14 @@ date: 2017-12-28 15:28:48 +0530
 categories: design
 tags: designing typography fonts tips
 description: Set type as part of your content creation workflow, and your readers will be in for a treat. Check out these 3 ways to improve the readability of your content.
-image: //cdn.codecarrot.net/images/92015_typography_hero.png
+image: https://cdn.codecarrot.net/images/92015_typography_hero.png
 ---
 
 There are 3 small changes you can make to your content to provide a more pleasurable read. The tips don’t just apply to design—use them to make your text documents look great, too.
 
 The names of each principle may be complicated, but understanding and using them is simple.
 
-![typography tips](//cdn.codecarrot.net/images/typographytips-01.jpg)
+![typography tips](https://cdn.codecarrot.net/images/typographytips-01.jpg)
 
 Important note: every font is different, so if the [content](/why-content-comes-first) doesn’t feel right, go ahead and adjust your measurements. What’s important here is that the reader is getting a comfortable reading experience and that it looks correct to your eye.
 
@@ -21,7 +21,7 @@ Important note: every font is different, so if the [content](/why-content-comes-
 
 Typographic hierarchy is the visual hierarchy of the text on a page.
 
-![1--WcAzURD51Ihq8O-TC8kuw](//cdn.codecarrot.net/images/1-WcAzURD51Ihq8O-TC8kuw.png)
+![1--WcAzURD51Ihq8O-TC8kuw](https://cdn.codecarrot.net/images/1-WcAzURD51Ihq8O-TC8kuw.png)
 
 Imagine a textbook. In it, the primary heading (the chapter title) is more prominent than the secondary heading (the sub-heading) which is, in turn, more prominent than the body text (the main content of the page). The same principles should be taken into account in a design or Word document.
 
@@ -37,7 +37,7 @@ All font sizes should be derived from the body text, as this is what will be mos
 
 Here’s what the page looks like after following this advice:
 
-![typography tips](//cdn.codecarrot.net/images/typographytips-02.jpg)
+![typography tips](https://cdn.codecarrot.net/images/typographytips-02.jpg)
 
 ## Further considerations
 
@@ -50,7 +50,7 @@ These levels weren’t necessary for this article, but you should also consider 
 
 This is the spacing and arrangement of text as the reader descends the page. We need to make sure the the line spacing and space between paragraphs is generous enough to allow the eye and brain to more easily decipher characters, words, and word shapes—which is how we all read.
 
-![1-m_oQMHv2KaXlzJ51fknb-Q](//cdn.codecarrot.net/images/1-m_oQMHv2KaXlzJ51fknb-Q.png)
+![1-m_oQMHv2KaXlzJ51fknb-Q](https://cdn.codecarrot.net/images/1-m_oQMHv2KaXlzJ51fknb-Q.png)
 
 <blockquote>
 “Use vertical spacing to make your words easier to scan.”
@@ -65,7 +65,7 @@ In most cases, it should be equal to the body text, so if the body text is 16pt 
 * In design applications and CSS this is the equivalent of setting margin-bottom of paragraphs to 16px or 1em
 * In a Pages/Word document, set the “After paragraph” value to the size of your body text
 
-![Paragraph spacing](//cdn.codecarrot.net/images/typographytips-03.jpg)
+![Paragraph spacing](https://cdn.codecarrot.net/images/typographytips-03.jpg)
 
 ## Line spacing
 
@@ -78,7 +78,7 @@ If the body text is 22pt, then the line-height of that text should be between 26
 * In CSS, you can set this using ems or unitless values (e.g. 1.2), but it may require adjustment to make it feel right
 * In a Pages/Word document, the line height will be set in decimals, with 1.2 being equal to 120% of the text being edited
 
-![The line height has been increased, so lines are easy to scan](//cdn.codecarrot.net/images/typographytips-04.jpg)
+![The line height has been increased, so lines are easy to scan](https://cdn.codecarrot.net/images/typographytips-04.jpg)
 
 ## Adjust the measure to make each line of text more comfortable to read
 
@@ -88,18 +88,18 @@ The measure is the length of a line of text. Long lines of text are difficult to
 “Set type as part of your content creation workflow, and your readers will be in for a treat.”
 </blockquote>
 
-![1-PT_xas3H51pYB4WAepEUWA](//cdn.codecarrot.net/images/1-PT_xas3H51pYB4WAepEUWA.png)
+![1-PT_xas3H51pYB4WAepEUWA](https://cdn.codecarrot.net/images/1-PT_xas3H51pYB4WAepEUWA.png)
 
 **Pro Tip:** A line of upper- and lower-case letters and numbers is 62 characters, a simple way of finding a comfortable measure.
 
 When you’ve worked out where 65–75 characters is on a line, reduce the width of the column of text until that is about to wrap, you should find the measure is comfortable.
 
-![The measure has been made narrower so that each line is a comfortable reading length](//cdn.codecarrot.net/images/typographytips-05.jpg)
+![The measure has been made narrower so that each line is a comfortable reading length](https://cdn.codecarrot.net/images/typographytips-05.jpg)
 
 ## The final result
 
 Once you’ve followed these steps, the readability of your content should have vastly improved, as seen below.
 
-![typographytips-6](//cdn.codecarrot.net/images/typographytips-6.gif)
+![typographytips-6](https://cdn.codecarrot.net/images/typographytips-6.gif)
 
 Setting type is not an inaccessible skill—it’s possible to follow a few simple principles to make every bit of content an easy read. Make this part of your content creation workflow and your readers will be in for a treat.

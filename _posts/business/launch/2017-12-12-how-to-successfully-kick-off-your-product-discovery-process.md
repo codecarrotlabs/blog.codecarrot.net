@@ -6,7 +6,7 @@ date: 2017-12-12 13:21:00 +0530
 categories: business
 tags: business product launch
 description: In an initial consultation with any industry, there are typically some standard questions that can help isolate scope and cost. For a house painter...
-image: //cdn.codecarrot.net/images/photo-1476525223214-c31ff100e1ae.jpg
+image: https://cdn.codecarrot.net/images/photo-1476525223214-c31ff100e1ae.jpg
 ---
 
 At [CodeCarrot](//www.codecarrot.net/), we’ve had many internal discussions about the line between project and product management in a client-services product management model. But there is a product practice area that we use for almost all of our clients: Discovery facilitation — also known as, *how to communicate with people and get what you need from them.*

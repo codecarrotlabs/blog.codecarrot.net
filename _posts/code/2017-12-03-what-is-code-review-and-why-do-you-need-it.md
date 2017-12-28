@@ -6,7 +6,7 @@ date: 2017-12-03 22:35:00 +0530
 categories: code
 tags: coding
 description: A discussion of the Agile practice of code reviews, where teams collaboratively review code created by their peers to find bugs and suggest improvements.
-image: //cdn.codecarrot.net/images/lee-campbell-86958.jpg
+image: https://cdn.codecarrot.net/images/lee-campbell-86958.jpg
 ---
 
 Building a startup is hard, building software for it is not easier. But what makes software great? Good code. But how can you be sure that the code is good?
@@ -36,7 +36,7 @@ Moreover, while working together on examining the code, every team member can su
 
 The main thing you need to remember about code review is that it should be performed **BEFORE** your new development team takes on a new codebase or project. Checking the code before starting a project gives your team the chance to get familiar with it and to determine whether the code is clean or requires any rework.
 
-![Money coding on laptop](//cdn.codecarrot.net/images/coding-zOvBKUUEERdNm.gif)
+![Money coding on laptop](https://cdn.codecarrot.net/images/coding-zOvBKUUEERdNm.gif)
 
 ## Code Review Checklist:
 

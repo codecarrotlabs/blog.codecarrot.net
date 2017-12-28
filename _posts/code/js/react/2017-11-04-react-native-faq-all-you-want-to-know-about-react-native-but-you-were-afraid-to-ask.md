@@ -6,7 +6,7 @@ date: 2017-11-04 18:55:00 +0530
 categories: code
 tags: coding react react-native
 description: Considering React Native as the framework for your next mobile app? Answers to the most common questions about using React Native in a project.
-image: //cdn.codecarrot.net/images/pexels-photo-92028-548588-edited.jpeg
+image: https://cdn.codecarrot.net/images/pexels-photo-92028-548588-edited.jpeg
 ---
 
 Still on the fence about choosing [React Native as the framework for your next mobile app](/react-native-can-slash-your-mobile-development-costs-by-30-percent)? We’ve got you covered. We selected and answered the most common questions that pop up when people consider using React Native in a project. We hope this short guide will make things much clearer.

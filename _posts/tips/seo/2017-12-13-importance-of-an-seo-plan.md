@@ -6,7 +6,7 @@ date: 2017-12-13 20:46:10 +0530
 categories: tips
 tags: tips ranking-factor seo
 description: Once you have all the key ingredients for your website now let's have a good grasp of search engine optimization (SEO), you are ready to optimize your website.
-image: //cdn.codecarrot.net/images/346_1.jpg
+image: https://cdn.codecarrot.net/images/346_1.jpg
 ---
 
 Once you have all the [key ingredients for your website](/what-are-the-key-website-ingredients) now let's have a good grasp of search engine optimization (SEO), you are ready to optimize your website. Just follow this step-by-step process to create an SEO plan, and learn how to develop, prioritize and adjust the plan to best suit your goals.

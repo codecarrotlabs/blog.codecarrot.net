@@ -6,7 +6,7 @@ date: 2017-12-19 21:20:00 +0530
 categories: tips
 tags: tips security ssl ssl-certificate free paid certificate
 description: There is a huge difference between a free SSL and Paid SSL which may be confusing. This guide help you to understand and compare both SSL Certificates.
-image: //cdn.codecarrot.net/images/the-importance-of-ssl-certificates.jpg
+image: https://cdn.codecarrot.net/images/the-importance-of-ssl-certificates.jpg
 ---
 
 **Everything you need to know about the practical difference between a free and a commercial SSL Certificate.**
@@ -15,7 +15,7 @@ In an age when the number of hacking attempts and fraudulent activities is growi
 
 As you probably know, there are two types of SSL certificate. The first one is ‘Free SSL Certificate’, which as the name suggests is available for free. The other one which is paid is simply known as ‘SSL Certificate’. Let’s have a closer look at both.
 
-![Free SSL vs Paid SSL certificate](//cdn.codecarrot.net/images/free-ssl-vs-paid-ssl.jpg)
+![Free SSL vs Paid SSL certificate](https://cdn.codecarrot.net/images/free-ssl-vs-paid-ssl.jpg)
 
 ## What is a Free SSL Certificate?
 

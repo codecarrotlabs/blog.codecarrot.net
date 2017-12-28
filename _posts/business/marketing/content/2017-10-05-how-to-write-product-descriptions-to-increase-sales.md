@@ -6,7 +6,7 @@ date: 2017-10-05 22:55:00 +0530
 categories: business
 tags: business ecommerce sales marketing
 description: Ecommerce manager and online store owners often ask about product descriptions. What should they say?
-image: //cdn.codecarrot.net/images/product-description-hero-1024x467.png
+image: https://cdn.codecarrot.net/images/product-description-hero-1024x467.png
 ---
 
 Ecommerce manager and online store owners often ask about product descriptions. What should they say? How long should they be? What format is best? How do I make them rank high in search engines?

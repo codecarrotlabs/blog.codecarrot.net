@@ -6,7 +6,7 @@ date: 2017-09-27 00:59:00 +0530
 categories: code
 tags: nodejs php project project-management coding
 description: If you are an app owner choosing between Node.js and PHP, you should be aware of their major advantages and limitations.
-image: //cdn.codecarrot.net/images/nodejs-php2.jpg
+image: https://cdn.codecarrot.net/images/nodejs-php2.jpg
 ---
 
 Even though both PHP and Node.js can manage apps of any complexity, they are built around different concepts and architectures. If you are an app owner choosing between these two environments, you should be aware of their major advantages and limitations.
@@ -29,7 +29,7 @@ Having the same language both on the front- and the back-end is excellent for ma
 
 Node.js comes with few hard dependencies, rules and guidelines, which leaves the room for freedom and creativity in developing your applications. Being an unopinionated framework, Node.js does not impose strict conventions allowing developers to select the best architecture, design patterns, modules and features for your next project. With Node, your engineering team will have access to thousands of modules for any imaginable purposes via the NPM repository.
 
-[![10 Top Companies that use Node.js](//cdn.codecarrot.net/images/10-Top-companies-that-use-nodejs.jpg)](/10-top-companies-that-used-nodejs-in-production)
+[![10 Top Companies that use Node.js](https://cdn.codecarrot.net/images/10-Top-companies-that-use-nodejs.jpg)](/10-top-companies-that-used-nodejs-in-production)
 
 ## Node.js Cons
 

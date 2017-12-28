@@ -6,7 +6,7 @@ date: 2017-10-11 20:20:00 +0530
 categories: tips
 tags: tips security online
 description: We all know that it’s important to have secure passwords for all of the online services that we use, but making sure that all those passwords are unique and that all the data that we transmit over the web is
-image: //cdn.codecarrot.net/images/StockSnap_70GQNT6XZM.jpg
+image: https://cdn.codecarrot.net/images/StockSnap_70GQNT6XZM.jpg
 ---
 
 We all know that it’s important to have secure passwords for all of the online services that we use, but making sure that all those passwords are unique and that all the data that we transmit over the web is encrypted and secure is challenging – and it’s also inconvenient.
@@ -17,7 +17,7 @@ Here are a few things that you can do to make yourself more secure online.
 
 It’s likely that some of your email accounts have been compromised. Visit [haveibeenpwnd.com](//haveibeenpwnd.com/), type in your email address and you’ll find out immediately if any of your accounts have been a part of a major breach.
 
-[secure online](//cdn.codecarrot.net/images/haveibeenpwnd.png)
+[secure online](https://cdn.codecarrot.net/images/haveibeenpwnd.png)
 
 If your account has been part of a major breach, change your password for that service! I typed in my personal and work email addresses and found out that they’d both been part of multiple breaches. 🙁
 
@@ -39,7 +39,7 @@ It’s hard to think of strong, complex passwords that satisfy all those criteri
 
 ## 3. Enable Two-Factor Authentication
 
-![TwoFactorAuth.org](//cdn.codecarrot.net/images/TwoFactorAuth.png)
+![TwoFactorAuth.org](https://cdn.codecarrot.net/images/TwoFactorAuth.png)
 
 Two Factor Authentication, also known as 2FA, is an extra layer of security that adds an extra layer of security to your login process. In addition to a username and a password, 2FA requires you to enter an additional password that only you would have access to. Normally this means entering an additional code received from an app or through a text message, which can be very inconvenient – but I think it’s worth the tradeoff to make your accounts more secure.
 
@@ -49,6 +49,6 @@ You should add 2FA to all of your most sensitive accounts if it is available. In
 
 Your browser activity is constantly being tracked. Learn what services are tracking your activity by visiting [panopticlick.eff.org](//panopticlick.eff.org) and installing the PrivacyBadger extension.
 
-![panopticlick.eff](//cdn.codecarrot.net/images/panopticlick.eff.png)
+![panopticlick.eff](https://cdn.codecarrot.net/images/panopticlick.eff.png)
 
 With the PrivacyBadger extension, you can see exactly what services are tracking your browser activity and block them.

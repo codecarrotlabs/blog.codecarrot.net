@@ -6,7 +6,7 @@ date: 2017-08-23 12:00:00 +0530
 categories: tips
 tags: tips seo traffic search-engine-optimization
 description: SEO is really important for many projects. It can increase the number of people who view your application or even boost conversions allowing the user to buy products straight from the search engine.
-image: //cdn.codecarrot.net/images/pexels-photo-67112.jpeg
+image: https://cdn.codecarrot.net/images/pexels-photo-67112.jpeg
 ---
 
 SEO is really important for many projects. It can increase the number of people who view your application or even boost conversions! For example, [in e-commerce, 38.9 percent of purchases came from search engines such as Google](//www.businessinsider.com/most-online-shoppers-are-using-search-engines-before-they-buy-2016-4?IR=T). Also, search engines can make use of the website’s content to allow the user to buy products straight from the search engine. Here are a couple of tips you can use to make sure that search engine robots will love your website.
@@ -19,7 +19,7 @@ Quickly loading pages are crucial not only for efficient SEO but also for a good
 
 Breadcrumbs give web crawlers an idea of how your website is structured. In the picture below, you can see that the Guardian uses breadcrumbs to define what article is about. The most obvious use case in e-commerce is to show the category of the product to which a given link leads.
 
-![Using Breadcrumbs for SEO Tips](//cdn.codecarrot.net/images/seotips.png)
+![Using Breadcrumbs for SEO Tips](https://cdn.codecarrot.net/images/seotips.png)
 
 ## 3. Make Sure You Have Text on Your Website
 

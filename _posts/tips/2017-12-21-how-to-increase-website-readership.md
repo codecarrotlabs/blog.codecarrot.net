@@ -6,7 +6,7 @@ date: 2017-12-21 23:51:00 +0530
 categories: tips
 tags: tips website
 description: Google today processes more than 40,000 searches every second which amounts to over 3.5 billion searches per day and 1.2 trillion searches annually.
-image: //cdn.codecarrot.net/images/jens-kreuter-58481.jpg
+image: https://cdn.codecarrot.net/images/jens-kreuter-58481.jpg
 ---
 
 Google today processes more than 40,000 searches every second which amounts to over 3.5 billion searches per day and 1.2 trillion searches annually. This statistics clears that online visitors are endless and they are just a click away from visiting your web-page.

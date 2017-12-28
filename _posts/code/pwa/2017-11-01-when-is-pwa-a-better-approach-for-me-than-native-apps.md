@@ -6,7 +6,7 @@ date: 2017-11-01 14:10:00 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: Progressive Web Apps offer many benefits in terms of user experience and business-wise. When is it worth investing in a new application based on PWA concept?
-image: //cdn.codecarrot.net/images/pexels-photo-209726.jpeg
+image: https://cdn.codecarrot.net/images/pexels-photo-209726.jpeg
 ---
 
 [Progressive Web Apps](//www.codecarrot.net/services/progressive-web-apps) have recently gained in popularity as they offer numerous benefits both in terms of user experience and business-wise. [Many enterprises of all sizes and industries have successfully implemented PWAs, which triggered significant improvements in their businesses](/10-popular-companies-that-do-progressive-web-apps). They’ve seen their bounce rates decrease, conversion rates shoot up and page speed improve. Should you follow their lead?

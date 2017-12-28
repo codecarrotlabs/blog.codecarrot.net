@@ -6,7 +6,7 @@ date: 2017-11-04 18:43:00 +0530
 categories: code
 tags: coding react ionic cordova phonegap react-native
 description: A few years back, hybrid apps built with Ionic, Cordova or PhoneGap were a perfect and cost-effective alternative to native development. However, with the technology moving
-image: //cdn.codecarrot.net/images/shripal-daphtary-278736.jpg
+image: https://cdn.codecarrot.net/images/shripal-daphtary-278736.jpg
 ---
 
 A few years back, hybrid apps built with Ionic, Cordova or PhoneGap were a perfect and cost-effective alternative to native development. However, with the technology moving forward, they might not meet users’ expectations anymore. [React Native](//www.codecarrot.net/services/react-native) is a good alternative that can save your app from going under.

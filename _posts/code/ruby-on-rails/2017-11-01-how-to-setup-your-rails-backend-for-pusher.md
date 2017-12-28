@@ -6,7 +6,7 @@ date: 2017-11-01 02:18:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails pusher
 description: Pusher.js is ready to use SaaS providing websockets in multiple technologies It may handle public, private and client events with authorization or not.
-image: //cdn.codecarrot.net/images/rails-backend-for-pusher.png
+image: https://cdn.codecarrot.net/images/rails-backend-for-pusher.png
 ---
 
 Pusher.js is ready to use SaaS providing websockets in multiple technologies It may handle public, private and client events with authorization or not.

@@ -6,7 +6,7 @@ date: 2017-10-11 20:00:00 +0530
 categories: tips
 tags: tips error
 description: One of the most common errors you can come across while browsing the Internet is a 404 or Page Not Found error. This error often occurs when you follow a broken link or if you type in a website address that doesn’t exist.
-image: //cdn.codecarrot.net/images/4042.png
+image: https://cdn.codecarrot.net/images/4042.png
 ---
 
 One of the most common errors you can come across while browsing the Internet is a 404 or Page Not Found error. This error often occurs when you follow a broken link or if you type in a website address that doesn’t exist.
@@ -23,21 +23,21 @@ Here are a couple examples of creative 404 pages.
 
 Some 404 pages may not mention the number 404 at all, but rather include more user-friendly language such as:
 
-![404](//cdn.codecarrot.net/images/dribbble_404.gif)
+![404](https://cdn.codecarrot.net/images/dribbble_404.gif)
 
-![404](//cdn.codecarrot.net/images/octupus_404.jpg)
+![404](https://cdn.codecarrot.net/images/octupus_404.jpg)
 
-![404](//cdn.codecarrot.net/images/404.png)
+![404](https://cdn.codecarrot.net/images/404.png)
 
-![404](//cdn.codecarrot.net/images/404_blog_image.png)
+![404](https://cdn.codecarrot.net/images/404_blog_image.png)
 
-![404](//cdn.codecarrot.net/images/404_dribbble.gif)
+![404](https://cdn.codecarrot.net/images/404_dribbble.gif)
 
-![404](//cdn.codecarrot.net/images/404-01.png)
+![404](https://cdn.codecarrot.net/images/404-01.png)
 
-![404](//cdn.codecarrot.net/images/404-page.gif)
+![404](https://cdn.codecarrot.net/images/404-page.gif)
 
-![404](//cdn.codecarrot.net/images/404-in-app.gif)
+![404](https://cdn.codecarrot.net/images/404-in-app.gif)
 
 <blockquote>
 Page Not Found

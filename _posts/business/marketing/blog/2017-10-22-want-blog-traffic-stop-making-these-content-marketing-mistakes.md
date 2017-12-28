@@ -6,7 +6,7 @@ date: 2017-10-22 23:30:00 +0530
 categories: business
 tags: marketing tips blog traffic content-marketing
 description: Content marketing can be an asset to your company or a liability. Blog traffic is a major factor in building an online business, but only if you do it well.
-image: //cdn.codecarrot.net/images/increase-blog-traffic.png
+image: https://cdn.codecarrot.net/images/increase-blog-traffic.png
 ---
 
 [Content marketing](/44-content-marketing-resources) can be an asset to your company if its used well, but it can also become a gigantic liability if the execution is poor.
@@ -25,7 +25,7 @@ You need to find ways to make producing high quality content on a regular basis 
 
 Too many businesses start writing content without knowing their audience. The purpose of blogging and content creation is to build brand awareness and trust. If you speak to the wrong audience, you will not be able to achieve this goal.
 
-![One Simply create content](//cdn.codecarrot.net/images/one-simply-create-content.jpg)
+![One Simply create content](https://cdn.codecarrot.net/images/one-simply-create-content.jpg)
 
 Sometimes writing for the right audience involves changing the topics you cover. Other times writing for the right audience means staying on the same topic, but using less jargon and more everyday language.
 
@@ -35,7 +35,7 @@ High quality content comes from experience and insight. The experience and insig
 
 People can see right through thin, low quality content. That’s not all though. In 2011, Google created its Panda update to combat content that it perceives as thin so it’s in your best interest to create content of value for your audience.
 
-![Google Pandaversary](//cdn.codecarrot.net/images/pandaversary.png)
+![Google Pandaversary](https://cdn.codecarrot.net/images/pandaversary.png)
 
 Don’t be afraid to branch out to others departments within your organization and external experts to assist your content marketing efforts.
 
@@ -75,7 +75,7 @@ Focus on writing that one great post per week and then you can think about scali
 
 ## 9. Not setting goals
 
-[setting targets](//cdn.codecarrot.net/images/setting-targets-225x300.jpg)
+[setting targets](https://cdn.codecarrot.net/images/setting-targets-225x300.jpg)
 
 You need to set content marketing goals before you jump in. Without such goals, you will never know if you are being successful.
 
@@ -117,4 +117,4 @@ If content marketing was easy, everyone would be doing it. But there has to be a
 
 **Finally, if there is any key takeaway that you want to get from this article, just refer to the following image. These are the people you want to write for:**
 
-![content-relevance-scale](//cdn.codecarrot.net/images/content-relevance-scale.jpeg)
+![content-relevance-scale](https://cdn.codecarrot.net/images/content-relevance-scale.jpeg)

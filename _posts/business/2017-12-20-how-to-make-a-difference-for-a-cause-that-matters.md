@@ -6,7 +6,7 @@ date: 2017-12-20 02:21:00 +0530
 categories: business
 tags: business ngo foundation cause launch
 description: If you see a need and are moved to help, don’t wait for someone else to set things in motion. Act on the impulse. Learn how to make a difference in 5 steps.
-image: //cdn.codecarrot.net/images/how-to-make-a-difference-min.jpg
+image: https://cdn.codecarrot.net/images/how-to-make-a-difference-min.jpg
 ---
 
 If you see a need and are moved to help, act on that impulse. Remember that most causes —  [HASI Foundation](//www.codecarrot.net/clients.html) — often can’t get enough help. You don’t need to wait for someone else to step up and set things into action when you can do it yourself. Want to know how to make a difference? Just use these five steps.
@@ -37,7 +37,7 @@ Once you round up a group of interested individuals, you can build a team of fun
 
 Next up, you’ll want to name your cause, making sure your team knows exactly what you’re supporting and why. This way, you can avoid any feelings of uncertainty or hesitancy from your volunteers and donors and instead build trust.
 
-![How to Make a Difference Fire](//cdn.codecarrot.net/images/land-set-on-fire.jpg)
+![How to Make a Difference Fire](https://cdn.codecarrot.net/images/land-set-on-fire.jpg)
 
 <blockquote>
 Be transparent with your team and later on, your donors, so everyone knows what cause you’re supporting and where their donations are going.
@@ -105,7 +105,7 @@ How to make a difference starts with your passion for your cause. Make this clea
 
 ## 5. Promote your cause
 
-![One by one by one we can make our corner of the world a better place](//cdn.codecarrot.net/images/people-join-hands-to-create-a-heart-shape.jpg)
+![One by one by one we can make our corner of the world a better place](https://cdn.codecarrot.net/images/people-join-hands-to-create-a-heart-shape.jpg)
 
 Your next step is to get the word out about your cause. The most effective promotional tools include social media, blogging and email.
 

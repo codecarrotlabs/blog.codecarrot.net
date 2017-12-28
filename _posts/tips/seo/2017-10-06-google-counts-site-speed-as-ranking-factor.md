@@ -6,7 +6,7 @@ date: 2017-10-06 20:46:10 +0530
 categories: tips
 tags: tips ranking-factor website-speed google website site seo
 description: Search Engine Land is the leading industry source for daily, must-read news and in-depth analysis about search engine technology.
-image: //cdn.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.jpg
+image: https://cdn.codecarrot.net/images/ac1fafb4cef5bb6bf83b03a08c3d20d3.jpg
 ---
 
 Site speed is now a ranking factor in Google’s algorithm, and is already in place for U.S. searchers. But Google also cautions web site owners not to sacrifice relevance in the name of faster web pages, and even says this new ranking factor will impact very few queries.
@@ -55,7 +55,7 @@ If you are a site owner, webmaster or a web author, here are some free tools tha
 * [WebPagetest](//www.webpagetest.org/) shows a waterfall view of your pages' load performance plus an optimization checklist.
 * In [Webmaster Tools](//www.google.com/webmasters/tools), Labs > Site Performance shows the speed of your website as experienced by users around the world as in the chart below. We've also blogged about site performance.
 
-![Site performance](//cdn.codecarrot.net/images/Picture-of-graph-ferf3333C83.png)
+![Site performance](https://cdn.codecarrot.net/images/Picture-of-graph-ferf3333C83.png)
 
 * Many other tools on [code.google.com/speed](//code.google.com/speed).
 

@@ -6,7 +6,7 @@ date: 2017-11-01 04:39:00 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: If your users are active on mobile devices, you need to understand the value Progressive Web Apps can bring to your
-image: //cdn.codecarrot.net/images/pexels-photo-2.jpg
+image: https://cdn.codecarrot.net/images/pexels-photo-2.jpg
 ---
 
 What separates a regular web app from a progressive web app might be the difference between the life or death of your business. If you have mobile users, you need to understand the value PWA can bring to your business. Basically, I want to help you understand why PWAs are awesome.

@@ -6,7 +6,7 @@ date: 2017-09-05 05:35:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails images cloudinary application
 description: Upload And Transform Images - Short and great guide to setup and configure Cloudinary in your Ruby on Rails application.
-image: //cdn.codecarrot.net/images/ruby-on-rails.png
+image: https://cdn.codecarrot.net/images/ruby-on-rails.png
 ---
 
 Cloudinary is the image back-end for web and mobile developers. In other words, it allows you to upload images to the cloud (let's say it's something similar to S3), but in addition it allows you to do many different image (and video!) transformations on the fly, just by changing URL params.
@@ -59,7 +59,7 @@ Before we start you need to login at [cloudinary.com](//cloudinary.com/). Create
 
 On the Dashboard page, you should see all account details, just click on `YML link` and save this file in app `config` directory.
 
-![Dashboard view of cloudinary.com](//cdn.codecarrot.net/images/dashboard-view-of-cloudinarycom.png)
+![Dashboard view of cloudinary.com](https://cdn.codecarrot.net/images/dashboard-view-of-cloudinarycom.png)
 
 *It's highly recommended to avoid storing API keys in repo*, so you should later edit this config file and move keys to `secrets.yml` or `ENV`.
 
@@ -140,4 +140,4 @@ If you don't want to search through documentation for any advices, I recommend u
 
 Cloudinary is a great, easy to use tool which can considerably speed up your development. If you need to process images, it's definitely worth to try. If you have any questions, feel free to ask in comment section below.
 
-[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
+[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)

@@ -6,7 +6,7 @@ date: 2017-08-28 01:00:00 +0530
 categories: design
 tags: mobile mobile-optimization website responsive
 description: It's no secret that mobile is here to stay. So here are 10 reasons your website can't afford to remain unresponsive.
-image: //cdn.codecarrot.net/images/shutterstock_268450493.jpg
+image: https://cdn.codecarrot.net/images/shutterstock_268450493.jpg
 ---
 
 You’ve heard it before.
@@ -53,7 +53,7 @@ Capturing this traffic requires an optimized design, harnessing the power of the
 
 For example, [addthis](//www.addthis.com) mobile-optimized share bar, his social shares immediately DOUBLED.
 
-![CodeCarrot Blog share bar](//cdn.codecarrot.net/images/screenshot_20170827-235216.png)
+![CodeCarrot Blog share bar](https://cdn.codecarrot.net/images/screenshot_20170827-235216.png)
 
 Imagine doubling your traffic with a few tweaks. This took literally 5 minute of Bryan’s time.
 
@@ -67,7 +67,7 @@ Smartphone users account for the lowest dollar amount per transaction. These use
 
 Tablet users, on the other hand, have the highest average transaction value of any device, including desktops.
 
-![AOV 2011 Calendar year](//cdn.codecarrot.net/images/adobe-AOV-1.jpg)
+![AOV 2011 Calendar year](https://cdn.codecarrot.net/images/adobe-AOV-1.jpg)
 
 ’t handle every type of screen, you are missing out on sales.
 
@@ -94,7 +94,7 @@ As of April, however, the stakes have been raised, and mobile responsiveness is 
 
 With Google’s latest major algorithm update, the company enacted significant penalties for websites failing to meet its standards for mobile friendliness. While this change wasn’t quite the “mobile-geddon” SEO’s predicted, it did create some waves, with mobile friendly pages taking much less of a hit.
 
-![Mobile friendly gains and losses](//cdn.codecarrot.net/images/mobile-friendly-gains-and-losses.jpg)
+![Mobile friendly gains and losses](https://cdn.codecarrot.net/images/mobile-friendly-gains-and-losses.jpg)
 
 If you are serious about improving your organic traffic (or simply not losing it), you need to optimize your website for mobile.
 
@@ -128,7 +128,7 @@ Americans currently spend 24% of their time on mobile devices, and yet only 8% o
 
 Today is a prime time for investing in mobile advertising, but the channel won’t be underutilized for long. In the next 3 years, mobile ad spending is projected to hit $42 billion, quickly eliminating the opportunity gap and bringing up costs as the demand continues to increase.
 
-![Mobile Forecast Digital advertising revenue](//cdn.codecarrot.net/images/mobileforecast-digitaladvertisingrevenue.png)
+![Mobile Forecast Digital advertising revenue](https://cdn.codecarrot.net/images/mobileforecast-digitaladvertisingrevenue.png)
 
 Now is the time to invest in mobile ad spending, and you need a responsive design to accomplish this.
 

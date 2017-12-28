@@ -6,7 +6,7 @@ date: 2017-12-30 21:15:48 +0530
 categories: design
 tags: designing
 description: 168 custom interface icons you can use however you’d like, no licensing or attribution required.
-image: //cdn.codecarrot.net/images/swift-interface-hero.jpg
+image: https://cdn.codecarrot.net/images/swift-interface-hero.jpg
 ---
 
 Our friends at Swifticons put together an freebie icons: 168 custom interface icons you can use however you’d like, no licensing or attribution required.

@@ -6,7 +6,7 @@ date: 2017-11-16 05:25:49 +0530
 categories: business
 tags: business ab-testing tools
 description: What is A/B testing? Should you be doing it? Here is everything you need to know about A/B testing, A/B testing examples and tools you can perform with.
-image: //cdn.codecarrot.net/images/ab-testing-blog.png
+image: https://cdn.codecarrot.net/images/ab-testing-blog.png
 ---
 
 Have you ever tried eating a dosa with different chutneys? You may like one chutney more than the other. Ever thought of applying this dosa-chutney scenario to your website? A/B testing is just that. Applying this to your website, online store or any other landing page/social media ad can help you get more traffic and achieve great conversion rates.
@@ -21,7 +21,7 @@ Who doesn’t like options, right! You can test absolutely anything: a form or t
 
 **Check out this A/B testing example:**
 
-![ab-testing.png](//cdn.codecarrot.net/images/ab-testing.png)
+![ab-testing.png](https://cdn.codecarrot.net/images/ab-testing.png)
 
 From the above image, it is clear that **Version A** had 23% lower Control as compare to **Version B**.
 

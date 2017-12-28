@@ -6,7 +6,7 @@ date: 2017-12-19 21:01:00 +0530
 categories: business
 tags: business launch domain-name domain cost pricing
 description: How much does a domain name cost? What are your options? Fortunately, we’ve got some answers to help steer you in the right direction.
-image: //cdn.codecarrot.net/images/how-much-does-a-domain-name-cost-min.jpg
+image: https://cdn.codecarrot.net/images/how-much-does-a-domain-name-cost-min.jpg
 ---
 
 If you’re looking to start an online venture, securing a domain name is ground zero. Whether or not you already have an established business, you can’t make a stand on the internet without a domain. But how much does a domain name cost? How much time should you spend looking for one? What are your options? Fortunately, we’ve got some answers to help steer you in the right direction.
@@ -27,7 +27,7 @@ Pro tip: If you’re looking to purchase a domain that someone else already owns
 
 How do I pick one?
 
-![How Much Does A Domain Name Cost Pick One](//cdn.codecarrot.net/images/pick-the-apple-from-tree.jpg)
+![How Much Does A Domain Name Cost Pick One](https://cdn.codecarrot.net/images/pick-the-apple-from-tree.jpg)
 
 [When it comes to choosing a domain name](/10-tips-for-choosing-the-perfect-domain-name), there are a few things to consider:
 
@@ -57,7 +57,7 @@ There are more than one billion websites live on the internet right now. How are
 
 ### Do I need more than one?
 
-![How Much Does A Domain Name Cost Apples](//cdn.codecarrot.net/images/a-bucket-of-apples.jpg)
+![How Much Does A Domain Name Cost Apples](https://cdn.codecarrot.net/images/a-bucket-of-apples.jpg)
 
 Short answer, yes. Even if you only plan to launch one website, the answer is still yes. Let me tell you why — brand protection.
 

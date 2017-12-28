@@ -6,12 +6,12 @@ date: 2017-09-20 01:20:00 +0530
 categories: tips
 tags: tips site
 description: YouTube has added a really nice touch to their site that encourages people to explore and view other videos. This has the obvious financial benefit
-image: //cdn.codecarrot.net/images/a-cartoon-exploring-in-snow.jpg
+image: https://cdn.codecarrot.net/images/a-cartoon-exploring-in-snow.jpg
 ---
 
 YouTube has added a really nice touch to their site that encourages people to explore and view other videos. This has the obvious financial benefit to them of increasing video and page views, thus increasing advertising revenue.
 
-![Explore the earth](//cdn.codecarrot.net/images/l4FGC3dPGy2VJJsIw.gif)
+![Explore the earth](https://cdn.codecarrot.net/images/l4FGC3dPGy2VJJsIw.gif)
 
 When you pause a video, and you put your mouse over it, a search box appears. It’s like they’re saying “Hey, why not explore some other videos?”. It’s a really natural and interesting way to encourage folks to stay on the site.
 

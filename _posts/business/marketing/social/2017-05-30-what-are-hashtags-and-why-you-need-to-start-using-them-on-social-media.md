@@ -6,7 +6,7 @@ date: 2017-05-30 12:00:00 +0530
 categories: business
 tags: social social-media hashtags online
 description: Hashtags, hashtags, hashtags! You see them online, on just about every social network website. Sometimes you see them in abundance. Sometimes they're silly, and sometimes they look like they serve a purpose.
-image: //cdn.codecarrot.net/images/start-using-hashtag-in-social-media.png
+image: https://cdn.codecarrot.net/images/start-using-hashtag-in-social-media.png
 ---
 
 Hashtags, hashtags, hashtags! You see them online, on just about every social network website. Sometimes you see them in abundance. Sometimes they're silly, and sometimes they look like they serve a purpose. So, what are hashtags and why should you care?
@@ -25,7 +25,7 @@ If you're one for official definitions and search for "what are hashtags" online
 
 For example, in Twitter, under the hashtag [#codecarrot](//twitter.com/search?q=%23codecarrot&src=typd), you can find out what people from around the world have been tweeting about that topic. This is also particularly handy for events or conferences, especially to track and document vital information such as what attendees, speakers and event organizers are talking about.
 
-[![Hashtags Twitter Example](//cdn.codecarrot.net/images/hashtags-twitter-example.png)](//twitter.com/search?q=%23codecarrot&src=typd)
+[![Hashtags Twitter Example](https://cdn.codecarrot.net/images/hashtags-twitter-example.png)](//twitter.com/search?q=%23codecarrot&src=typd)
 
 With hashtags, you can use all lowercase, or even use camel case lettering, but no spaces. Hashtags are not case-sensitive. For example, if you want to use #CodeCarrot instead of [#codecarrot](//twitter.com/search?q=%23codecarrot&src=typd), the term will still click through to the same topic stream.
 
@@ -57,7 +57,7 @@ You can research hashtags with a few different tools. Here are just a few of the
 
 **Google Trends**
 
-![Google Trends](//cdn.codecarrot.net/images/google-trends.jpg)
+![Google Trends](https://cdn.codecarrot.net/images/google-trends.jpg)
 
 Google Trends allows you to search for just about any term, including hashtags. You can search based on location, by time, by category, and by type of search. So, you can look for specific hashtags that have been used in videos on YouTube, images, news, or even Google Shopping.
 

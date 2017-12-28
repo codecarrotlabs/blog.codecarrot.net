@@ -6,7 +6,7 @@ date: 2017-09-02 15:21:00 +0530
 categories: code
 tags: coding developer
 description: Being confident in coding is one of the ways to a expert developer, here are the 5 expert tips on how to improve your coding confidence.
-image: //cdn.codecarrot.net/images/mia-baker-322586.jpg
+image: https://cdn.codecarrot.net/images/mia-baker-322586.jpg
 ---
 
 Starting out in the professional development arena is pretty daunting. I’m self taught and I don’t have a degree. Broaching my first full time position was pretty scary. What would the interviewer think? Am I ready? The truth is I was, but I wish I knew what I knew now because I’d be more confident. Here are five tips to improve your coding confidence, whether it’s your first or fiftieth job position.

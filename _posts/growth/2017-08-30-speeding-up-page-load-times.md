@@ -6,12 +6,12 @@ date: 2017-08-30 16:00:00 +0530
 categories: growth
 tags: seo search-engine-optimization website engagement users
 description: Learn how to reduce your page load times and increase user engagement on your websites.
-image: //cdn.codecarrot.net/images/romain-peli-266992.jpg
+image: https://cdn.codecarrot.net/images/romain-peli-266992.jpg
 ---
 
 The average size of a web page has been growing at an accelerating rate over the last few years. Research carried out by [HTTP Archive](//httparchive.org/interesting.php#bytesperpage) in January reports that the average page size has now hit 1.25mb. For users with a decent broadband connection this is not too troublesome, but for users that still rely on slow dial-up connections (like in many developing countries) or crippled mobile data networks this poses a real issue.
 
-![Average Web Page Size 2013 - source: HTTP Archive](//cdn.codecarrot.net/images/http-archive-survey-2013.png)
+![Average Web Page Size 2013 - source: HTTP Archive](https://cdn.codecarrot.net/images/http-archive-survey-2013.png)
 
 In 2011, KISSmetrics created an [infographic](//blog.kissmetrics.com/loading-time/) showing how page load times can have a direct impact on user engagement. The data is most likely a little out of date now but the general principle is still valid.
 
@@ -55,7 +55,7 @@ Your website probably contains files that don’t change very often. Things like
 
 To leverage browser caching you need to update your web server configuration to serve up resources with `Expires` headers. This is what tells the browser how long it should keep the cached files for.
 
-![Inspecting Response Headers in Chrome Dev Tools](//cdn.codecarrot.net/images/expires-headers.png)
+![Inspecting Response Headers in Chrome Dev Tools](https://cdn.codecarrot.net/images/expires-headers.png)
 
 The easiest way to update your server configuration for Apache servers is to use a `.htaccess` file. The code below shows an example configuration that would set all image, CSS and JavaScript resources to be cached for 1 month.
 
@@ -91,7 +91,7 @@ There are some fantastic tools available that can help you test the performance 
 
 **PageSpeed**
 
-![Analysing a Web Page with PageSpeed (Web App) by Google](//cdn.codecarrot.net/images/speed-test-of-codecarrot-blog-website-from-google.png)
+![Analysing a Web Page with PageSpeed (Web App) by Google](https://cdn.codecarrot.net/images/speed-test-of-codecarrot-blog-website-from-google.png)
 
 PageSpeed is a tool from Google that can analyze your web pages and give you pointers on what to do to improve performance. The tool will provide you with an overall ‘PageSpeed Score’ that allows you to quickly see how well optimized a page is.
 
@@ -107,7 +107,7 @@ You can either install PageSpeed as an [extension for Chrome or Firefox](//devel
 
 **Developer Tools**
 
-![Using Chrome Dev Tools to Examine Asset Load Times](//cdn.codecarrot.net/images/chrome-devtools-network-in-windows-10.png)
+![Using Chrome Dev Tools to Examine Asset Load Times](https://cdn.codecarrot.net/images/chrome-devtools-network-in-windows-10.png)
 
 As well as using the tools mentioned above, many browsers like Chrome and Firefox come with built-in developer tools that you can use to help find areas where performance could be increased. The ‘Network’ tab in the Chrome developer tools for example can be really useful for identifying large files that take a long time to load.
 

@@ -6,7 +6,7 @@ date: 2017-09-02 00:30:00 +0530
 categories: business
 tags: smallbiz website marketplace
 description: From anchoring marketing efforts to building credibility and selling online, learn why a small business website is a must in today's marketplace.
-image: //cdn.codecarrot.net/images/igor-miske-174209.jpg
+image: https://cdn.codecarrot.net/images/igor-miske-174209.jpg
 ---
 
 Many small businesses, especially new small businesses, run a lean operation. They focus on necessities and urgent matters, only spending money when they need to. So, it’s easy to see why some business owners might think a website is a luxury item they can afford to live without.

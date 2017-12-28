@@ -6,7 +6,7 @@ date: 2017-07-10 12:00:00 +0530
 categories: tips
 tags: tips seo developer search-engine-optimization
 description: A big potential for improving SEO is hidden in a code. Take care of its quality to get measurable results for website accessibility and drive traffic to the app.
-image: //cdn.codecarrot.net/images/developers-impact-seo-ranking.jpg
+image: https://cdn.codecarrot.net/images/developers-impact-seo-ranking.jpg
 ---
 
 When you think about SEO, probably the first thing that pops up in your mind is content. Indeed, the keywords you use on your website play an important role when comes to your site’s position in Google search results. However, it’s not the only thing you should focus on. A big potential for [improving SEO](/9-seo-tips-improve-website-performance-drive-traffic/) is hidden in your code. Taking care of its quality can bring measurable results for website accessibility and result in driving more traffic to your app.

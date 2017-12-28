@@ -6,7 +6,7 @@ date: 2017-09-02 12:00:00 +0530
 categories: business
 tags: business blogging photos
 description: Finding photos for your niche blog can be challenging. Here are four awesome (and free) places to search.
-image: //cdn.codecarrot.net/images/john-salzarulo-27847.jpg
+image: https://cdn.codecarrot.net/images/john-salzarulo-27847.jpg
 ---
 
 Whether you’re blogging for yourself or a client, I’m sure you know the importance of images.

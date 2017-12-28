@@ -6,7 +6,7 @@ date: 2017-11-16 05:35:00 +0530
 categories: tips
 tags: tips developers books programming learning
 description: But with so many programming books to choose from how do you know which ones to choose?
-image: //cdn.codecarrot.net/images/Programming-books-2.png
+image: https://cdn.codecarrot.net/images/Programming-books-2.png
 ---
 
 Whether you’re learning to code online, at a bootcamp, or in-person, there’s one supplementary resource that we recommend to accompany your learning: books. But with so many programming books to choose from (a Google search brings up over 12 million related results) how do you know which ones to choose?

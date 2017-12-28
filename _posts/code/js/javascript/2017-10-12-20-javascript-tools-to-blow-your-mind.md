@@ -6,7 +6,7 @@ date: 2017-10-12 00:00:10 +0530
 categories: code
 tags: coding javascript tools
 description: JavaScript started its life as a browser-based language used for adding interactivity to web pages, but it has evolved tremendously over the past few years.
-image: //cdn.codecarrot.net/images/ZtBAmJoRqrJwzUuP6eYFsG-970-80.jpg
+image: https://cdn.codecarrot.net/images/ZtBAmJoRqrJwzUuP6eYFsG-970-80.jpg
 ---
 
 JavaScript started its life as a browser-based language used for adding interactivity to web pages, but it has evolved tremendously over the past few years. Once Node.js enabled JavaScript to be run on the server, it opened up a world of possibilities, and more language innovations were inevitable.
@@ -17,7 +17,7 @@ Let’s take a look at some of my favourite JavaScript tips, tricks and tools. T
 
 ## 01. Write tomorrow's JavaScript today with Babel
 
-![Babel allows developers to write code using the latest version of JavaScript without sacrificing compatibility with older browsers](//cdn.codecarrot.net/images/babel-website-3453VSDerg34.png)
+![Babel allows developers to write code using the latest version of JavaScript without sacrificing compatibility with older browsers](https://cdn.codecarrot.net/images/babel-website-3453VSDerg34.png)
 
 *Babel allows developers to write code using the latest version of JavaScript without sacrificing compatibility with older browsers*
 
@@ -31,7 +31,7 @@ In ES2015, JavaScript introduced two new ways of declaring variables: **let** an
 
 The main benefit that both **let** and **const** deliver over **var** is that when using **var** your variables get scoped to the top of the current function, therefore making the variable available to the whole function. In contrast, **let** and **const** are scoped to their closest block, allowing developers to declare variables within **if**, **while**, **for** and even **switch** blocks, without worrying about the variable scope leaking outside of that context.
 
-![JavaScript is among the fastest growing programming languages](//cdn.codecarrot.net/images/o3UDAeR3Din8AZ6dnqgjEk-650-80.jpg)
+![JavaScript is among the fastest growing programming languages](https://cdn.codecarrot.net/images/o3UDAeR3Din8AZ6dnqgjEk-650-80.jpg)
 
 *JavaScript is among the fastest growing programming languages*
 
@@ -51,7 +51,7 @@ let doubleLong = (num) => {
 
 ## 04. Use promises to avoid a callback can of worms
 
-![Learn JavaScript for free and stay up to date with the latest news on JavaScript.com](//cdn.codecarrot.net/images/1-o9BJ_DkWpdASQV_A.png)
+![Learn JavaScript for free and stay up to date with the latest news on JavaScript.com](https://cdn.codecarrot.net/images/1-o9BJ_DkWpdASQV_A.png)
 
 *Learn JavaScript for free and stay up to date with the latest news on JavaScript.com*
 
@@ -100,7 +100,7 @@ Of course, we could combine all three concepts by multiplying all the numbers by
 
 ## 08. Take advantage of immutability
 
-![Take advantage of immutability](//cdn.codecarrot.net/images/0-AjTy1nZrZsjB.png)
+![Take advantage of immutability](https://cdn.codecarrot.net/images/0-AjTy1nZrZsjB.png)
 
 Data immutability is a common concept in functional languages. Immutable data allows programs to detect changes early on by comparing object references, instead of having to continually check and iterate through objects to see if we need to refresh the data on the screen.
 
@@ -108,7 +108,7 @@ Since, by default, objects and arrays are not immutable in JavaScript, there is 
 
 ## 09. Node.js: Avoid switching language context
 
-![This platform for developing server-side web apps has opened up a world of new possibilities](//cdn.codecarrot.net/images/1-Azz7YwzYDKFj8iIGZg.png)
+![This platform for developing server-side web apps has opened up a world of new possibilities](https://cdn.codecarrot.net/images/1-Azz7YwzYDKFj8iIGZg.png)
 
 *This platform for developing server-side web apps has opened up a world of new possibilities*
 
@@ -122,7 +122,7 @@ With over 300 thousand packages, npm (the node package manager) has become the b
 
 ## 11. NPM: Bring in frontend dependencies
 
-![This has grown into the world’s largest package manager](//cdn.codecarrot.net/images/1-DvIYrgwJ9EfAYv_nA.png)
+![This has grown into the world’s largest package manager](https://cdn.codecarrot.net/images/1-DvIYrgwJ9EfAYv_nA.png)
 
 *This has grown into the world’s largest package manager*
 
@@ -132,13 +132,13 @@ With the rise of the npm, an increasing number of developers are getting rid of 
 
 ## 12. Angular: One framework to rule them all
 
-![Angular: One framework to rule them all](//cdn.codecarrot.net/images/1-LbKGyab-9iR-rvnzPg.png)
+![Angular: One framework to rule them all](https://cdn.codecarrot.net/images/1-LbKGyab-9iR-rvnzPg.png)
 
 Angular is a JavaScript framework maintained by Google with the help of the open-source community. The first version of the framework was based on an MVClike pattern, cleaning up a lot of the clutter we saw in larger codebases that relied on the jQuery-style of programming. The newest version, Angular 2, has taken things to the next level, transforming Angular into a full platform that allows development of not only web UIs, but also native mobile development and more!
 
 ## 13. React: The view library that shook the UI world
 
-![This JavaScript framework is maintained by a team at Google with the help of the open-source community, and the latest version makes it suitable for native mobile development](//cdn.codecarrot.net/images/1-Azz7YwzYYR6Fj8iIGZg.png)
+![This JavaScript framework is maintained by a team at Google with the help of the open-source community, and the latest version makes it suitable for native mobile development](https://cdn.codecarrot.net/images/1-Azz7YwzYYR6Fj8iIGZg.png)
 
 *This JavaScript framework is maintained by a team at Google with the help of the open-source community, and the latest version makes it suitable for native mobile development*
 
@@ -146,7 +146,7 @@ React is a view library. This might sound small and innocent, but don’t undere
 
 ## 14. Ember: What if Ruby on Rails spoke JavaScript?
 
-![Opinionated framework Ember.js has the world’s cutest framework mascot: Tomster](//cdn.codecarrot.net/images/4f89-b0b4-ef7fce53f.png)
+![Opinionated framework Ember.js has the world’s cutest framework mascot: Tomster](https://cdn.codecarrot.net/images/4f89-b0b4-ef7fce53f.png)
 
 *Opinionated framework Ember.js has the world’s cutest framework mascot: Tomster*
 
@@ -176,7 +176,7 @@ Did you know that semicolons are (mostly) optional in JavaScript? The official J
 
 ## 20. Have a strict-typed codebase
 
-![A project by Facebook, Flow uses type inference to find bugs](//cdn.codecarrot.net/images/1-LbKGyabN69iR-rvnzPg.png)
+![A project by Facebook, Flow uses type inference to find bugs](https://cdn.codecarrot.net/images/1-LbKGyabN69iR-rvnzPg.png)
 
 *A project by Facebook, Flow uses type inference to find bugs*
 

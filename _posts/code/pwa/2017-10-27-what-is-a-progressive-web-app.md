@@ -6,7 +6,7 @@ date: 2017-10-27 01:59:00 +0530
 categories: code
 tags: coding developer progressive-web-application pwa
 description: By now, you’ve probably heard that Progressive Web Apps are the future of all mankind. They’ll bring world peace, end hunger, save the rainbows and unicorns, bring balance to the force, and a whole lot more.
-image: //cdn.codecarrot.net/images/what-is-pwa.png
+image: https://cdn.codecarrot.net/images/what-is-pwa.png
 ---
 
 By now, you’ve probably heard that Progressive Web Apps are the future of all mankind. They’ll bring world peace, end hunger, save the rainbows and unicorns, bring balance to the force, and a whole lot more. In the process, they might even push the mobile web forward, bring parity to web and native apps, and help mobile developers reach more users beyond the confines of the app stores.

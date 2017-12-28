@@ -6,7 +6,7 @@ date: 2017-10-18 01:29:00 +0530
 categories: tips
 tags: devtools sublime sublime-text chrome google google-chrome tips
 description: Your existing knowledge of features in Sublime Text and apply them to another powerful tool in your arsenal — the Chrome DevTools.
-image: //cdn.codecarrot.net/images/1-RXuLuUJs_JxzA7U_vZgNqQ.png
+image: https://cdn.codecarrot.net/images/1-RXuLuUJs_JxzA7U_vZgNqQ.png
 ---
 
 ## Introduction
@@ -17,7 +17,7 @@ Thanks to several modern tools including DevTools, JSBin and Codepen relying on 
 
 *Let’s assume for the rest of this write-up that we’ll primarily be working inside the DevTools Sources panel — a feature which, when paired with [Workspaces](//developer.chrome.com/devtools/docs/workspaces) gives you a powerful in-browser editor.*
 
-![The Sources panel in Chrome DevTools can be used as a powerful editor and companion during debugging](//cdn.codecarrot.net/images/1-RXuLuUJs_JxzA7U_vZgNqQ.png)
+![The Sources panel in Chrome DevTools can be used as a powerful editor and companion during debugging](https://cdn.codecarrot.net/images/1-RXuLuUJs_JxzA7U_vZgNqQ.png)
 
 *The Sources panel in Chrome DevTools can be used as a powerful editor and companion during debugging*
 
@@ -27,14 +27,14 @@ Thanks to several modern tools including DevTools, JSBin and Codepen relying on 
 
 Very similar to Sublime, DevTools has a Goto “Anything” dialog. This can take you to a specific file, a line number or a method definition. You can bring up the Goto “Anything” search using Ctrl/Cmd + P. This lets you search/filter through files just by starting to type in the files name. To search for a method — such as a JavaScript **method or a CSS selector**, use Ctrl/Cmd + Shift + P and start typing in the method name.
 
-![Goto Anything](//cdn.codecarrot.net/images/1-v595nTQXCOB_FOzmaYWtrg.gif)
+![Goto Anything](https://cdn.codecarrot.net/images/1-v595nTQXCOB_FOzmaYWtrg.gif)
 
 ### Goto Line in file
 
 `Ctrl` + `G` will toggle a dialog allowing you to jump to a specific line in a file. If you wish to go to a line in the current file, bring up the dialog and type in a colon followed by the line number you are interested in. For example, :25 will take you to line 25. If you wish to go to a line in a different file, type in the file name, a colon and then the line number (e.g app.js:25).
 
 
-![Goto Line in file](//cdn.codecarrot.net/images/1-PBHOVst6HsDfLdfFU7QwDA.gif)
+![Goto Line in file](https://cdn.codecarrot.net/images/1-PBHOVst6HsDfLdfFU7QwDA.gif)
 
 ### Go to the start or end of a line
 
@@ -64,7 +64,7 @@ A caret is that blinking line that indicates where you’re typing at the moment
 
 You can start playing with carets by opening any supported file in Sources, then selecting each line by holding down `Cmd`/`Alt` and clicking wherever you would like to add a new caret.
 
-![Adding multiple Caret](//cdn.codecarrot.net/images/1-4svsSOFNREo3PYlqAIHMcw.gif)
+![Adding multiple Caret](https://cdn.codecarrot.net/images/1-4svsSOFNREo3PYlqAIHMcw.gif)
 
 For example, if you have multi-line JavaScript that needs to be prefixed, edited or wrapped in quotes, multiple carets can make this a breeze.
 The following steps will quickly get every line selected:
@@ -79,13 +79,13 @@ You should now have a cursor somewhere on each line.
 
 Use `Cmd` + `←` ( `Alt` + `←` for Windows/Linux) to bring all cursors to the front of the line, and then hold down `Option` while using the arrow keys to jump by word. When in front of the file name, simply type in your prefix and you’re done!
 
-![Adding multiple Carets](//cdn.codecarrot.net/images/1-zWyHDztwW8K6h6ocgo4RBQ.gif)
+![Adding multiple Carets](https://cdn.codecarrot.net/images/1-zWyHDztwW8K6h6ocgo4RBQ.gif)
 
 **Wrap with Quotes or Brackets**
 
 Highlight the words with `Cmd` + `Shift` + `←` ( `Ctrl` + `Shift` + `←` for Windows/Linux) and type an opening quote or bracket. Dev tools will wrap each word in the selected quote or bracket.
 
-![Wrap with Quotes or Brackets](//cdn.codecarrot.net/images/1-uFxPo9AInxze4-VAOQZ23w.gif)
+![Wrap with Quotes or Brackets](https://cdn.codecarrot.net/images/1-uFxPo9AInxze4-VAOQZ23w.gif)
 
 **Column selection**
 
@@ -97,13 +97,13 @@ Carets can also be used for highlighting specific words. Select a word in your e
 
 Now use `Cmd` + `D` (or `Alt` + `D`) and DevTools will highlight and place multiple cursors on the matching words. This is particularly useful during batch rename operations. Hitting D a few more time while still holding ⌘ selects the next instance of the selection found. By hitting ⌘, then D three times, you can select three iterations of the text.
 
-![Carets and matching words](//cdn.codecarrot.net/images/1-zsYjnj7I6Mi1WF1oy_lyYQ.gif)
+![Carets and matching words](https://cdn.codecarrot.net/images/1-zsYjnj7I6Mi1WF1oy_lyYQ.gif)
 
 **Jump to matching brackets**
 
 When working with non-complex pieces of code, you might find it tricky to find corresponding opening and closing brackets with your naked eye. `Ctrl` + `M` allows you to instantly move your cursor there. Using it twice will jump to its opening or closing counterpart.
 
-![Jump to matching brackets](//cdn.codecarrot.net/images/1-QdrkPBShYAHrDhr5UElG1A.gif)
+![Jump to matching brackets](https://cdn.codecarrot.net/images/1-QdrkPBShYAHrDhr5UElG1A.gif)
 
 **Indentation**
 
@@ -112,7 +112,7 @@ We know the importance of indentation. It helps keep our code readable and easy 
 Indent text: `Tab`
 Unindent text: `Shift` + `Tab`
 
-![Indentation](//cdn.codecarrot.net/images/1-_QkNVE12OJjcAs3ejnlVqw.gif)
+![Indentation](https://cdn.codecarrot.net/images/1-_QkNVE12OJjcAs3ejnlVqw.gif)
 
 ### Quickly comment your code
 
@@ -123,7 +123,7 @@ If you need to comment/uncomment a piece of code, the same shortcuts you would u
 
 This works across all languages and works pretty well with lines or whole selections.
 
-![Quickly comment your code](//cdn.codecarrot.net/images/1-zeNecjKCY0sSTVZ1ZFHaPw.gif)
+![Quickly comment your code](https://cdn.codecarrot.net/images/1-zeNecjKCY0sSTVZ1ZFHaPw.gif)
 
 ### Toggle Autocompletion
 
@@ -131,7 +131,7 @@ When typing values in the DevTools Sources panel, you’re presented with autoco
 
 `Ctrl` + `Space`
 
-![Toggle Autocompletion](//cdn.codecarrot.net/images/1-LMoNl681Off06TxYdZcWiA.gif)
+![Toggle Autocompletion](https://cdn.codecarrot.net/images/1-LMoNl681Off06TxYdZcWiA.gif)
 
 ### Cut/Copy/Paste/Undo/Redo
 
@@ -155,7 +155,7 @@ In the Sources pane, you can select a numeric value and easily increment or decr
 **Increment CSS unit by 10:** `Option` + `⇟`
 **Decrement CSS unit by 10:** `Option` + `⇟`
 
-![Increment and Decrement values](//cdn.codecarrot.net/images/1-el4vmdu2MAwwZw5o9pyG0w.gif)
+![Increment and Decrement values](https://cdn.codecarrot.net/images/1-el4vmdu2MAwwZw5o9pyG0w.gif)
 
 The Styles pane also supports shortcuts for incrementing/decrementing values.
 
@@ -168,25 +168,25 @@ The Styles pane also supports shortcuts for incrementing/decrementing values.
 **Increment by 0.1:** ⌥↑
 **Decrement by 0.1:** ⌥↓
 
-![Increase and Decrease values](//cdn.codecarrot.net/images/1-1UHsuMbrljOwdCrgQ84g6w.gif)
+![Increase and Decrease values](https://cdn.codecarrot.net/images/1-1UHsuMbrljOwdCrgQ84g6w.gif)
 
 ## Cycle through editing locations
 
 DevTools can now also preserve your position cursor history in Sources. This lets you cycle through your previous editing locations using **Alt- and Alt+**:
 
-![Cycle through editing locations](//cdn.codecarrot.net/images/1-ccH3zKqBHkwq445ijzSXsw.gif)
+![Cycle through editing locations](https://cdn.codecarrot.net/images/1-ccH3zKqBHkwq445ijzSXsw.gif)
 
 ## Shortcuts page
 
 If you’ve found the above shortcuts helpful, you can pull most of them up via the DevTools [settings menu](//developer.chrome.com/devtools/docs/settings). It looks a little like this:
 
-![Shortcuts page](//cdn.codecarrot.net/images/1-ruU4iOfl63bDdOcHf0t6Hg.png)
+![Shortcuts page](https://cdn.codecarrot.net/images/1-ruU4iOfl63bDdOcHf0t6Hg.png)
 
 ## Source Settings
 
 The Settings page also allows you to configure how the editor behaves. This includes customizing the default **indendation**, toggling bracket matching, autocompletion and the display of whitespace characters.
 
-![Source Settings](//cdn.codecarrot.net/images/1-kNSTfEe7h8FJUgJ8eFd6bA.png)
+![Source Settings](https://cdn.codecarrot.net/images/1-kNSTfEe7h8FJUgJ8eFd6bA.png)
 
 ## Themes
 Similar to your editor, the DevTools UI can also be customized (the theming for the syntax highlighting, the colors across each of the panels, the look of UI elements like tabs). Some of these themes make intelligent use of color to highlight the key pieces of UI in DevTools without taking your focus away from the code.
@@ -195,7 +195,7 @@ Some of our choice picks for DevTools themes are the following:
 * [//github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme](//github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme)
 * [//github.com/xero/greybeard-devtools](//github.com/xero/greybeard-devtools)
 
-![The ZeroDarkMatrix theme](//cdn.codecarrot.net/images/1-0v6KQTbisUbn_kF9MFWRxw.png)
+![The ZeroDarkMatrix theme](https://cdn.codecarrot.net/images/1-0v6KQTbisUbn_kF9MFWRxw.png)
 
 *The ZeroDarkMatrix theme*
 
@@ -210,7 +210,7 @@ Some of our choice picks for DevTools themes are the following:
 
 DevTools also supports a few nice debugging helpers that can further augment your daily editing & debugging workflow. For instance, while debugging you can preview the inline values of JavaScript variables at the current point in time. Super powerful.
 
-![Display values inline while you’re debugging (see the blocks highlighted in orange). Enabled via Settings > Sources > Display variable values inline while debugging](//cdn.codecarrot.net/images/1-8eBfaiXNPUu8NK2qKspaLA.png)
+![Display values inline while you’re debugging (see the blocks highlighted in orange). Enabled via Settings > Sources > Display variable values inline while debugging](https://cdn.codecarrot.net/images/1-8eBfaiXNPUu8NK2qKspaLA.png)
 
 Display values inline while you’re debugging (see the blocks highlighted in orange). Enabled via Settings > Sources > Display variable values inline while debugging
 

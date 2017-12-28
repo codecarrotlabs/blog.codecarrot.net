@@ -6,7 +6,7 @@ date: 2017-11-10 00:19:00 +0530
 categories: code
 tags: developer developer-tools dev-tools console coding
 description: Learn how to use the developer tools console to debug your front-end web applications.
-image: //cdn.codecarrot.net/images/alessandro_pilastrini_terminal_icon.png
+image: https://cdn.codecarrot.net/images/alessandro_pilastrini_terminal_icon.png
 ---
 
 The developer tools console is one of the most powerful tools available to you when it comes to debugging your front-end web applications. The console has an API that provides a number of methods that make debugging easier. It’s not uncommon to see developers using `console.log()` or `console.dir()` to investigate problems; but the developer tools console has a lot more to offer.
@@ -23,13 +23,13 @@ There are a number of different ways that you can open your browser’s develope
 
 You can also launch the developer tools using a keyboard shortcut. The shortcut for most browsers on Mac is `Alt` + `Command` + `I`, for Windows you can use `Ctrl` + `Shift` + `I`.
 
-![The developer tools console in Chrome](//cdn.codecarrot.net/images/34FDerf3-dev-tools-console.png)
+![The developer tools console in Chrome](https://cdn.codecarrot.net/images/34FDerf3-dev-tools-console.png)
 
 *The developer tools console in Chrome.*
 
 Once you have the developer tools open you can switch to the console by clicking the **Console** tab at the top of the window.
 
-![The 'Elements' tab with a console pane at the bottom.](//cdn.codecarrot.net/images/34rDSFewf-dev-tools-icon.png)
+![The 'Elements' tab with a console pane at the bottom.](https://cdn.codecarrot.net/images/34rDSFewf-dev-tools-icon.png)
 
 *The ‘Elements’ tab with a console pane at the bottom.*
 
@@ -51,7 +51,7 @@ console.log('Hello World!');
 
 You should see that the test *Hello World!* is printed in the console *(as shown below)*.
 
-![Using console.log() in the Chrome Dev Tools Console](//cdn.codecarrot.net/images/43DSFdsfsdf34-console-log-hello-world.png)
+![Using console.log() in the Chrome Dev Tools Console](https://cdn.codecarrot.net/images/43DSFdsfsdf34-console-log-hello-world.png)
 
 *Using console.log() in the Chrome Dev Tools Console*
 
@@ -71,7 +71,7 @@ If you list multiple objects they will be concatenated into a single, space-deli
 console.log('This is a string', { foo: 'bar' }, { bar: 'foo' });
 ```
 
-![Using console.log() with multiple objects](//cdn.codecarrot.net/images/34fsdFW34R-console-log-multi-object.png)
+![Using console.log() with multiple objects](https://cdn.codecarrot.net/images/34fsdFW34R-console-log-multi-object.png)
 
 *Using console.log() with multiple objects*
 
@@ -83,7 +83,7 @@ var color = 'red';
 console.log('%d %s balloons', number, color);
 ```
 
-![Using console.log() with format specifiers](//cdn.codecarrot.net/images/43SDFsdfe3-console-log-format-specifiers.png)
+![Using console.log() with format specifiers](https://cdn.codecarrot.net/images/43SDFsdfe3-console-log-format-specifiers.png)
 
 *Using console.log() with format specifiers*
 
@@ -103,7 +103,7 @@ Using the `%c` format specifier allows you to style the console output.
 console.log('%cThis text is styled!', 'color: #86CC00; background-color: blue; font-size: 20px; padding: 3px;')
 ```
 
-![Using console.log() with styled output](//cdn.codecarrot.net/images/34sdfDSF43w-console-log-styled.png)
+![Using console.log() with styled output](https://cdn.codecarrot.net/images/34sdfDSF43w-console-log-styled.png)
 
 *Using console.log() with styled output*
 
@@ -120,7 +120,7 @@ console.assert(count > 10, 'count is not larger than 10');
 
 The expression here checks to see if the `count` variable is larger than 10. If it’s not, the message ‘count is not larger than 10’ is printed in the console.
 
-![Using console.assert()](//cdn.codecarrot.net/images/34DF34rsd-console-assert.png)
+![Using console.assert()](https://cdn.codecarrot.net/images/34DF34rsd-console-assert.png)
 
 *Using console.assert()*
 
@@ -163,7 +163,7 @@ for (var i = 0; i < 3; i++) {
 
 This code will call the `clickHandler()` method three times.
 
-![Using console.count() to count function calls](//cdn.codecarrot.net/images/34dsRr43-console-count.png)
+![Using console.count() to count function calls](https://cdn.codecarrot.net/images/34dsRr43-console-count.png)
 
 *Using console.count() to count function calls*
 
@@ -181,7 +181,7 @@ The `console.dir()` method will print a JavaScript representation of the supplie
 console.dir(document.body);
 ```
 
-![Using console.dir() to examine an HTML element](//cdn.codecarrot.net/images/3Ded23-console-dir.png)
+![Using console.dir() to examine an HTML element](https://cdn.codecarrot.net/images/3Ded23-console-dir.png)
 
 *Using console.dir() to examine an HTML element*
 
@@ -195,7 +195,7 @@ console.dirxml(document.body);
 
 When used with a HTML element, the output is equivalent to using `console.log()`.
 
-![Using console.dirxml()](//cdn.codecarrot.net/images/3SDfds34-console-dirxml.png)
+![Using console.dirxml()](https://cdn.codecarrot.net/images/3SDfds34-console-dirxml.png)
 
 *Using console.dirxml()*
 
@@ -215,7 +215,7 @@ console.error('Page not found (404)');
 
 This method is really useful when writing error handlers.
 
-![Logging console errors with console.error()](//cdn.codecarrot.net/images/3DSwer3-console-error.png)
+![Logging console errors with console.error()](https://cdn.codecarrot.net/images/3DSwer3-console-error.png)
 
 *Logging console errors with console.error()*
 
@@ -229,7 +229,7 @@ You can specify an optional title to make it easier to find the group in the con
 console.group('Fetching Data');
 ```
 
-![Grouping console messages with console.group()](//cdn.codecarrot.net/images/23sSD3-console-group.png)
+![Grouping console messages with console.group()](https://cdn.codecarrot.net/images/23sSD3-console-group.png)
 
 *Grouping console messages with console.group()*
 
@@ -260,7 +260,7 @@ console.groupEnd();
 console.log('Continuing...');
 ```
 
-![Grouping log messages with console.groupCollapsed()](//cdn.codecarrot.net/images/23DSF32we-console-group-collapsed.png)
+![Grouping log messages with console.groupCollapsed()](https://cdn.codecarrot.net/images/23DSF32we-console-group-collapsed.png)
 
 *Grouping log messages with console.groupCollapsed()*
 
@@ -274,7 +274,7 @@ console.info('Hello CodeCarrot');
 
 Note the blue info icon to the left of the log message in the image below.
 
-![Logging info messages with console.info()](//cdn.codecarrot.net/images/sdf23FSD-console-info.png)
+![Logging info messages with console.info()](https://cdn.codecarrot.net/images/sdf23FSD-console-info.png)
 
 *Logging info messages with console.info()*
 
@@ -296,7 +296,7 @@ function animationUI() {
 
 This example shows how you might use the `profile()` method to create a new CPU profile for the `animateUI()` function.
 
-![Creating a JavaScript CPU Profile with console.profile()](//cdn.codecarrot.net/images/dsf324DS3-console-profile.png)
+![Creating a JavaScript CPU Profile with console.profile()](https://cdn.codecarrot.net/images/dsf324DS3-console-profile.png)
 
 *Creating a JavaScript CPU Profile with console.profile()*
 
@@ -314,7 +314,7 @@ var data = [
 console.table(data);
 ```
 
-![Creating interactive tables with console.table()](//cdn.codecarrot.net/images/34DSFwwe32-console-table.png)
+![Creating interactive tables with console.table()](https://cdn.codecarrot.net/images/34DSFwwe32-console-table.png)
 
 *Creating interactive tables with console.table()*
 
@@ -338,7 +338,7 @@ console.time('Draw frame');
 console.timeEnd('Draw frame');
 ```
 
-![Timing code execution with console.time()](//cdn.codecarrot.net/images/34DSFwf253-console-time.png)
+![Timing code execution with console.time()](https://cdn.codecarrot.net/images/34DSFwf253-console-time.png)
 
 *Timing code execution with console.time()*
 
@@ -356,7 +356,7 @@ console.timeline('Google Search');
 console.timelineEnd('Google Search');
 ```
 
-![Creating timelines in Chrome with console.timeline()](//cdn.codecarrot.net/images/34ef78ijg-console-timeline.png)
+![Creating timelines in Chrome with console.timeline()](https://cdn.codecarrot.net/images/34ef78ijg-console-timeline.png)
 
 *Creating timelines in Chrome with console.timeline()*
 
@@ -370,7 +370,7 @@ console.timelineEnd('Google Search');
 
 You can manually add events to the timeline using the `console.timeStamp()` method. This method can be passed a label to help you identify the marker in the developer tools.
 
-![Creating timeline markers with console.timeStamp()](//cdn.codecarrot.net/images/fgh67JH6-console-timestamp.png)
+![Creating timeline markers with console.timeStamp()](https://cdn.codecarrot.net/images/fgh67JH6-console-timestamp.png)
 
 *Creating timeline markers with console.timeStamp()*
 
@@ -388,7 +388,7 @@ The `console.trace()` method will print a stack trace for the point at which the
 console.trace();
 ```
 
-![Using console.trace() to print a stack trace](//cdn.codecarrot.net/images/87jhjJYu67-console-trace.png)
+![Using console.trace() to print a stack trace](https://cdn.codecarrot.net/images/87jhjJYu67-console-trace.png)
 
 *Using console.trace() to print a stack trace*
 
@@ -400,7 +400,7 @@ Finally, the `console.warn()` method will log a message to the console with a wa
 console.warn(‘This is a warning.’);
 ```
 
-![Logging warning messages with console.warn()](//cdn.codecarrot.net/images/67uygjYTu6-console-warn.png)
+![Logging warning messages with console.warn()](https://cdn.codecarrot.net/images/67uygjYTu6-console-warn.png)
 
 *Logging warning messages with console.warn()*
 

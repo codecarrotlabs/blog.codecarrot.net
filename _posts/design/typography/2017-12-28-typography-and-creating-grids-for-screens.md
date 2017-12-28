@@ -6,7 +6,7 @@ date: 2017-12-28 01:15:48 +0530
 categories: design
 tags: designing typography fonts grids
 description: Grids are an essential part of a designer's arsenal, creating a neatly-crafted, equal system for arranging content in the space of a screen.
-image: //cdn.codecarrot.net/images/typography-grids.gif
+image: https://cdn.codecarrot.net/images/typography-grids.gif
 ---
 
 At the core of typography is the critical task of setting type in grids. A grid brings order and hierarchy to a page—it lives at the center of any piece of design. It can influence every aspect of the design, like image ratios, measure, order of information, and the remainder of the layout.
@@ -32,13 +32,13 @@ A grid is made up of 2 parts: the column and the gutter.
 
 Gutters are technically made up of 2 margins. An example: With a 30px gutter, there are 15 pixels on either side of the entire grid from the outer columns.
 
-![Typography Grids](//cdn.codecarrot.net/images/typography-grids-1-1.png)
+![Typography Grids](https://cdn.codecarrot.net/images/typography-grids-1-1.png)
 
 ## To baseline or not?
 
 Maintaining a baseline when designing for the screen is next to impossible. It requires total control over the content to a degree that isn’t maintainable for most user interfaces or websites. With this in mind, I usually focus more on ensuring a consistent vertical rhythm rather than being strict about a baseline grid.
 
-![Typography Grids 2](//cdn.codecarrot.net/images/typography-grids-1.png)
+![Typography Grids 2](https://cdn.codecarrot.net/images/typography-grids-1.png)
 
 If baselines are easy to maintain in print, why are they difficult to maintain for the screen? Because print is static and user interfaces are dynamic. It’s too difficult to enforce content guidelines or to estimate the sizes of media and content that people will add to a page. Even services like Instagram would struggle to maintain a baseline grid.
 
@@ -54,7 +54,7 @@ Your grid for the screen should consider a number of things:
 
 A combination of these 3 allows you to come up with an idea grid. When designing for the web, I typically create a grid that’s around 1200px wide with 30px gutters, as this suits the size of type I tend to use for the screen and the kind of whitespace necessary for a project—plus, it looks great on the monitors we use today.
 
-![Typography Grids 3](//cdn.codecarrot.net/images/typography-grids-2.png)
+![Typography Grids 3](https://cdn.codecarrot.net/images/typography-grids-2.png)
 
 So, figure out what the answer is to these requirements, and figure out a grid that’s right for you. Applications like Photoshop and Sketch have tools that let you create a grid and start practicing, so jump into these to find a perfect width for your project. Always pick a grid that can break down into different sizes, or one that will have flexibility to scale up or down in size.
 
@@ -76,7 +76,7 @@ Don’t ignore the versatility of the grid. Just because the edge of a column is
 
 For example, imagine you have a block of text, and to the right of it you have a sidebar that contains some links. If the text block went all the way up to the edge of the sidebar, those 2 blocks would feel related. As designers, we need to communicate to users that these 2 types of content aren’t necessarily related. An easy way to do this is to move them further apart! This breaks the grid a little, but it improves the experience.
 
-![Typography Grids 4](//cdn.codecarrot.net/images/typography-grids-3.png)
+![Typography Grids 4](https://cdn.codecarrot.net/images/typography-grids-3.png)
 
 Breaking the grid is a great way to draw the reader’s eye to content or to a promotional area. When I’m designing a hero area, for example, I try to do something that disrupts the grid. This prevents that area from blending into the flow of the page, making the user more likely to engage with that area.
 
@@ -84,4 +84,4 @@ Breaking the grid is a great way to draw the reader’s eye to content or to a p
 
 Typography has a massive impact on how a design is perceived. Make sure it’s one of the highest priorities on a project, and spend plenty of time choosing the right font and setting it correctly to bring visual harmony to a page.
 
-[![Designing with type](//cdn.codecarrot.net/images/designing-with-type.png)](//www.instamojo.com/codecarrot/designing-with-type/)
+[![Designing with type](https://cdn.codecarrot.net/images/designing-with-type.png)](//www.instamojo.com/codecarrot/designing-with-type/)

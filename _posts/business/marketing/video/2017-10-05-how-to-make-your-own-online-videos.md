@@ -6,7 +6,7 @@ date: 2017-10-05 13:27:00 +0530
 categories: business
 tags: business videos marketing
 description: You don't need to pay professional prices to do video marketing. Here's how you can make your own videos for free and in a short amount of time.
-image: //cdn.codecarrot.net/images/steven-van-276631.jpg
+image: https://cdn.codecarrot.net/images/steven-van-276631.jpg
 ---
 
 When it comes to making videos to promote your business—to engage your audience, to showcase your products—professional quality usually demands professional prices.
@@ -95,7 +95,7 @@ Giphy is also a great place to find cinemagraphs, which are essentially photos w
 
 You should take advantage of the fact that GIFs loop endlessly and can be used to create engaging memes to complement your social media strategy.
 
-![Throwing money](//cdn.codecarrot.net/images/throwing-money.gif)
+![Throwing money](https://cdn.codecarrot.net/images/throwing-money.gif)
 
 ### [Power Director](//play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01&hl=en): A Robust Video Editor For Your Phone
 

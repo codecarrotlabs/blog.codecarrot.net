@@ -6,7 +6,7 @@ date: 2017-12-29 15:59:12 +0530
 categories: design
 tags: design design-sprint business
 description: Design Sprint will give you answers to strategic business questions. Our clients confirm its effectiveness and enumerate its benefits. What are they?
-image: //cdn.codecarrot.net/images/DS-cc-36.jpg
+image: https://cdn.codecarrot.net/images/DS-cc-36.jpg
 ---
 
 There are times when we face big problems and hard decisions in our businesses. In fact, starting and running a company is a constant struggle to win new clients, increase awareness, respond to customer needs and successfully [launch products to the market](/how-a-product-design-sprint-can-help-you-launch-a-better-product). These challenges often raise questions on how it should be done properly. Having tested numerous solutions we’ve adopted [Design Sprint](//www.codecarrot.net/services/design-sprint.html), a tool initially developed within Google, which will give you answers to these strategic questions. Our clients confirm its effectiveness and enumerate its many benefits. We picked five universal advantages of Design Sprint to give you an idea how your business can profit from adopting this framework.

@@ -6,7 +6,7 @@ date: 2017-08-28 03:00:00 +0530
 categories: project-management
 tags: project-management teamwork communication collaboration
 description: A project fails or succeeds based on stakeholders' engagement and communication. Learn how to make sure
-image: //cdn.codecarrot.net/images/rawpixel-com-250087.jpg
+image: https://cdn.codecarrot.net/images/rawpixel-com-250087.jpg
 ---
 
 Effective teamwork won’t happen without a common ground established among all members. Rules and goals that everyone agree to respect are key to a successful cooperation in any kind of project.

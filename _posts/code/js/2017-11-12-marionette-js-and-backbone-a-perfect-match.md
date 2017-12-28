@@ -6,12 +6,12 @@ date: 2017-11-12 14:30:00 +0530
 categories: code
 tags: coding backbone marionette js javascript
 description: Despite its popularity, backbone.js has many drawbacks. With a steep learning curve, shortage of opinionated patterns, lots of boilerplate code, and poor memory management/cleanup strategies, backbone usage can be discouraging. In this article, I will focus on how to refactor a backbone application using marionette.js —a framework that can mitigate many of backbone’s shortcomings.
-image: //cdn.codecarrot.net/images/harli-marten-135841.jpg
+image: https://cdn.codecarrot.net/images/harli-marten-135841.jpg
 ---
 
 Despite its popularity, backbone.js has many drawbacks. With a steep learning curve, shortage of opinionated patterns, lots of boilerplate code, and poor memory management/cleanup strategies, backbone usage can be discouraging. In this article, I will focus on how to refactor a backbone application using marionette.js —a framework that can mitigate many of backbone’s shortcomings.
 
-![1425999034-tumblr_inline_mr7fhuo3u61qz4rgp.png](//cdn.codecarrot.net/images/1425999034-tumblr_inline_mr7fhuo3u61qz4rgp.png)
+![1425999034-tumblr_inline_mr7fhuo3u61qz4rgp.png](https://cdn.codecarrot.net/images/1425999034-tumblr_inline_mr7fhuo3u61qz4rgp.png)
 
 Despite its popularity, [backbone.js](//backbonejs.org/) has many drawbacks. With a steep learning curve, shortage of opinionated patterns, lots of boilerplate code, and poor memory management/cleanup strategies, backbone usage can be discouraging. In this article, I will focus on how to refactor a backbone application using [marionette.js](//marionettejs.com/) — a framework that can mitigate many of backbone’s shortcomings.
 

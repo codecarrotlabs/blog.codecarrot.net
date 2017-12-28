@@ -6,7 +6,7 @@ date: 2017-10-05 20:00:00 +0530
 categories: business
 tags: business customer deal
 description: Do you get email once-in-awhile, from customer support email and getting angry (and slightly abusive), always tempting to lash back in anger.
-image: //cdn.codecarrot.net/images/191340-636190607761910321-16x9.jpg
+image: https://cdn.codecarrot.net/images/191340-636190607761910321-16x9.jpg
 ---
 
 Copping complaints from customers is all part of being in business. But if they start turning feral, dishing out physical or verbal abuse, it's time to take charge and tame the beast.
@@ -17,7 +17,7 @@ Being physically abused by a customer might be the stuff of headlines, but verba
 
 Fear, frustration or stress can all tip customers over the edge. Add drugs or alcohol into the mix and you had better look out.
 
-![Sticking your tongue out is not the answer](//cdn.codecarrot.net/images/1416335415947.jpg)
+![Sticking your tongue out is not the answer](https://cdn.codecarrot.net/images/1416335415947.jpg)
 
 *Sticking your tongue out is not the answer.*
 

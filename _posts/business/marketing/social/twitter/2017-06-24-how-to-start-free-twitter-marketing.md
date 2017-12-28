@@ -6,7 +6,7 @@ date: 2017-06-24 12:00:00 +0530
 categories: business
 tags: twitter marketing brand online communication audience
 description: Twitter makes it easy for you to engage directly with the target audience. It helped the online ecosystem transform brand communication into brand conversion.
-image: //cdn.codecarrot.net/images/start-free-twitter-marketing.jpg
+image: https://cdn.codecarrot.net/images/start-free-twitter-marketing.jpg
 ---
 
 Nearly 313 million users are active on Twitter every month. With real time engagement, **Twitter makes it easy for you to engage directly with the target audience.** Twitter helped the online ecosystem transform brand communication into brand conversion.

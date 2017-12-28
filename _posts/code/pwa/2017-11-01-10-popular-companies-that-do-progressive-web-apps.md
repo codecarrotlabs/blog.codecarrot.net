@@ -6,7 +6,7 @@ date: 2017-11-01 19:10:00 +0530
 categories: code
 tags: coding pwa progressive-web-app
 description: 30% Speed Gain, 88% Performance Improvement, 5x Lower Data Usage and More. These Companies Have Already
-image: //cdn.codecarrot.net/images/pexels-photo-541522.jpeg
+image: https://cdn.codecarrot.net/images/pexels-photo-541522.jpeg
 ---
 
 76% increase in conversions, 30% speed gain,  88% performance improvement, five times lower data usage, and 23% increase in the number of mobile searches. These benefits have been enjoyed by the major players in the global digital economy, including Twitter, Washington Post, Forbes and Virgin America. How? They adopted PWAs in their applications.
@@ -17,7 +17,7 @@ Progressive Web Apps (PWAs) are transforming the practices and standards of the 
 
 ## Alibaba
 
-![Alibaba.jpg](//cdn.codecarrot.net/images/Alibaba.jpg)
+![Alibaba.jpg](https://cdn.codecarrot.net/images/Alibaba.jpg)
 
 With 635,091 buyers from more than 150 countries trading on its platform and serving over 200 countries and regions, Alibaba is the world's largest B2B  marketplace catering for manufacturers, suppliers, importers, and exporters.
 
@@ -27,7 +27,7 @@ Features such as "Add to HomeScreen" led to a monthly increase of active user ra
 
 ## Fandango
 
-![fandango_logo_detail.jpg](//cdn.codecarrot.net/images/fandango_logo_detail.jpg)
+![fandango_logo_detail.jpg](https://cdn.codecarrot.net/images/fandango_logo_detail.jpg)
 
 Developers working for Fandango have a long history of agile development, continuous integration, and weekly releases. Moves toward mobile UX integration began with a scheme enabling Twitter users to buy tickets with one click. Moreover, the company is testing a system where a smartphone image can serve as a digital movie ticket.
 
@@ -35,7 +35,7 @@ The Fandango Progressive Web App achieves a 30% speed gain over the loading of i
 
 ## Flipkart
 
-![1432819243-7411.jpg](//cdn.codecarrot.net/images/1432819243-7411.jpg)
+![1432819243-7411.jpg](https://cdn.codecarrot.net/images/1432819243-7411.jpg)
 
 After adopting an app-only strategy in 2015, Flipkart (India's biggest eCommerce site) turned to Progressive Web App technology as a way of enabling visitors to work offline, access the mobile web instantly, and increase their engagement.
 
@@ -43,7 +43,7 @@ Their Flipkart Lite app has three times lower data usage than its native mobile 
 
 ## Forbes
 
-![Forbes_logo.svg.png](//cdn.codecarrot.net/images/Forbes_logo.svg.png)
+![Forbes_logo.svg.png](https://cdn.codecarrot.net/images/Forbes_logo.svg.png)
 
 Known for its superfluous quotations, numerous ads and slow loading times, Forbes.com turned to Progressive Web Apps for its new mobile site which - Forbes says - is capable of loading in 0.8 seconds (compared to the 3-12 seconds of its previous mobile experience).
 
@@ -51,7 +51,7 @@ The Forbes site includes a new story format called Cards which is based on the l
 
 ## Jumia Travel
 
-![Jumia_Travel_logo.png](//cdn.codecarrot.net/images/Jumia_Travel_logo.png)
+![Jumia_Travel_logo.png](https://cdn.codecarrot.net/images/Jumia_Travel_logo.png)
 
 Consistently one of the highest ranking PWAs for eCommerce, Jumia Travel primarily caters for vacationers and business travellers on the African continent. With around 95% of prospective travellers in Africa's most populous nation, Nigeria, preferring a browser over a mobile app, a highly optimised Progressive Web App experience has reaped dividends for the company.
 
@@ -59,7 +59,7 @@ Jumia's PWA uses five times less data than its native apps for iOS or Android an
 
 ## Lancôme
 
-![lancome_2_67419.jpg](//cdn.codecarrot.net/images/lancome_2_67419.jpg)
+![lancome_2_67419.jpg](https://cdn.codecarrot.net/images/lancome_2_67419.jpg)
 
 Lancôme, one of the world's leading luxury beauty product brands, felt the need to up its game for mobile users when its mobile web conversion rate topped out at only 15%, compared to 38% for shopping carts on its desktop site. This was primarily due to the slow access and transaction times for mobile visitors.
 
@@ -67,13 +67,13 @@ Lancôme launched a PWA with Mobify, which reduced the time for each page on the
 
 ## Ola
 
-![Ola_Cabs_logo.png](//cdn.codecarrot.net/images/Ola_Cabs_logo.png)
+![Ola_Cabs_logo.png](https://cdn.codecarrot.net/images/Ola_Cabs_logo.png)
 
 With a cab service that drives mobility for a billion Indians, Ola offers a PWA which is allegedly 300 times smaller than downloading the Android app and 500 times smaller than downloading their iOS app. Repeat visits to the site consume as little as 10KB, and the app's low data consumption translates to a 3.4-second first visit, and less than a second for repeat visits. It's also available for Windows Phone.
 
 ## Twitter
 
-![twitter.png](//cdn.codecarrot.net/images/twitter.png)
+![twitter.png](https://cdn.codecarrot.net/images/twitter.png)
 
 For its monthly global user base of 328 million (80% of them on mobile), Twitter Lite PWA became the default mobile web experience for all users in April 2017. The new app requires less than 3% of the device storage space needed by Twitter for Android.
 
@@ -81,7 +81,7 @@ Smaller media resources and cached data translated into reduced data consumption
 
 ## Virgin America
 
-![download-1.png](//cdn.codecarrot.net/images/download-1.png)
+![download-1.png](https://cdn.codecarrot.net/images/download-1.png)
 
 "Dedicated to making flying good again with brand-new planes, in-flight internet access, leather seats & award-winning service", Virgin America waited until 2016 to enter the mobile app ecosystem in a marketplace where 47% of online travel shoppers routinely expect a web page to load in two seconds or less. Worse, 53% of customers polled by Google will abandon a mobile site if it takes more than three seconds to load, whereas the average mobile page takes 22 seconds.
 
@@ -89,7 +89,7 @@ Native apps for Android and iOS followed, and with the acquisition of the compan
 
 ## The Washington Post
 
-![800px-The_Logo_of_The_Washington_Post_Newspaper.svg.png](//cdn.codecarrot.net/images/800px-The_Logo_of_The_Washington_Post_Newspaper.svg.png)
+![800px-The_Logo_of_The_Washington_Post_Newspaper.svg.png](https://cdn.codecarrot.net/images/800px-The_Logo_of_The_Washington_Post_Newspaper.svg.png)
 
 In June 2015, The Washington Post with various other publishers and technology companies created the Accelerated Mobile Pages Project, a Progressive Web App development platform which enables The Post to publish over 1,000 articles each day, with average load times of 400 milliseconds - an 88% performance improvement over their traditional mobile website.
 

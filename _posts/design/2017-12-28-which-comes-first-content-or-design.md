@@ -6,7 +6,7 @@ date: 2017-12-28 13:10:00 +0530
 categories: design
 tags: design content design
 description: As a copywriter, I’ve historically been charged with filling in the blanks in already-approved wireframes. Those bits of lorem ipsum? Yeah, those are for me.
-image: //cdn.codecarrot.net/images/chicken-and-eggs-of-tray.jpg
+image: https://cdn.codecarrot.net/images/chicken-and-eggs-of-tray.jpg
 ---
 
 As a copywriter, I’ve historically been charged with filling in the blanks in already-approved wireframes. Those bits of lorem ipsum? Yeah, those are for me. I work to decipher the design’s intent and fill each section with the appropriate language. It’s kind of like painting by numbers: someone else has designated the areas I get to work in, the colors I get to use. My only real creative freedom is deciding on the shade of the color, the stroke of the brush.

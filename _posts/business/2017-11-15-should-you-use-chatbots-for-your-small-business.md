@@ -6,7 +6,7 @@ date: 2017-11-15 11:00:00 +0530
 categories: business
 tags: business smallbiz chatbots
 description: Wondering if you should use a chatbot for your small business? Here are a few reasons why you should use chatbots for business and a list of suggestions.
-image: //cdn.codecarrot.net/images/ChatBots.png
+image: https://cdn.codecarrot.net/images/ChatBots.png
 ---
 
 Wouldn’t it be nice to have an assistant help us with our daily tasks? A chatbot could do that and more for you. Here are a few ways you can use chatbots for your small business or on your website.
@@ -29,7 +29,7 @@ Chatbots can do a range of things for your business. Here is a list of things:
 
 When we tell you chatbots are a wise investment, don’t believe us. Believe the numbers instead. A recent study conducted by Forrester Consulting found that 93% of online consumers interact with bots today. Put that in perspective with this graph:
 
-![1_7yz2oL1diR_jm6JIB1ugTg.png](//cdn.codecarrot.net/images/1_7yz2oL1diR_jm6JIB1ugTg.png)
+![1_7yz2oL1diR_jm6JIB1ugTg.png](https://cdn.codecarrot.net/images/1_7yz2oL1diR_jm6JIB1ugTg.png)
 
 ## Other reasons you should get a chatbot for your business
 

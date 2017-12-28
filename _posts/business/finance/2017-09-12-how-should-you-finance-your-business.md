@@ -6,7 +6,7 @@ date: 2017-09-12 19:29:00 +0530
 categories: business
 tags: finance money startup
 description: If there's one clear obstacle most business owners must come overcome it's how to finance your business. Take an in-depth look at four options available.
-image: //cdn.codecarrot.net/images/fabian-blank-78637.jpg
+image: https://cdn.codecarrot.net/images/fabian-blank-78637.jpg
 ---
 
 If there’s one obstacle that stops many would-be business owners in their tracks, it’s financing. Although there are business ideas that require little startup capital, the motto “you need to spend money to make money” often holds true. Whether it’s to launch or expand your business, you’ll likely need financing at some point. There are four common options to finance your business that you can choose.
@@ -27,7 +27,7 @@ Keep in mind that even if you want to apply for a loan, lenders will ask how muc
 
 ## Business credit cards
 
-![Person handing over the card](//cdn.codecarrot.net/images/person-handing-over-the-card.jpg)
+![Person handing over the card](https://cdn.codecarrot.net/images/person-handing-over-the-card.jpg)
 
 Credit cards are never good for long-term financing because they tend to have higher interest rates than loans. But for short-term financing, a 0-percent annual percentage rate (APR) business credit card is among your best options. The 0-percent APR lasts for an introductory period, with most ranging between six and 15 months.
 

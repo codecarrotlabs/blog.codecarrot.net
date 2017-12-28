@@ -6,7 +6,7 @@ date: 2017-09-27 01:10:00 +0530
 categories: code
 tags: nodejs companies server javascript coding
 description: Node.js - a runtime environment that allows writing server-side apps in Javascript. Companies like Netflix, LinkedIn and NASA use Node.js in production. See examples.
-image: //cdn.codecarrot.net/images/StockSnap_W0RUS6FWBJ-442030-edited.jpg
+image: https://cdn.codecarrot.net/images/StockSnap_W0RUS6FWBJ-442030-edited.jpg
 ---
 
 Node.js is another trending technology that many businesses decide to embrace in production. It is especially popular in [real-time applications or when we seek a fast and scalable solution](/when-how-and-why-use-nodejs-as-your-backend). It has numerous advantages over other technologies and probably for that reason many big players came to use Node.js in their applications. What are these famous companies that trusted Node.js in creating their apps? We have some high profile examples.

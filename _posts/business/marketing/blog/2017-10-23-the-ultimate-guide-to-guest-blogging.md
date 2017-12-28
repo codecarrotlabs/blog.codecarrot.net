@@ -6,7 +6,7 @@ date: 2017-10-23 00:30:00 +0530
 categories: business
 tags: marketing business blog guest-blogging
 description: In this article we are going to look at exactly how you can get guest blogging opportunities and make the most out of them. Click here to read more.
-image: //cdn.codecarrot.net/images/guest-blogging.jpg
+image: https://cdn.codecarrot.net/images/guest-blogging.jpg
 ---
 
 We are going to look at exactly how you can get guest blogging opportunities and make the most out of them.

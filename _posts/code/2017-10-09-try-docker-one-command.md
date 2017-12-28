@@ -6,7 +6,7 @@ date: 2017-10-09 00:01:00 +0530
 categories: code
 tags: coding docker container
 description: Have you heard of Docker, but still don't know exactly what it is? Let's fix that. Docker is the world’s leading software container platform.
-image: //cdn.codecarrot.net/images/group_5622_0.png
+image: https://cdn.codecarrot.net/images/group_5622_0.png
 ---
 
 ## What is Docker?
@@ -38,7 +38,7 @@ docker run -p 8080:80 nginx
 
 I wait until I see the text `Status: Downloaded newer image for nginx:latest` in my terminal. Then I launch my browser, connect to `http://localhost:8080`, and am greeted by this response:
 
-![Open the localhost port 8000 on browser](//cdn.codecarrot.net/images/docker_nginx.png)
+![Open the localhost port 8000 on browser](https://cdn.codecarrot.net/images/docker_nginx.png)
 
 That’s coming from my new personal Nginx server, running on my laptop within a Docker container. If I press Ctrl-C in my terminal, the Docker container shuts down, and http://localhost:8080 no longer responds.
 
@@ -69,7 +69,7 @@ $ docker run -it ubuntu
 
 This one downloads and runs an image with a stripped-down Ubuntu Linux, then sets up an interactive terminal session on it (that’s the -it in the command). When it runs, you’ll be in an Ubuntu shell, working in a file system that’s totally separate from your actual computer’s.
 
-![An Ubuntu shell, running within Docker](//cdn.codecarrot.net/images/docker_ubuntu.png)
+![An Ubuntu shell, running within Docker](https://cdn.codecarrot.net/images/docker_ubuntu.png)
 
 ```
 docker run ruby ruby -e 'puts RUBY_VERSION'

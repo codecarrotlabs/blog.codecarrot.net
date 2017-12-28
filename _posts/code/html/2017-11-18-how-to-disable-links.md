@@ -6,7 +6,7 @@ date: 2017-11-18 17:55:00 +0530
 categories: code
 tags: coding links html links a
 description: The topic of disabling links popped up at my work the other day. Somehow, a disabled anchor style was added to our typography styles last year when I was"
-image: //cdn.codecarrot.net/images/jj-ying-215308.jpg
+image: https://cdn.codecarrot.net/images/jj-ying-215308.jpg
 ---
 
 The topic of disabling links popped up at my work the other day. Somehow, a "disabled" anchor style was added to our typography styles last year when I wasn't looking. There is a problem though: there is no real way to disable an `<a>` link *(with a valid `href` attribute)* in HTML. Not to mention, why would you even want to? Links are the basis of the web.
@@ -83,7 +83,7 @@ First, we need to style our link so that it looks disabled.
 <a class="isDisabled" href="https://unfetteredthoughts.net">Disabled Link</a>
 ```
 
-![disabled-link_yg83an.webp](//cdn.codecarrot.net/images/disabled-link_yg83an.webp)
+![disabled-link_yg83an.webp](https://cdn.codecarrot.net/images/disabled-link_yg83an.webp)
 
 Setting `color` to `currentColor` should reset the font color back to your normal, non-link text color. I am also setting the mouse cursor to `not-allowed` to display a nice indicator on hover that the normal action is not allowed. Already, we have left out non-mouse users that can't hover, mainly touch and keyboard, so they won't get this indication. Next the opacity is cut to half. According to [WCAG](//www.w3.org/WAI/WCAG20/quickref/#visual-audio-contrast-contrast), disabled elements do not need to meet color contrast guidelines. I think this is very risky since it's basically plain text at this point, and dropping the opacity in half would make it very hard to read for users with low-vision, another reason I hate this. Lastly, the text decoration underline is removed as this is usually the best indicator something is a link. Now this **looks** like a disabled link!
 

@@ -6,7 +6,7 @@ date: 2017-11-10 01:17:40 +0530
 categories: code
 tags: coding coding-pattern developer
 description: Check out how patterns will help you keep your code clean and effective. In today’s fast moving world deadlines can be a real nightmare, especially for devs who have to focus on the code they’re writing to keep its quality high.
-image: //cdn.codecarrot.net/images/stairpath-565865-edited.jpg
+image: https://cdn.codecarrot.net/images/stairpath-565865-edited.jpg
 ---
 
 In today’s fast moving world deadlines can be a real nightmare, especially for devs who have to focus on the code they’re writing to keep its quality high. One solution to help devs deal with time pressure, while keeping the code clear of bugs and easy to test, is to use patterns: methodologies for creating code that solve the most common problems in development. In this article we describe the ones we use and see the most.
@@ -23,7 +23,7 @@ In the world of Ruby on Rails, Active Record - as a default ORM library - is use
 
 As it is, ActiveRecord is certainly a great library that will do its job for the early stages of an application’s life (or even longer). However as the time passes and a more customized approach on the data storage level becomes necessary, this is where this pattern comes in handy.
 
-![Untitled_drawing_2.png](//cdn.codecarrot.net/images/78ihjr64-Untitled_drawing_2.png)
+![Untitled_drawing_2.png](https://cdn.codecarrot.net/images/78ihjr64-Untitled_drawing_2.png)
 
 Thanks to this division, we can easily manage business logic without mixing it with the data persistence layer. If there are any changes involving where we store our data, then we can change it without worrying about how to deal with ActiveRecord.
 

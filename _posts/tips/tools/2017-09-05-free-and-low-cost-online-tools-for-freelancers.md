@@ -6,7 +6,7 @@ date: 2017-09-05 15:28:10 +0530
 categories: tips
 tags: tips freelancer tools
 description: Stay head and neck above the competition. Use these online tools for marketing consultants and make your freelance work quick and easy.
-image: //cdn.codecarrot.net/images/adam-sherez-228582.jpg
+image: https://cdn.codecarrot.net/images/adam-sherez-228582.jpg
 ---
 
 You’ve done your due diligence, looked at the numbers, written a business plan, and set up a legal entity. You’re ready to take the leap as an independent marketing consultant. Yet without corporate accounting, IT and other departments behind you, the task of running your own business falls completely on your shoulders. Good news? There are multitudes of free and low-cost online tools for marketing consultants available. Here are some of my favorites.
@@ -15,7 +15,7 @@ You’ve done your due diligence, looked at the numbers, written a business plan
 
 If you’re just starting out as a marketing consultant, you might have a few clients the moment you launch your company. However, there are other ways to fill extra billable hours of your day.
 
-![Website screenshot of the webpage upwork](//cdn.codecarrot.net/images/website-screenshot-of-the-webpage-upwork.png)
+![Website screenshot of the webpage upwork](https://cdn.codecarrot.net/images/website-screenshot-of-the-webpage-upwork.png)
 
 [UpWork](//www.upwork.com/) and [Outsource](//remote.com/?ref=outsource) offer freelancers the opportunity to bid on hundreds of jobs. Using keyword search, you can get granular about what services you would like to bid on — Facebook marketing, email marketing, social media marketing — the job options are abundant. Both companies handle the legalities of contracting and take care of payments. All you need to do is set up a profile, submit bids, and make money.
 
@@ -29,7 +29,7 @@ Consider taking it a step further and adding a blog for an SEO boost.
 
 Do you want a simple or complex website? That's up to you - all while making your business look its professional best.
 
-[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
 
 ## Manage projects like a pro
 
@@ -55,7 +55,7 @@ With [Spyfu](//www.spyfu.com/), you have an edge on the best PPC and SEO campaig
 
 ## A design tool to elevate your professionalism
 
-![screenshot of the website canva](//cdn.codecarrot.net/images/screenshot-of-the-website-canva.png)
+![screenshot of the website canva](https://cdn.codecarrot.net/images/screenshot-of-the-website-canva.png)
 
 There will come a time when a client needs a presentation, eBook or marketing flyer. Even without graphic design experience, you can still create beautiful marketing materials using [Canva](//www.canva.com/).
 
@@ -71,7 +71,7 @@ This amazing app automatically detects where you have traveled, allows you to ma
 
 ## Get feedback on your marketing plan or website
 
-![screenshot of the website user interview](//cdn.codecarrot.net/images/screenshot-of-the-website-user-interviews.png)
+![screenshot of the website user interview](https://cdn.codecarrot.net/images/screenshot-of-the-website-user-interviews.png)
 
 Before launching a new website or marketing campaign, get unbiased feedback. [User Interviews](//www.userinterviews.com/) recruits and screens participants for you, which removes the hassle of putting together a focus group on your own. Its features include customized audiences, in-person or remote participation either by phone or computer, participant vetting, and automated scheduling. Clients will be confident that your marketing strategies are spot-on if they’re backed with fact-based research.
 
@@ -79,4 +79,4 @@ Before launching a new website or marketing campaign, get unbiased feedback. [Us
 
 Starting a business is both exciting and scary at the same time. But with the right online tools for marketing consultants, you can avoid the obstacles that might come with solopreneurship and flourish on your own.
 
-[![Make your business online with a website](//cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
