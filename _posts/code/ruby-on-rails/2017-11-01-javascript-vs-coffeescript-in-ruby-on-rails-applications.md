@@ -45,4 +45,4 @@ There is no easy and working transpiler between Coffee to JS (ES2015) and it dem
 * It's hard to work with the newest features and examples from Ember or React due to fact they are written in ES2015 and shown by JSBin that supports ES2015
 * Due to ease of sharing scope using fat arrow and no need to declare variables, it's easy to forget about base concepts of JavaScript like scopes mechanism and why it works this way not another
 
-These pros and cons are highly opinionated and might be different for you, depending on projects you work on. Be aware that this list is [Codecarrot](//codecarrot.net/)-oriented and you might have different opinions - feel free to comment below.
+These pros and cons are highly opinionated and might be different for you, depending on projects you work on. Be aware that this list is [Codecarrot](//www.codecarrot.net/)-oriented and you might have different opinions - feel free to comment below.
