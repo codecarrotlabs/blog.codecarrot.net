@@ -43,4 +43,4 @@ React Native apps still have some parts written in native code, and this is okay
 “React Native does not mean we should use Javascript for everything, React Native does not mean we shouldn't use Native for anything” Leland Richardson, Airbnb, React Conf 2017
 </blockquote>
 
-The future is bright and it belongs to React and [React Native](//www.codecarrot.net/react-native) `;)`.
+The future is bright and it belongs to React and [React Native](//www.codecarrot.net/services/react-native) `;)`.
