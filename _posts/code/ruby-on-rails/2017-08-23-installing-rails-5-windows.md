@@ -6,7 +6,7 @@ date: 2017-08-23 01:00:00 +0530
 categories: code
 tags: ruby-on-rails windows ruby rails
 description: As a little nudge for those of you who still haven't discovered how awesome Rails is, here's how to install Rails 5 on Windows.
-image: screen-shot-10.21.38.png
+image: //cdn.codecarrot.net/images/screen-shot-10.21.38.png
 ---
 
 We figured we’d share those directions here, as a little nudge for those of you who still haven’t discovered how awesome Rails is.

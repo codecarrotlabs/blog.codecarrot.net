@@ -6,7 +6,7 @@ date: 2017-08-30 12:10:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails paypal payment-gateway
 description: If you are looking for solutions to implement payment gateways in your Rails app, you've found the right place. Here's a quick guide for PayPal integration.
-image: integrate-rails-with-paypal.png
+image: //cdn.codecarrot.net/images/integrate-rails-with-paypal.png
 ---
 
 If you are looking for solutions to implement payment gateways in your Rails app, you've found the right place. Here's a quick guide for PayPal integration.
