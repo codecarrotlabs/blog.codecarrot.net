@@ -5,7 +5,7 @@ title: Icons For Your Mobile App Design
 date: 2017-12-29 13:10:00 +0530
 categories: design
 tags: design mobile-app icons
-description: Fast-track your next mobile app design with this free pack of flat icons from Vexels.
+description: Fast-track your next mobile app design with this free pack of flat icons from Vexels. Ever tried designing a mobile app without icons? Yeah… turns out those little things are kind of a big deal.
 image: https://cdn.codecarrot.net/images/free-icons-mobiile-app-prev.jpg
 ---
 
