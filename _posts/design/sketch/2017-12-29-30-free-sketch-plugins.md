@@ -59,7 +59,7 @@ The singular must-have in every UI/UX designer’s tool belt, Craft is a suite o
 
 Craft consists of the following tools:
 
-![Get it now](//www.invisionapp.com/craft)
+[Get it now](//www.invisionapp.com/craft)
 
 ## DynamicButton3.5
 
