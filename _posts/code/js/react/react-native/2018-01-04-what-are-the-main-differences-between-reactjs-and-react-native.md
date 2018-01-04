@@ -6,7 +6,7 @@ date: 2018-01-04 04:08:09 +0530
 categories: code
 tags: coding react facebook native-apps react-native js javascript
 description: React-Native has been around for about 2 years, and became a really interesting framework since it can be used for Android and let us build cross-platform mobile apps.
-image: https://cdn.codecarrot.net/images/1*bUtWGJQv8QFXTkLF_WBINA.png
+image: https://cdn.codecarrot.net/images/1_bUtWGJQv8QFXTkLF_WBINA.png
 ---
 
 React-Native has been around for about 2 years, and became a really interesting framework since it can be used for Android and let us build cross-platform mobile apps. A few contributors also customized the framework to build desktop apps for Mac and Windows, which is quite cool.
@@ -79,7 +79,7 @@ In my opinion, the main difficulty with the PanResponder comes when you have nes
 
 When I started to build my first mobile app with React-Native, I was wondering how to navigate between 2 scenes. The first thing that I’ve done was to search for an alternative to [react-router](//github.com/ReactTraining/react-router), this famous library that most React web apps uses to transition between pages. I found a few libraries that do similar jobs, but there was always something I didn’t like about the ones I tried: either it was quite complicated to use, I wasn’t satisfied with the animations, wasn’t customizable the way I wanted it to be, or wasn’t behaving or working properly on both Android and iOS devices. Then I started wondering how navigation actually works, and I found the [Navigator](//facebook.github.io/react-native/docs/navigator.html) component provided by React-Native. I should have started from there, looking for an alternative of react-router was in my opinion not the best idea.
 
-![Transitions between scenes with Navigator](https://cdn.codecarrot.net/images/1*pVbpZsAcopk9c_8UMsxlNw.gif)
+![Transitions between scenes with Navigator](https://cdn.codecarrot.net/images/1_pVbpZsAcopk9c_8UMsxlNw.gif)
 
 Most mobile apps don’t have plenty of scenes going in every direction like would do a web app, the Navigator component even though it might seem a bit complicated to use at first [will provide you everything you need](//facebook.github.io/react-native/docs/using-navigators.html) to manage the transition between scenes. Unless you build a very large scale mobile app that requires lots of different scenes and you are afraid to get lost at some point, I think you should stick with Navigator. You can also have a look to [NavigatorExperimental](//facebook.github.io/react-native/docs/navigation.html#navigationexperimental), but in my opinion, it’s not ready yet to be used for production.
 
