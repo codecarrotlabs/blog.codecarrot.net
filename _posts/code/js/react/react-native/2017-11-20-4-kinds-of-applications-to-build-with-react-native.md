@@ -30,3 +30,5 @@ RN allows validating your business ideas quickly - you can have both Android and
 You can always use RN by writing bridges, but - believe me -  it is not something you want to do. Doing so requires additional Java/Objective-C/Swift knowledge and complicates the scope of the app. Instead of having one developer, you end up with three. Furthermore, passes over the bridge affect your performance, so - to keep your application performant - these calls have to be reduced to a minimum.
 
 React Native is being actively developed, and so, something that seems to be difficult for the time being might become easier in the future. This framework surely resolves many mobile development-related issues, but just as every powerful tool, it has to be used wisely. If you are still unsure if React Native should be used in your project, [contact us](//www.codecarrot.net).
+
+[![Join our React Js/Native Flock Channel](https://cdn.codecarrot.net/images/join-our-react-js-native-flock-channel.png)](https://reactjs.flock.com/)

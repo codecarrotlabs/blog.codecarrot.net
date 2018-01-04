@@ -71,3 +71,5 @@ Uber has recently shared their insights about leveraging React Native in enginee
 
 
 Naturally, there are many more applications written in React Native and we can see that there is a growing space for the framework in the future of development. [Despite its immaturity and faults it brings a wide range of possibilities](/react-native-pros-and-cons-of-facebook-framework). With a dynamic community growth and higher popularity, we can see many more React Native applications popping up in the near future.
+
+[![Join our React Js/Native Flock Channel](https://cdn.codecarrot.net/images/join-our-react-js-native-flock-channel.png)](https://reactjs.flock.com/)
