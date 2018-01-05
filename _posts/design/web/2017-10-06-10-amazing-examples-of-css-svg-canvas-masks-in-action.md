@@ -15,7 +15,9 @@ I’ve scoured the web to find the below demos of custom clipping masks & SVG/ca
 
 ## Text Masking
 
-<div data-type="vimeo" data-video-id="237058144"></div>
+<video poster="https://cdn.codecarrot.net/images/659342428_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/text-masking.mp4" type="video/mp4">
+</video>
 
 For a clean example of text masking in action check out the above video. It uses actual page text in HTML so you can easily alter this text to read whatever you want.
 
@@ -25,7 +27,9 @@ The zooming effect is also created purely in CSS which makes this code snippet e
 
 ## Cutout Mask Polygons
 
-<div data-type="vimeo" data-video-id="237058058"></div>
+<video poster="https://cdn.codecarrot.net/images/659342316_780x439.jpg" controls>
+  <source src="https://cdn.codecarrot.net/videos/cutout-mask-polygons.mp4" type="video/mp4">
+</video>
 
 The animation in the video is created by using JavaScript for the complex animations but all of the masking is handled through a canvas element. It’s a surprisingly complex idea so trying to follow along with the code will be tough.
 
@@ -35,7 +39,9 @@ This runs a consistent animation and runs on a JS-powered Canvas element which b
 
 ## Image Masking
 
-<div data-type="vimeo" data-video-id="237058081"></div>
+<video poster="https://cdn.codecarrot.net/images/659342343_780x439.jpg" controls>
+  <source src="https://cdn.codecarrot.net/videos/image-masking.mp4" type="video/mp4">
+</video>
 
 This cut & dry example shows what a CSS image mask looks like. You get to see the before & after of the above image mask created by Vincent De Oliveira.
 
@@ -45,7 +51,9 @@ You could do this with any texture you want so long as it’s exported with tran
 
 ## Button Hovers
 
-<div data-type="vimeo" data-video-id="237058012"></div>
+<video poster="https://cdn.codecarrot.net/images/659342309_780x439.jpg" controls>
+  <source src="https://cdn.codecarrot.net/videos/button-hovers.mp4" type="video/mp4">
+</video>
 
 Ever thought about customizing your button hover effects? Well this code snippet proves you can with a bit of creativity and some CSS masking.
 
@@ -55,7 +63,9 @@ This is certainly an experimental bit of code, but it looks phenomenal in WebKit
 
 ## SVG Text Mask
 
-<div data-type="vimeo" data-video-id="237058121"></div>
+<video poster="https://cdn.codecarrot.net/images/659342394_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/svg-text-mask.mp4" type="video/mp4">
+</video>
 
 Here’s a slightly different example of a text mask effect created by developer Marco Barría.
 
@@ -65,7 +75,9 @@ This is a bit more technical but also grants much more control to the developer.
 
 ## Canvas Text Mask
 
-<div data-type="vimeo" data-video-id="237058026"></div>
+<video poster="https://cdn.codecarrot.net/images/659342289_780x439.jpg" controls>
+  <source src="https://cdn.codecarrot.net/videos/canvas-text-mask.mp4" type="video/mp4">
+</video>
 
 With this canvas example by Calvin Davis, you’ll notice it uses raw HTML for the content, but the text itself isn’t selectable.
 
@@ -77,7 +89,9 @@ But it’s a cool example of how far you can push typography with canvas shapes.
 
 ## Animated Gradient
 
-<div data-type="vimeo" data-video-id="237059896"></div>
+<video poster="https://cdn.codecarrot.net/images/659344661_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/animated-gradient.mp4" type="video/mp4">
+</video>
 
 Another really cool text effect is this animated gradient created by developer Svante Richter.
 
@@ -87,7 +101,9 @@ Since the gradient can animate via CSS it’ll seem as if the text is the only p
 
 ## Animated Clipping Mask
 
-<div data-type="vimeo" data-video-id="237057949"></div>
+<video poster="https://cdn.codecarrot.net/images/659342245_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/animated-clipping-mask.mp4" type="video/mp4">
+</video>
 
 This abstract clipping mask animation uses JS-powered bubbles generated randomly to mask over an image. It uses a canvas element along with animated clipping masks put together to form a cohesive SVG blob thing.
 
@@ -99,7 +115,9 @@ Again this may not serve many purposes on a real-world website, but it’s a coo
 
 ## SVG BG Mask
 
-<div data-type="vimeo" data-video-id="237058102"></div>
+<video poster="https://cdn.codecarrot.net/images/659342376_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/svg-bg-mask.mp4" type="video/mp4">
+</video>
 
 On the flip side here’s a masking effect you could run on almost any website.
 
@@ -111,7 +129,9 @@ Not only is this mask practical and usable in a large header, but it’s also re
 
 ## CSS & SVG Masks
 
-<div data-type="vimeo" data-video-id="237058042"></div>
+<video poster="https://cdn.codecarrot.net/images/659342324_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/css-and-svg-masks.mp4" type="video/mp4">
+</video>
 
 This complete gallery of SVG masks really drives home just how much you can do with pure CSS.
 
