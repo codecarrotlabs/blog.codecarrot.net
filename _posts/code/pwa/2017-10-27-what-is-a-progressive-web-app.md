@@ -65,4 +65,4 @@ Progressive Web Apps are equal parts new Web APIs, design patterns, and marketin
 
 ## Kickstarting Your Journey to Progressive Web Apps
 
-<div data-type="vimeo" data-video-id="240060222"></div>
+<div data-type="youtube" data-video-id="goafiwzhKMI"></div>
