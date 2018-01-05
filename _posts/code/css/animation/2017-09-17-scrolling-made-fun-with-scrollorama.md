@@ -13,7 +13,9 @@ Just when you thought scrolling your web page was getting boring. [Scrollorama](
 
 ### Watch this video to know more:
 
-<div data-type="vimeo" data-video-id="235230739"></div>
+<video poster="https://cdn.codecarrot.net/images/657008125_780x439.jpg" controls>
+  <source src="https://cdn.codecarrot.net/videos/scrolling-made-fun-with-scrollorama.mp4" type="video/mp4">
+</video>
 
 Check out the [Scrollorama](//johnpolacek.github.com/scrollorama/) site to view some great examples and the plugin’s documentation.
 
