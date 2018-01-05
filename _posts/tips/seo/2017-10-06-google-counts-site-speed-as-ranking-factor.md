@@ -30,7 +30,9 @@ Singhal says there are two primary ways Google will measure page speed:
 1. How a page responds to Googlebot
 2. Load time as measured by the Google Toolbar
 
-<div data-type="vimeo" data-video-id="237219643"></div>
+<video poster="https://cdn.codecarrot.net/images/659566733_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/how-does-google-determine-page-speed.mp4" type="video/mp4">
+</video>
 
 ## Where Page Speed Fits in Google’s Algorithm
 
@@ -59,7 +61,9 @@ If you are a site owner, webmaster or a web author, here are some free tools tha
 
 * Many other tools on [code.google.com/speed](//code.google.com/speed).
 
-<div data-type="vimeo" data-video-id="237219577"></div>
+<video poster="https://cdn.codecarrot.net/images/659566706_780x439.webp" controls>
+  <source src="https://cdn.codecarrot.net/videos/is-page-speed-more-important-than-relevance.mp4" type="video/mp4">
+</video>
 
 While site speed is a new signal, it doesn't carry as much weight as the relevance of a page. Currently, fewer than 1% of search queries are affected by the site speed signal in our implementation and the signal for site speed only applies for visitors searching in English on Google.com at this point. We launched this change a few weeks back after rigorous testing. If you haven't seen much change to your site rankings, then this site speed change possibly did not impact your site.
 
