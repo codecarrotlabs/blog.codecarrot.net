@@ -30,7 +30,7 @@ Let’s leave aside Flex items and take a closer look at *Flex container.*
 
 By default *Flex container* aligns all children elements horizontally, because of CSS flex-direction property with initial value ‘row’. Also, flex-direction property establishes the direction of the **Main Axis** in *Flex container*.
 
-![Left image {flex-direction: row}, Right image {flex-direction: column}](1_ZL0jCAKXRb3cqQjgbipI7w.jpeg)
+![Left image {flex-direction: row}, Right image {flex-direction: column}](https://cdn.codecarrot.net/images/1_ZL0jCAKXRb3cqQjgbipI7w.jpeg)
 
 *Left image {flex-direction: row}, Right image {flex-direction: column}*
 
