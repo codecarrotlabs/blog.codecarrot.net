@@ -49,7 +49,7 @@ But remember one rule: If the element has a parent container, child element can 
 
 Here is the example (all purple squares are nested in *Flex container* parent):
 
-![Applying ‘align-self: flex-end’ property to Flex container (last purple box) which contains another elements](1_2MSQQHPGKwq2BK9R4Ztoig.png)
+![Applying ‘align-self: flex-end’ property to Flex container (last purple box) which contains another elements](https://cdn.codecarrot.net/images/1_2MSQQHPGKwq2BK9R4Ztoig.png)
 
 Applying ‘align-self: flex-end’ property to *Flex container (last purple box) which contains another elements.*
 
@@ -69,7 +69,7 @@ the container will expand full available width along Main Axis of its parent.
 
 Some examples (parent has vertical Main Axis):
 
-![Left image {flex: 1}, Right image — no flex declaration](1_eEHusoYiqXAlWOCnOwlcCA.jpeg)
+![Left image {flex: 1}, Right image — no flex declaration](https://cdn.codecarrot.net/images/1_eEHusoYiqXAlWOCnOwlcCA.jpeg)
 
 *Left image {flex: 1}, Right image — no flex declaration*
 
@@ -86,7 +86,7 @@ last: {
 
 for this the following elements (all purple squares are nested in *Flex container* parent):
 
-![First: {flex: 3}, Last: {flex: 2}](1_4BYBxaLqikY2iqaiMxXl6Q.png)
+![First: {flex: 3}, Last: {flex: 2}](https://cdn.codecarrot.net/images/1_4BYBxaLqikY2iqaiMxXl6Q.png)
 
 *First: {flex: 3}, Last: {flex: 2}*
 
@@ -97,7 +97,7 @@ Here you can see animated property justify-content with following values:
 flex-start, flex-end, center, space-around, space-between;
 (all purple squares are nested in *Flex container* parent):
 
-![Justify-content: flex-start, flex-end, center, space-around, space-between](1_VYfuWaybfh93RkYuCly-mg.gif)
+![Justify-content: flex-start, flex-end, center, space-around, space-between](https://cdn.codecarrot.net/images/1_VYfuWaybfh93RkYuCly-mg.gif)
 
 *Justify-content: flex-start, flex-end, center, space-around, space-between*
 
@@ -107,7 +107,7 @@ flex-start, flex-end, center;
 (all purple squares are nested in *Flex container* parent):
 
 
-![Align-items: flex-start, flex-end, center;](1_oh4pZR2laHaizGkEo2TQpA.gif)
+![Align-items: flex-start, flex-end, center;](https://cdn.codecarrot.net/images/1_oh4pZR2laHaizGkEo2TQpA.gif)
 
 *Align-items: flex-start, flex-end, center;*
 
