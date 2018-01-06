@@ -23,10 +23,10 @@ But there’s a lot more to it than just that. Let’s attempt to cover all the 
 
 React’s official definition states that it’s a *JavaScript library for building User Interfaces*. It’s important to understand the two different parts of this definition:
 
-1. React is a JavaScript library. It’s not a framework. It’s not a complete solution and we’ll often need to use more libraries with React to form any solution. React does not assume anything about the other parts in any full solution. It focuses on just one thing, and on doing that thing very well.
+1. React is a *JavaScript library*. It’s not a framework. It’s not a complete solution and we’ll often need to use more libraries with React to form any solution. React does not assume anything about the other parts in any full solution. It focuses on just one thing, and on doing that thing very well.
 2. The thing that React does really well is the second part of the definition: *building User Interfaces*. A User Interface is anything we put in front of users to have them interact with a machine. User Interfaces are everywhere, from the simple buttons on a microwave to the dashboard of a space shuttle. If the device we’re trying to interface can understand JavaScript, we can use React to describe a User Interface for it.
 
-Since Web browsers understand JavaScript, we can use React to describe Web User Interfaces. I like to use the word describe here because that’s what we basically do with React, we just tell it what we want and React will build the actual User Interfaces, on our behalf, in the Web browser. Without React or similar libraries, we would need to manually build User Interfaces with native Web APIs and JavaScript.
+Since Web browsers understand JavaScript, we can use React to describe Web User Interfaces. I like to use the word *describe* here because that’s what *we* basically do with React, we just tell it what we want and React will build the actual User Interfaces, on our behalf, in the Web browser. Without React or similar libraries, we would need to manually build User Interfaces with native Web APIs and JavaScript.
 
 When you hear the statement that “React is declarative,” this is exactly what it means, we describe User Interfaces with React and tell it what we want (not how to do it). React will take care of the “how” and translate our declarative descriptions (which we write in the React language) to actual User Interfaces in the browser. React shares this simple declarative power with HTML itself, but with React, we get to be declarative for HTML interfaces that represent dynamic data, not just static data.
 
@@ -44,7 +44,7 @@ Unlike pure functions however, a full React component can have a private state t
 
 React’s name is the simple explanation for this concept. When the state of a component (the input) changes, the User Interface it represents (the output) changes as well. This change in the description of the User Interface has to be reflected in the device we’re working with.
 
-In a browser, we need to regenerate the HTML views in the Document Object Model (DOM). With React, we do not need to worry about how to reflect these changes, or even manage when to take changes to the browser; React will simply react to the state changes and automatically update the DOM when needed.
+In a browser, we need to regenerate the HTML views in the Document Object Model (DOM). With React, we do not need to worry about *how* to reflect these changes, or even manage *when* to take changes to the browser; React will simply *react* to the state changes and automatically update the DOM when needed.
 
 ## 3 . The virtual representation of views in memory
 
@@ -52,7 +52,7 @@ With React, we write HTML using JavaScript. We rely on the power of JavaScript t
 
 When we receive just the data from the server (in the background, with AJAX), we need something more than HTML to work with that data. It’s either using an enhanced HTML, or using the power of JavaScript itself to generate the HTML. Both approaches have advantages and disadvantages. React embraces the latter one, with the argument that the advantages are stronger than the disadvantages.
 
-In fact, there is one major advantage that can make the case for this approach by itself; using JavaScript to render HTML makes it easy for React to keep a virtual representation of HTML in memory (which is commonly known as The Virtual DOM). React uses the Virtual DOM to render an HTML tree virtually first, and then, every time a state changes and we get a new HTML tree that needs to be taken to the browser’s DOM, instead of writing the whole new tree React will only write the difference between the new tree and the previous tree (since React has both trees in memory). This process is known as Tree Reconciliation, and I think, it is the best thing that has happened in Web Development since AJAX!
+In fact, there is one major advantage that can make the case for this approach by itself; using JavaScript to render HTML makes it easy for React to keep a virtual representation of HTML in memory (which is commonly known as *The Virtual DOM*). React uses the Virtual DOM to render an HTML tree virtually first, and then, every time a state changes and we get a new HTML tree that needs to be taken to the browser’s DOM, instead of writing the whole new tree React will only write the difference between the new tree and the previous tree (since React has both trees in memory). This process is known as *Tree Reconciliation*, and I think, it is the best thing that has happened in Web Development since AJAX!
 
 In the following example, we’ll focus on this last concept and see a simple practical example of the tree reconciliation process and the big difference it makes. We’ll write the same HTML example twice, first using native Web APIs and vanilla JavaScript, and then we’ll see how to describe the same HTML tree with React.
 
@@ -106,7 +106,7 @@ When we refresh the browser now, we should see both `React` and `ReactDOM` avail
 
 *Image captured in Chrome*
 
-With this simple setup, we can now access both *React* and *ReactDOM* APIs, and of course, we also have access to the native Web APIs and JavaScript which we are going to use first.
+With this simple setup, we can now access both `React` and `ReactDOM` APIs, and of course, we also have access to the native Web APIs and JavaScript which we are going to use first.
 
 To insert HTML dynamically in the browser we can simply use pure JavaScript and the DOM Web API itself. Let’s create a `div` element to host our JavaScript HTML content and give it the id `"js"`. In the body element of `index.html`, right before the `script` tag, add:
 
@@ -136,7 +136,7 @@ This demo div is our User Interface so far. It’s a very simple one. We just ou
 
 Both `document.getElementById` and `element.innerHTML` are actually part of the native DOM Web API. We are communicating with the browser directly here using the supported APIs of the Web platform. When we write React code, however, we use the React API instead, and we let React communicate with the browser using the DOM Web API.
 
-React acts like our agent for the browser, and we mostly need to communicate with just React, our agent, and not the browser itself. I say mostly because there are cases where we still need to communicate with the browser, but those are rare.
+React acts like our *agent* for the browser, and we *mostly* need to communicate with just React, our agent, and not the browser itself. I say mostly because there are cases where we still need to communicate with the browser, but those are rare.
 
 To create the exact same User Interface that we have so far but with React API this time, let’s create another `div` element and give it an id of `"react"`. In `index.html`, right under the `div#js` element, add:
 
@@ -164,7 +164,7 @@ What we’re going to do next is your first milestone in truly understanding the
 
 To write our simple HTML User Interface, we are going to use JavaScript calls to React API, and by the end of the example you’ll have a better picture about the reason for doing so.
 
-Instead of working with strings (as we did in the native JavaScript example above), in React, we work with objects. Any HTML string will be represented as an object using a `React.createElement` call (which is the core function in the React API).
+Instead of working with strings (as we did in the native JavaScript example above), in React, we work with *objects*. Any HTML string will be represented as an object using a `React.createElement` call (which is the core function in the React API).
 
 Here’s the equivalent HTML User Interface we have so far with React:
 
@@ -321,12 +321,12 @@ You can see the different ways we’re updating the DOM visually if you inspect 
 
 *Image captured in Chrome*
 
-React has a smart *diffing* algorithm that it uses to only regenerate in its DOM node what actually needs to be regenerated while it keeps everything else as is. This diffing process is possible because of React’s virtual DOM and the fact that we have a representation of our User Interface in memory (because we wrote in JavaScript).
+React has a smart *diffing* algorithm that it uses to only regenerate in its DOM node what actually *needs* to be regenerated while it keeps everything else as is. This diffing process is possible because of React’s virtual DOM and the fact that we have a representation of our User Interface in memory (because we wrote in JavaScript).
 
 Using the virtual DOM, React keeps the last DOM version in memory and when it has a new DOM version to take to the browser, that new DOM version will also be in memory, so React can compute the difference between the new and the old versions (in our case, the difference is the timestamp paragraph).
 
 React will then instruct the browser to update only the computed diff and not the whole DOM node. No matter how many times we regenerate our interface, React will take to the browser only the new “partial” updates.
 
-Not only is this method a lot more efficient, but it also removes a big layer of complexity for the way we think about updating User Interfaces. Having React do all the computations about whether we should update the DOM or not enables us to focus on thinking about our data (state) and the way to describe a User Interface for it.
+Not only is this method a lot more efficient, but it also removes a big layer of complexity for the way we *think* about updating User Interfaces. Having React do all the computations about whether we should update the DOM or not enables us to focus on thinking about our data (state) and the way to describe a User Interface for it.
 
 We then manage the updates on our data as needed without worrying about the steps needed to reflect these updates on the actual User Interface in the browser (because we know React will do exactly that and it will do that in an efficient way!)
