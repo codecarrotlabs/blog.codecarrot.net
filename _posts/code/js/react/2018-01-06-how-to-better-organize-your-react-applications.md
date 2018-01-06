@@ -5,7 +5,7 @@ title: How to better organize your React applications?
 date: 2018-01-06 14:29:50 +0530
 categories: code
 tags: coding react facebook framework react-native organize applications redux
-description: I’ve been working on very large web applications for the past few months, starting from ground zero and, with a dozen other developers, making them scale up to now be used by millions of people.
+description: I’ve been working on very large web applications for the past few months, starting from ground zero and, with a dozen other developers.
 image: https://cdn.codecarrot.net/images/samuel-zeller-360588.jpg
 ---
 
