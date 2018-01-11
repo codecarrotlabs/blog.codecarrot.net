@@ -32,6 +32,6 @@ And it absolutely doesn’t make you an [impostor](/youre-not-an-impostor-asking
 Not knowing something doesn’t make you a bad programmer. It doesn’t mean you shouldn’t be in technology or writing code. And it absolutely doesn’t make you an impostor.
 </div>
 
-In fact, next time you feel defeated by an error in your code and want to give up, take solace in knowing that thousands of developers are sharing your frustrations and overcoming them. Instead of being defeated, take a break from your code, return with determination and approach the problem from a new angle. Then, when you experience that rewarding feeling when your code runs error free, celebrate (you deserve it).
+In fact, next time you feel defeated by an error in your code and [want to give up](/codingwisdom-what-to-do-when-you-want-to-quit), take solace in knowing that thousands of developers are sharing your frustrations and overcoming them. Instead of being defeated, take a break from your code, return with determination and approach the problem from a new angle. Then, when you experience that rewarding feeling when your code runs error free, celebrate (you deserve it).
 
 Now go out there, take on your next project and don’t be afraid to break your code.
