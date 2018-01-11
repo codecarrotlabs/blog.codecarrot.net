@@ -5,7 +5,7 @@ title: Networking Can Help Your Small Business Grow
 date: 2018-01-11 14:30:00 +0530
 categories: business
 tags: business launch small-business business-advice
-description: When starting your journey to a great product you look for a team like Codecarrot to make it happen. From the post you'll find out how to become Codecarrot's client.
+description: Networking can help your small business grow by leaps and bounds. Don&#039;t know where to start? Here are a few tips that can help you get going.
 image: https://cdn.codecarrot.net/images/l2YWyfT7PmpOHBt8k.gif
 ---
 
