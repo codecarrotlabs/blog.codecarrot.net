@@ -6,7 +6,7 @@ date: 2018-01-11 14:30:00 +0530
 categories: business
 tags: business launch small-business business-advice
 description: Networking can help your small business grow by leaps and bounds. Don&#039;t know where to start? Here are a few tips that can help you get going.
-image: https://cdn.codecarrot.net/images/l2YWyfT7PmpOHBt8k.gif
+image: https://cdn.codecarrot.net/images/marius-masalar-138931.jpg
 ---
 
 Is your small business taking advantage of networking? Networking is an amazing way to grow your business by leaps and bounds. Your business could be high on social media – keeping in touch with your clients and prospects online – but that’s not what we are talking about. Real connections mean much more than virtual ones.
