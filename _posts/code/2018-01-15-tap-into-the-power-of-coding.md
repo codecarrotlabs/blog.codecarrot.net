@@ -4,7 +4,7 @@ author: yashumittal
 title: Tap into the Power of Coding
 date: 2018-01-15 14:17:40 +0530
 categories: code
-tags: coding coding developer
+tags: coding developer
 description: From its inception, code has been an unparalleled force and powerful tool. Technology has changed the world, and the power of coding now fuels it.
 image: https://cdn.codecarrot.net/images/Tap-into-power-of-coding.jpg
 ---

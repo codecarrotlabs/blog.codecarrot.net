@@ -4,7 +4,7 @@ author: yashumittal
 title: CodingWisdom - When You Want to Quit
 date: 2018-01-12 14:17:40 +0530
 categories: code
-tags: coding coding developer
+tags: coding developer
 description: Learning to code is challenging and at times incredibly frustrating. So what do you do when you want to quit? Learning to code means understanding technology in a new way.
 image: https://cdn.codecarrot.net/images/1049.jpeg
 ---
