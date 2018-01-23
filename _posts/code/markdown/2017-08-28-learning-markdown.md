@@ -25,6 +25,14 @@ Markdown is a simple text-based markup language and conversion tool that allows 
 
 Markdown files use the `.md` or `.text` extensions.
 
+## Use Cases
+
+Markdown is used in **GitHub**, **GitBook**, **Reddit**, **Diaspora**, **Stack Overflow**, **OpenStreetMap**, and many others.
+
+## Files
+
+A markdown document is a text file with the .md extension. You can open a markdown file using a simple text editor.
+
 ***
 
 A common problem that faces HTML is that having all those tags in your markup makes it hard to actually read the content without viewing the page in a web browser. Markdown aims to solve this problem by providing a simple, unobtrusive syntax for marking up content elements such as headings, links, lists, images and more!
