@@ -11,7 +11,7 @@ image: https://cdn.codecarrot.net/images/1431610237-parkingstairs.jpg
 
 [Sublime Text](//www.sublimetext.com/) features such as GoTo Anything, Multiple Selections, Command Palette, Split Editing and Instant Patch Switching are just a few reasons why this editor is so popular with developers. The extensibility of the program is further enhanced by the wide array of Sublime plugins. Plugins facilitate the usage of the editor and fill in spaces not covered by the included features.
 
-Part 1 introduced you to [eleven very useful Sublime Text plugins](/12-sublime-text-plugins-not-only-for-newbies). Here are 8 more to add to your web development toolbox and help you enhance your Sublime themes.
+Part 1 introduced you to [twelve very useful Sublime Text plugins](/12-sublime-text-plugins-not-only-for-newbies). Here are 8 more to add to your web development toolbox and help you enhance your Sublime themes.
 
 ## [**SCSS**](//packagecontrol.io/packages/SCSS)
 
