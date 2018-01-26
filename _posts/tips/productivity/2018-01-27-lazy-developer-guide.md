@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: The Lazy Developer's Guide to Life Without the Mouse, Cursor and Useless Keys
-date: 2017-12-18 20:31:45 +0530
+date: 2018-01-26 20:31:45 +0530
 categories: tips
 tags: tips productivity
 description: Let me take a stand in the perpetual Vim vs Emacs holy war - Vim stole my heart and, in doing so, turned my life into hell. Suddenly, I hate typing with any application that doesn’t use the HJKL keys to move the cursor, and I find myself becoming frustrated whenever I need to use the mouse! So what changes can I implement to ease my pain and make my life easier, you ask? Here's your answer!
