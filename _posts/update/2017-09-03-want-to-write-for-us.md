@@ -26,4 +26,4 @@ Contributors looking to send readers to their website, portfolio or book can opt
 
 What topics would you like to see covered on CodeCarrot Blogs? You can comment in this [card](//trello.com/c/lUGGS5Qa).
 
-Let me know if you have any further questions, drop an email at **[contact@codecarrot.net](mailto:contact@codecarrot.net)** or start a chat with me.
+Let me know if you have any further questions, drop an email at **[blog@codecarrot.net](mailto:blog@codecarrot.net)** or start a chat with us.
