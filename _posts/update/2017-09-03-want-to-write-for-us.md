@@ -11,17 +11,27 @@ image: https://cdn.codecarrot.net/images/592773bb7a306e0936ce3816_write.jpg
 
 Is your writing goal to get published by one of your favorite websites?
 
-**CodeCarrot is looking for contributors.**
+**CodeCarrot is looking for writers (contributors) with exceptional skills.**
 
-CodeCarrot seeks practical, actionable advice on business, growth, project management, design, dev, and tips that will help people in their own journey.
+Content demand for the CodeCarrot's blog is growing rapidly, and we are expanding our network of external writers. We're looking for experienced writers who can deliver high-quality blog posts.
 
-Contributors looking to send readers to their website, portfolio or book can opt for a link in their bio of payment.
+CodeCarrot seeks practical, actionable advice on business, growth, project management, design, coding, tips and tricks that will help people in their own journey.
+
+👉 Requirements: 
+
+✅ Experience in professional writing
+✅ Impeccable spelling and grammar
+✅ Understanding of online audiences
+✅ Excellent research skills
+✅ Fluency in English
+
+The demand for articles may vary, and contributors looking to send readers to their website, portfolio can opt for a link in their bio of payment.
 
 ## Ready to get started? Consult this checklist:
 
-* To get a sense for the type of work we publish, read our site! That’s the best way to familiarize yourself with our voice and style.
-* Then, [check out our contributor guidelines](//codecarrot.zendesk.com/hc/en-us/sections/115000388872-Contributor-Guidelines). We love writers who pay close attention to detail and submit their posts in our preferred manner.
-* Share your Dropbox Paper with **[contact@codecarrot.net](mailto:contact@codecarrot.net)**. Make sure we can edit it.
+* To get a sense for the type of work we publish, [read our site](/)! That’s the best way to familiarize yourself with our voice and style.
+* Then, [check out our contributor guidelines](//codecarrot.freshdesk.com/support/solutions/folders/35000173707). We love writers who pay close attention to detail and submit their posts in our preferred manner.
+* Share your Dropbox Paper with **[yashu@codecarrot.net](mailto:yashu@codecarrot.net)**. Make sure we can edit it.
 * Allow one-two weeks for a response to your pitch or submission before following up (We get a lot of ‘em!).
 
 What topics would you like to see covered on CodeCarrot Blogs? You can comment in this [card](//trello.com/c/lUGGS5Qa).
