@@ -20,9 +20,13 @@ CodeCarrot seeks practical, actionable advice on business, growth, project manag
 👉 Requirements: 
 
 ✅ Experience in professional writing
+
 ✅ Impeccable spelling and grammar
+
 ✅ Understanding of online audiences
+
 ✅ Excellent research skills
+
 ✅ Fluency in English
 
 The demand for articles may vary, and contributors looking to send readers to their website, portfolio can opt for a link in their bio of payment.
