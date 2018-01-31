@@ -11,6 +11,4 @@ image: https://cdn.codecarrot.net/images/draw-heart-shape-video-thumbnail.jpg
 
 Learn the simple to way to draw a heart share in adobe illustrator using simple shapes without using the pen tool.
 
-<video poster="https://cdn.codecarrot.net/images/659572080.webp" controls>
-  <source src="https://cdn.codecarrot.net/videos/how-to-draw-a-heart-shape-in-adobe-illustrator.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QDbzZu8l1pM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
