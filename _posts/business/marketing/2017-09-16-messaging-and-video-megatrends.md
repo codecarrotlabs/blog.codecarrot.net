@@ -11,4 +11,4 @@ image: https://cdn.codecarrot.net/images/trends-1875d66c4a.jpg
 
 With billions now using messaging, and billions of videos being watched everyday, marketing teams need to adapt.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JQLRNQd9u-E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/JQLRNQd9u-E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

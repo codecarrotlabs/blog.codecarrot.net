@@ -15,7 +15,7 @@ I’ve scoured the web to find the below demos of custom clipping masks & SVG/ca
 
 ## Text Masking
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/x7bXeeEs9_A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/x7bXeeEs9_A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 For a clean example of text masking in action check out the above video. It uses actual page text in HTML so you can easily alter this text to read whatever you want.
 
@@ -25,7 +25,7 @@ The zooming effect is also created purely in CSS which makes this code snippet e
 
 ## Cutout Mask Polygons
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/C4tCNGbnXv8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/C4tCNGbnXv8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The animation in the video is created by using JavaScript for the complex animations but all of the masking is handled through a canvas element. It’s a surprisingly complex idea so trying to follow along with the code will be tough.
 
@@ -35,7 +35,7 @@ This runs a consistent animation and runs on a JS-powered Canvas element which b
 
 ## Image Masking
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/qQKm3UoQ-s4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qQKm3UoQ-s4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This cut & dry example shows what a CSS image mask looks like. You get to see the before & after of the above image mask created by Vincent De Oliveira.
 
@@ -45,7 +45,7 @@ You could do this with any texture you want so long as it’s exported with tran
 
 ## Button Hovers
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/jNpHPdatYi8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jNpHPdatYi8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ever thought about customizing your button hover effects? Well this code snippet proves you can with a bit of creativity and some CSS masking.
 
@@ -55,7 +55,7 @@ This is certainly an experimental bit of code, but it looks phenomenal in WebKit
 
 ## SVG Text Mask
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Hr1sMmIUCzM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Hr1sMmIUCzM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Here’s a slightly different example of a text mask effect created by developer Marco Barría.
 
@@ -65,7 +65,7 @@ This is a bit more technical but also grants much more control to the developer.
 
 ## Canvas Text Mask
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/wWDcmG0bo0U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wWDcmG0bo0U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 With this canvas example by Calvin Davis, you’ll notice it uses raw HTML for the content, but the text itself isn’t selectable.
 
@@ -77,7 +77,7 @@ But it’s a cool example of how far you can push typography with canvas shapes.
 
 ## Animated Gradient
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/7V9VvpvuwLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7V9VvpvuwLc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Another really cool text effect is this animated gradient created by developer Svante Richter.
 
@@ -87,7 +87,7 @@ Since the gradient can animate via CSS it’ll seem as if the text is the only p
 
 ## Animated Clipping Mask
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/hPl5_auIuFA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hPl5_auIuFA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This abstract clipping mask animation uses JS-powered bubbles generated randomly to mask over an image. It uses a canvas element along with animated clipping masks put together to form a cohesive SVG blob thing.
 
@@ -99,7 +99,7 @@ Again this may not serve many purposes on a real-world website, but it’s a coo
 
 ## SVG BG Mask
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/sRW5E8g08eg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sRW5E8g08eg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 On the flip side here’s a masking effect you could run on almost any website.
 
@@ -111,7 +111,7 @@ Not only is this mask practical and usable in a large header, but it’s also re
 
 ## CSS & SVG Masks
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Ljrn_isRtIU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ljrn_isRtIU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This complete gallery of SVG masks really drives home just how much you can do with pure CSS.
 

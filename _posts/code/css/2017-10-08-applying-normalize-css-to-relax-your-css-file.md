@@ -13,7 +13,7 @@ In this vlog will learn about [Normalize.css](//codecarrotnet.github.io/normaliz
 
 Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j6DNn47b4V8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/j6DNn47b4V8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Video Transcription
 
@@ -47,4 +47,4 @@ If you’ve been using CSS resets for a while, give Normalize.css a try. You mig
 
 ## A quick view of normalize.css file
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ksn_kcOw3_Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ksn_kcOw3_Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

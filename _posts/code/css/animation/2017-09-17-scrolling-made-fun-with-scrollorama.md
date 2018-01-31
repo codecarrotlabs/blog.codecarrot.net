@@ -13,7 +13,7 @@ Just when you thought scrolling your web page was getting boring. [Scrollorama](
 
 ### Watch this video to know more:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rKBPVRZc4LI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rKBPVRZc4LI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Check out the [Scrollorama](//johnpolacek.github.com/scrollorama/) site to view some great examples and the plugin’s documentation.
 

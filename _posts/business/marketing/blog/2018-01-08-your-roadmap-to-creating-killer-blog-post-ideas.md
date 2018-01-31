@@ -457,7 +457,7 @@ You learn how to…
 
 Steve Jobs, a visionary and a creative genius, knew exactly what it takes to find breakthrough ideas. That’s how he transformed Apple and turned it into one of the most powerful tech companies in the world.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/V419QSpEhz2A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/V419QSpEhz2A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Here’s something he said that we bloggers can connect with:
 

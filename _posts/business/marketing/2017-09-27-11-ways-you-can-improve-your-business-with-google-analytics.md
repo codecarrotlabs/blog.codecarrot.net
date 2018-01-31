@@ -25,4 +25,4 @@ Follow these 11 Ways You Can Improve Your Business With Google Analytics.
 
 Check out this video to learn more:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rsxF5QoA0CQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rsxF5QoA0CQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
