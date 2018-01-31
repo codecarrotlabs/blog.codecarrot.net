@@ -457,9 +457,7 @@ You learn how to…
 
 Steve Jobs, a visionary and a creative genius, knew exactly what it takes to find breakthrough ideas. That’s how he transformed Apple and turned it into one of the most powerful tech companies in the world.
 
-<video controls>
-  <source src="https://cdn.codecarrot.net/videos/steve-jobs-marketing-is-about-values.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/V419QSpEhz2A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Here’s something he said that we bloggers can connect with:
 
