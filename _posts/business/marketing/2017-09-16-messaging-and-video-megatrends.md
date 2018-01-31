@@ -11,6 +11,4 @@ image: https://cdn.codecarrot.net/images/trends-1875d66c4a.jpg
 
 With billions now using messaging, and billions of videos being watched everyday, marketing teams need to adapt.
 
-<video poster="https://cdn.codecarrot.net/images/657008142_780x439.jpg" controls>
-  <source src="https://cdn.codecarrot.net/videos/megatrends-messaging-and-video.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQLRNQd9u-E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
