@@ -71,7 +71,7 @@ The modern successor to the old Dynamic Button plugin we know and loved from old
 
 Sketch isn’t necessarily a word processor, so if you’ve got a text-heavy document, you may go looking for Find and Replace. Since it isn’t built into Sketch, grab the Find and Replace plugin ASAP. It can be a lifesaver for global text changes.
 
-[Get it now](https://github.com/mscodemonkey/Sketch-Find-And-Replace)
+[Get it now](//github.com/mscodemonkey/Sketch-Find-And-Replace)
 
 ## Find Instances of Symbol
 
