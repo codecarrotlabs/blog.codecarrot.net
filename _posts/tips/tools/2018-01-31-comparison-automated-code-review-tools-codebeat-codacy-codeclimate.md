@@ -117,25 +117,33 @@ CodeClimate is a well-developed and very stable solution with a great number of 
 ### Measuring tools
 
 **[CodeClimate](https://codeclimate.com/):** many existing, open-source tools like Rubocop, Brakeman, CSS/SCSS Lint, ESLint, Flog etc. [full list here](https://docs.codeclimate.com/docs/)
+
 **[Codebeat](http://codebeat.co/):** their own algorithms and implementation written from scratch [see how it works](https://hub.codebeat.co/docs/how-does-it-work)
+
 **[Codacy](https://www.codacy.com/):** many existing, open-source tools like Rubocop, Brakeman, CSS/SCSS Lint, ESLint, Flog etc. [full list here](https://support.codacy.com/hc/en-us/articles/213632009-Engines)
 
 ### Pricing
 
 **[CodeClimate](https://codeclimate.com/)**: $16,67/user/month (when billed yearly - otherwise 20$)
+
 **[Codebeat](http://codebeat.co/)**: $20/user/month, but you can probably negotiate
+
 **[Codacy](https://www.codacy.com/)**: $15/user/month
 
 ### Documentation
 
 **[CodeClimate](https://codeclimate.com/)**: very good and comprehensive
+
 **[Codebeat](http://codebeat.co/)**: still some things missing
+
 **[Codacy](https://www.codacy.com/)**: not bad, not too much text and some images are not clickable so the readability is limited
 
 ## API
 
 **[CodeClimate](https://codeclimate.com/)**: yes, still in beta version
+
 **[Codebeat](http://codebeat.co/)**: yes, simple but usable
+
 **[Codacy](https://www.codacy.com/)**: yes, not described perfectly in their docs
 
  
