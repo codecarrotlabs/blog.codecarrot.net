@@ -15,7 +15,7 @@ Code review makes your code stronger, reduces the risk of overlooking major bugs
 
 At CodeCarrot, [Code review is a crucial element in product development](/a-quick-guide-to-peer-code-review-and-why-you-should-do-it) and it strongly supports the Test-Driven Development (TDD) process to offer the best practices available in developing Rails, CSS and JavaScript code. It helps us make the project better, faster, and more secure through making the code bulletproof. It is also an opportunity for people, especially newbies, to learn good code quickly.
 
-Our developers used to test  the correctness of our code with CodeClimate. However, with increasing needs and expectations we decided to seek a better alternative that would have more advanced features. Our Dev team conducted an in-depth research and that’s how we found Codeacy & CodeBeat, a tool nearly tailored for our business. However, we are aware that your dev team might require different features from the code review provider. Therefore, we share the results of our research, so that you can pick the solution which is right for you and save time on doing your own research.
+Our developers used to test the correctness of our code with CodeClimate. However, with increasing needs and expectations we decided to seek a better alternative that would have more advanced features. Our Dev team conducted an in-depth research and that’s how we found Codeacy & CodeBeat, a tool nearly tailored for our business. However, we are aware that your dev team might require different features from the code review provider. Therefore, we share the results of our research, so that you can pick the solution which is right for you and save time on doing your own research.
 
 ## [Codebeat](https://codebeat.co/)
 
