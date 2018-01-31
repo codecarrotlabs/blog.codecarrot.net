@@ -112,7 +112,7 @@ CodeClimate is a well-developed and very stable solution with a great number of 
 
 **[Codebeat](http://codebeat.co/):** Ruby, Javascript, Python, Java, Swift, Go, Typescript, Objective-C, Kotlin, Elixir
 
-**Codacy:** Ruby, JavaScript, Python, PHP, Java, Swift, CSS, TypeScript, CoffeeScript, Scala, C/C++, Dockerfile, SASS, Shell Script
+**[Codacy](https://www.codacy.com/):** Ruby, JavaScript, Python, PHP, Java, Swift, CSS, TypeScript, CoffeeScript, Scala, C/C++, Dockerfile, SASS, Shell Script
 
 ### Measuring tools
 
