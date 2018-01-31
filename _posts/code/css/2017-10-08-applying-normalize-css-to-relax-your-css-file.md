@@ -13,9 +13,7 @@ In this vlog will learn about [Normalize.css](//codecarrotnet.github.io/normaliz
 
 Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
 
-<video poster="https://cdn.codecarrot.net/images/659592657_780x439.webp" controls>
-  <source src="https://cdn.codecarrot.net/videos/applying-normalize-css-to-relax-your-css-file.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j6DNn47b4V8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Video Transcription
 
