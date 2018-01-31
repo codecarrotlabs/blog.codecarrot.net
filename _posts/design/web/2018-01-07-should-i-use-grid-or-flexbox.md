@@ -27,9 +27,7 @@ Here we find the biggest difference between Grid and Flexbox. Flexbox is essenti
 
 Here is the most simple example of one versus two dimensional layout.
 
-<video poster="https://cdn.codecarrot.net/images/one-dimensional-vs-two-dimensional.png" controls>
-  <source src="https://cdn.codecarrot.net/videos/65812a96ea5240fc9b0976076f3b955d.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/U6HR7KM41xQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In the top layout I am using Flexbox to display a set of “cards”. The container has flex-wrap set to wrap and so the flex items wrap onto two lines, I have set flex-grow to 1, flex-shrink to 1 and flex-basis to 200 pixels. So my ideal box width is 200 pixels, but items are able to grow larger and shrink smaller.
 
