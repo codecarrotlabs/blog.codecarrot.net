@@ -47,6 +47,4 @@ If you’ve been using CSS resets for a while, give Normalize.css a try. You mig
 
 ## A quick view of normalize.css file
 
-<video poster="https://cdn.codecarrot.net/images/659592492_780x439.webp" controls>
-  <source src="https://cdn.codecarrot.net/videos/normalize-css-scrolling-full-top-to-bottom.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ksn_kcOw3_Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
