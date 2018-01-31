@@ -11,9 +11,7 @@ image: https://cdn.codecarrot.net/images/goh-rhy-yan-274211.jpg
 
 One thing many people learn from starting their own business is that you have to be in the right mindset from the very beginning. If you have the drive then all the rest should fall into place. But there are key questions you should be asking yourself before you even think about quitting your day job.
 
-<video poster="https://cdn.codecarrot.net/images/658386762_780x439.webp" controls>
-  <source src="https://cdn.codecarrot.net/videos/running-a-shop-in-the-local-market-let-make-it-online.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NyHYsNPSEYs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## 1. Are you the right sort of person to start up a business?
 
