@@ -33,9 +33,7 @@ The Batch Create Symbols plugin allows you to select a bunch of layers, click, a
 
 ## Confetti
 
-<video controls>
-  <source src="https://cdn.codecarrot.net/videos/confetti–sketch-plugin-for-generating-confetti-patterns.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YDzmEE2bB7Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Here’s a fun one. Confetti will automatically take a group of layers or symbols and blast them around randomly to form confetti patterns. Sure, you could copy and paste a bunch of little tiny layers by hand, but where’s the fun in that?
 
