@@ -15,9 +15,7 @@ the differences between Flexbox and CSS Grid Layout. Right now, we can only use 
 
 When people first encounter CSS Grid Layout, they tend to think of Grid as being the controller of the major page layout, providing a framework for headers and sidebars, main content and footers.
 
-<video poster="https://cdn.codecarrot.net/images/the-dominion-of-the-air.png" controls>
-  <source src="https://cdn.codecarrot.net/videos/66183b02e719432fa6abcfc0079b5f69.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/t2cq0sohb4U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 You can see this use case in this example. Only the direct children become a Grid Item and so by declaring a Grid on my wrapper the header, panel, content and footer all become Grid Items and can be placed onto that Grid. Any elements inside those main containers can then be laid out by whichever method makes sense.
 
