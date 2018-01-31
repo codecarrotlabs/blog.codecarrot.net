@@ -30,9 +30,7 @@ Singhal says there are two primary ways Google will measure page speed:
 1. How a page responds to Googlebot
 2. Load time as measured by the Google Toolbar
 
-<video poster="https://cdn.codecarrot.net/images/659566733_780x439.webp" controls>
-  <source src="https://cdn.codecarrot.net/videos/how-does-google-determine-page-speed.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hDrtW3eq14I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Where Page Speed Fits in Google’s Algorithm
 
