@@ -21,9 +21,7 @@ With more than **2 billion** active android devices and more than 80 % market sh
 
 One of the latest announcement made by google at their official event during the I/O keynote, was that they will make Kotlin an officially supporte language for Android development. Their latest Android studio version 3.0 Preview has started to ship with the latest support environment for the developer.
 
-<video poster="https://cdn.codecarrot.net/images/658287561_780x439.webp" controls>
-  <source src="https://cdn.codecarrot.net/videos/kotlin-google-io-keynote-2017.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NjE55HsyKcw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Kotlin : What & Why ?
 
