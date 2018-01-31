@@ -51,9 +51,7 @@ If you’ve ever created a colorful gradient that got a bit gray and dingy in th
 
 ## Craft
 
-<video controls>
-  <source src="https://cdn.codecarrot.net/videos/craft-by-invision-labs-ui-design-plugins-for-sketch-and-photoshop.mp4" type="video/mp4">
-</video>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_74_17JMZGM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The singular must-have in every UI/UX designer’s tool belt, Craft is a suite of plugins for Photoshop and Sketch that help streamline your design workflow by automating tedious actions and pulling in more realistic sample data.
 
