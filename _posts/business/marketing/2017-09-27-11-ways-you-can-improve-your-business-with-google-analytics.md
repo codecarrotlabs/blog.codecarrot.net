@@ -25,6 +25,4 @@ Follow these 11 Ways You Can Improve Your Business With Google Analytics.
 
 Check out this video to learn more:
 
-<video poster="https://cdn.codecarrot.net/images/657585285_780x439.webp" controls>
-  <source src="https://cdn.codecarrot.net/videos/11-ways-you-can-improve-your-business-with-google-analytics.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsxF5QoA0CQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
