@@ -5,7 +5,7 @@ title: React.createClass versus extends React.Component
 date: 2018-02-02 14:19:24 +0530
 categories: code
 tags: coding react facebook framework react component
-description: Two ways to do the same thing. Almost. React traditionally provided the React.createClass method to create component classes, and released a small syntax
+description: Two ways to do the same thing. Almost. React traditionally provided the React.createClass method to create
 image: https://cdn.codecarrot.net/images/es6-class-components-header.png
 ---
 
