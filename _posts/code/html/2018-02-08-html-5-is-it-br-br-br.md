@@ -1,11 +1,11 @@
 ---
 layout: post
 author: yashumittal
-title: HTML 5 - Is it <br>, <br/>, or <br />?
+title: HTML 5 - Is it br, br/, or br /?
 date: 2018-02-08 20:56:00 +0530
 categories: code
 tags: coding html br
-description: HTML 4.01 was supposed to "allow" single-tags to just be <img> and <br>. Then XHTML came along with <img /> and <br />.
+description: HTML 4.01 was supposed to "allow" single-tags to just be img and br. Then XHTML came along with img / and br /.
 image: https://cdn.codecarrot.net/images/html-5-is-it-br-br-br.png
 ---
 
