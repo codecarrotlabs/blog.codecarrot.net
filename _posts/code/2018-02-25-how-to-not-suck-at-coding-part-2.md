@@ -92,7 +92,7 @@ In reality, while the brain *is* like a computer processor, it’s also a biolog
 
 Engaging in physical activities like walking, running, or biking increases blood flow to the brain. This in turn leads to neurological benefits such as improved memory and creative thinking. These capacities are crucial to problem solving.
 
-Walking also can contribute positively to your general mood. Look at these guys!
+![Walking also can contribute positively to your general mood. Look at these guys!](https://i.imgur.com/y1VrMrN.gif)
 
 So the next time you’re stuck on a problem, take a quick break. It may be just the thing you need to figure out the solution.
 
