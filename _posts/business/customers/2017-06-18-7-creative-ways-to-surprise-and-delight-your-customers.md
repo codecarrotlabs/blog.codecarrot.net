@@ -47,13 +47,13 @@ There are so many instances of customers being truly appreciative of thank you n
 
 Here are some quick tips on writing a killer thank you note:
 
-*  If it's financially feasible, try to use quality stationary. Some of the stationary sets on sites like Pinhold are quite nice for the price.
-*  Be sure to mention the customer's name, and not for some gimicky persuasion reason, but because it's common courtesy!
-*  Express your gratitude, clearly stating the reason for sending the note.
-*  Mention details about what you enjoyed about your experience with this customer (a fantastic opportunity to be specific and thoughtful).
-*  Allude to your future interactions with the customer (when will you make contact next?)
-*  Close with professional but warm sign-off and a signature (examples: Best, Kindest Regards, Sincerely, Cheers, etc.)
-*  Can't you find the time to show customers you care with a little handwritten gratitude?
+* If it's financially feasible, try to use quality stationary. Some of the stationary sets on sites like Pinhold are quite nice for the price.
+* Be sure to mention the customer's name, and not for some gimicky persuasion reason, but because it's common courtesy!
+* Express your gratitude, clearly stating the reason for sending the note.
+* Mention details about what you enjoyed about your experience with this customer (a fantastic opportunity to be specific and thoughtful).
+* Allude to your future interactions with the customer (when will you make contact next?)
+* Close with professional but warm sign-off and a signature (examples: Best, Kindest Regards, Sincerely, Cheers, etc.)
+* Can't you find the time to show customers you care with a little handwritten gratitude?
 
 ## 3. Check in With Customers
 
