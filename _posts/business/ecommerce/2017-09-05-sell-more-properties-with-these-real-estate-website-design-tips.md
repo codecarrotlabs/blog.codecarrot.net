@@ -6,7 +6,7 @@ date: 2017-09-05 00:35:00 +0530
 categories: business
 tags: estate real-estate website design properties
 description: Attention real estate agents - Want more solid leads? Use these real estate website design tips to create your own lead generation machine.
-image: https://cdn.codecarrot.net/images/sell-more-properties.jpg
+image: https://i.imgur.com/hyhnTlz.jpg
 ---
 
 If you don't have a website for your business. You can get is [developed from Codecarrot](//www.codecarrot.net/).

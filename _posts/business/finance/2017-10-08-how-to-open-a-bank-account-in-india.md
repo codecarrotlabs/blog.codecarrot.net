@@ -6,7 +6,7 @@ date: 2017-10-08 21:41:00 +0530
 categories: business
 tags: business money life-aboard india
 description: Are you planning on moving to India permanently? Or perhaps you often travel there for pleasure? India has long been popular as a holiday destination, and with good reason. Not only are there lots of different cultures to experience and places to explore, it’s also incredibly beautiful.
-image: https://cdn.codecarrot.net/images/taj-mahal.jpg
+image: https://i.imgur.com/RLHzdaO.jpg
 ---
 
 *Are you planning on moving to India permanently? Or perhaps you often travel there for pleasure? India has long been popular as a holiday destination, and with good reason. Not only are there lots of different cultures to experience and places to explore, it’s also incredibly beautiful.*
@@ -55,7 +55,7 @@ You must keep the account open for at least one year, but not more than five yea
 
 ## What documents do I need?
 
-![Life Aboard Studying Abroad](https://cdn.codecarrot.net/images/Life-Abroad-Studying-Abroad.jpg)
+![Life Aboard Studying Abroad](https://i.imgur.com/iWlmj7B.jpg)
 
 Whether you want to open an account as a resident or non-resident, you will need to provide proof of identity and proof of your address, as well as a recent photograph.
 
