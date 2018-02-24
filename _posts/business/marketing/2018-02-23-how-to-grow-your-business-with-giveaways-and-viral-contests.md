@@ -113,7 +113,7 @@ Depending on what product is is that you're giving away, you can even have the w
 
 A company called Dream Giveaway does this incredibly well, by having a dedicated page to show off past winners!
 
-This can help create [social proof for your business](/how-to-use-social-proof-to-influence-visitors-and-increase-your-sales), as well as be an enticing way to get more entries into your future giveaways.
+This can help create social proof for your business, as well as be an enticing way to get more entries into your future giveaways.
 
 ## Conclusion
 
