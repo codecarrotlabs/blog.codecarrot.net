@@ -6,7 +6,7 @@ date: 2017-12-30 12:00:00 +0530
 categories: business
 tags: business marketing landing-page conversion
 description: When it comes to business on the Web, conversion is truly king. Whether it’s email subscribers, new accounts or good ole-fashioned purchases, conversion makes or breaks businesses online.
-image: https://i.imgur.com/A9uD51D.jpg
+image: https://i.imgur.com/TU7bpOX.png
 ---
 
 When it comes to business on the Web, conversion is truly king. Whether it’s email subscribers, new accounts or good ole-fashioned purchases, conversion makes or breaks businesses online. Thousands of articles, hundreds of papers and dozens of books have been written on the subject. In fact, a whole discipline, Conversion Rate Optimization (CRO), has been born out of the intense need to transform traffic into transactions. So without further ado, we throw our top 13 best tips to increase the conversion of your landing pages and improve your business.
