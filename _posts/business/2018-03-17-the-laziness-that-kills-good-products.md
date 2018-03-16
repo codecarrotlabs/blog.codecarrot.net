@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: The laziness that kills good products 😑
+title: The Laziness That Kills Good Products 😑
 date: 2018-03-17 17:50:28 +0530
 categories: business
 tags: business product laziness
