@@ -20,13 +20,14 @@ Having resources doesn’t guarantee that you can succeed. You have to have a ne
 </blockquote>
 
 Hope you are still with me, today we will together try to understand what fundamental things one has to take care of before s/he decides to start on his new venture(Startup)
+
 1. Do you have necessary fundamental knowledge Of what you want to do?
-2. Do you have go to market strategy in place ? business model has to be well planned before jumping to product development.
+2. Do you have go to market strategy in place? business model has to be well planned before jumping to product development.
 3. Do you have the full time founding team to execute the business plan?
 4. Have you got the conviction to pull it off when things will go extremely bad?
 5. Do you have the necessary budget or funds in place to smoothly run the operation till you reach the Product Market Fit Stage?
 6. Do you have the guts, to bluntly accept that it’s not your cup of tea and pivot or to move on to do what you are best doing at?
-7. Last but not the least have you identified the real problem which is worth solving irrespective of it’s market size . if yes than you are obviously on the right track , embrace your failures and carry on you will definitely love the journey if not the destiny.
+7. Last but not the least have you identified the real problem which is worth solving irrespective of it’s market size. if yes than you are obviously on the right track, embrace your failures and carry on you will definitely love the journey if not the destiny.
 
 Signing-off with a wonderful food for thought based on my practical experiences
 
