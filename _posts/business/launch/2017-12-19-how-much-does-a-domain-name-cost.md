@@ -29,6 +29,8 @@ How do I pick one?
 
 ![How Much Does A Domain Name Cost Pick One](https://i.imgur.com/dsVMw1Q.jpg)
 
+<blockquote class="twitter-tweet" data-theme="light" data-link-color="#2B7BB9"><p lang="en" dir="ltr">10 <a href="https://twitter.com/hashtag/tips?src=hash&amp;ref_src=twsrc%5Etfw">#tips</a> for choosing the perfect <a href="https://twitter.com/hashtag/domain?src=hash&amp;ref_src=twsrc%5Etfw">#domain</a> name <a href="https://t.co/RFG1f3utXJ">https://t.co/RFG1f3utXJ</a><a href="https://twitter.com/hashtag/branding?src=hash&amp;ref_src=twsrc%5Etfw">#branding</a> <a href="https://twitter.com/hashtag/marketing?src=hash&amp;ref_src=twsrc%5Etfw">#marketing</a> <a href="https://twitter.com/hashtag/naming?src=hash&amp;ref_src=twsrc%5Etfw">#naming</a> <a href="https://twitter.com/hashtag/business?src=hash&amp;ref_src=twsrc%5Etfw">#business</a> <a href="https://twitter.com/hashtag/startup?src=hash&amp;ref_src=twsrc%5Etfw">#startup</a> <a href="https://twitter.com/hashtag/sweets?src=hash&amp;ref_src=twsrc%5Etfw">#sweets</a></p>&mdash; CodeCarrot (@codecarrotnet) <a href="https://twitter.com/codecarrotnet/status/946461977462833152?ref_src=twsrc%5Etfw">December 28, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [When it comes to choosing a domain name](/10-tips-for-choosing-the-perfect-domain-name), there are a few things to consider:
 
 ### Incorporate keywords
