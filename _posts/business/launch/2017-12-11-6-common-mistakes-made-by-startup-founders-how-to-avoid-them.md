@@ -6,7 +6,7 @@ date: 2017-12-11 23:21:00 +0530
 categories: business
 tags: business mistakes startup launch founders
 description: The most effective way to learn as an entrepreneur is by making mistakes or learning from the mistakes of others. Let's look at the most common mistakes.
-image: https://cdn.codecarrot.net/images/slip-up-709045_1920-e1510747758341.jpg
+image: https://i.imgur.com/TiS1k7X.jpg
 ---
 
 The most effective way to learn as an entrepreneur is by making mistakes or learning from the mistakes of others; learning from our mistakes helps us to perform better and become better business people.

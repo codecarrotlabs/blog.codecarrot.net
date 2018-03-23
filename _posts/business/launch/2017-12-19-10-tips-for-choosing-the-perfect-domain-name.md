@@ -6,7 +6,7 @@ date: 2017-12-19 22:41:20 +0530
 categories: business
 tags: business domain domain-name branding
 description: Follow these steps to avoid costly mistakes and make sure you’re getting the perfect domain name for your business.
-image: https://cdn.codecarrot.net/images/box_of_chocolates.jpg
+image: https://i.imgur.com/aMYkHuY.jpg
 ---
 
 Choosing a domain name is similar to choosing a company name — it requires a lot of thought and consideration. Your domain name is your identity on the web; you want to make sure you choose a domain name that not only fits your business, but is also easy to find and promote.

@@ -6,7 +6,7 @@ date: 2017-12-11 21:22:35 +0530
 categories: business
 tags: business launch startup office
 description: The idea of being stuck in a home office every day is not ideal for many people. While some view it as a convenience, others regard it as a dull existence.
-image: https://cdn.codecarrot.net/images/office-speaker-window-plant-e1509716706741.jpg
+image: https://i.imgur.com/z1evvvy.jpg
 ---
 
 The idea of being stuck in a home office every day is not ideal for many people. While some view it as a convenience, others regard it as a dull existence and they miss the social interactions they would otherwise get.

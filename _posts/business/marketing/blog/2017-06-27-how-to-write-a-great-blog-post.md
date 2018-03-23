@@ -6,7 +6,7 @@ date: 2017-06-27 12:00:00 +0530
 categories: business
 tags: business marketing blogging
 description: Knowing how to write a great blog post can be a challenge for beginning bloggers. Get organized from the start with these tips.
-image: https://cdn.codecarrot.net/images/how-to-write-a-great-blog-post.jpg
+image: https://i.imgur.com/zopBaAR.jpg
 ---
 
 Blogs have become the go-to for sharing information, whether on a product, service or general topic of interest.
@@ -75,7 +75,7 @@ It’s time to go back and edit. Read the entire article once for any glaring mi
 
 Once you are done writing and reviewing your own work, send your post to someone else for proofing. Ask them to point out any grammatical errors, in addition to gaps in the content. If you share your article via Google Docs or Microsoft Word, they can leave comments, rather than making direct edits or putting notes into the text.
 
-![Proofreading](https://cdn.codecarrot.net/images/proofreading.jpg)
+![Proofreading](https://i.imgur.com/VwfLI9a.jpg)
 
 Credibility is everything. Get a second set of eyes on your copy before you publish a blog post.
 Step 6: Look for engaging visuals
@@ -107,7 +107,7 @@ Additionally, don’t forget to brainstorm topics that promote your business in 
 
 Once you have a list of ideas, put all of your topics into a content calendar. Arrange them to correspond with seasons, holidays and other times of the year that are important to your readership or business.
 
-![Calendar](https://cdn.codecarrot.net/images/calendar-inside-tablet.jpg)
+![Calendar](https://i.imgur.com/6HchndR.jpg)
 
 Create an editorial calendar to plan blog posts that make sense for your readers and your business, at the right time.
 

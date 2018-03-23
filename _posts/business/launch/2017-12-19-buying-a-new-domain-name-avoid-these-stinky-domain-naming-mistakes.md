@@ -6,7 +6,7 @@ date: 2017-12-19 23:41:20 +0530
 categories: business
 tags: business domain domain-name branding mistakes
 description: Steer clear of five common domain naming mistakes to choose a website address for your business that does justice to your brand.
-image: https://cdn.codecarrot.net/images/skunkthumb.jpg
+image: https://i.imgur.com/HnnFpz5.jpg
 ---
 
 Buying a domain for your business is a big deal. I feel like I put as much time and thought into finding the right domain for my new beard care business as I did thinking of a name for my daughter. Well, maybe not quite that much, but certainly more effort than it would’ve taken to register the first not-quite-perfect-but-available domain name that popped into my mind.

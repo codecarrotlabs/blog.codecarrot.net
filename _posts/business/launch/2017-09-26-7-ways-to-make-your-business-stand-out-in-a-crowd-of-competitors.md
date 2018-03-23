@@ -6,7 +6,7 @@ date: 2017-09-26 02:00:00 +0530
 categories: business
 tags: competitors business smallbiz smallbusiness
 description: In a world where the competition regularly claims to be 1, it’s difficult to differentiate and build your own identity. Difficult, but not impossible.
-image: https://cdn.codecarrot.net/images/3dcity.png
+image: https://i.imgur.com/idQ54wl.png
 ---
 
 In a world where the competition regularly claims to be #1, it’s difficult to differentiate and build your own identity. Difficult, but not impossible.
@@ -19,7 +19,7 @@ Let’s look at seven ways to help your business stand out from the crowd. Each 
 
 Most forward thinking companies are familiar with the benefits of getting a website and start blogging. If you’re tired of being overlooked online; if you’re seeking a fresh way to share ideas, bring more awareness about your product/service and have your voice heard, get involved with corporate website and blogging.
 
-[![Make your business online with a website Promo](https://cdn.codecarrot.net/images/lady-siting-and-working-on-laptop-make-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
+[![Make your business online with a website Promo](https://i.imgur.com/MAphtcZ.png)](//www.codecarrot.net/)
 
 ## 2. Provide Legendary Customer Service
 

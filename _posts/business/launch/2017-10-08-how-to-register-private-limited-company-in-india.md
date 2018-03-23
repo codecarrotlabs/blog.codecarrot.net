@@ -6,7 +6,7 @@ date: 2017-10-08 22:26:00 +0530
 categories: business
 tags: business entrepreneur startup business india
 description: Looking to register your business as a private company? Here is everything you need to know about how to register a private limited company.
-image: https://cdn.codecarrot.net/images/sign-register-company.jpg
+image: https://i.imgur.com/vBWytuD.jpg
 ---
 
 Looking to register your business as a private limited company? Here is everything you need to know to help you get started.
@@ -117,4 +117,4 @@ Once a Company is duly incorporated, it will remain active and in-existence as l
 
 While registering your company may be a long, tedious process – getting started with an online business may not be. [Get started today](//www.codecarrot.net/).
 
-[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](//www.codecarrot.net/)

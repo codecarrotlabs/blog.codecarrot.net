@@ -6,7 +6,7 @@ date: 2017-12-11 02:26:00 +0530
 categories: business
 tags: business startup idea
 description: The beauty of the design process is that it provides solutions for problems. Know instead of just believing. Test your ideas and achieve success.
-image: https://cdn.codecarrot.net/images/dark-lightbulb-1-334297-edited.jpeg
+image: https://i.imgur.com/aNwzqip.jpg
 ---
 
 I want to help you not to fail. I respect you might have your vision and you are confident it is good. Your product or development team respects that as well. There is a chance you are a genius in the making, and your business idea will change the world. Or you’re not and you just don’t know it. This is why I’m being honest and why I want to tell you not to rely on your gut and vision all the time. You don’t have to learn from your own mistakes and this is how to avoid some of the most popular ones.
