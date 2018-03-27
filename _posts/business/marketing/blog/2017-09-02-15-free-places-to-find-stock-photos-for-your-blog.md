@@ -12,7 +12,7 @@ image: https://cdn.codecarrot.net/images/john-salzarulo-27847.jpg
 Whether you’re blogging for yourself or a client, I’m sure you know the importance of images.
 
 <blockquote>
-Want a start a new blogging website. Get started today with [10% OFF](//www.codecarrot.net/).
+Want a start a new blogging website. Get started today with CodeCarrot.
 </blockquote>
 
 On a high level, gorgeous photos help bring your blog’s brand to life. Photos also break up text, making your content skimmable and shareable.
