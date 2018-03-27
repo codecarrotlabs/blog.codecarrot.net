@@ -82,7 +82,7 @@ Step 6: Look for engaging visuals
 
 Find a great feature image, and any others that would support your text. You can download great free photos at [Unsplash](//unsplash.com/), [StockSnap.io](//stocksnap.io/) and [Pixabay](//pixabay.com/). There are also free photos at [Freepik](//www.freepik.com/), but you have to include a source link somewhere in your post. I usually put it at the bottom.
 
-Learn more about [43+ Unique Places to Find Remarkable Free Photos]().
+Learn more about 43+ Unique Places to Find Remarkable Free Photos.
 
 ## Don’t forget distribution
 
