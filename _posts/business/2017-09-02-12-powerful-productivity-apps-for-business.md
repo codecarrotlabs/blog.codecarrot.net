@@ -4,7 +4,7 @@ author: yashumittal
 title: 12 powerful productivity apps for business
 date: 2017-09-02 15:46:00 +0530
 categories: business
-tags: apps smallbiz productivity
+tags: business apps smallbiz productivity
 description: Being a small business owner requires multitasking and juggling to-do's all day! Make your life easier with these powerful productivity apps for business.
 image: https://cdn.codecarrot.net/images/rami-al-zayat-170349.jpg
 ---

@@ -4,7 +4,7 @@ author: yashumittal
 title: 5 Easy Ways to Raise Money for Your Small Business
 date: 2017-07-11 12:00:00 +0530
 categories: business
-tags: money smallbiz investment equity investors funds launch idea
+tags: business money smallbiz investment equity investors funds launch idea
 description: Do you have a great business idea but don’t have the money to start off? Raising funds for your business is not as hard as you think.
 image: https://i.imgur.com/2jKO2XE.jpg
 ---

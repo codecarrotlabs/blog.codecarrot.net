@@ -4,7 +4,7 @@ author: yashumittal
 title: What makes an effective landing page?
 date: 2017-08-28 02:30:00 +0530
 categories: business
-tags: landing-page page marketing
+tags: business landing-page page marketing
 description: There’s no guaranteed formula for a flawless landing page, but it’s not hard to see that the best and most effective sites have a few things in common.
 image: https://cdn.codecarrot.net/images/rocket.jpg
 ---

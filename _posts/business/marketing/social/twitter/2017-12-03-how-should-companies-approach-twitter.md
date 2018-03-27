@@ -4,7 +4,7 @@ author: yashumittal
 title: How Should Companies Approach Twitter?
 date: 2017-12-03 21:54:00 +0530
 categories: business
-tags: twitter marketing companies social-media
+tags: business twitter marketing companies social-media
 description: While I was planning to write a new blog post for CodeCarrot. My friend asked me Should a company tweet as itself on Twitter (ie @codecarrotnet) or should the Twitter account be written from a more personal perspective (ie @mittalyashu77)?
 image: https://cdn.codecarrot.net/images/Disneyland-Resort-on-Twitter.png
 ---

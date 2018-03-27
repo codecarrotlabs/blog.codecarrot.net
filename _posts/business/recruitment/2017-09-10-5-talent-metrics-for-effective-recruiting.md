@@ -4,7 +4,7 @@ author: yashumittal
 title: 5 Talent Metrics for Effective Recruiting
 date: 2017-09-10 11:24:00 +0530
 categories: business
-tags: recruitment hire job team
+tags: business recruitment hire job team
 description: 5 Recruiting Metrics that Matter. Time to Hire. The Time to Hire metric should be a leading indicator that determines recruiting forecasting rather than efficiency.
 image: https://cdn.codecarrot.net/images/maarten-van-den-heuvel-73124.jpg
 ---

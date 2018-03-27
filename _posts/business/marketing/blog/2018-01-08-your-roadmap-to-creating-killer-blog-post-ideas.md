@@ -4,7 +4,7 @@ author: yashumittal
 title: Your Roadmap to Creating Killer Blog Post Ideas
 date: 2018-01-08 00:30:00 +0530
 categories: business
-tags: marketing business blog idea roadmap
+tags: business marketing blog idea roadmap
 description: Ideas are taking over. They’re changing our world. Redefining who we are. Creating new opportunities. Blogging itself started as an idea. An idea that evolved into a revolution. An idea that’s become so powerful that governments fear it.
 image: https://cdn.codecarrot.net/images/ideas.jpg
 ---

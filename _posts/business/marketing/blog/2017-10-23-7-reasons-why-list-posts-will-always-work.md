@@ -4,7 +4,7 @@ author: yashumittal
 title: 7 Reasons Why List Posts Will Always Work
 date: 2017-10-23 00:10:00 +0530
 categories: business
-tags: marketing business blog
+tags: business marketing blog
 description: It’s a blogosphere favorite for good reason — “list” content works, in large part due to the attention-grabbing power of the headline.
 image: https://cdn.codecarrot.net/images/p-1-these-10-ceos-to-to-do-list-hacks.webp
 ---

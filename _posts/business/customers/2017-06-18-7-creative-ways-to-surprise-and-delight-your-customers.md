@@ -4,7 +4,7 @@ author: yashumittal
 title: 7 Creative Ways to Surprise And Delight Your Customers
 date: 2017-06-18 12:00:00 +0530
 categories: business
-tags: customer surprise creative marketing
+tags: business customer surprise creative marketing
 description: As the web continues to drastically change how we shop, entrepreneurs are finding a renewed faith in the power of a great customer experience.
 image: https://i.imgur.com/J1OjL2K.jpg
 ---

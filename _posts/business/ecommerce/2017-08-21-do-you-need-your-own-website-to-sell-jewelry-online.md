@@ -4,7 +4,7 @@ author: yashumittal
 title: Do you need your own website to sell jewelry online?
 date: 2017-08-21 12:00:00 +0530
 categories: business
-tags: website jewelry online marketplace store online-store ecommerce
+tags: business website jewelry online marketplace store online-store ecommerce
 description: If you sell jewelry online, chances are you do it through a marketplace like Etsy. It may be time to double your exposure — and sales — with your own store.
 image: https://i.imgur.com/Yk6UZPC.jpg
 ---
