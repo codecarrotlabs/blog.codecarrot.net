@@ -46,7 +46,7 @@ Audiences are created independently from ads. Once an audience is created you ca
 
 ## 2. Custom Conversions
 
-One of the most exciting parts of the new pixel is the ability to [create Custom Conversions](//www.facebook.com/business/help/780705975381000) the same way you create Custom Audiences. A Custom Conversion is created by selecting a completion page and naming the conversion. Typically the completion page is some kind of thank you page. For example:
+One of the most exciting parts of the new pixel is the ability to [create Custom Conversions](https://www.facebook.com/business/help/780705975381000) the same way you create Custom Audiences. A Custom Conversion is created by selecting a completion page and naming the conversion. Typically the completion page is some kind of thank you page. For example:
 
 * Thank you for shopping, your order is on the way
 * Thanks for signing up, you’ll receive your first email from us shortly
@@ -68,9 +68,9 @@ The drawback of Custom Conversions is that you’re limited to 20, and at this t
 
 ## 3. Standard Events
 
-Standard Events are an advanced feature of the new Facebook pixel. If you only use Website Custom Audiences and Custom Conversions, you're in great shape. In the [80-20](//en.wikipedia.org/wiki/Pareto_principle) of Facebook advertising, you'll already be doing the simple things that have the biggest impact.
+Standard Events are an advanced feature of the new Facebook pixel. If you only use Website Custom Audiences and Custom Conversions, you're in great shape. In the [80-20](https://en.wikipedia.org/wiki/Pareto_principle) of Facebook advertising, you'll already be doing the simple things that have the biggest impact.
 
-Standard Events function similarly to the old conversion pixels. You can create [Standard Events](//www.facebook.com/business/a/add-pixel-standard-events) with the new pixel, but much like the old pixel, they require a bit of extra code. One major perk of Standard Events is that they help get passed the limit of 20 Custom Conversions.
+Standard Events function similarly to the old conversion pixels. You can create [Standard Events](https://www.facebook.com/business/a/add-pixel-standard-events) with the new pixel, but much like the old pixel, they require a bit of extra code. One major perk of Standard Events is that they help get passed the limit of 20 Custom Conversions.
 
 While Custom Conversions are tied to a URL (usually for some kind of thank you or completion page), Standard Events don't need to be. Instead, conversions can be tracked by adding an additional line of the code to the page of interest.
 
@@ -82,7 +82,7 @@ There are nine conversion types you can use with Standard Events, each with its 
 
 The new Facebook pixel works similarly to the old custom audience pixel. It needs to be in the head section of your index page so that it appears on every page on your website. No matter what page gets loaded, the pixel will fire and track where the visitor is.
 
-First, if you haven't already, you'll need to create your Pixel. Start by visiting the [Ads Manager](//www.facebook.com/ads/manager/account/). Once there, click on the Ads Manager menu and select "Pixels" under "Assets".
+First, if you haven't already, you'll need to create your Pixel. Start by visiting the [Ads Manager](https://www.facebook.com/ads/manager/account/). Once there, click on the Ads Manager menu and select "Pixels" under "Assets".
 
 ![facebook ads manager](https://cdn.codecarrot.net/images/facebook_Ads_Manager.png)
 
@@ -96,4 +96,4 @@ Name your Pixel and click "Create Pixel".
 
 Your Pixel code will now pop up. In order for your pixel to work properly, it needs to be displayed on every page of your website. The best place to put the code is in the <head></head> section of your index page.
 
-If you [get your store](//www.codecarrot.net/), the process is much simpler. Scroll through the code and look for a string of 15 numbers. That's your Pixel ID. Copy this number. If you need any help with your website, [team at CodeCarrot](//www.codecarrot.net/) is happy to help you.
+If you [get your store](https://www.codecarrot.net/), the process is much simpler. Scroll through the code and look for a string of 15 numbers. That's your Pixel ID. Copy this number. If you need any help with your website, [team at CodeCarrot](https://www.codecarrot.net/) is happy to help you.

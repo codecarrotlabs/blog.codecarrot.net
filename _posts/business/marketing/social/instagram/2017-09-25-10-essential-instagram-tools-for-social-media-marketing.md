@@ -11,13 +11,13 @@ image: https://i.imgur.com/90hn2l1.jpg
 
 Instagram is more than just a casual pastime: It’s a powerful marketing platform for business owners everywhere.
 
-With [over half a billion monthly active users](//www.instagram.com/press/), Instagram has opened up huge opportunities for brands to find new customers and get their products seen. Tactics like [running Instagram ads](/the-beginners-guide-to-advertising-on-instagram) and reaching out to influencers are effective, but, without the right tools, it can be tough to get the results that you want.
+With [over half a billion monthly active users](https://www.instagram.com/press/), Instagram has opened up huge opportunities for brands to find new customers and get their products seen. Tactics like [running Instagram ads](/the-beginners-guide-to-advertising-on-instagram) and reaching out to influencers are effective, but, without the right tools, it can be tough to get the results that you want.
 
 To help you turbocharge your Instagram account, we’ve put together a top-notch toolkit of Instagram apps that will set your business apart and drive more customers to your online store.
 
 Let’s get into it.
 
-[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](https://www.codecarrot.net/)
 
 ## Tools for Taking Gorgeous Photos
 
@@ -27,7 +27,7 @@ One of the most important parts of having an effective Instagram presence is loa
 
 Even if you aren’t a professional photographer, you can still create great Instagram content with [just your smartphone](/how-to-capture-high-quality-product-photos-with-your-smartphone) and a few key apps:
 
-## [VSCO](//vsco.co/)
+## [VSCO](https://vsco.co/)
 
 ### **Cost: Free**
 
@@ -39,7 +39,7 @@ VSCO has an in-depth editing suite and a slew of high quality default filters th
 
 VSCO is available for iOS and Android.
 
-## [Snapseed](//itunes.apple.com/EN/app/snapseed/id439438619?mt=8)
+## [Snapseed](https://itunes.apple.com/EN/app/snapseed/id439438619?mt=8)
 
 ### **Cost: Free**
 
@@ -51,7 +51,7 @@ Snapseed’s Stacks are another great feature, letting you save groups of filter
 
 Snapseed is available for iOS and Android.
 
-## [Afterlight](//afterlight.us/)
+## [Afterlight](https://afterlight.us/)
 
 ### **Cost: $0.99 - $1.39**
 
@@ -63,7 +63,7 @@ With its sleek and straightforward design, Afterlight is an easy-to-use, must-ha
 
 Afterlight is available for iOS, Android, and Windows.
 
-## [Boomerang](//itunes.apple.com/ca/app/boomerang-from-instagram/id1041596399?mt=8)
+## [Boomerang](https://itunes.apple.com/ca/app/boomerang-from-instagram/id1041596399?mt=8)
 
 ### **Cost: Free**
 
@@ -79,7 +79,7 @@ A successful marketing campaign on Instagram doesn’t end with sharing a photo.
 
 While Instagram only recently started to launch its own analytics tools, there are many platforms out there that make managing your Instagram marketing campaigns easy:
 
-## [Sprout Social Website](//sproutsocial.com/integrations/instagram)
+## [Sprout Social Website](https://sproutsocial.com/integrations/instagram)
 
 ### **Cost: $59 - $500/month**
 
@@ -91,7 +91,7 @@ With Sprout Social’s analytics, you’ll be able to track engagement and compa
 
 Additionally, Sprout Social has tools for monitoring hashtags and comments, helping you keep your fingers on the pulse of your community and find new opportunities for engagement.
 
-## [Iconosquare](//pro.iconosquare.com/)
+## [Iconosquare](https://pro.iconosquare.com/)
 
 ### **Cost: $28.80 - $499/year**
 
@@ -103,7 +103,7 @@ With Iconosquare, you can track regular engagement data like followers and likes
 
 Iconosquare also gives you the chance to compare your performance against your competitors, helping you get a better idea of where you fit into your industry landscape.
 
-## [Websta](//websta.me/tag/webstagram)
+## [Websta](https://websta.me/tag/webstagram)
 
 ### **Cost: Free**
 
@@ -119,7 +119,7 @@ To grow your audience and give your current fans a reason to stick around, you n
 
 Thankfully, there are a bunch of great platforms out there that give you the resources you need to schedule your posts in advance keep your profile well-stocked with great content.
 
-## [Schedugram](//schedugr.am/)
+## [Schedugram](https://schedugr.am/)
 
 ### **Cost: Starting at $20/month**
 
@@ -131,7 +131,7 @@ In addition to browser-based scheduling, Schedugram also comes with extensive ph
 
 Schedugram is priced on a sliding scale starting at $20/month, depending on your number of accounts and total Instagram followers.
 
-## [Later](//later.com/)
+## [Later](https://later.com/)
 
 ### **Cost: Free with Premium Plans starting at $19/month**
 
@@ -141,7 +141,7 @@ Later, formerly known as Latergramme, is an intuitive mobile, tablet, and browse
 
 Later comes with a diverse set of features for planning out your campaigns including the ability to explore hashtags and share user generated content. Later even lets you organize your posts with a handy content calendar and get a preview of your Instagram feed before publishing, making it simple to visualize exactly how your strategy will unfold.
 
-## [Hootsuite](//hootsuite.com/instagram)
+## [Hootsuite](https://hootsuite.com/instagram)
 
 ### **Cost: Free with Pro Plans starting at $9.99/month**
 

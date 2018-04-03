@@ -41,7 +41,7 @@ Make the most of the link in your Instagram bio.
 
 Let’s say you’re promoting a new product/event/service on your site and you want to post about it on Instagram. In your caption, remember to say “link in bio” to direct people to the URL in your profile.
 
-**Pro tip:** To avoid long, ugly links, shorten your URL with [Bit.ly](//bitly.com/shorten/) or [goo.gl](//goo.gl). If you sign up for an account, you’ll be able to track how many clicks that link has received.
+**Pro tip:** To avoid long, ugly links, shorten your URL with [Bit.ly](https://bitly.com/shorten/) or [goo.gl](https://goo.gl). If you sign up for an account, you’ll be able to track how many clicks that link has received.
 
 ## Highlight blog posts
 
