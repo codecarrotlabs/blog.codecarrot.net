@@ -6,7 +6,7 @@ date: 2017-09-05 14:58:10 +0530
 categories: business
 tags: business marketing email tips
 description: I've noticed that when I get stressed at work, it's often because my email inbox is out of control. I've got hundreds of unread emails, with no idea which ones are important. I finally decided I needed to learn how...
-image: https://cdn.codecarrot.net/images/mathyas-kurmann-102977.jpg
+image: https://i.imgur.com/Fb4JkxE.jpg
 ---
 
 I’ve noticed that when I get stressed at work, it’s often because my email inbox is out of control. I’ve got hundreds of unread emails, with no idea which ones are important. I finally decided I needed to learn how to be much more effective with email, so I came up with a few strategies.

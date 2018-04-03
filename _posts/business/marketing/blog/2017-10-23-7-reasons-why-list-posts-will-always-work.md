@@ -6,7 +6,7 @@ date: 2017-10-23 00:10:00 +0530
 categories: business
 tags: business marketing blog
 description: It’s a blogosphere favorite for good reason — “list” content works, in large part due to the attention-grabbing power of the headline.
-image: https://cdn.codecarrot.net/images/p-1-these-10-ceos-to-to-do-list-hacks.webp
+image: https://i.imgur.com/Ied4ivD.jpg
 ---
 
 It’s a blogosphere favorite for good reason — “list” content works, in large part due to the attention-grabbing power of the headline.

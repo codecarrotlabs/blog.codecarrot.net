@@ -6,7 +6,7 @@ date: 2017-09-05 17:00:00 +0530
 categories: business
 tags: business smallbiz grow weekends
 description: Building your business on the side is not easy. You come home after a long day of work, you spend the little time you have with your family and friends, and you
-image: https://cdn.codecarrot.net/images/249h.jpg
+image: https://i.imgur.com/CvgRJlz.jpg
 ---
 
 Building your business on the side is not easy. You come home after a long day of work, you spend the little time you have with your family and friends, and you try to jam in a productive session, working on your side business before going to bed.
@@ -31,7 +31,7 @@ Whenever you think up a task or project, but can’t make time for it during the
 
 Think up a great, actionable idea for your business?  Put it in your “next actions” list. Come up with a new marketing idea that will take several hours to implement? Put it in your “next actions list.”
 
-![Next action list](https://cdn.codecarrot.net/images/nextactionslist.jpg)
+![Next action list](https://i.imgur.com/P7xKwO8.jpg)
 
 At the end of the week, organize these ideas, tasks, and projects into timeslots throughout your weekends, then pull each task from your next actions list and move  it into your calendar for the weekend. (More on this in the next section)
 
@@ -91,7 +91,7 @@ On paper, sure, but in reality, there are a lot of distractions and excuses to k
 
 My Saturdays are usually the most productive day of my weekends. I like to put myself into “Airplane Mode”. Much like how your phone’s Airplane Mode which disables all of your phone’s connectivity to the internet, I do the same thing by cutting myself off from distractions.
 
-![Yashu Mittal mobile phone screenshot](https://cdn.codecarrot.net/images/yashumittal-airplane-mode-mobile-screenshot.png)
+![Yashu Mittal mobile phone screenshot](https://i.imgur.com/9j0T8GC.png)
 
 Though it’s unlikely you’ll be able to get much done without the internet there are tools you can use to help keep you from wandering off and browsing Facebook, while staying connected to the internet.
 

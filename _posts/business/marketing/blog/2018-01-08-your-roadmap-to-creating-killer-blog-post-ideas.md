@@ -6,7 +6,7 @@ date: 2018-01-08 00:30:00 +0530
 categories: business
 tags: business marketing blog idea roadmap
 description: Ideas are taking over. They’re changing our world. Redefining who we are. Creating new opportunities. Blogging itself started as an idea. An idea that evolved into a revolution. An idea that’s become so powerful that governments fear it.
-image: https://cdn.codecarrot.net/images/ideas.jpg
+image: https://i.imgur.com/UIRDakc.jpg
 ---
 
 Ideas are taking over.
@@ -94,7 +94,7 @@ Why? Because we love to *let it out.*
 
 A successful blogger knows the importance of conversing. He aims at being the starting point of conversations.
 
-![Conversation at the Starting point](https://cdn.codecarrot.net/images/conversations.jpg)
+![Conversation at the Starting point](https://i.imgur.com/TMXs5jP.jpg)
 
 However, these conversations don’t happen just like that. They’re well planned, and are designed to spread.
 
@@ -270,7 +270,7 @@ Don’t get me wrong – reading is great. In fact, it’s a habit that all blog
 
 You have to keep your eyes open for ideas. And actually study what you’re reading. 
 
-![Reading the book](https://cdn.codecarrot.net/images/reading-the-book.jpg)
+![Reading the book](https://i.imgur.com/syhUBso.jpg)
 
 Anything profound that you read can help you get creative. Right from a thought provoking book to an informative article.
 
@@ -367,7 +367,7 @@ One of the most common mistakes bloggers make is: writing without having somethi
 
 Writing becomes less tedious and more fun when you actually *have* an idea. And to get that idea, you need to think. Yes, thinking is more necessary than you *think.*
 
-![Thinking what to write](https://cdn.codecarrot.net/images/thinking-what-to-write.jpg)
+![Thinking what to write](https://i.imgur.com/YlMKauk.jpg)
 
 Some of the best minds spend a fair amount of time doing nothing but thinking. So laying there, staring at the ceiling (or the sky) and pondering deep is not all that bad.
 
@@ -495,7 +495,7 @@ However, most of us happen to reject change. Why? Because uncertainty makes us u
 
 Your comfort zone may be safe, but it invariably puts you in the ‘slow zone’. It halts your growth, cripples your creativity and limits your ideas. In short, it’s bad.
 
-![Where the magic happens](https://cdn.codecarrot.net/images/where-the-magic-happens.jpg)
+![Where the magic happens](https://i.imgur.com/JnkYIKf.jpg)
 
 If you want to live experiences that lead to a great ideas, you have no choice but to break out of your comfort area. More like *crush* it.
 

@@ -6,12 +6,12 @@ date: 2017-12-29 22:55:00 +0530
 categories: business
 tags: business marketing content
 description: If you’ve worked in web or product design, you’re familiar with the debate over what should come first - design or content. Here are some practical reasons.
-image: https://cdn.codecarrot.net/images/Design-is-just-decoration.png
+image: https://i.imgur.com/QSaQxKK.png
 ---
 
 If you’ve worked in web or product design, you’re familiar with the debate over what should come first: design or content. Here are some practical reasons why content should come first.
 
-![Design is absence of content is just decoration](https://cdn.codecarrot.net/images/Design-is-just-decoration.png)
+![Design is absence of content is just decoration](https://i.imgur.com/QSaQxKK.png)
 
 Now, I’m a content strategist, and yes, I believe that content—or at least, a concepting meeting with your content peeps—should always come first, but this isn’t a partisan stance. I don’t believe in the primacy of content just because that’s my trade, my area of expertise, or my passion.
 
@@ -33,7 +33,7 @@ All the best creative—whether it’s a print ad, landing page, or workflow—r
 
 Consider this classic Volkswagen ad. Every word, every design element—they all speak to the message the agency’s trying to drive home. They work together to tell you not just to buy a VW, but also to reconsider basic notions you’ve had drilled into your head all your life (“think big!” and “drive a fancy car” being the operative ideas here).
 
-![vw-small](https://cdn.codecarrot.net/images/vw-small.jpg)
+![vw-small](https://i.imgur.com/BxYtDXH.jpg)
 
 Words could achieve that alone, but there’d have to be a lot more than 2 of them to do it. Design alone might be able to achieve it, but I can’t think of how. (Granted, I’m not a designer.) Working together, copy and design play off each other to convey a complex concept almost instantaneously.
 

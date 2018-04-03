@@ -6,7 +6,7 @@ date: 2018-01-05 19:58:10 +0530
 categories: business
 tags: business marketing email customers
 description: Instead of sending thousands of email, it is better to send one awesome email that customers might love. But before we dive in the art of writing awesome email, lets see who is actually fit in, to send email to customers.
-image: https://cdn.codecarrot.net/images/writing-awesome-emails-that-customers-love.png
+image: https://i.imgur.com/YFztyCc.png
 ---
 
 <div data-type="youtube" data-video-id="qPT2JgM1d6U"></div>

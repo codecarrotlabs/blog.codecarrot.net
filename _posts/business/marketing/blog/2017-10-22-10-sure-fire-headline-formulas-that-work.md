@@ -6,7 +6,7 @@ date: 2017-10-22 23:35:00 +0530
 categories: business
 tags: business marketing blog
 description: Let’s move beyond those common headline formulas you see over and over, and add some new blood to your attention-grabbing arsenal.
-image: https://cdn.codecarrot.net/images/einstein_wide-c002cccefaa2907865f30a88f897aae704e76fb1.jpg
+image: https://i.imgur.com/OlwwOAg.jpg
 ---
 
 So, you’re seeing too many of those “how to” and [list headlines](/7-reasons-why-list-posts-will-always-work), and want to try a few different angles?
