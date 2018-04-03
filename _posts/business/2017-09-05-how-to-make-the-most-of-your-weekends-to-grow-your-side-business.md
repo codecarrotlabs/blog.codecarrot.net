@@ -134,7 +134,7 @@ Writing your goals down helps keep you accountable and brings you clarity. How d
 
 Stop dreading Mondays every Sunday night. Set the tone for an amazing week. Look forward to getting up early, tackling your morning routine and getting home after your 9-to-5 to work on your side business. Make your Sunday nights amazing!
 
-Watch a few motivational videos on YouTube or an inspiring Ted Talk, read a Shopify success story, or [learn something new](//blog.codecarrot.net/) before going to bed. You don’t have to over-stimulate yourself, just put yourself in the right mindset before going to bed.
+Watch a few motivational [videos on YouTube](https://www.youtube.com/channel/UCIAktdRKgMZMkNbJY44spqA) or an inspiring Ted Talk, read a Shopify success story, or [learn something new](https://blog.codecarrot.net/) before going to bed. You don’t have to over-stimulate yourself, just put yourself in the right mindset before going to bed.
 
 ## Rinse and Repeat
 
