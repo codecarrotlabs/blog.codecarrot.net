@@ -141,4 +141,10 @@ Organized by location, BigFoto is perfect for travel bloggers. If your recent tr
 
 Photos are free to use, even for commercial purposes. The site asks for a link back to BigFoto.
 
+**Pro tip**
+
+## 16. [Canva](https://www.canva.com/photos/)
+
+Canva photos is an extensive collection of high-quality photos and images to help both designers and non-designers with their designs.
+
 Start using these images in your [new blogging website](https://www.codecarrot.net/).
