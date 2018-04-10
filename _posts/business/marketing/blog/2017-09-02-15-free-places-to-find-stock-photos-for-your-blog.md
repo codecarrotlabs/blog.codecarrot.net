@@ -27,7 +27,7 @@ Luckily, there are a handful of free stock photo websites **targeted toward a sp
 
 *Note: Each website has its own licensing rules; check before downloading and using any photos. Also, different rules may apply if you want to change an image or use it commercially. You’ll also need to verify whether any of the photos you select require attribution.*
 
-## 1. [Gratisography](//gratisography.com/)
+## 1. [Gratisography](https://gratisography.com/)
 
 Gratisography is a great place to find free, high-resolution images that are **quirky, offbeat, and just plain fun**.
 
@@ -37,7 +37,7 @@ You can filter by big bucket categories (e.g., Animals, People, Nature), or do a
 
 If you or your client approaches content with a sense of humor or satire, then Gratisography should definitely be added to your stock photo toolkit.
 
-## 2. [New Old Stock](//nos.twnsnd.co/)
+## 2. [New Old Stock](https://nos.twnsnd.co/)
 
 If you’re looking for **free vintage stock photos**, New Old Stock is a good place to start.
 
@@ -47,7 +47,7 @@ Browsing New Old stock, you’ll find a variety of beautiful, vintage stock phot
 
 Whether you’re looking for antique images depicting city life, farming, or transportation (e.g., automobiles, trains), this website is a great one to bookmark for sourcing snapshots from bygone eras.
 
-## 3. [FoodiesFeed](//foodiesfeed.com/)
+## 3. [FoodiesFeed](https://foodiesfeed.com/)
 
 As the name suggests, FoodiesFeed offers free, high-resolution food photography — perfect for food bloggers and food-related businesses.
 
@@ -55,7 +55,7 @@ Its collection of food photography is available for personal or commercial use, 
 
 In addition to its collection of free images, FoodiesFeed offers a few Premium packages, which grant you lifetime access to hundreds of more photos, regular updates/notifications, and thematic photo bundles.
 
-## 4. [Startup Stock Photos](//startupstockphotos.com/)
+## 4. [Startup Stock Photos](https://startupstockphotos.com/)
 
 No stuffy suits, phony smiles or post-meeting high fives here — Startup Stock Photos offers free **business stock photography for the modern creative professional**.
 
@@ -65,25 +65,25 @@ Its collection of photos features plenty of casually clad workers (think flannel
 
 Many big names have used images from Startup Stock Photos; their client list includes Mashable, Forbes and The New York Times (among many others).
 
-## 5. [KaboomPics](//kaboompics.com/)
+## 5. [KaboomPics](https://kaboompics.com/)
 
 Here you’ll find beautiful images related to fashion, food, and interior design—often **pairing modern elements with rustic accents** (ex. an iPhone and laptop on a flannel blanket in the grass).
 
 Images are free and can be used for personal or commercial use.
 
-## 6. [Minimography](//minimography.com/)
+## 6. [Minimography](https://minimography.com/)
 
 Modern, minimalist photography (think lots of white space and clean lines, with purposeful pops of color). Categories include nature, objects, animals and architecture.
 
 All images are free to use for personal or commercial use.   
 
-## 7. [Death to the Stock Photo](//deathtothestockphoto.com/)
+## 7. [Death to the Stock Photo](https://deathtothestockphoto.com/)
 
 Death to the Stock Photo (DTS) is a free email newsletter sharing monthly original, professional photo packs. Images are free to use and edit. Photos have a specific style — think hipster coffee shop meets Portland hiking — but are simple enough to use in a variety of ways.
 
 DTS is my favorite place to find photos to pair with blog posts. Every photograph is gorgeous and high quality. I download each pack straight to my computer and use my own tagging system. Since most of my blog imagery contains graphics, I don’t need a specific photo (i.e. an apple on a wooden table). DTS gives me ideas for images I might never have thought of, and it’s all in one, curated place.
 
-## 8. [Flickr](//www.flickr.com/)
+## 8. [Flickr](https://www.flickr.com/)
 
 Flickr is one of the largest photo-management apps in the world. You can store your own shots or share them with the world. Thousands of photographers on Flickr allow free use of their work.
 
@@ -91,9 +91,9 @@ Search for anything you want, from “cat napping on a tree” to “writer in a
 
 To be safe, I always link back to the photographer’s website or Flickr portfolio. If you’re averse to linking out, just select “no known copyright restrictions”.
 
-Flickr groups can help you find photos, too. [Free Use Photos](//www.flickr.com/groups/freeuse/), for example, has more than 4,000 members and almost 8,000 photos available for free.
+Flickr groups can help you find photos, too. [Free Use Photos](https://www.flickr.com/groups/freeuse/), for example, has more than 4,000 members and almost 8,000 photos available for free.
 
-## 9. [Unsplash](//unsplash.com/)
+## 9. [Unsplash](https://unsplash.com/)
 
 Unsplash is run by freelance design marketplace Crew. It’s like Death to Stock in that it releases collections every 10 days to use as you wish. The difference is all photos are available online, so you don’t have to sign up to receive or download folders of images.
 
@@ -101,7 +101,7 @@ Photos are licensed under Creative Commons Zero. This means you can “copy, mod
 
 Browse Made with Unsplash for inspiration.
 
-## 10. [Negative Space](//negativespace.co/)
+## 10. [Negative Space](https://negativespace.co/)
 
 Here’s another site that allows you to search for exactly what you want. It adds 20 photos per week and you can search and sort by category, copy space position and color. Negative Space is particularly helpful for designers and anyone making social media graphics.
 
@@ -109,7 +109,7 @@ You can also buy premium photos in themed packs. You “pay what you want,” an
 
 Photos released on Negative Space have no copyright restrictions.
 
-## 11. [StockSnap.io](//stocksnap.io/)
+## 11. [StockSnap.io](https://stocksnap.io/)
 
 If you’re looking for free photos, StockSnap is the easiest site to navigate. It offers hundreds of images and adds more every week. All photos are free from copyright restrictions and attribution isn’t required.
 
@@ -117,17 +117,17 @@ StockSnap also offers many different ways to explore available photos. Its “tr
 
 Photo quality is mixed (I found a lot of weird filters), but the selection is extensive.    
 
-## 12. [SplitShire](//www.splitshire.com/)
+## 12. [SplitShire](https://www.splitshire.com/)
 
 Web designer Daniel Nanescu created SplitShire “With the simple aim of giving life to photographs that would have gone into oblivion without any utility.”
 
 SplitShire offers free stock photos for commercial use. Browse its photo collections if you’re looking for something specific, like the ocean or dogs. Save time and buy the entire 500-image library at once for $9.60.
 
-## 13. [Life of Pix](//www.lifeofpix.com/)
+## 13. [Life of Pix](https://www.lifeofpix.com/)
 
 Montreal creative agency LEEROY created Life of Pix with its impressive network of photographers. It organized photos into galleries like “animals”, “people” and “textures.” New high-resolution photos are added weekly, without copyright restrictions.
 
-## 14. [Ancestry Images](//www.ancestryimages.com/)
+## 14. [Ancestry Images](https://www.ancestryimages.com/)
 
 For more than just photos, Ancestry Images offers historical prints and maps. If you’re a history or genealogy buff, or a local blogger, this site offers resources beyond your typical stock photo.
 
@@ -135,10 +135,10 @@ Search is rudimentary, but a quick test brought up a dozen images from my home s
 
 You’re welcome to use any of this site’s images for non-commercial purposes, as long as you credit Ancestry Images.
 
-## 15. [BigFoto](//www.bigfoto.com/)
+## 15. [BigFoto](https://www.bigfoto.com/)
 
 Organized by location, BigFoto is perfect for travel bloggers. If your recent trip resulted in grainy photos, use BigFoto to download images of almost any attraction. BigFoto uses photos by amateurs, but they’re high quality and well-organized.
 
 Photos are free to use, even for commercial purposes. The site asks for a link back to BigFoto.
 
-Start using these images in your [new blogging website](//www.codecarrot.net/).
+Start using these images in your [new blogging website](https://www.codecarrot.net/).
