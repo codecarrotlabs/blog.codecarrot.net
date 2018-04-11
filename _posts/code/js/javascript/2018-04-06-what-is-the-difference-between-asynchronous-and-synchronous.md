@@ -13,11 +13,11 @@ In programming, synchronous means that the requester is blocked (unable to do an
 
 Suppose you go to a restaurant and find out that no seat is immediately available. If the restaurant asks you to sit there until seats are available, this is "synchronous";
 
-![synchronous](https://i.imgur.com/OJq4fWK.gifv)
+![synchronous](https://i.imgur.com/OJq4fWK.gif)
 
 if you are given a device which vibrates with flashing lights when your seats are ready, and you are free to roam around while you wait, this scenario is "asynchronous".
 
-![asynchronous](https://i.imgur.com/ntejuMZ.gifv)
+![asynchronous](https://i.imgur.com/ntejuMZ.gif)
 
 A software application usually chooses the asynchronous approach to improve user experience. In our restaurant example, your wait time does not differ whether you wait there or not, but that 20 minutes wait feels more tolerable when you are given the freedom to roam around.
 
