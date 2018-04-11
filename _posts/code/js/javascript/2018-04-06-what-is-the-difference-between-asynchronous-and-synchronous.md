@@ -6,7 +6,7 @@ date: 2018-04-06 15:31:20 +0530
 categories: code
 tags: code javascript asynchronous synchronous
 description: In programming, synchronous means that the requester is blocked (unable to do anything else) until a response is returned 
-image: https://i.imgur.com/1BQ5Kgc.gifv
+image: https://i.imgur.com/2a4ZiSN.png
 ---
 
 In programming, synchronous means that the requester is blocked (unable to do anything else) until a response is returned; asynchronous refers to the fact that the requester makes the request, moves on to other tasks, and be notified when a response is ready.
