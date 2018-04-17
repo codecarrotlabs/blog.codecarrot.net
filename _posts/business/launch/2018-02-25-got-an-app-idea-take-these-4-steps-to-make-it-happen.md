@@ -4,7 +4,7 @@ author: yashumittal
 title: Got An App Idea? Take These 4 Steps To Make It Happen
 date: 2018-02-25 21:01:00 +0530
 categories: business
-tags: business launch
+tags: business launch idea
 description: Even if you’ve got the best app idea in the world, not knowing where to start could be the simple reason you fail
 image: https://i.imgur.com/TeVOFI9.jpg
 ---
