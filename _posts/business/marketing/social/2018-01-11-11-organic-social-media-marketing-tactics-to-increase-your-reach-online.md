@@ -34,7 +34,7 @@ What if, instead of generating a consistent stream of likes and shares, you save
 
 That’s the thinking behind Thunderclap, a platform that lets you collect Twitter, Facebook and Tumblr shares—the “digital voices” of your supporters—so that you can strategically let them loose at a time of your choosing in the future.
 
-![Thunderclap](https://cdn.codecarrot.net/images/Thunderclap__Phonebloks.jpg)
+![Thunderclap](https://i.imgur.com/PTZp7WI.jpg)
 
 Thunderclaps are great for social causes and product launches, and are best when used in tandem with membership sites like Patreon or crowdfunding sites like Kickstarter, to leverage the support you have there.
 
@@ -64,7 +64,7 @@ While you might be inclined to pin a post about one of your products or promote 
 
 This example from HubSpot shows what one tweet do become if you highlight it for a couple of weeks.
 
-![twitter pinned post hubspot](https://cdn.codecarrot.net/images/HubSpot___HubSpot____Twitter-15838581521438753697.jpg)
+![twitter pinned post hubspot](https://i.imgur.com/oeUSRTi.jpg)
 
 ## 4. Be Active on the Right #Hashtags
 
@@ -72,7 +72,7 @@ The hashtag has organized a big part of the social web according to conversation
 
 A social media monitoring tool like Hootsuite can help you find, like, retweet and reply to posts under several hashtags. Use Hashtagify to find other hashtags related to the one you're trying to target, such as these food-related hashtags below. 
 
-![how to find popular hashtags](https://cdn.codecarrot.net/images/Hashtagify_me_-_Search_And_Find_The_Best_Twitter_Hashtags_-_Free_large-6951646366734221981.jpg) 
+![how to find popular hashtags](https://i.imgur.com/a34Jurs.jpg)
 
 Be careful not to treat hashtags the same on every channel. According to data from Buffer, hashtags affect engagement differently depending on the social network:
 
@@ -90,7 +90,7 @@ You can also reach new people with your social content by aligning your posts wi
 
 Take this tweet from Pizza Pops, for example, that capitalizes on the hype and conversations around the Pokemon Go craze.
 
-![Pizza Pops](https://cdn.codecarrot.net/images/CnIFqdfUkAEsNWm.jpg)
+![Pizza Pops](https://i.imgur.com/ReXPuMg.jpg)
 
 ## 6. Tap into the Virality of Memes
 
@@ -116,7 +116,7 @@ You don’t need to do the math to know you’re doubling down on engagement by 
 
 That's where adding quotes on top of social images can be part of an effective strategy.
 
-![word porn](https://cdn.codecarrot.net/images/Word_Porn-4141741791068421315.jpg)
+![word porn](https://i.imgur.com/D9V5Bnt.jpg)
 
 When you quote well-known words, you also borrow some of their speaker's credibility by associating yourself with them. So look for quotes that come from the people your audience adores and loves, and use Pablo by Buffer or Canva to bring them to life easily through drag-and-drop design.
 
@@ -144,7 +144,7 @@ Consider using this strategy to encourage your audience to:
 
 Not only does this contribute comments to your posts, but each comment that includes a tagged friend will all but guarantee that they, too, at least visit your post.
 
-![shape magazine](https://cdn.codecarrot.net/images/SHAPE_Magazine-SHAPE_Magazine.jpg.jpg)
+![shape magazine](https://i.imgur.com/iRapNIU.jpg)
 
 ## 9. Run a Contest/Giveaway
 
@@ -167,7 +167,7 @@ To do that, you need to create a quiz that tells people something about themselv
 If you want to try building your own, I suggest Playbuzz: a free and easy-to-use tool for creating interactive content, like this Which "Orange Is the New Black" Character Are You? quiz
 pride designz quiz 
 
-![Play Quiz](https://cdn.codecarrot.net/images/QUIZ__Which_OITNB_Character_Are_You__-_PrideDesignz.jpg)
+![Play Quiz](https://i.imgur.com/V1que1e.jpg)
 
 ## 11. Give the Gift of GIFs
 
@@ -183,7 +183,7 @@ Here are the best ways I've found to discover or create GIFs based on your uniqu
 
 **Incorporate GIFs into your social media strategy and give your audience a reason to smile.**
 
-![Pug Dog Smiling](https://cdn.codecarrot.net/images/OsVHDytNJNQ7m.gif)
+![Pug Dog Smiling](https://i.imgur.com/ba8ytvE.gif)
 
 ## Social Media Marketing Needs a Creative Touch
 
