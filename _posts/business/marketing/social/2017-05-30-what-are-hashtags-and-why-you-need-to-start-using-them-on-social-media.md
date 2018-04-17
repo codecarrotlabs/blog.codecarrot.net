@@ -23,11 +23,11 @@ If you're one for official definitions and search for "what are hashtags" online
 "On social-media websites, a word or phrase preceded by a hash mark (#), used within a message to identify a keyword or topic of interest and facilitate a search for it."
 </blockquote>
 
-For example, in Twitter, under the hashtag [#codecarrot](//twitter.com/search?q=%23codecarrot&src=typd), you can find out what people from around the world have been tweeting about that topic. This is also particularly handy for events or conferences, especially to track and document vital information such as what attendees, speakers and event organizers are talking about.
+For example, in Twitter, under the hashtag [#codecarrot](https://twitter.com/search?q=%23codecarrot&src=typd), you can find out what people from around the world have been tweeting about that topic. This is also particularly handy for events or conferences, especially to track and document vital information such as what attendees, speakers and event organizers are talking about.
 
-[![Hashtags Twitter Example](https://cdn.codecarrot.net/images/hashtags-twitter-example.png)](//twitter.com/search?q=%23codecarrot&src=typd)
+[![Hashtags Twitter Example](https://cdn.codecarrot.net/images/hashtags-twitter-example.png)](https://twitter.com/search?q=%23codecarrot&src=typd)
 
-With hashtags, you can use all lowercase, or even use camel case lettering, but no spaces. Hashtags are not case-sensitive. For example, if you want to use #CodeCarrot instead of [#codecarrot](//twitter.com/search?q=%23codecarrot&src=typd), the term will still click through to the same topic stream.
+With hashtags, you can use all lowercase, or even use camel case lettering, but no spaces. Hashtags are not case-sensitive. For example, if you want to use #CodeCarrot instead of [#codecarrot](https://twitter.com/search?q=%23codecarrot&src=typd), the term will still click through to the same topic stream.
 
 ## Where can you use hashtags?
 
