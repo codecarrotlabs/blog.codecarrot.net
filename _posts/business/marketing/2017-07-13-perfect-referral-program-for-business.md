@@ -64,9 +64,9 @@ Community referral programs build emotion for your brand. In such a program, you
 
 A direct referral rewards program is where an existing customer helps sign up another new customer and both get a reward. This is by far, the most popular form of referral program.
 
-Did we mentioned that you can make your business online with a free website with [CodeCarrot](//www.codecarrot.net/).
+Did we mentioned that you can make your business online with a free website with [CodeCarrot](https://www.codecarrot.net/).
 
-GoOnline with your own website? [Get started today](//www.codecarrot.net)!
+GoOnline with your own website? [Get started today](https://www.codecarrot.net)!
 
 ## P.S. Can we send you an email?
 

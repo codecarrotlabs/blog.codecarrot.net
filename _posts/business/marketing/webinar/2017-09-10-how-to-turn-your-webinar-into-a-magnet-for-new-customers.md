@@ -125,11 +125,10 @@ And if you can tell a great story about how your product can improve people’s 
 
 After all, the goal of the webinar is to get people interested in your product anyway, right? So at Drift, at the end of the webinar, the CTA we use is to go to our website right now and start a conversation _with_ the sales team.
 
-It doesn’t get much more straightforward than that: if you saw something you liked on this webinar, go to [our website](//www.codecarrot.net/) and talk to our team right now.
-
-If you don't have a website for your business. You can get one, [right now](//codecarrot.net/).
+It doesn’t get much more straightforward than that: if you saw something you liked on this webinar, go to [our website](https://www.codecarrot.net/) and talk to our team right now.
 
 [![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
+If you don't have a website for your business. You can get one, [right now](https://codecarrot.net/).
 
 
 Instead of filling out a form and waiting to hear back, they can talk to our team and ask questions about what they just saw live — even while the webinar is still going on.

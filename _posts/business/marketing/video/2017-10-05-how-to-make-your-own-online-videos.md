@@ -44,32 +44,32 @@ You can repurpose existing photography, get what you need from stock footage sit
 
 There’s a lot of places you can look for great free stock footage, fitting music and cool sound effects.
 
-Depending on how the content is licensed, however, you might need to credit the creator of the footage you borrow or pay to use it for commercial purposes. For details on how and when to do this, check out the [Creative Commons](//wiki.creativecommons.org/wiki/Best_practices_for_attribution) best practices for attribution and be sure to take a closer look at the conditions for use on each of the following sites.
+Depending on how the content is licensed, however, you might need to credit the creator of the footage you borrow or pay to use it for commercial purposes. For details on how and when to do this, check out the [Creative Commons](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) best practices for attribution and be sure to take a closer look at the conditions for use on each of the following sites.
 
 ## Free Stock Videos
 
-* **[Videvo](//www.videvo.net/):** Completely free high quality HD footage and motion graphics.  
-* **[Pexels](//videos.pexels.com/):** Free photos and videos from around the world.
-* **[Distil](//www.wedistill.io/):** 10 new high quality videos for commercial use every 10 days, delivered to your inbox.
-* **[Pixabay](//pixabay.com/):** Tons of vibrant videos, photos, and animations you can use.
+* **[Videvo](https://www.videvo.net/):** Completely free high quality HD footage and motion graphics.
+* **[Pexels](https://videos.pexels.com/):** Free photos and videos from around the world.
+* **[Distil](https://www.wedistill.io/):** 10 new high quality videos for commercial use every 10 days, delivered to your inbox.
+* **[Pixabay](https://pixabay.com/):** Tons of vibrant videos, photos, and animations you can use.
 
 ## Public Domain (not subject to copyright)
 
-* **[Pond5](//www.pond5.com/free):** Home to lots of historic footage.
-* **[Archive.org](//archive.org/details/movies):** Footage of games, films, historic moments, etc.
-* **[NASA](//www.nasa.gov/multimedia/videogallery/index.html):** Footage and photos of space.
-* **[Critical Past](//www.criticalpast.com/):** Vintage videos.
+* **[Pond5](https://www.pond5.com/free):** Home to lots of historic footage.
+* **[Archive.org](https://archive.org/details/movies):** Footage of games, films, historic moments, etc.
+* **[NASA](https://www.nasa.gov/multimedia/videogallery/index.html):** Footage and photos of space.
+* **[Critical Past](https://www.criticalpast.com/):** Vintage videos.
 
 ## Free Music and Audio
 
-* **[Freesound.org](//freesound.org/):** A variety of sounds you can use at no cost.
-* **[Looperman](//www.looperman.com/):** Acapella vocals, music, and sounds you can use if you credit the creator.
-* **[Converse Sample Library](//www.conversesamplelibrary.com/):** Plenty of cool music and rhythms for you to sample.
-* **[YouTube Audio Library](//www.youtube.com/audiolibrary/music):** A great resource for good quality music and sound effects meant for creators.
+* **[Freesound.org](https://freesound.org/):** A variety of sounds you can use at no cost.
+* **[Looperman](https://www.looperman.com/):** Acapella vocals, music, and sounds you can use if you credit the creator.
+* **[Converse Sample Library](https://www.conversesamplelibrary.com/):** Plenty of cool music and rhythms for you to sample.
+* **[YouTube Audio Library](https://www.youtube.com/audiolibrary/music):** A great resource for good quality music and sound effects meant for creators.
 
 ## Paid Stock Music and Footage
 
-While you do have to pay, [Audio Jungle](//audiojungle.net/) and [Video Hive](//videohive.net/) are popular places to find sounds, music, video effects and stock footage to use and sample. They also offer free music, video templates, and more every month if you subscribe.
+While you do have to pay, [Audio Jungle](https://audiojungle.net/) and [Video Hive](https://videohive.net/) are popular places to find sounds, music, video effects and stock footage to use and sample. They also offer free music, video templates, and more every month if you subscribe.
 
 ## Free Tools to Help You Make Your Own Videos
 
@@ -77,7 +77,7 @@ While you can record video natively in most video hosting platforms like Faceboo
 
 I highly recommended giving the following tools a try, many of which are free and some of which come with their own library of stock imagery and other assets for you to use.
 
-### [Quik by Go Pro](//quik.gopro.com/en/): Produce Simple Product Videos
+### [Quik by Go Pro](https://quik.gopro.com/en/): Produce Simple Product Videos
 
 Go Pro is famous as a camera company for helping people capture awe-inspiring moments in action.
 
@@ -87,7 +87,7 @@ While it's meant for weaving together memories from your last vacation, it's als
 
 With this app, you can create an engaging slideshow or a short video in no time at all.
 
-### [Giphy](//giphy.com/create/gifeditor): Turn Your Videos into GIFs
+### [Giphy](https://giphy.com/create/gifeditor): Turn Your Videos into GIFs
 
 GIFs are (arguably) just videos without sound. And with Giphy you can either convert your existing videos into GIFs or edit/caption existing GIFs.
 
@@ -97,7 +97,7 @@ You should take advantage of the fact that GIFs loop endlessly and can be used t
 
 ![Throwing money](https://cdn.codecarrot.net/images/throwing-money.gif)
 
-### [Power Director](//play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01&hl=en): A Robust Video Editor For Your Phone
+### [Power Director](https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01&hl=en): A Robust Video Editor For Your Phone
 
 If you'd like to shoot and edit videos all on your phone, Power Director is an app that comes with a lot of the useful features.
 
@@ -109,14 +109,14 @@ The assets and tools above make videos easier to create, but there's a lot more 
 
 For one, videos that provoke an emotional reaction tend to perform better and have more viral potential, especially on Facebook. Since social videos are often watched with the sound off, **captions also go a long way in increasing viewership**.
 
-**Thumbnails also matter a lot** as they are essentially the "headline" of your video that entices people to watch. Use [Canva](//www.canva.com/) to easily create eye-catching thumbnails for your videos if you're going to upload your videos to YouTube or another platform that pits you against other videos.
+**Thumbnails also matter a lot** as they are essentially the "headline" of your video that entices people to watch. Use [Canva](https://www.canva.com/) to easily create eye-catching thumbnails for your videos if you're going to upload your videos to YouTube or another platform that pits you against other videos.
 
 Finally, since it's not just how you create the videos but how you upload them too, you should be wary of the specifications for each channel, which I've linked to below:
 
-* [YouTube](//www.youtube.com/channel/UCIAktdRKgMZMkNbJY44spqA)
-* [Facebook](//facebook.com/codecarrotinc)
-* [Instagram](//instagram.com/codecarrot)
-* [Twitter](//twitter.com/codecarrotnet)
+* [YouTube](https://www.youtube.com/channel/UCIAktdRKgMZMkNbJY44spqA)
+* [Facebook](https://facebook.com/codecarrotinc)
+* [Instagram](https://instagram.com/codecarrot)
+* [Twitter](https://twitter.com/codecarrotnet)
 
 ## Do It Yourself Video
 
