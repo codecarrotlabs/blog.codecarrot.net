@@ -9,7 +9,7 @@ description: Get people to read your blog post by following this method by writi
 image: https://i.imgur.com/dCDWw8C.jpg
 ---
 
-If you have some blog and want to share it with world. Get your own blogging website with [Codecarrot](//www.codecarrot.net).
+If you have some blog and want to share it with world. Get your own blogging website with [Codecarrot](https://www.codecarrot.net).
 
 Creating a [perfect blog post](/how-to-start-a-blog-a-step-by-step-guide-for-writer) is so much more than slapping a few hundred words on a document, uploading it to your website and them [making money from it](/5-meaningful-ways-to-make-money-blogging).
 

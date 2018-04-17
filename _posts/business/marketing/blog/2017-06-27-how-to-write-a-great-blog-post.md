@@ -47,7 +47,7 @@ Writing is the hardest part of blogging, especially on days when you’re feelin
 
 **Step 1: Pick a topic**
 
-Determine your topic based on the audience you’re speaking to. If you build a content calendar before you start writing (see more about that below), you’ll already have a topic lined up. If you’re still brainstorming, dig through similar blogs for inspiration. You can also use [Google’s Keyword Tool](//adwords.google.com/home/tools/keyword-planner/) to find SEO terms with high search volume and low competition. Basing a topic around these keywords will help drive organic traffic because it means you are providing information people are already searching for.
+Determine your topic based on the audience you’re speaking to. If you build a content calendar before you start writing (see more about that below), you’ll already have a topic lined up. If you’re still brainstorming, dig through similar blogs for inspiration. You can also use [Google’s Keyword Tool](https://adwords.google.com/home/tools/keyword-planner/) to find SEO terms with high search volume and low competition. Basing a topic around these keywords will help drive organic traffic because it means you are providing information people are already searching for.
 
 **Step 2: Outline your post**
 

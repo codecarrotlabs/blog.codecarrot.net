@@ -88,14 +88,14 @@ Some blog owners are more likely to accept guest posts by certain types of peopl
 
 To ensure that your guest post gets accepted, you will want to pitch the blog owner with topics that will do well with their audience. To get some good ideas of topics that will work with the blog’s audience, use the following sites to see what posts have been popular on social media. Just replace domain.com with the blog’s domain.
 
-* http://topsy.com/s?q=domain.com – This will show you the number of times blog posts have been tweeted. Click on the number if you want to see who has tweeted the post and learn more about the blog’s audience.
-* http://plus.topsy.com/s/domain.com – This will show you the number of times blog posts have been shared on Google+. Chances are, blog posts that have been shared on Google+ a lot will also have a lot of +1’s which might mean better search visibility.
-* http://delicious.com/search?p=domain.com&jtf=E&partial_type=B – This will show you the number of times blog posts have been saved on Delicious.
-* http://digg.com/search?q=site:domain.com – This will show you the posts on a blog that have received the most amount of Digg votes.
+* https://topsy.com/s?q=domain.com – This will show you the number of times blog posts have been tweeted. Click on the number if you want to see who has tweeted the post and learn more about the blog’s audience.
+* https://plus.topsy.com/s/domain.com – This will show you the number of times blog posts have been shared on Google+. Chances are, blog posts that have been shared on Google+ a lot will also have a lot of +1’s which might mean better search visibility.
+* https://delicious.com/search?p=domain.com&jtf=E&partial_type=B – This will show you the number of times blog posts have been saved on Delicious.
+* https://digg.com/search?q=site:domain.com – This will show you the posts on a blog that have received the most amount of Digg votes.
 
 ### Become a Familiar Face in the Blog Community
 
-To increase your chances of getting accepted as a guest blogger, you will want to get some recognition from the blog owner first. The best way to do this is to take a week or two and comment on their latest posts. You’ll get bonus points for sharing those posts on Twitter too – just be sure to include the blog owner’s [@username](//www.twitter.com/codecarrotnet) on Twitter. This way, when you pitch your guest post, you won’t be a complete stranger.
+To increase your chances of getting accepted as a guest blogger, you will want to get some recognition from the blog owner first. The best way to do this is to take a week or two and comment on their latest posts. You’ll get bonus points for sharing those posts on Twitter too – just be sure to include the blog owner’s [@username](https://www.twitter.com/codecarrotnet) on Twitter. This way, when you pitch your guest post, you won’t be a complete stranger.
 
 The Best Times to Pitch a Guest Post
 You won’t always have a golden opportunity to pitch a guest post, but there are certain things to take advantage of when they arise. These include the following.
