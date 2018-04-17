@@ -4,7 +4,7 @@ author: yashumittal
 title: 11 Organic Social Media Marketing Tactics to Increase Your Reach Online
 date: 2018-01-11 15:00:00 +0530
 categories: business
-tags: business marketing social social-media 
+tags: business marketing social social-media
 description: There’s a world of difference (and difficulty) between using social media as a consumer versus harnessing it for your business.
 image: https://i.imgur.com/hKSLvLh.jpg
 ---
@@ -68,9 +68,9 @@ This example from HubSpot shows what one tweet do become if you highlight it for
 
 ## 4. Be Active on the Right #Hashtags
 
-The hashtag has organized a big part of the social web according to conversations, making it easy to join in on discussions and events by posting under the ones that are relevant to your brand. 
+The hashtag has organized a big part of the social web according to conversations, making it easy to join in on discussions and events by posting under the ones that are relevant to your brand.
 
-A social media monitoring tool like Hootsuite can help you find, like, retweet and reply to posts under several hashtags. Use Hashtagify to find other hashtags related to the one you're trying to target, such as these food-related hashtags below. 
+A social media monitoring tool like Hootsuite can help you find, like, retweet and reply to posts under several hashtags. Use Hashtagify to find other hashtags related to the one you're trying to target, such as these food-related hashtags below.
 
 ![how to find popular hashtags](https://i.imgur.com/a34Jurs.jpg)
 
@@ -82,7 +82,7 @@ Be careful not to treat hashtags the same on every channel. According to data fr
 
 If you know of a high-profile event coming up, you can prepare in advance to make sure you're ready to get in on the action. The more targeted, the better. If you’re a fashion brand, for example, consider live-tweeting or covering high profile events and commenting on what celebrities are wearing.
 
-Most events are accompanied by hashtags that you can hop on. But the key to hijacking a hashtag is not to hijack it at all. Instead, you should aim to contribute to the conversation in a meaningful, natural way. 
+Most events are accompanied by hashtags that you can hop on. But the key to hijacking a hashtag is not to hijack it at all. Instead, you should aim to contribute to the conversation in a meaningful, natural way.
 
 ## 5. Align Your Social Media Post With a Trending Topic
 
@@ -94,7 +94,7 @@ Take this tweet from Pizza Pops, for example, that capitalizes on the hype and c
 
 ## 6. Tap into the Virality of Memes
 
-Memes have taken over social media. And I’m not just talking about the kind of meme you see below. 
+Memes have taken over social media. And I’m not just talking about the kind of meme you see below.
 
 While these are some of the most common examples of memes, memes are a much larger phenomenon.
 
@@ -102,11 +102,11 @@ While these are some of the most common examples of memes, memes are a much larg
 Memes are cultural behaviors that spread from person to person through imitation. That gives them an innate virality that businesses can use.
 </blockquote>
 
-They don't necessarily need to make sense at first—after all, they catch on through repetition. However, memes are only as effective as they are **culturally relevant, easy to replicate and properly timed**. 
+They don't necessarily need to make sense at first—after all, they catch on through repetition. However, memes are only as effective as they are **culturally relevant, easy to replicate and properly timed**.
 
 “Planking”, for example—the cultural phenomenon where people would take photos of themselves lying horizontally in random places—probably wouldn’t resonate as well with people today. Look out for memes that are trending right now and find ways to adopt them into your social strategy that relate to your brand.
 
-You can find and make basic image memes using Meme Generator. Just be sure they're memes your audience is familiar with, as memes function kind of like inside jokes where the uninitiated won't get as much value from them.  
+You can find and make basic image memes using Meme Generator. Just be sure they're memes your audience is familiar with, as memes function kind of like inside jokes where the uninitiated won't get as much value from them.
 
 ## 7. Post Quotes as Images
 
@@ -132,7 +132,7 @@ Have you ever seen a post on Facebook and engaged with it after thinking “This
 
 That's because it speaks to you as an individual while at the same time being relatable to many.
 
-If your audience can see themselves in the things you post, it's only natural they'll be more inclined to consume and engage with them. 
+If your audience can see themselves in the things you post, it's only natural they'll be more inclined to consume and engage with them.
 
 "Tag a friend who..." is a type of social media post you might’ve seen on Facebook or Instagram. Done right, these posts provoke others to tag their friends.
 
@@ -154,7 +154,7 @@ The more compelling your prize, the more hoops people will jump through for the 
 
 You can run your contest directly on social media, or facilitate it with a tool like Gleam.io (which lets you do quite a bit with just the free version).
 
-Try to establish what's called a "viral loop"—ask every participant to refer a friend or take an action that has the potential to bring in new entrants.  
+Try to establish what's called a "viral loop"—ask every participant to refer a friend or take an action that has the potential to bring in new entrants.
 
 ## 10. Create Quizzes and Other Interactive Content
 
@@ -165,15 +165,15 @@ These pieces of interactive content work really well on social media—that is, 
 To do that, you need to create a quiz that tells people something about themselves or how much they know, so they're compelled to share it to reflect themselves.
 
 If you want to try building your own, I suggest Playbuzz: a free and easy-to-use tool for creating interactive content, like this Which "Orange Is the New Black" Character Are You? quiz
-pride designz quiz 
+pride designz quiz
 
 ![Play Quiz](https://i.imgur.com/V1que1e.jpg)
 
 ## 11. Give the Gift of GIFs
 
-A form of media that's somewhere between a picture and a video, GIFs can be found everywhere thanks to their versatility. 
+A form of media that's somewhere between a picture and a video, GIFs can be found everywhere thanks to their versatility.
 
-Here are the best ways I've found to discover or create GIFs based on your unique needs: 
+Here are the best ways I've found to discover or create GIFs based on your unique needs:
 
 * Source existing GIFs or create new ones on GIPHY (you can also customize them with captions)
 * Turn existing videos into GIFs and compress them for sharing.
