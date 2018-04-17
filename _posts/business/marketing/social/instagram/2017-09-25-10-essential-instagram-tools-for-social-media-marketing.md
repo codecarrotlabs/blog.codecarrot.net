@@ -23,8 +23,6 @@ Let’s get into it.
 
 One of the most important parts of having an effective Instagram presence is loading your feed with stunning visuals that clearly communicate your brand’s identity and the value of your products. But if you don’t have a fancy camera or professional training, taking great photos might seem out of reach.
 
-[Image for the webinar (How to build a huge audience on Instagram and monetize it!)]
-
 Even if you aren’t a professional photographer, you can still create great Instagram content with [just your smartphone](/how-to-capture-high-quality-product-photos-with-your-smartphone) and a few key apps:
 
 ## [VSCO](https://vsco.co/)
