@@ -37,4 +37,4 @@ Like a book. It sort of takes care of No. 3, plus it allows for an income that d
 
 ## 5. Build partnerships.
 
-You have a cool brand that people love engaging with, and so does other-similar-blogger-who-also-has-the-ability-to-create-something-beautiful. Maybe it’s time to partner up. Aligning with a complementary brand to create something new is a lucrative way to help breathe life (and money) into your personal brand.
+You have a cool brand that people love engaging with, and so does other similar blogger who also has the ability to create something beautiful. Maybe it’s time to partner up. Aligning with a complementary brand to create something new is a lucrative way to help breathe life (and money) into your personal brand.
