@@ -11,7 +11,7 @@ image: https://i.imgur.com/zYcLaiT.jpg
 
 Now I know what you might be thinking…
 
-*You must be thinking that, I get a ton of email from tech vendors every week telling me to join their webinars but I always just delete them. Does people out there actually attend webinars?*
+_You must be thinking that, I get a ton of email from tech vendors every week telling me to join their webinars but I always just delete them. Does people out there actually attend webinars?_
 
 Yes, they do and often times, those people that attend webinars are there for a reason.
 
