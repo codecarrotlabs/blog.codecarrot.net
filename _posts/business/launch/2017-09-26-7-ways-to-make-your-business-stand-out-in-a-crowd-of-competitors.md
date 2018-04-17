@@ -15,7 +15,7 @@ Every brand have built their identities to command a large share of the market. 
 
 Let’s look at seven ways to help your business stand out from the crowd. Each one of the following factors has worked well in countless companies. How many of them are part of your current branding strategy?
 
-## 1. **[Get a website and blog](//codecarrot.net/)**
+## 1. Get a website and blog
 
 Most forward thinking companies are familiar with the benefits of getting a website and start blogging. If you’re tired of being overlooked online; if you’re seeking a fresh way to share ideas, bring more awareness about your product/service and have your voice heard, get involved with corporate website and blogging.
 
