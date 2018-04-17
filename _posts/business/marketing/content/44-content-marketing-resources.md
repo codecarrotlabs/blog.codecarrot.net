@@ -4,7 +4,7 @@ author: yashumittal
 title: 44 Must Read Resources on Content Marketing
 date: 2017-10-22 18:10:00 +0530
 categories: business
-tags: marketing business content-marketing
+tags: business marketing content-marketing
 description: If there’s one single reason why companies around the world continue to incorporate “content marketing strategies” into their yearly plans – it’s because it has been working for hundreds, if not thousands of years!
 image: https://i.imgur.com/iIUTR5I.jpg
 ---
