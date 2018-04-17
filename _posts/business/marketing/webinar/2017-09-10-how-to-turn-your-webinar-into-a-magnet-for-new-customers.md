@@ -6,7 +6,7 @@ date: 2017-09-10 15:02:00 +0530
 categories: business
 tags: webinar customers users subscribers lead money
 description: Running webinars? Here’s how we’ve turned them into one of our top marketing channels. Learn the 6 keys to running a webinar that will make you money.
-image: https://cdn.codecarrot.net/images/webinar-blog-post-illustration.jpg
+image: https://i.imgur.com/zYcLaiT.jpg
 ---
 
 Now I know what you might be thinking…
@@ -127,9 +127,9 @@ After all, the goal of the webinar is to get people interested in your product a
 
 It doesn’t get much more straightforward than that: if you saw something you liked on this webinar, go to [our website](https://www.codecarrot.net/) and talk to our team right now.
 
-[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
 If you don't have a website for your business. You can get one, [right now](https://codecarrot.net/).
 
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](https://www.codecarrot.net/)
 
 Instead of filling out a form and waiting to hear back, they can talk to our team and ask questions about what they just saw live — even while the webinar is still going on.
 
