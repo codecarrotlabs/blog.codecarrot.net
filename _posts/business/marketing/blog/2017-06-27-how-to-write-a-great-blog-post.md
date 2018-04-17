@@ -80,7 +80,7 @@ Once you are done writing and reviewing your own work, send your post to someone
 Credibility is everything. Get a second set of eyes on your copy before you publish a blog post.
 Step 6: Look for engaging visuals
 
-Find a great feature image, and any others that would support your text. You can download great free photos at [Unsplash](//unsplash.com/), [StockSnap.io](//stocksnap.io/) and [Pixabay](//pixabay.com/). There are also free photos at [Freepik](//www.freepik.com/), but you have to include a source link somewhere in your post. I usually put it at the bottom.
+Find a great feature image, and any others that would support your text. You can download great free photos at [Unsplash](https://unsplash.com/@mittalyashu), [StockSnap.io](https://stocksnap.io/) and [Pixabay](https://pixabay.com/). There are also free photos at [Freepik](https://www.freepik.com/), but you have to include a source link somewhere in your post. I usually put it at the bottom.
 
 Learn more about 43+ Unique Places to Find Remarkable Free Photos.
 
