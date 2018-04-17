@@ -6,7 +6,7 @@ date: 2018-01-11 15:00:00 +0530
 categories: business
 tags: business marketing social social-media 
 description: There’s a world of difference (and difficulty) between using social media as a consumer versus harnessing it for your business.
-image: https://cdn.codecarrot.net/images/socialmedia.jpg
+image: https://i.imgur.com/hKSLvLh.jpg
 ---
 
 There’s a world of difference (and difficulty) between using social media as a consumer versus harnessing it for your business.

@@ -76,7 +76,7 @@ While Custom Conversions are tied to a URL (usually for some kind of thank you o
 
 There are nine conversion types you can use with Standard Events, each with its own line of code. This code will tell Facebook what to track, and will be inserted into the new Facebook pixel code—but only on the page you want to track conversions on.
 
-![facebook Standard events](https://cdn.codecarrot.net/images/Facebook_Standard_Events.png)
+![facebook Standard events](https://i.imgur.com/Bp0YUUU.png)
 
 ## Adding the New Facebook Pixel to Your Website
 
@@ -84,7 +84,7 @@ The new Facebook pixel works similarly to the old custom audience pixel. It need
 
 First, if you haven't already, you'll need to create your Pixel. Start by visiting the [Ads Manager](https://www.facebook.com/ads/manager/account/). Once there, click on the Ads Manager menu and select "Pixels" under "Assets".
 
-![facebook ads manager](https://cdn.codecarrot.net/images/facebook_Ads_Manager.png)
+![facebook ads manager](https://i.imgur.com/eo3lqv0.png)
 
 If you haven't created a Pixel already, you'll be prompted to create one now.
 
