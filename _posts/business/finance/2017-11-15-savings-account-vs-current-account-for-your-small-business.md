@@ -4,7 +4,7 @@ author: yashumittal
 title: Savings Account vs Current Account - For Your Small Business
 date: 2017-11-15 21:41:00 +0530
 categories: business
-tags: business india
+tags: business india banking
 description: Savings account vs current account - which bank account should you get for your small business? Here is everything you need to know!
 image: https://i.imgur.com/6IWVE3C.png
 ---
