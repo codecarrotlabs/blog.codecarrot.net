@@ -6,7 +6,7 @@ date: 2017-09-27 13:30:00 +0530
 categories: business
 tags: google google-analytics business vlog
 description: When you sign in to Google Analytics you probably just look at your overall traffic for the day and see if it was higher or lower than the previous day. After
-image: https://cdn.codecarrot.net/images/google-analytics-logo-full-1920.png
+image: https://i.imgur.com/q1edD6T.png
 ---
 
 Follow these 11 Ways You Can Improve Your Business With Google Analytics.

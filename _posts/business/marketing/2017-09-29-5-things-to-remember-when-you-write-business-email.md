@@ -6,7 +6,7 @@ date: 2017-09-29 02:41:00 +0530
 categories: business
 tags: email business email-marketing marketing
 description: Did you realize that your company's image is greatly impacted by how you write business email? Consider the five elements that make up a recipe for success!
-image: https://cdn.codecarrot.net/images/write-business-email.jpg
+image: https://i.imgur.com/Ecs9yxu.jpg
 ---
 
 Did you know that a huge part of your business branding efforts are related to how you write business email? We’ve all had those messages land in our inboxes where the sender didn’t make the right choices and we react accordingly — with a quick delete.
@@ -23,7 +23,7 @@ It falls on you, as the author, to make sure the perception, intent and tone you
 
 ## How you write business email says a lot about you (and your company)
 
-![Man working at laptop](https://cdn.codecarrot.net/images/working-on-laptop.jpg)
+![Man working at laptop](https://i.imgur.com/zF0uGvn.jpg)
 
 As you know, with email you lose the benefit of eye contact, body language, a firm handshake and your sparkling smile. The person receiving the message has no idea what a great guy or gal you are to do business with, especially with first contact emails — this may be your only chance to develop that partnership.
 

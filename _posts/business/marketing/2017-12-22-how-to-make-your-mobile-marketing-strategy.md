@@ -6,7 +6,7 @@ date: 2017-12-22 00:11:25 +0530
 categories: business
 tags: business mobile marketing
 description: People are using mobile as an integral part of their day-to-day lives and as an online marketer, you need to get onboard. Your audience determines what marketing strategies you need to incorporate.
-image: https://cdn.codecarrot.net/images/neonbrand-226736.jpg
+image: https://i.imgur.com/4tjDmMI.jpg
 ---
 
 People are using mobile as an integral part of their day-to-day lives and as an online marketer, you need to get onboard. Your audience determines what marketing strategies you need to incorporate. What makes sense for one target base may not interact with the other, therefore you need to keep this in mind while formulating your mobile marketing strategy.

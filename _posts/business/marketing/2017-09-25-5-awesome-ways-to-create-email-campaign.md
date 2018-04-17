@@ -6,7 +6,7 @@ date: 2017-09-25 20:35:00 +0530
 categories: business
 tags: email marketing campaign email-campaign email-marketing
 description: Need ideas on how to improve your email marketing? Check out these five examples of awesome email marketing strategy and design.
-image: https://cdn.codecarrot.net/images/email-campaign-work-harder.png
+image: https://i.imgur.com/lhALgJb.png
 ---
 
 It’s no secret that email is neither the most exciting nor flashy channel. In fact, many industry leaders have been predicting the death of email for years.
@@ -21,7 +21,7 @@ Here are five examples of awesome email marketing to inspire you.
 
 This email from Nest delivers all the required information without feeling overloaded. Your eyes are naturally drawn to the product image with the main CTA. Moreover, a well-designed and clearly labeled CTA below the fold offers more information about the product without being too in your face or needing to navigate to a landing page. Subscribers can easily get more information if they need it, but they have all the necessary facts clearly stated up front to drive conversion.
 
-[![Nest Email Example](https://cdn.codecarrot.net/images/nest-email-2.png)](https://www.codecarrot.net/)
+[![Nest Email Example](https://i.imgur.com/ycXkGVX.png)](https://www.codecarrot.net/)
 
 *Best practices to leverage: Clean and clear design, interactive, well-written copy, attractive imagery*
 
@@ -31,7 +31,7 @@ One big mistake often made within an email program is being afraid to push the e
 
 In the following Peel email, the company states a simple value proposition about their product and uses the body of their email to make their point. The result is elegant, comical, and impactful.
 
-[![Peel Email Example](https://cdn.codecarrot.net/images/peel-email-example-1.jpg)](https://www.codecarrot.net/)
+[![Peel Email Example](https://i.imgur.com/Ucyc6sl.jpg)](https://www.codecarrot.net/)
 
 *Best practices to leverage: Creativity, experimentation, impactful design, clear imagery*
 
@@ -41,7 +41,7 @@ The best way to keep your email program engaged is to demonstrate to your subscr
 
 This email from Delta provides necessary information about an upcoming flight. Everything from the Delta app to packing information is easily available and accessible.
 
-[![Delta Email Example](https://cdn.codecarrot.net/images/delta-example.png)](https://www.codecarrot.net/)
+[![Delta Email Example](https://i.imgur.com/YQOq5x1.png)](https://www.codecarrot.net/)
 
 *Best practices to leverage: Provide useful information up front*
 
@@ -49,7 +49,7 @@ This email from Delta provides necessary information about an upcoming flight. E
 
 Every email has an audience, and knowing your audience allows you to craft a message that creates value in your emails. Dockers knows that a good portion of their target audience is at the age where they attend numerous weddings and bachelor parties. The message they create is natural and, rather than just selling pants, they speak to a life event their audience can relate to. Storytelling is always better than straight selling.
 
-[![Dockers Email Example](https://cdn.codecarrot.net/images/dockers-email-marketing.png)](https://www.codecarrot.net/)
+[![Dockers Email Example](https://i.imgur.com/k8n1wse.png)](https://www.codecarrot.net/)
 
 *Best practices to leverage: Storytelling, understanding audience, targeted copy, directed content*
 
@@ -57,7 +57,7 @@ Every email has an audience, and knowing your audience allows you to craft a mes
 
 One of the oldest marketing strategies is to associate positive emotions with your brand. The same idea is true for email. Surprise and delight campaigns remain a hot-button marketing topic because they work. Spotify uses your “favorited and followed” artist to send out pre-sale tickets often worth their weight in gold to fans. Subscribers learn that emails from Spotify shouldn’t be ignored. The email program adds its own level of value to being a Spotify member.
 
-[![Spotify Email Example](https://cdn.codecarrot.net/images/spotify-email.png)](https://www.codecarrot.net/)
+[![Spotify Email Example](https://i.imgur.com/LbOzY6R.png)](https://www.codecarrot.net/)
 
 *Best practices to leverage: Storytelling, added value, surprise and delight*
 

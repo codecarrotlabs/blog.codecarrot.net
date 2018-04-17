@@ -6,7 +6,7 @@ date: 2018-01-30 13:36:25 +0530
 categories: business
 tags: business marketing emoji
 description: As you have probably noticed, using emojis is a trend that is here to stay, since these small images can mean the world to your business in terms of Marketing.
-image: https://cdn.codecarrot.net/images/2F461Ffb9f2c91-1531-4fb0-a26f-88b83444946d.png
+image: https://i.imgur.com/YFGekxT.png
 ---
 
 Complete list of github markdown emoji markup
