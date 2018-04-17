@@ -113,7 +113,7 @@ Once you have a list of ideas, put all of your topics into a content calendar. A
 
 Create an editorial calendar to plan blog posts that make sense for your readers and your business, at the right time.
 
-Finally, set a publishing schedule for yourself (or your team). Be realistic about what you or your team will have time for. If you’re a business looking to aggressively build your blog, try publishing at least twice a week. Neil Patel tested the theory of posting more frequently and examined how that affects blog traffic. His findings were shared on (AutoGrow.co](//autogrow.co/how-does-content-marketing-quantity-increase-traffic/):
+Finally, set a publishing schedule for yourself (or your team). Be realistic about what you or your team will have time for. If you’re a business looking to aggressively build your blog, try publishing at least twice a week. Neil Patel tested the theory of posting more frequently and examined how that affects blog traffic. His findings were shared on [AutoGrow.co](https://autogrow.co/how-does-content-marketing-quantity-increase-traffic/):
 
 <blockquote>
 “KISSmetrics only started to see big traffic increases when I started to publish five pieces of content a week. But with KISSmetrics, we went from publishing two a week straight to five a week [and later to six]. My experience of working with 20 of the top 100 blogs showed that if we published three pieces of content each day (21 pieces a week), we could easily get our traffic to over a million visits a month over time.”
