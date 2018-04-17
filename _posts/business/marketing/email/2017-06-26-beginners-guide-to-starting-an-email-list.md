@@ -70,7 +70,3 @@ Nothing is more annoying than getting too many emails from one person. Personall
 ## What’s next?
 
 Starting an email list might take a little time and effort, but it’s totally worth it if you’re serious about blogging for the bacon. When you start to gain loyal fans who really want to receive your emails because your content adds value to their lives, well, that’s an exciting thing indeed. Later, you can use all those emails to send truth bombs, knowledge nuggets and, once in awhile, special offers that may make you some bank.
-
-## P.S. Can we send you an email?
-
-Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. [Subscribe Here](#subscribe).
