@@ -98,7 +98,6 @@ GE, Microsoft, Yahoo and Apple have all also estimated significant performance d
 
 Coupling this understanding with Source Quality data, talent operations is able to make strategic investments in sourcing efforts that contribute to long-term company objectives.
 
-
 ## Conclusion
 
 Recruiting KPIs are evolving as Talent teams become more strategic and integrated into an organization. High-growth companies are operationalizing the Talent function, using data to optimize the recruiting process in order to improve their quality of hire.
