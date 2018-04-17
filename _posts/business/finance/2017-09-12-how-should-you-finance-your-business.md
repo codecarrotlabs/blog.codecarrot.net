@@ -4,7 +4,7 @@ author: yashumittal
 title: How should you finance your business?
 date: 2017-09-12 19:29:00 +0530
 categories: business
-tags: finance money startup
+tags: business finance money startup
 description: If there's one clear obstacle most business owners must come overcome it's how to finance your business. Take an in-depth look at four options available.
 image: https://i.imgur.com/K3d23Fk.jpg
 ---
