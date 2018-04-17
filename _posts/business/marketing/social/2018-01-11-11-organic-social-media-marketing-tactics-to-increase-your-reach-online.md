@@ -48,7 +48,7 @@ Larry Kim, Founder of Wordstream suggests using emojis in your social media post
 
 Used appropriately, emojis don’t just humanize your brand but also help you capture more attention by conveying the general emotion and ideas around a post even before a person has had a chance to read it.
 
-In simpler terms, sprinkling an emoji into your social copy can earn you more eyeballs, attention, and reach ( In emojis: 😜  =  👀  + ⏳ + 🚀).
+In simpler terms, sprinkling an emoji into your social copy can earn you more eyeballs, attention, and reach ( In emojis: 😜 = 👀 + ⏳ + 🚀).
 
 ## 3. Pin Your Best Performing Posts to the Top of Your Profile
 
@@ -128,7 +128,7 @@ Some good places to look for quotes include:
 
 ## 8. “Tag a friend who...”
 
-Have you ever seen a post  on Facebook and engaged with it after thinking “This is just like me” or “I know someone like that”?
+Have you ever seen a post on Facebook and engaged with it after thinking “This is just like me” or “I know someone like that”?
 
 That's because it speaks to you as an individual while at the same time being relatable to many.
 
