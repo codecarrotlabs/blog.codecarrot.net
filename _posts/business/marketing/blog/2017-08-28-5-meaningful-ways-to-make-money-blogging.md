@@ -38,9 +38,3 @@ Like a book. It sort of takes care of No. 3, plus it allows for an income that d
 ## 5. Build partnerships.
 
 You have a cool brand that people love engaging with, and so does other-similar-blogger-who-also-has-the-ability-to-create-something-beautiful. Maybe it’s time to partner up. Aligning with a complementary brand to create something new is a lucrative way to help breathe life (and money) into your personal brand.
-
-[![Food Court Template](https://i.imgur.com/TZ5tgra.png)](https://www.behance.net/gallery/56135641/Food-Court-Template)
-
-## P.S. Can we send you an email?
-
-Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. [Subscribe Here](#subscribe).
