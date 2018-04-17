@@ -33,15 +33,15 @@ Think about the last time you had a craving for a chocolate cake. You probably s
 
 You might see a website for a local bakery...or you might discover a good option in local listings.
 
-[![Make business online with codecarrot banner](https://i.imgur.com/V4g23VR.png)](//www.codecarrot.net/)
+[![Make business online with codecarrot banner](https://i.imgur.com/V4g23VR.png)](https://www.codecarrot.net/)
 
-Some businesses use local listings to create a digital presence, using products like [Google My Business](//www.google.com/business/). These types of directories let businesses publish details like descriptions, reviews, maps and images.
+Some businesses use local listings to create a digital presence, using products like [Google My Business](https://www.google.com/business/). These types of directories let businesses publish details like descriptions, reviews, maps and images.
 
 These listings are usually free, and are a good way to help your business appear on results pages when people search.
 
 Beyond local listings, there may be review sites for your specific type of business where people can leave feedback—and you can respond. Rave reviews will give you the edge over the competition.
 
-You can also use social media as your digital presence. People all over the world use [Facebook](//facebook.com/codecarrotinc), [Twitter](//twitter.com/codecarrotnet) and [Google+](//plus.google.com/u/1/b/104910911502233710941/104910911502233710941) pages to complement—or in some cases replace—a website.
+You can also use social media as your digital presence. People all over the world use [Facebook](https://facebook.com/codecarrotinc), [Twitter](https://twitter.com/codecarrotnet), [Google+](https://plus.google.com/u/1/b/104910911502233710941/104910911502233710941) and [Instagram](https://www.instagram.com/codecarrot) pages to complement—or in some cases replace—a website.
 
 Another way you can reach customers online is through their mobile. You’ve probably downloaded apps or games on your mobile phone. You can create and offer these apps to customers yourself.
 
@@ -53,6 +53,6 @@ Apps could even let her place an order right then, so when she comes in she can 
 
 So, to recap: whether you use a website, local business listings, social media, mobile apps, or all of the above, the trick is to decide what you want customers to do, then create a home that accomplishes those goals. Together, these things work as your digital storefront: your space to interact with customers online.
 
-[![Make your business online with a website Promo](https://i.imgur.com/MAphtcZ.png)](//www.codecarrot.net/)
+[![Make your business online with a website Promo](https://i.imgur.com/MAphtcZ.png)](https://www.codecarrot.net/)
 
 We’ve got lessons covering all of these areas, but for the next little while we’ll be focusing on websites: you'll learn the basics like how websites work, how to pick and register a proper domain name, and how to make whatever you decide to do online as friendly as possible to your digital visitors AND support the goals of your business. And if you keep watching, we’ll cover all of this and more.

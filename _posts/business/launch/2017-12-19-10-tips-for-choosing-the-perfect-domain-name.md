@@ -64,7 +64,7 @@ A bevy of new generic top-level domains — like .photography, .nyc and .guru �
 .biz : business or commercial use, like e-commerce sites.
 .me : blogs, resumes or personal sites.
 
-**Pro tip:** You don’t [need to build a website](//www.codecarrot.net/) for every domain. Just forward any additional domains to your primary website.
+**Pro tip:** You don’t [need to build a website](https://www.codecarrot.net/) for every domain. Just forward any additional domains to your primary website.
 
 ## 9. Protect and build your brand
 

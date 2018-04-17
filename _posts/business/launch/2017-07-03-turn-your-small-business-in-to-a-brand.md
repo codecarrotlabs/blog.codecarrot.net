@@ -46,7 +46,7 @@ Do Your Research: Identify the needs and practices of your existing customers an
 
 **Keep Your Word:** Deliver what you promised you would. Your customers would refrain from coming back to you is you do not live up to their expectations. This will help your brand have a positive recall.
 
-Don’t have an online business? Getting an website with [CodeCarrot](//www.codecarrot.net) is super easy!
+Don’t have an online business? Getting an website with [CodeCarrot](https://www.codecarrot.net) is super easy!
 
 ## P.S. Can we send you an email?
 

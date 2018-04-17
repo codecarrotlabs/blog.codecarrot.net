@@ -9,7 +9,7 @@ description: In an initial consultation with any industry, there are typically s
 image: https://i.imgur.com/3Kd1mk6.jpg
 ---
 
-At [CodeCarrot](//www.codecarrot.net/), we’ve had many internal discussions about the line between project and product management in a client-services product management model. But there is a product practice area that we use for almost all of our clients: Discovery facilitation — also known as, *how to communicate with people and get what you need from them.*
+At [CodeCarrot](https://www.codecarrot.net/), we’ve had many internal discussions about the line between project and product management in a client-services product management model. But there is a product practice area that we use for almost all of our clients: Discovery facilitation — also known as, *how to communicate with people and get what you need from them.*
 
 At some point, many product managers — even those who align with a single product or feature — will be in a position to facilitate a face-to-face Discovery session. There is magic in a well-scoped, well-run Discovery that easily delivers a shared understanding of the task at hand. Here are some guidelines we've found helpful in this process.
 

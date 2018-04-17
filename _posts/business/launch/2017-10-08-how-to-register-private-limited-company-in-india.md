@@ -115,6 +115,6 @@ Usually time taken for incorporation a Private Limited Company in India from 2 t
 
 Once a Company is duly incorporated, it will remain active and in-existence as long as the annual compliance are lawfully met in a regular fashion. In case of non-compliance, the company will become dormant and maybe unlisted from the register after a certain period of time.
 
-While registering your company may be a long, tedious process – getting started with an online business may not be. [Get started today](//www.codecarrot.net/).
+While registering your company may be a long, tedious process – getting started with an online business may not be. [Get started today](https://www.codecarrot.net/).
 
-[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](//www.codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](https://www.codecarrot.net/)

@@ -13,7 +13,7 @@ image: https://i.imgur.com/iWqR9Vm.jpg
 
 **Answer: I have an idea for an app, and I’d like you to build it for me.**
 
-I’ve heard this opener more than a few times at [CodeCarrot](//www.codecarrot.net), and it always surprises me a bit.
+I’ve heard this opener more than a few times at [CodeCarrot](https://www.codecarrot.net), and it always surprises me a bit.
 
 You want to spend $100,000 or more on an idea?
 

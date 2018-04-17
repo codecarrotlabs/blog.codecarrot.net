@@ -19,7 +19,7 @@ Let’s look at seven ways to help your business stand out from the crowd. Each 
 
 Most forward thinking companies are familiar with the benefits of getting a website and start blogging. If you’re tired of being overlooked online; if you’re seeking a fresh way to share ideas, bring more awareness about your product/service and have your voice heard, get involved with corporate website and blogging.
 
-[![Make your business online with a website Promo](https://i.imgur.com/MAphtcZ.png)](//www.codecarrot.net/)
+[![Make your business online with a website Promo](https://i.imgur.com/MAphtcZ.png)](https://www.codecarrot.net/)
 
 ## 2. Provide Legendary Customer Service
 
@@ -43,4 +43,4 @@ While some may argue that a company’s main responsibility is to take care of i
 
 Are you confident enough in your product or service to stand behind it 100%? If so, guarantee it. Adding this type of assurance to your marketing message shows customers and prospects that you truly care about their satisfaction. Here’s the only thing you need to remember: you must back up your guarantee if and when the time comes.
 
-[Standing out in a crowd of competitors](//www.codecarrot.net/) is no easy task, and it’s getting more difficult all the time. Choose one or more of these tactics to create an advantage for your venture.
+[Standing out in a crowd of competitors](https://www.codecarrot.net/) is no easy task, and it’s getting more difficult all the time. Choose one or more of these tactics to create an advantage for your venture.
