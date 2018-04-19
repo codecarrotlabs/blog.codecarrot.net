@@ -78,9 +78,9 @@ If you’re applying for a bank account as a non-resident, you can present one o
 
 A recent utility bill (not more than 2 months old); and bank statements for the last 3 months with at least 2 transactions you initiated yourself will also work as proof of your Indian address.
 
-Alternatively, you can present your [Aadahaar Card](//resident.uidai.gov.in/aadhaarverification), which is sort of the Indian equivalent of an identity card and social security number, rolled into one.
+Alternatively, you can present your [Aadahaar Card](https://resident.uidai.gov.in/aadhaarverification), which is sort of the Indian equivalent of an identity card and social security number, rolled into one.
 
-Some banks may also accept other documents as proof of address. These include a [PAN card](//tin.tin.nsdl.com/pan/), government correspondence, a letter from your embassy in India and even a municipal or property tax receipt. It’s entirely up to individual banks to decide whether to accept these documents, so you’ll need to confirm with your bank beforehand.
+Some banks may also accept other documents as proof of address. These include a [PAN card](https://tin.tin.nsdl.com/pan/), government correspondence, a letter from your embassy in India and even a municipal or property tax receipt. It’s entirely up to individual banks to decide whether to accept these documents, so you’ll need to confirm with your bank beforehand.
 
 ### Small accounts
 
@@ -121,37 +121,37 @@ Here’s what they each have to offer.
 
 State Bank of India is by far the largest bank in India, with a staggering 9143 branches across the country. It’s also the country’s oldest bank.
 
-The bank offers both [non-resident accounts](//www.onlinesbi.com/nri/accounts_deposits/sbinri_ad.html) and accounts for residents.
+The bank offers both [non-resident accounts](https://www.onlinesbi.com/nri/accounts_deposits/sbinri_ad.html) and accounts for residents.
 
-A resident [current account](//www.sbi.co.in/portal/web/personal-banking/current-account) will include an ATM debit card that’s free for the first year as well as personal accident insurance for an additional premium.
+A resident [current account](https://www.sbi.co.in/portal/web/personal-banking/current-account) will include an ATM debit card that’s free for the first year as well as personal accident insurance for an additional premium.
 
-While the bank doesn’t offer a current account specifically for students, it does offer a [savings account](//www.sbi.co.in/portal/web/personal-banking/yuva-savings-bank-account) for people aged 18 to 30. However, this doesn’t have much in the way of benefits other than it being free of charge and having a free ATM card.
+While the bank doesn’t offer a current account specifically for students, it does offer a [savings account](https://www.sbi.co.in/portal/web/personal-banking/yuva-savings-bank-account) for people aged 18 to 30. However, this doesn’t have much in the way of benefits other than it being free of charge and having a free ATM card.
 
-There’s also a selection of [business products](//sbiforsme.sbi.co.in/SME/smeLiabilityProduct.htm?execution=e2s1) to choose from, including two current accounts and deposit facilities that can pay up to 6.71% interest for 60 days.
+There’s also a selection of [business products](https://sbiforsme.sbi.co.in/SME/smeLiabilityProduct.htm?execution=e2s1) to choose from, including two current accounts and deposit facilities that can pay up to 6.71% interest for 60 days.
 
 ### ICICI Bank
 
-ICICI Bank’s [non-resident accounts](//www.icicibank.com/nri-banking/nri-banking.page?) are great because they offer up to 3% cashback on bill payments you make via internet banking, a MasterCard debit card with big discounts and free personal accident and air travel protection insurance.
+ICICI Bank’s [non-resident accounts](https://www.icicibank.com/nri-banking/nri-banking.page?) are great because they offer up to 3% cashback on bill payments you make via internet banking, a MasterCard debit card with big discounts and free personal accident and air travel protection insurance.
 
 They also have tailored personal and business accounts.
 
-In particular, the [Salary Account](//www.icicibank.com/Personal-Banking/account-deposit/salary-account/advantage-employees.page?#toptitle) includes a free international debit card and gives you reward points for paying your bills online, shopping online or even for simply activating your internet and mobile banking facilities.
+In particular, the [Salary Account](https://www.icicibank.com/Personal-Banking/account-deposit/salary-account/advantage-employees.page?#toptitle) includes a free international debit card and gives you reward points for paying your bills online, shopping online or even for simply activating your internet and mobile banking facilities.
 
-Your choice of [business account](//www.icicibank.com/business-banking/current-account/current-account-product-calculator.page) will depend on your annual turnover. Different accounts have different free deposit amount limits. However, all include an advisory investment service to help you make the most of your business assets.
+Your choice of [business account](https://www.icicibank.com/business-banking/current-account/current-account-product-calculator.page) will depend on your annual turnover. Different accounts have different free deposit amount limits. However, all include an advisory investment service to help you make the most of your business assets.
 
-The bank doesn’t have a tailored student account. However it does offer a [Child Education Plan](//www.icicibank.com/Personal-Banking/account-deposit/child-education-plan/index.page?) to help you save up for education expenses from as early as kindergarten.
+The bank doesn’t have a tailored student account. However it does offer a [Child Education Plan](https://www.icicibank.com/Personal-Banking/account-deposit/child-education-plan/index.page?) to help you save up for education expenses from as early as kindergarten.
 
 ### Punjab National Bank
 
-Like the other major Indian banks, Punjab National Bank offers products for both residents and [non-residents](//www.pnbindia.in/en/ui/NRI-Services.aspx).
+Like the other major Indian banks, Punjab National Bank offers products for both residents and [non-residents](https://www.pnbindia.in/en/ui/NRI-Services.aspx).
 
-Products for residents include a [Current Deposit Account](//www.pnbindia.in/en/ui/content.aspx?id=264) with a free ATM debit card and free internet banking which you can open whether you’re an individual or a business customer.
+Products for residents include a [Current Deposit Account](https://www.pnbindia.in/en/ui/content.aspx?id=264) with a free ATM debit card and free internet banking which you can open whether you’re an individual or a business customer.
 
 ### Canara Bank
 
-Besides basic accounts for [non-residents](//www.canarabank.com/English/scripts/nriremittancefacilities.aspx), Canara Bank has a [Current Account](//www.canarabank.com/English/scripts/CUrrentAccount.aspx) that’s suitable for individuals and businesses alike.
+Besides basic accounts for [non-residents](https://www.canarabank.com/English/scripts/nriremittancefacilities.aspx), Canara Bank has a [Current Account](https://www.canarabank.com/English/scripts/CUrrentAccount.aspx) that’s suitable for individuals and businesses alike.
 
-There is also a [Junior Savings Account](//www.canarabank.com/English/Scripts/JUNIORSAVINGACCOUNT.aspx). However, this is aimed at children rather than students. It’s available to anyone over 10 years old and comes with a debit card. It’s main draw is that it has a restricted monthly withdrawal limit to prevent excessive spending.
+There is also a [Junior Savings Account](https://www.canarabank.com/English/Scripts/JUNIORSAVINGACCOUNT.aspx). However, this is aimed at children rather than students. It’s available to anyone over 10 years old and comes with a debit card. It’s main draw is that it has a restricted monthly withdrawal limit to prevent excessive spending.
 
 ## What are the costs?
 

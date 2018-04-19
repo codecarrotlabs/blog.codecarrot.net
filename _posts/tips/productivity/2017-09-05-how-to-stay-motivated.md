@@ -33,7 +33,7 @@ The longer you work on a project, the more difficult it is to think objectively.
 
 ![Yashu Mittal Behance Profile](https://cdn.codecarrot.net/images/screenshot-of-the-yashumittal-behance-profile.png)
 
-*Sites like [Dribbble](//dribbble.com/mittalyashu) & [Behance](//www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
+*Sites like [Dribbble](https://dribbble.com/mittalyashu) & [Behance](https://www.behance.net/mittalyashu77) can help you gather constructive feedback and stay motivated.*
 
 Other people will typically find obvious flaws immediately. There might be major problems with your work that are right in front of your face, but you might not notice them because you’ve learned to ignore them. It’s a common human flaw to spend a lot of time on unimportant details, but a fresh pair of eyes can help you refocus. Don’t fall into the trap of working hard on the wrong problem.
 
@@ -47,7 +47,7 @@ Learning can also help you find new efficiencies. Even if you’re timeboxing yo
 
 ## Track Progress
 
-I use sites like Pinterest and [Imgur](//imgur.com) to create a “motivation gallery” for myself. When I first start a project, I’ll generally use these like a mood board. I’ll find pictures that capture the essence of the project so that I remember the original emotions I had when I first started. Never forget why you started, or you’ll never be motivated to finish.
+I use sites like Pinterest and [Imgur](https://imgur.com) to create a “motivation gallery” for myself. When I first start a project, I’ll generally use these like a mood board. I’ll find pictures that capture the essence of the project so that I remember the original emotions I had when I first started. Never forget why you started, or you’ll never be motivated to finish.
 
 Later on in the project, I’ll start to fill a “progress gallery” with screenshots. I keep them in chronological order so that I can see what the project looked like at the beginning, how it progressed, and what it looks like now. In moments when a project feels like it’s moving slow, I check out the progress gallery. As soon as I see the first image and then start to scroll through the pictures, I realize how far I’ve come. This creates a powerful feedback loop, because the more the gallery grows, the more you’ll want to add to it and watch the project evolve.
 

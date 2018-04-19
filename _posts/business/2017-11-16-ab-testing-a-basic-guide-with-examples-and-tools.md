@@ -47,10 +47,10 @@ If you are familiar with Google Analytics, you can easily perform A/B tests. Goo
 
 ### 2. Five-Second Test
 
-This is a tool that allows you to upload your design and run a five-second test on your users. Almost like a memory game, your customers will be shown a certain page and a word cloud after five seconds and will be asked to choose what they register or remember about the page they just saw. [Try the tool here](//fivesecondtest.com).
+This is a tool that allows you to upload your design and run a five-second test on your users. Almost like a memory game, your customers will be shown a certain page and a word cloud after five seconds and will be asked to choose what they register or remember about the page they just saw. [Try the tool here](https://fivesecondtest.com).
 
 ### 3. Optimizely
 
-In this tool, all you need to do is copy the embed code for tracking different goals of your website and paste it into your website’s HTML code. [Here’s an easy guide to start using Optimizely](//www.youtube.com/watch?v=pJnpNgd-UdY).
+In this tool, all you need to do is copy the embed code for tracking different goals of your website and paste it into your website’s HTML code. [Here’s an easy guide to start using Optimizely](https://www.youtube.com/watch?v=pJnpNgd-UdY).
 
-Don’t have a website yet? Don't worry, you can [get with CodeCarrot](//www.codecarrot.net). You can not only track who visits your website but also get detailed insights and test with the Google Analytics app. **Sell your products/services** directly from your website, **accept payments** and lot more.
+Don’t have a website yet? Don't worry, you can [get with CodeCarrot](https://www.codecarrot.net). You can not only track who visits your website but also get detailed insights and test with the Google Analytics app. **Sell your products/services** directly from your website, **accept payments** and lot more.

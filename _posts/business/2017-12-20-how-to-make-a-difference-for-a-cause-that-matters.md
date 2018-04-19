@@ -9,7 +9,7 @@ description: If you see a need and are moved to help, don’t wait for someone e
 image: https://cdn.codecarrot.net/images/how-to-make-a-difference-min.jpg
 ---
 
-If you see a need and are moved to help, act on that impulse. Remember that most causes —  [HASI Foundation](//www.codecarrot.net/clients.html) — often can’t get enough help. You don’t need to wait for someone else to step up and set things into action when you can do it yourself. Want to know how to make a difference? Just use these five steps.
+If you see a need and are moved to help, act on that impulse. Remember that most causes —  [HASI Foundation](https://www.codecarrot.net/clients.html) — often can’t get enough help. You don’t need to wait for someone else to step up and set things into action when you can do it yourself. Want to know how to make a difference? Just use these five steps.
 
 ## Get started in 5 simple steps
 
@@ -95,7 +95,7 @@ Keep in mind, you’ll want to avoid crowdfunding platforms that aren’t geared
 
 ## 4. Work your website
 
-You don’t have to be a tech guru for this step! We *([CodeCarrot](//www.codecarrot.net/))* can help you out to build a website for you, that can accept donations, publish calendars and organize volunteers can give you more leverage in persuading website visitors to support your cause.
+You don’t have to be a tech guru for this step! We *([CodeCarrot](https://www.codecarrot.net/))* can help you out to build a website for you, that can accept donations, publish calendars and organize volunteers can give you more leverage in persuading website visitors to support your cause.
 
 <blockquote>
 By building your own website, you have more influence on how it looks and what it displays, meaning you have more persuasion on your side.

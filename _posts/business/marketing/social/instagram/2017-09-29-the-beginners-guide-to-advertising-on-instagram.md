@@ -9,7 +9,7 @@ description: Instagram now has more than 600 million users. That’s a big audie
 image: https://cdn.codecarrot.net/images/instagram-ads-1024x535.jpg
 ---
 
-Instagram now has more than [600 million users](//blog.instagram.com/post/154506585127/161215-600million). That’s a big audience. For comparison, Twitter only has [313 million monthly active users](//about.twitter.com/company).
+Instagram now has more than [600 million users](https://blog.instagram.com/post/154506585127/161215-600million). That’s a big audience. For comparison, Twitter only has [313 million monthly active users](https://about.twitter.com/company).
 
 But it’s not the size of Instagram’s user base that makes it such an enticing marketing channel—it’s the level of engagement that brands get on the platform.
 
@@ -55,7 +55,7 @@ Since late 2015, anyone can now create Instagram ads through Facebook's self-ser
 * Robust reporting, you’re in control
 * Highly-refined audience targeting
 
-What's more, with Instagram's move away from a [chronological feed in favor of a curated feed](//blog.instagram.com/post/141107034797/160315-news), you never know how many of your followers will see your posts.
+What's more, with Instagram's move away from a [chronological feed in favor of a curated feed](https://blog.instagram.com/post/141107034797/160315-news), you never know how many of your followers will see your posts.
 
 ## Types of Ads
 
@@ -91,7 +91,7 @@ You may already be familiar with campaign objectives from creating Facebook ads.
 
 ### Targeting Options
 
-Instagram ads have all the same [targeting options](//business.instagram.com/advertising) as Facebook ads 🙌 . These include targeting based on location, demographics, interests, behavior, lookalike audiences, and automated targeting (let Facebook decide).
+Instagram ads have all the same [targeting options](https://business.instagram.com/advertising) as Facebook ads 🙌 . These include targeting based on location, demographics, interests, behavior, lookalike audiences, and automated targeting (let Facebook decide).
 
 Even better, if you have Custom Audiences, you can target them on Instagram. Custom Audiences are groups people who have already connected with your brand in some way. This could be by visiting your website, engaging with your posts on Facebook, using your app, or by sharing their contact info with you.
 
@@ -159,4 +159,4 @@ Once everything looks good, click "Place Order". Otherwise, go back and make cha
 
 ## Step 4 - Repeat!
 
-The first one is always the hardest. Once you've created your first ad on Instagram, it'll be much easier the second time around. In the meantime, use the [Ads Manager](//www.facebook.com/ads/manager/account/campaigns/) to keep track of how your first ad is performing.
+The first one is always the hardest. Once you've created your first ad on Instagram, it'll be much easier the second time around. In the meantime, use the [Ads Manager](https://www.facebook.com/ads/manager/account/campaigns/) to keep track of how your first ad is performing.

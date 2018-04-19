@@ -46,7 +46,7 @@ In a nutshell, you can use open-source protocols with an IaaS to launch your app
 
 ### Platform-as-a-Service (PaaS)
 
-PaaS providers like [Firebase](//firebase.com/) offer hosted solutions for building chat applications. They include not only the infrastructure, but also the APIs for building chat features. Building and customizing the application requires engineering resources, since their SDKs are open. But security and maintenance of the service (the back-end and the client SDKs) are handled by the PaaS.
+PaaS providers like [Firebase](https://firebase.com/) offer hosted solutions for building chat applications. They include not only the infrastructure, but also the APIs for building chat features. Building and customizing the application requires engineering resources, since their SDKs are open. But security and maintenance of the service (the back-end and the client SDKs) are handled by the PaaS.
 
 ### Chat frameworks
 
@@ -159,4 +159,4 @@ When you look at the major considerations, you can see that building out a realt
 
 Most hosted-solution providers also allow a free-forever sandbox pricing tier. This allows you to develop your app without paying, and once you’ve grown to a certain size, you pay as you grow. For those companies looking to move fast and not wanting to worry about all the intricacies of networking and infrastructure, hosted-solutions are the way to go.
 
-This article is written by [Joe Hanson](//medium.freecodecamp.org/@joehanson).
+This article is written by [Joe Hanson](https://medium.freecodecamp.org/@joehanson).

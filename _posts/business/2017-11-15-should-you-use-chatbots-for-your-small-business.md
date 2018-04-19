@@ -53,10 +53,10 @@ If your customer is looking for a specific service, your chatbot can help them f
 
 ## 5 Chatbots to Use for your small business:
 
-1. **[FlowXO](//flowxo.com/):** This is a ready-made, ready-to-use chatbot that has flexible integrations and some great features that allow you to drive traffic to your website and social media. It’s also FREE!
-2. **[Chatfuel](//chatfuel.com/):** Are you a developer that wants to build a chatbot? This one allows you to launch a full-fledged chatbot in about 7 minutes!
-3. **[GrowthBot](//growthbot.org/):** Want to grow your business? Growthbot helps you discover growth hacks for your business. It’s available on Facebook, Twitter and Slack.
-4. **[Napoleon Cat](//napoleoncat.com/):** This bot allows you to keep your customers on social media, engaged. It responds to queries and tracks your audience. It’s a great way to increase followers on social media.
-5. **[Niki.ai](//niki.ai/):** Niki.ai is a shopping-assistant bot that can help your customer shop, take payments and keep communicating order details from time-to-time.
+1. **[FlowXO](https://flowxo.com/):** This is a ready-made, ready-to-use chatbot that has flexible integrations and some great features that allow you to drive traffic to your website and social media. It’s also FREE!
+2. **[Chatfuel](https://chatfuel.com/):** Are you a developer that wants to build a chatbot? This one allows you to launch a full-fledged chatbot in about 7 minutes!
+3. **[GrowthBot](https://growthbot.org/):** Want to grow your business? Growthbot helps you discover growth hacks for your business. It’s available on Facebook, Twitter and Slack.
+4. **[Napoleon Cat](https://napoleoncat.com/):** This bot allows you to keep your customers on social media, engaged. It responds to queries and tracks your audience. It’s a great way to increase followers on social media.
+5. **[Niki.ai](https://niki.ai/):** Niki.ai is a shopping-assistant bot that can help your customer shop, take payments and keep communicating order details from time-to-time.
 
-Give your customers the freedom to pay with any mode of payment they want to. [Get started with CodeCarrot](//www.codecarrot.net) and get a website for your small business and make your business outshine in the online world – with or without chatbots.
+Give your customers the freedom to pay with any mode of payment they want to. [Get started with CodeCarrot](https://www.codecarrot.net) and get a website for your small business and make your business outshine in the online world – with or without chatbots.

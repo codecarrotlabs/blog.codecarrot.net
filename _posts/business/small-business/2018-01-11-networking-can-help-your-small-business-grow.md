@@ -49,4 +49,4 @@ Stay away from any controversial or sensitive issues in your network, do not com
 
 A well-connected and powerful network will not only get you referrals but also improve your business as well as your interpersonal skills.  There is nothing more encouraging and motivating than a group of people who are willing to always help you and your business succeed.
 
-Want to [make your small business online](//www.codecarrot.net/) with a website.
+Want to [make your small business online](https://www.codecarrot.net/) with a website.

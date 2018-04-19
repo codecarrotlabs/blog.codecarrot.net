@@ -51,4 +51,4 @@ To log into a UPI app, you will need to use an M-PIN or a biometrics parameter, 
 
 Failed payments are one of the biggest reasons contributing to lost sales in the Indian e-commerce sector. Why lose sales when you can capture every payment?
 
-Make your [business online with CodeCarrot](//www.codecarrot.net)! You can increase the reach of your business arcoss globe and sell your product and services, directly from your website. [Get started in five minutes](//www.codecarrot.net) with CodeCarrot.
+Make your [business online with CodeCarrot](https://www.codecarrot.net)! You can increase the reach of your business arcoss globe and sell your product and services, directly from your website. [Get started in five minutes](https://www.codecarrot.net) with CodeCarrot.

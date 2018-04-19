@@ -97,11 +97,11 @@ Though it’s unlikely you’ll be able to get much done without the internet th
 
 These are the Chrome extensions I use to put myself in “Airplane Mode” every Saturday.
 
-* **[StayFocused](//chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en)** - Block out the sites that steal your time so that you can work on what matters.
-* **[RescueTime](//chrome.google.com/webstore/detail/rescuetime-for-chrome-chr/bdakmnplckeopfghnlpocafcepegjeap)** - Track all your time on the internet to later review where you waste the most time. _([Check reviews](https://biz30.timedoctor.com/rescuetime-review/))_
-* **[News Feed Eradicator](//chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)** - Sometimes, I can’t block Facebook using a tool like StayFocused because I use Facebook to manage my ads and pages. However, with News Feed Eradicator, my news feed goes from distraction filled mess to motivational or inspirational quote.
-* **[Momentum](//chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)** - This extension replaces your new tab screen with an inspirational photo and a reminder of your most important task for the day.
-* **[Simple Pomodoro](//chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp)** - If you’re not familiar with The Pomodoro Technique, it helps you work in small intervals of 25 minutes of getting stuff done and a short 5 or 10 minute break. Instead of plowing through without taking a break, Simple Pomodoro is a timer that will alert you when it’s time to take a break and when it’s time to get back to work.
+* **[StayFocused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en)** - Block out the sites that steal your time so that you can work on what matters.
+* **[RescueTime](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-chr/bdakmnplckeopfghnlpocafcepegjeap)** - Track all your time on the internet to later review where you waste the most time. _([Check reviews](https://biz30.timedoctor.com/rescuetime-review/))_
+* **[News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)** - Sometimes, I can’t block Facebook using a tool like StayFocused because I use Facebook to manage my ads and pages. However, with News Feed Eradicator, my news feed goes from distraction filled mess to motivational or inspirational quote.
+* **[Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)** - This extension replaces your new tab screen with an inspirational photo and a reminder of your most important task for the day.
+* **[Simple Pomodoro](https://chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp)** - If you’re not familiar with The Pomodoro Technique, it helps you work in small intervals of 25 minutes of getting stuff done and a short 5 or 10 minute break. Instead of plowing through without taking a break, Simple Pomodoro is a timer that will alert you when it’s time to take a break and when it’s time to get back to work.
 
 ### Sunday
 

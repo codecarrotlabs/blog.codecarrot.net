@@ -98,7 +98,7 @@ Place this code immediately after the opening head tag at the top of your origin
 
 ![setup the a/b testing code](https://cdn.codecarrot.net/images/setup-the-code.png)
 
-**Pro Tips:** You can use the [Google Content Experiments plugin](//wordpress.org/plugins/google-content-experiments/screenshots/) to enter the code on your page.
+**Pro Tips:** You can use the [Google Content Experiments plugin](https://wordpress.org/plugins/google-content-experiments/screenshots/) to enter the code on your page.
 
 ## Review and Get Started
 

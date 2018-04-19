@@ -83,13 +83,13 @@ Keeping your website clean, organized, and easy to navigate is just as important
 
 To avoid annoying your customers, you need to put a mobile responsive website at the heart of your website strategy. Nearly ⅓ of smartphone users will immediately navigate away from a website if it takes too long to load or they can’t find what they’re looking for right away.
 
-That’s huge, especially since more than half of all Google searches are now happening on smartphones and tablets rather than computer and laptops. However, if you get a website with CodeCarrot, you’ll be good to go since [every template](//www.codecarrot.net) is already fully mobile responsive.
+That’s huge, especially since more than half of all Google searches are now happening on smartphones and tablets rather than computer and laptops. However, if you get a website with CodeCarrot, you’ll be good to go since [every template](https://www.codecarrot.net/) is already fully mobile responsive.
 
-Load times in particular take a toll on your customers’ patience. According to [Google](//www.thinkwithgoogle.com/articles/speed-is-key-optimize-your-mobile-experience.html), 40% of customers will abandon a website if it takes longer than three seconds to load. Wondering how your website stacks up? Try running it through [Google’s PageSpeed Insights](//developers.google.com/speed/pagespeed/insights/).
+Load times in particular take a toll on your customers’ patience. According to [Google](https://www.thinkwithgoogle.com/articles/speed-is-key-optimize-your-mobile-experience.html), 40% of customers will abandon a website if it takes longer than three seconds to load. Wondering how your website stacks up? Try running it through [Google’s PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
 
 If your website has a physical location, you should also think about how easy it is for your customers to find your contact details.
 
-When customers visit a brick-and-mortar store’s website, they’re looking for address and location information above anything else. And half the time, those local searches actually result in [customers showing up to the business’ physical shop](//think.storage.googleapis.com/docs/how-advertisers-can-extend-their-relevance-with-search_research-studies.pdf) within 24 hours.
+When customers visit a brick-and-mortar store’s website, they’re looking for address and location information above anything else. And half the time, those local searches actually result in [customers showing up to the business’ physical shop](https://think.storage.googleapis.com/docs/how-advertisers-can-extend-their-relevance-with-search_research-studies.pdf) within 24 hours.
 
 Here’s a quick checklist with the details that every business needs to have on their “Contact Us” page to avoid frustrating customers who are trying to get in touch:
 

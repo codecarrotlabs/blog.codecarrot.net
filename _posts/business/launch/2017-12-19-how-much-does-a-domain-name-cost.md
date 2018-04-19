@@ -41,7 +41,7 @@ What’s your business about? Are you selling T-shirts online or do you make han
 * mywebsite.shop
 * mywebsite.design
 
-Whatever you do, research keywords by using a tool like [Google Keyword Planner](//adwords.google.com/home/tools/keyword-planner/) and see what your target audience is searching for. Then, if you can, [incorporate one into your domain name](/domain-seo-can-including-keywords-in-a-domain-name-improve-search-ranking).
+Whatever you do, research keywords by using a tool like [Google Keyword Planner](https://adwords.google.com/home/tools/keyword-planner/) and see what your target audience is searching for. Then, if you can, [incorporate one into your domain name](/domain-seo-can-including-keywords-in-a-domain-name-improve-search-ranking).
 
 ### Avoid hyphens or odd spellings
 

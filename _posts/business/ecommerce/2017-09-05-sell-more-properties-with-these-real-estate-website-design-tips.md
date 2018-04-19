@@ -9,7 +9,7 @@ description: Attention real estate agents - Want more solid leads? Use these rea
 image: https://i.imgur.com/hyhnTlz.jpg
 ---
 
-If you don't have a website for your business. You can get is [developed from Codecarrot](//www.codecarrot.net/).
+If you don't have a website for your business. You can get is [developed from Codecarrot](https://www.codecarrot.net/).
 
 Your website is more than just a piece of web real estate. Properly built and maintained, a site can help you bring in more clients, more sales and greater earnings. It gives potential customers a way to explore what you have to offer, and you a way to sell your services to those who are looking for them. Your real estate website design is a dynamic representation of you, your team or your brokerage, and should be crafted with care and strategy.
 
@@ -45,4 +45,4 @@ However you lay out your real estate website design, make sure your contact info
 It’s also a good idea to have a clear and concise contact page that is accessible through the main navigation of the website.
 </div>
 
-Don't have a website for your business, no worries, we will [create it for you](//www.codecarrot.net/).
+Don't have a website for your business, no worries, we will [create it for you](https://www.codecarrot.net/).

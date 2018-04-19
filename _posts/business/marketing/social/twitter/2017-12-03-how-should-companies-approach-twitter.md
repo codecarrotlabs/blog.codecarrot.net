@@ -9,11 +9,11 @@ description: While I was planning to write a new blog post for CodeCarrot. My fr
 image: https://cdn.codecarrot.net/images/Disneyland-Resort-on-Twitter.png
 ---
 
-While I was planning to write a new blog post for [CodeCarrot](//www.codecarrot.net). My friend asked me "Should a company tweet as itself on Twitter *(ie [@codecarrotnet](//www.twitter.com/codecarrotnet))* or should the Twitter account be written from a more personal perspective *(ie [@mittalyashu77](//www.twitter.com/mittalyashu77))*?"
+While I was planning to write a new blog post for [CodeCarrot](https://www.codecarrot.net). My friend asked me "Should a company tweet as itself on Twitter *(ie [@codecarrotnet](https://www.twitter.com/codecarrotnet))* or should the Twitter account be written from a more personal perspective *(ie [@mittalyashu77](https://www.twitter.com/mittalyashu77))*?"
 
-If the Twitter account is written from the company perspective then followers might expect certain things; updates on **what the company is doing** and customer support, for example. Followers may not expect to hear that [@codecarrotnet](//www.twitter.com/codecarrotnet) is having coffee with its buddies in Starbucks – that might throw some people and feel a bit weird.
+If the Twitter account is written from the company perspective then followers might expect certain things; updates on **what the company is doing** and customer support, for example. Followers may not expect to hear that [@codecarrotnet](https://www.twitter.com/codecarrotnet) is having coffee with its buddies in Starbucks – that might throw some people and feel a bit weird.
 
-Similarly, if you have a personal Twitter account your followers may not want to hear about what your company is up to when they’re following you because they are interested in how you [@mittalyashu77](//www.twitter.com/mittalyashu77) think and what you do.
+Similarly, if you have a personal Twitter account your followers may not want to hear about what your company is up to when they’re following you because they are interested in how you [@mittalyashu77](https://www.twitter.com/mittalyashu77) think and what you do.
 
 This conundrum leaves businesses in a sort of limbo land – not knowing how to approach Twitter. Larger companies, I think, may have a particular problem.
 
@@ -23,6 +23,6 @@ If you don’t think that the public at large is particularly interested in you 
 
 Or of course you could do a mixture of the two where you have an official company twitter account which includes news, offers and support and a bit of personal input from the team. But the founder also has a personal account which gives an insight into his or her personal world while being also peppered with company updates.
 
-You can follow [CodeCarrot on twitter](//www.twitter.com/codecarrotnet).
+You can follow [CodeCarrot on twitter](https://www.twitter.com/codecarrotnet).
 
-[![CodeCarrot Twitter Page](https://cdn.codecarrot.net/images/codecarrot-twitter.png)](//www.twitter.com/codecarrotnet).
+[![CodeCarrot Twitter Page](https://cdn.codecarrot.net/images/codecarrot-twitter.png)](https://www.twitter.com/codecarrotnet).

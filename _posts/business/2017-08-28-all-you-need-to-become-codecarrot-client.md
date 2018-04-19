@@ -49,7 +49,7 @@ To sum up:
 *  You will be provided with an extensive report showing how to forge your idea into a live product.
 *  This is the first step you need to take, to kick start with the development.
 *  The technical aspects of the application will not be defined in detail, but sufficient enough to interest new investors and get funding necessary  to start development.
-*  [See this](//www.codecarrot.net/services/product-design.html) for more info about Product Design.
+*  [See this](https://www.codecarrot.net/services/product-design.html) for more info about Product Design.
 
 After the app is initially defined so **what do I do next**?
 
@@ -60,7 +60,7 @@ The answer is simple, either:
 
 Teams performing Scoping Sessions typically develop the product, so it’s a very important time for everyone to agree about as many details of the project as possible.
 
-If you wish to see all the website we have served, follow [this link](//www.codecarrot.net/clients.html).
+If you wish to see all the website we have served, follow [this link](https://www.codecarrot.net/clients.html).
 
 Now we are ready to start developing your product! We are here to help, assist and support you from day one!
 

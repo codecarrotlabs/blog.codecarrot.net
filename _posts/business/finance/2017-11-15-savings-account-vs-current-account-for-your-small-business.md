@@ -57,4 +57,4 @@ As an individual small business ( a freelancer or a consultant), a savings bank 
 
 If you are an organization or a small business employing at least 4 people, getting a current account is recommended. It is more flexible and offers several services like on-demand statements, pick-up, and delivery of cash etc.
 
-Ready to make your business online and start selling product and services? [You’re just a step away from online business](//www.codecarrot.net)! Have you contact CodeCarrot for your website designing and development yet?
+Ready to make your business online and start selling product and services? [You’re just a step away from online business](https://www.codecarrot.net)! Have you contact CodeCarrot for your website designing and development yet?

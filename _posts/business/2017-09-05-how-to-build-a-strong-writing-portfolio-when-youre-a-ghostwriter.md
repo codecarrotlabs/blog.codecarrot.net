@@ -9,7 +9,7 @@ description: Even if you’re a ghostwriter, you still need a strong writing por
 image: https://cdn.codecarrot.net/images/ilya-ilyukhin-281346.jpg
 ---
 
-In order to be a successful ghostwriter, it is important to [build a portfolio](//www.codecarrot.net/) for yourself.
+In order to be a successful ghostwriter, it is important to [build a portfolio](https://www.codecarrot.net/) for yourself.
 
 If you do not build it, to be fair you may have to spent your career as a *salaried employee* and found yourself with zero author credit and a client base who preferred I stay in the shadows.
 
@@ -61,4 +61,4 @@ Hiring a ghostwriter needn’t be anyone’s shameful little secret, and I’ve 
 
 Ghostwriters provide a valuable service to clients, but it is up to you to advocate for your own careers. Building a strong portfolio not only helps you land more work, it allows to increase your rates, expand your expertise, and establish your professional standing. We can’t let something as singular as a byline stand in the way of earning what your worth.
 
-[![Want to get a portfolio for yourself?](https://cdn.codecarrot.net/images/want-a-portfolio-website-promo.png)](//www.codecarrot.net/)
+[![Want to get a portfolio for yourself?](https://cdn.codecarrot.net/images/want-a-portfolio-website-promo.png)](https://www.codecarrot.net/)
