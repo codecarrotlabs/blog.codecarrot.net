@@ -25,7 +25,7 @@ There are many combinations of different technologies and frameworks you can bas
 
 [Ruby on Rails is a proven technology, battle-tested by well-known brands such as Crunchbase, Shopify, Twitter, Airbnb or GitHub](/top-30-sites-built-with-ruby-on-rails-in-2017). It’s strongly supported by an active community of great developers. On GitHub, it’s the largest repository of source code in the world. It makes **RoR a reliable framework**, in line with the highest development standards.
 
-[See how Ruby on Rails stacks up against Node.js.](/node-js-vs-ruby-on-rails-comparison-which-environment-to-choose-for-your-next-project)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fposts%2F366491627195858&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ### 2. Fast and convenient development
 
