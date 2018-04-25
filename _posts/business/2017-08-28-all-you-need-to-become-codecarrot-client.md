@@ -6,7 +6,7 @@ date: 2017-08-28 03:30:00 +0530
 categories: business
 tags: business client market marketplace
 description: When starting your journey to a great product you look for a team like Codecarrot to make it happen. From the post you'll find out how to become Codecarrot's client.
-image: https://cdn.codecarrot.net/images/high-status-clients-fi.jpg
+image: https://i.imgur.com/BtLNu4u.jpg
 ---
 
 At Codecarrot, we had the pleasure to meet fantastic clients and teams. Spent many hours understanding their ideas, agreeing on application architectures, talking through the long-term development processes.

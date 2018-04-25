@@ -6,7 +6,7 @@ date: 2017-09-05 01:35:00 +0530
 categories: business
 tags: business portfolio writer clients
 description: Even if you’re a ghostwriter, you still need a strong writing portfolio to show your skill and work to your next client.
-image: https://cdn.codecarrot.net/images/ilya-ilyukhin-281346.jpg
+image: https://i.imgur.com/61Oz8cg.jpg
 ---
 
 In order to be a successful ghostwriter, it is important to [build a portfolio](https://www.codecarrot.net/) for yourself.
@@ -61,4 +61,4 @@ Hiring a ghostwriter needn’t be anyone’s shameful little secret, and I’ve 
 
 Ghostwriters provide a valuable service to clients, but it is up to you to advocate for your own careers. Building a strong portfolio not only helps you land more work, it allows to increase your rates, expand your expertise, and establish your professional standing. We can’t let something as singular as a byline stand in the way of earning what your worth.
 
-[![Want to get a portfolio for yourself?](https://cdn.codecarrot.net/images/want-a-portfolio-website-promo.png)](https://www.codecarrot.net/)
+[![Want to get a portfolio for yourself?](https://i.imgur.com/iHiA1XP.png)](https://www.codecarrot.net/)

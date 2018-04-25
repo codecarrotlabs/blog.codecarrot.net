@@ -6,7 +6,7 @@ date: 2017-11-19 13:21:00 +0530
 categories: business
 tags: business chat messaging apps
 description: When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and chatbots — choosing the right platforms, frameworks, and protocols can make or break your business.
-image: https://cdn.codecarrot.net/images/1_OXWXXpMEqJja5J21hmD1fw.png
+image: https://i.imgur.com/SiDXv2g.png
 ---
 
 When you’re building a chat application of any kind — from mobile group messaging and multiplayer in-game chat, to customer support and chatbots — choosing the right platforms, frameworks, and protocols can make or break your business.
@@ -27,7 +27,7 @@ In this post, we’ll discuss a number of different chat application types and l
 
 There are a wide variety of options across the build vs. buy spectrum. You have open-source on one end (build) and fully built out (SaaS) solutions on the other (buy). With hundreds of options in between, all with different pros and cons, we’ll seek to give you an idea of the landscape in a simple chart:
 
-![1_5pSZtT1kQVHNijWUaikmqA.png](https://cdn.codecarrot.net/images/1_5pSZtT1kQVHNijWUaikmqA.png)
+![1_5pSZtT1kQVHNijWUaikmqA.png](https://i.imgur.com/aDvmn5r.png)
 
 ### Open-source protocols
 
@@ -70,7 +70,7 @@ As with all the other parts of your critical infrastructure, the key questions s
 
 ## Choosing your chat service provider: open-source vs. hosted
 
-![0_FRYhZWS5NkRf-GMZ.png](https://cdn.codecarrot.net/images/0_FRYhZWS5NkRf-GMZ.png)
+![0_FRYhZWS5NkRf-GMZ.png](https://i.imgur.com/lvdhnzv.png)
 
 When it comes to software development, everyone knows that what works in the lab is not guaranteed to work in the wild. That’s because the wild presents all those challenges you may not think about, or may not even know about yet.
 
@@ -104,7 +104,7 @@ That’s a laundry list of considerations. But if you’re choosing the open-sou
 
 For chat, security is paramount. We’re increasingly sending more confidential and mission-critical information via chat applications, from financial details to chatbot commands. Ensuring that you have full control over access and encryption is imperative.
 
-![0_CCahFHHZJiwWZxXi.png](https://cdn.codecarrot.net/images/0_CCahFHHZJiwWZxXi.png)
+![0_CCahFHHZJiwWZxXi.png](https://i.imgur.com/7rU6Ji7.png)
 
 Every successful chat service provider offers different levels of security. Here are the most important features that must be included in any hosted-service provider:
 

@@ -6,7 +6,7 @@ date: 2017-11-16 02:00:00 +0530
 categories: business
 tags: business upi india vpa money
 description: Have you tried using UPI for your small business? Here are five crucial things you need to know about using your UPI VPA.
-image: https://cdn.codecarrot.net/images/upi-e1500466543892.png
+image: https://i.imgur.com/4nwlRdD.png
 ---
 
 Have you tried using the Unified Payment Interface (UPI) yet? This superfast method of payment can not just help you get instant money in your bank account but can also help you grow your business. Here are 5 things you can do with your UPI VPA (Virtual Payment Address).

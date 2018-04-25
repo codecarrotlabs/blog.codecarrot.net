@@ -6,7 +6,7 @@ date: 2018-01-03 19:51:12 +0530
 categories: business
 tags: business start-up growth hiring
 description: When a start-up scales, it needs people with different skills from those who helped build the business. Industry leaders give us their top tips on hiring.
-image: https://cdn.codecarrot.net/images/clem-onojeghuo-210707.jpg
+image: https://i.imgur.com/j9g72Jy.jpg
 ---
 
 *Top tips for scale-up hiring*
