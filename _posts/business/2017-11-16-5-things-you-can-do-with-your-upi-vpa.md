@@ -17,7 +17,7 @@ The UPI is developed by the **NPCI** *(National Payments Council of India)* – 
 
 To be able to pay via UPI, you will need to create a VPA – an email id or a virtual address for your money.
 
-A typical VPA looks like *“rapti@upi”* or *“rapti@icici”*.
+A typical VPA looks like *“yashu@upi”* or *“yashu@icici”*.
 
 ## 5 things you can do with your UPI VPA
 
