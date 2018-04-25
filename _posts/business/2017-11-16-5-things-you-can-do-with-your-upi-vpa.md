@@ -45,10 +45,10 @@ You can also request a payment via UPI. Just enter the person’s VPA, punch in 
 
 ### 5. Sharing your VPA
 
-You can share your VPA with anybody just like sharing your email ID. Should you be worried about security? Absolutely not. The UPI mode of payment is one of the most secure modes of payment than any other mode you are using today. Noone can steal money from your account just using the VPA.
+You can share your VPA with anybody just like sharing your email ID. Should you be worried about security? Absolutely not. The UPI mode of payment is one of the most secure modes of payment than any other mode you are using today. None can steal money from your account just using the VPA.
 
 To log into a UPI app, you will need to use an M-PIN or a biometrics parameter, which makes it as secure as any other mode of payment.
 
 Failed payments are one of the biggest reasons contributing to lost sales in the Indian e-commerce sector. Why lose sales when you can capture every payment?
 
-Make your [business online with CodeCarrot](https://www.codecarrot.net)! You can increase the reach of your business arcoss globe and sell your product and services, directly from your website. [Get started in five minutes](https://www.codecarrot.net) with CodeCarrot.
+Make your [business online with CodeCarrot](https://www.codecarrot.net)! You can increase the reach of your business across globe and sell your product and services, directly from your website. [Get started in five minutes](https://www.codecarrot.net) with CodeCarrot.
