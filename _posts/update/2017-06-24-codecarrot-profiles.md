@@ -6,7 +6,7 @@ date: 2017-06-24 12:00:00 +0530
 categories: update
 tags: update codecarrot-profiles
 description: We're reinventing the business card with CodeCarrot Profiles. Now each one to whom you share your profile will have everything they need to know about you, all in one place.
-image: https://cdn.codecarrot.net/images/introducing-codecarrot-profiles.png
+image: https://i.imgur.com/YI2fq98.png
 ---
 
 We're reinventing the business card with CodeCarrot Profiles. Now each one to whom you share your profile will have everything they need to know about you, all in one place.
@@ -17,7 +17,7 @@ Whoever gets closest to the people wins.
 
 The longer is the means of communication, more you are pushing people further away from you.
 
-![Best Communcation Model](https://cdn.codecarrot.net/images/best-communcation-model.jpg)
+![Best Communication Model](https://i.imgur.com/lSo4lh2.jpg)
 
 Our mission here at [CodeCarrot](//www.codecarrot.net/) is to help business to give them an online presence to increase the reach for their business.
 
@@ -33,7 +33,7 @@ A [CodeCarrot Profile](//www.codecarrot.net/profiles) is like a digital business
 
 Let’s take mine profile for example:
 
-![Yashu Mittal - CodeCarrot Profiles](https://cdn.codecarrot.net/images/yashu-mittal-codecarrot-profile.png)
+![Yashu Mittal - CodeCarrot Profiles](https://i.imgur.com/HFwzSj6.png)
 
 I am the Founder and CEO of CodeCarrot Company
 

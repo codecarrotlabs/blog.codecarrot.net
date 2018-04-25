@@ -6,7 +6,7 @@ date: 2017-08-25 12:00:00 +0530
 categories: update
 tags: update blogging design
 description: Giving a mask to our blog website with a new design. We started our blog in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe.
-image: https://cdn.codecarrot.net/images/new-codecarrot-blog-look.png
+image: https://i.imgur.com/XnG5QtN.png
 ---
 
 We started our [first blog](/welcome-to-codecarrot-environment/) in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe we thought of redesigning the blog website with a new face.
