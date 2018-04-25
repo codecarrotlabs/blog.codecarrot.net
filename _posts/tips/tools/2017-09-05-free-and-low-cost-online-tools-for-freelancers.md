@@ -29,7 +29,7 @@ Consider taking it a step further and adding a blog for an SEO boost.
 
 Do you want a simple or complex website? That's up to you - all while making your business look its professional best.
 
-[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](//codecarrot.net/)
 
 ## Manage projects like a pro
 
@@ -79,4 +79,4 @@ Before launching a new website or marketing campaign, get unbiased feedback. [Us
 
 Starting a business is both exciting and scary at the same time. But with the right online tools for marketing consultants, you can avoid the obstacles that might come with solopreneurship and flourish on your own.
 
-[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](//codecarrot.net/)

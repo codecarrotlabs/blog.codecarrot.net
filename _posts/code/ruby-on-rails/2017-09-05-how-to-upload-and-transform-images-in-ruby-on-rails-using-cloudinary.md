@@ -140,4 +140,4 @@ If you don't want to search through documentation for any advices, I recommend u
 
 Cloudinary is a great, easy to use tool which can considerably speed up your development. If you need to process images, it's definitely worth to try. If you have any questions, feel free to ask in comment section below.
 
-[![Make your business online with a website](https://cdn.codecarrot.net/images/make-your-business-online-with-a-website-promo.png)](//www.codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](//www.codecarrot.net/)

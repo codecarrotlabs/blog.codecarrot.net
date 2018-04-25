@@ -95,7 +95,7 @@ Giphy is also a great place to find cinemagraphs, which are essentially photos w
 
 You should take advantage of the fact that GIFs loop endlessly and can be used to create engaging memes to complement your social media strategy.
 
-![Throwing money](https://cdn.codecarrot.net/images/throwing-money.gif)
+![Throwing money](https://i.imgur.com/vZ30oxD.gif)
 
 ### [Power Director](https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01&hl=en): A Robust Video Editor For Your Phone
 

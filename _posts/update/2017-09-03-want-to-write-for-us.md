@@ -6,7 +6,7 @@ date: 2017-09-04 12:00:00 +0530
 categories: update
 tags: update blog writing publish-article content-writing writer
 description: Got business/design/code/growth/project-management/tips advice to share? Here’s what we look for from contributors.
-image: https://cdn.codecarrot.net/images/592773bb7a306e0936ce3816_write.jpg
+image: https://i.imgur.com/WKvXrHi.jpg
 ---
 
 Is your writing goal to get published by one of your favorite websites?
