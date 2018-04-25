@@ -65,7 +65,7 @@ We chose RoR with React for many of our projects and it turned out to be a succe
 
 RoR and React combined will be a good solution for **modern, snappy applications in which a dynamic frontend is crucial to your business success**. That’s why it’s perfect for **SPAs**. It’s also a better choice for **B2C applications**, or **B2B apps with high user volume**. You shouldn’t waste your resources on Single Page Application that will be used by few people.
 
-Finally, if you **plan to later scale your app to mobile platforms**, React will be a great base for [React Native development](//www.codecarrot.net/).
+Finally, if you **plan to later scale your app to mobile platforms**, React will be a great base for [React Native development](https://www.codecarrot.net/).
 
 ## How It’s Done at CodeCarrot - Showcases
 

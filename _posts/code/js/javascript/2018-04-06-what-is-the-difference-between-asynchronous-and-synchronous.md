@@ -5,7 +5,7 @@ title: What is the difference between asynchronous and synchronous?
 date: 2018-04-06 15:31:20 +0530
 categories: code
 tags: code javascript asynchronous synchronous
-description: In programming, synchronous means that the requester is blocked (unable to do anything else) until a response is returned 
+description: In programming, synchronous means that the requester is blocked (unable to do anything else) until a response is returned
 image: https://i.imgur.com/2a4ZiSN.png
 ---
 

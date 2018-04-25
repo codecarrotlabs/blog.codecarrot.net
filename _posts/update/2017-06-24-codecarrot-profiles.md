@@ -19,17 +19,17 @@ The longer is the means of communication, more you are pushing people further aw
 
 ![Best Communication Model](https://i.imgur.com/lSo4lh2.jpg)
 
-Our mission here at [CodeCarrot](//www.codecarrot.net/) is to help business to give them an online presence to increase the reach for their business.
+Our mission here at [CodeCarrot](https://www.codecarrot.net/) is to help business to give them an online presence to increase the reach for their business.
 
-And today, we're launching another tool that you use to connect with people in a modern and personal way: [CodeCarrot Profiles](//www.codecarrot.net/profiles).
+And today, we're launching another tool that you use to connect with people in a modern and personal way: [CodeCarrot Profiles](https://www.codecarrot.net/profiles).
 
 ## Introducing CodeCarrot Profiles: Your Digital Business Card
 
-People expect a direct line with their friend, family while connecting. They don't want to do on different mode of commuication and then wait for hours to hear back.
+People expect a direct line with their friend, family while connecting. They don't want to do on different mode of communication and then wait for hours to hear back.
 
 And now with CodeCarrot Profiles, people will always be able to connect with you directly and personally.
 
-A [CodeCarrot Profile](//www.codecarrot.net/profiles) is like a digital business card.
+A [CodeCarrot Profile](https://www.codecarrot.net/profiles) is like a digital business card.
 
 Let’s take mine profile for example:
 

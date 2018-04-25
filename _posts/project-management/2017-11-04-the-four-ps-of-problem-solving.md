@@ -222,4 +222,4 @@ Being a great problem solver takes time and practice. You must stay humble and p
 
 Simply follow these steps and you are well on your way to becoming not only a great designer but a great problem solver.
 
-This article is written by [Mat Helme](//medium.com/@MatHelme).
+This article is written by [Mat Helme](https://wwww.medium.com/@MatHelme).

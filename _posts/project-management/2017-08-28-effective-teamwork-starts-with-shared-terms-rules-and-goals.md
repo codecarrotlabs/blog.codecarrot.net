@@ -13,7 +13,7 @@ Effective teamwork won’t happen without a common ground established among all 
 
 ## Understanding in the First Place
 
-Recently, I’ve read [this amazing article](//medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e#.rkp8qq3cs) about design adventures in Spotify, and I started to think about how important for a successful team are shared principles, goals and vocabulary. As a project manager, I work on different web and mobile projects at the same time. I believe that the success or failure of each project depends on whether all stakeholders are on the same page.
+Recently, I’ve read [this amazing article](https://www.medium.com/@hellostanley/design-doesnt-scale-4d81e12cbc3e#.rkp8qq3cs) about design adventures in Spotify, and I started to think about how important for a successful team are shared principles, goals and vocabulary. As a project manager, I work on different web and mobile projects at the same time. I believe that the success or failure of each project depends on whether all stakeholders are on the same page.
 
 Shared concepts will save you time, money and a lot of stress. It is essential to establish a set of shared concepts before you get invested in actions.
 
@@ -55,7 +55,7 @@ Goals help us understand which direction we should follow and what we want to ac
 Below you can find some recommendations on how to create and maintain shared concepts in your teams.
 
 *  Start with basic terms  –  you need to agree on the main subjects of your work and the most important definitions.
-*  Make sure everyone has access to relevant information. Use team collaboration tools to create a knowledge base. I’m really into [Confluence](//www.atlassian.com/software/confluence), but you just can start with google docs.
+*  Make sure everyone has access to relevant information. Use team collaboration tools to create a knowledge base. I’m really into [Confluence](https://www.atlassian.com/software/confluence), but you just can start with google docs.
 *  You won’t have a lot of rules at the beginning, but they’ll emerge naturally due to mistakes people make and obstacles they come across. Make sure you document the rules properly.
 *  Set clear goals and make sure everybody knows and understands them.
 *  Document changes, irrelevant terminology, rules or goals could cause a lot of problems. Make sure everybody is always up-to-date with any changes.

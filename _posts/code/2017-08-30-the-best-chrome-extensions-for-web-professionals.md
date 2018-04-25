@@ -21,11 +21,11 @@ Before the first release of Google Chrome, most web designers and developers use
 
 ![Screenshot of the Web Developer extension for Google Chrome](https://i.imgur.com/BsqfwQQ.png)
 
-It’s hard to just pick one feature from Web Developer, but I find myself using the [Outline tab when debugging CSS pretty frequently](//chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm). It can be very helpful to highlight elements based on how they’re positioned on the page.
+It’s hard to just pick one feature from Web Developer, but I find myself using the [Outline tab when debugging CSS pretty frequently](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm). It can be very helpful to highlight elements based on how they’re positioned on the page.
 
 ## BuiltWith
 
-[BuiltWith](//chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn/) is an extension with a very straightforward purpose. If you’re curious about the web technologies that were used to create a site, you can click on the BuiltWith button to see a dropdown list of servers, frameworks, and more.
+[BuiltWith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn/) is an extension with a very straightforward purpose. If you’re curious about the web technologies that were used to create a site, you can click on the BuiltWith button to see a dropdown list of servers, frameworks, and more.
 
 ![Screenshot of the BuiltWith extension for Google Chrome](https://i.imgur.com/DQX44W0.png)
 
@@ -37,11 +37,11 @@ By default, Chrome doesn’t do a great job of formatting JavaScript Object Nota
 
 ![Screenshot of the JSONView extension for Google Chrome](https://i.imgur.com/TFbvH5M.png)
 
-With the [JSONView extension](//chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) installed, JSON will be formatted nicely, making it far more readable.
+With the [JSONView extension](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) installed, JSON will be formatted nicely, making it far more readable.
 
 ## Responsive Inspector
 
-The [Responsive Inspector extension](//chrome.google.com/webstore/detail/responsive-inspector/memcdolmmnmnleeiodllgpibdjlkbpim) was created by a developer at Adobe as a side project. This extension takes the media queries from any applied stylesheets and presents them in an interactive chart.
+The [Responsive Inspector extension](https://chrome.google.com/webstore/detail/responsive-inspector/memcdolmmnmnleeiodllgpibdjlkbpim) was created by a developer at Adobe as a side project. This extension takes the media queries from any applied stylesheets and presents them in an interactive chart.
 
 ![Screenshot of the Responsive Inspector extension for Google Chrome](https://i.imgur.com/MHekt7v.png)
 

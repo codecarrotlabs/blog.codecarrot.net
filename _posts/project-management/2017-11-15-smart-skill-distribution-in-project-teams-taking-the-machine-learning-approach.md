@@ -90,7 +90,7 @@ Our dataset needs to have a digital representation of skill mastery across all c
 
 ## The k-means Algorithm
 
-We are going to use the popular k-means clustering algorithm to cluster CodeCarrot’s employees. I won’t describe how the algorithm works in detail, but you can [read about it here](//en.wikipedia.org/wiki/K-means_clustering). Simply put, k-means works by randomly selecting k points (called centroids, where k is the number of our teams) in an n-dimensional space (where n stands for our skill mastery). After this, each iteration of the algorithm:
+We are going to use the popular k-means clustering algorithm to cluster CodeCarrot’s employees. I won’t describe how the algorithm works in detail, but you can [read about it here](https://en.wikipedia.org/wiki/K-means_clustering). Simply put, k-means works by randomly selecting k points (called centroids, where k is the number of our teams) in an n-dimensional space (where n stands for our skill mastery). After this, each iteration of the algorithm:
 
 * Assigns each employee to the nearest centroid;
 * Recalculates the position of each centroid to match the mean position of all employees assigned to this centroid.
@@ -109,7 +109,7 @@ To address the problem of having a much bigger number of skills than the number 
 
 ## Clustering
 
-I performed the clustering with the [k-means-clusterer](//github.com/gbuesing/kmeans-clusterer) gem. It turns out that it’s much simpler than you’d think. Check it out in this code below.
+I performed the clustering with the [k-means-clusterer](https://github.com/gbuesing/kmeans-clusterer) gem. It turns out that it’s much simpler than you’d think. Check it out in this code below.
 
 ```rb
 require 'csv'

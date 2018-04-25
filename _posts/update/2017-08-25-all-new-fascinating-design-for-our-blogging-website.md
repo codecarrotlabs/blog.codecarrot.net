@@ -11,7 +11,7 @@ image: https://i.imgur.com/XnG5QtN.png
 
 We started our [first blog](/welcome-to-codecarrot-environment/) in the month of February and start posting few blogs, after getting feedbacks from readers and subscribe we thought of redesigning the blog website with a new face.
 
-[Click here](//www.behance.net/gallery/56071769/CodeCarrot-Blog) to see the new design.
+[Click here](https://www.behance.net/gallery/56071769/CodeCarrot-Blog) to see the new design.
 
 ## P.S. Can we send you an email?
 
