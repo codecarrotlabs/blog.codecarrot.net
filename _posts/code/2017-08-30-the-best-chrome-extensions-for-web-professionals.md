@@ -45,6 +45,14 @@ The [Responsive Inspector extension](//chrome.google.com/webstore/detail/respons
 
 ![Screenshot of the Responsive Inspector extension for Google Chrome](https://i.imgur.com/MHekt7v.png)
 
+## Loom
+
+Reporting bugs requires the ability to identify relevant information which needs to be added to every bug report. Modern bug tracking tools offer the ability to attach this needed information automatically. Nevertheless there always will be some room for misunderstanding or missing information which results in a need for communication and that’s where [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) comes in, a video recording tool to record your camera, microphone, and desktop simultaneously, then your video is instantly available to share via Loom.
+
+![Recording a video using loom on CodeCarrot Website](https://i.imgur.com/19EuOzC.png)
+
+Here at [CodeCarrot](https://www.codecarrot.net/), we use Loom for client update and bug tracking.
+
 ## Did I miss anything?
 
 High quality Chrome Extensions can be difficult to find. If I missed one that you can’t live without, let me know.
