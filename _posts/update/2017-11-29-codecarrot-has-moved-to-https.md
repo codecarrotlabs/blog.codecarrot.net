@@ -77,7 +77,6 @@ We migrated our backend systems before the frontend. Our content API was returni
 
 We added the ability for users to enable the entire website to HTTPS. We offered this ability to readers willing to report issues and encouraged our engineers to enable this feature. We enabled us to discover several issues before they were seen by end users. At the same time we ensured that our journalists were shown this secure version of the site when previewing content. This allowed us to capture any further unknown issues and find solutions to problems early on.
 
-
 ## How did we technically migrate?
 
 ### Conditional redirection to HTTPS
