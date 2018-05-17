@@ -26,6 +26,7 @@ Some of the major modules in digital marketing are as follows:
 7. Marketing Automation
 8. Analytics
 9. Integrated Digital Marketing
+10. Guest Posting
 
 To become a true digital marketer, you should be able to conduct high-quality digital marketing campaigns to help build brands from scratch. And, to do so, you need to know how to leverage all the skills mentioned above. And, if you want to become a specialist in one of those skills, you need to go deeper in it and master it.
 
@@ -98,3 +99,9 @@ You need to know about your blog readers - where do they come from, what do they
 By now, you would’ve realized that becoming a successful blogger is not luck-dependent. it depends on how well you’re using the marketing channels and tactics together to achieve the best results. Using two or more marketing channels and tactics to achieve results is termed as integrated digital marketing. And, if you’re truly focusing on driving the best results to your blog, you’ll be automatically mastering the integrated digital marketing skill. I guess now, how you can become a digital marketing expert through blogging is clear.
 
 If you’re serious about blogging and do everything it takes to make it a successful one, you’ll eventually end up becoming a digital marketing expert.
+
+## Guest Posting
+
+Guest is an effective and economical way of increasing website traffic. Today, guest posts have evolved as credible means of building good business reputation. So if you want your content to rapidly rank on the first page of Google, learn what guest blogging is all about.
+
+Here's the [list of the website](https://www.izideo.com/blog/list-sites-accepts-guest-posting/?utm_source=codecarrot_blog&utm_medium=website), that accept guest posts.
