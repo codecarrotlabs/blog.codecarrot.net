@@ -53,6 +53,8 @@ Angel investors and VCs are very similar. Both are interested in investing in yo
 
 Angel investors need to be registered with the Securities Exchange Commission of India and need to have a net worth of at least Rs.20 Lakhs. You can look for Angel Investors at forums like [Angellist](https://angel.co/) and [MicroVentures](https://www.microventures.com/). VCs are usually large companies that are ready to fund you. [Here](https://inc42.com/resources/top-47-active-venture-capital-firms-india-startups/) is a list of famous VCs in India.
 
+**Pro Tip:** Checkout this massive [guide to finding investors](https://www.howtostartanllc.org/the-guide-to-finding-investors/?utm_source=codecarrot_blog&utm_medium=website).
+
 ## Incubators, Accelerators and Contests
 
 Startup or small business incubators and accelerators are usually angels or VCs that seek to help a small business grow. Startups are admitted in small batches, 1-3 businesses in a year and are given funding + mentoring to help the business grow.
