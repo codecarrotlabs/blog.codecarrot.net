@@ -19,4 +19,4 @@ The icons come in 3 styles—outlined, filled, and colored—each available in E
 
 This pack also includes the source files in AI and Sketch formats.
 
-[Download your free icons now](//www.instamojo.com/codecarrot/168-custom-interface-icons/) (downloads ZIP file)!
+[Download your free icons now](https://www.instamojo.com/codecarrot/168-custom-interface-icons/) (downloads ZIP file)!
