@@ -6,7 +6,7 @@ date: 2018-04-05 19:49:07 +0530
 categories: design
 tags: product-design ux ui
 description: Our UX methods to prevent website complexity will help you improve general user experience on the website and boost conversion.
-image: https://i.imgur.com/7o5biHN.jpg
+image: https://i.imgur.com/f9uFeOU.jpg
 ---
 
 Today, more and more businesses are trying to load their products with technology. From smartphones to washing machines, we see a lot of embedded technology that greatly enhances their functionality and improves convenience and personalisation.
