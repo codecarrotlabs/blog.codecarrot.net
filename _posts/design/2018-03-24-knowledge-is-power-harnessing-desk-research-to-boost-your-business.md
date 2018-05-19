@@ -33,7 +33,7 @@ The last few paragraphs might have given you the sense that desk research is a f
 
 A wise man (John Donne, to be exact) once said that no man is an island. The same is true for companies. No business exists in a vacuum: all companies, big or small, operate in a competitive environment, where the technologies, best practices, and customer expectations can change in a matter of days. Another wise man (Francis Bacon this time) said that knowledge is power. Combine the wise words of the two, and the benefits of desk research will become immediately apparent: having as much knowledge as possible about your market, competitors, and customers can give you [the power to succeed as a business](/take-advantage-of-lean-product-experiments-for-top-market-fit).
 
-**See also:** [Make Them Stay Till They Pay – 10 Tips For Keeping Your Users Engaged on Your Website](https://www.netguru.co/blog/make-them-stay-till-they-pay-10-tips-for-keeping-your-users-engaged-on-your-website)
+**See also:** [Make Them Stay Till They Pay – 10 Tips For Keeping Your Users Engaged on Your Website](/make-them-stay-till-they-pay-10-tips-for-keeping-your-users-engaged-on-your-website)
 
 ## Get started with desk research
 
