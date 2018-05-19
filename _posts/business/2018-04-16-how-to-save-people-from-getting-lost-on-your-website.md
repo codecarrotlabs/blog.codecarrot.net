@@ -33,7 +33,7 @@ Looking at ‘Behaviour Flow’ can highlight visitors moving through your site 
 
 ‘Exit pages’ shows you the percentage of visitors leaving from a particular page. Whether a high exit rate is a cause for concern, depends on the particular page. For example, you would expect your ‘checkout complete’ page to have a high exit rate, as this means that people have simply achieved what they came for and left. However, if you are losing visitors on your product or services pages, this could indicate a potential problem and would warrant further investigation to find out why.
 
-While Google Analytics can tell you a lot about what people are doing on your site, it can’t give you the complete picture, so is best used with other methods of [user research](https://www.netguru.co/blog/knowledge-is-power.-harnessing-desk-research-to-boost-your-business).
+While Google Analytics can tell you a lot about what people are doing on your site, it can’t give you the complete picture, so is best used with other methods of [user research](/knowledge-is-power-harnessing-desk-research-to-boost-your-business).
 
 **Hotjar**
 

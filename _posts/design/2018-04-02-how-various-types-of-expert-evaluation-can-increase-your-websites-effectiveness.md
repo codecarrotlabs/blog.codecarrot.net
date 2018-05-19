@@ -48,7 +48,7 @@ By definition, a conversion rate is the percentage of users who take a desired a
 
 In order for you to make a [conversion evaluation that will have a real impact on your product](/10-tips-to-make-your-users-engaged-till-they-pay-on-your-website), you should first know what your product goal is. With that in your mind, it will be much easier to use the conversion measurement results in a proper way, and focus on the things that will be beneficial. For example, a website may be focused on selling products and solutions, but also on building up a partnership network – this is where understanding what the split between these two is becomes crucial for the person doing the evaluation.
 
-**See also:** [Knowledge is Power. Harnessing Desk Research to Boost Your Business](/knowledge-is-power.-harnessing-desk-research-to-boost-your-business)
+**See also:** [Knowledge is Power. Harnessing Desk Research to Boost Your Business](/knowledge-is-power-harnessing-desk-research-to-boost-your-business)
 
 ## Content Audit
 
