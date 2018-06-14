@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: 12 Sublime Text Plugins Not Only for Newbies
+title: 12 Sublime Text Plugins for Pro
 date: 2017-01-26 16:22:30 +0530
 categories: tips
 tags: tips coding sublime-text sublime text-editor
