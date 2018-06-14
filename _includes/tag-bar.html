@@ -1,7 +1,7 @@
 <ul class="tag-bar">
 	{% for tags in page.tags | split: "," %}
 	<li>
-		<a href="//blog.codecarrot.net/tag/{{ tags }}">{{ tags }}</a>
+		<a href="/tag/{{ tags }}">{{ tags }}</a>
 	</li>
 	{% endfor %}
 </ul>
