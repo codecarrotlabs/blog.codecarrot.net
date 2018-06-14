@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: 12 Sublime Text Plugins for Pro
-date: 2017-01-26 16:22:30 +0530
+date: 2017-02-29 16:22:30 +0530
 categories: tips
 tags: tips coding sublime-text sublime text-editor
 description: One reason for Sublime Text's popularity is its large library of plugins. Check out the list of 11 essentials we picked - suitable for not only for beginners!
