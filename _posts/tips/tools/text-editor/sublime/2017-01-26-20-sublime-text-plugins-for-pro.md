@@ -1,11 +1,11 @@
 ---
 layout: post
 author: yashumittal
-title: 12 Sublime Text Plugins for Pro
+title: 20 Sublime Text Plugins for Pro
 date: 2017-02-29 16:22:30 +0530
 categories: tips
 tags: tips coding sublime-text text-editor
-description: One reason for Sublime Text's popularity is its large library of plugins. Check out the list of 11 essentials we picked - suitable for not only for beginners!
+description: One reason for Sublime Text's popularity is its large library of plugins. Check out the list of 20 essentials we picked - suitable for pro!
 image: https://i.imgur.com/1ZJIEXn.jpg
 ---
 
@@ -72,8 +72,44 @@ Every programmer knows the pain of manually matching brackets on every line of c
 
 [Glue](/glue-a-terminal-for-sublime-text) is a plugin that provides an interface to your shell from the Sublime Text. It features command entry within the Sublime Text editor window, standard output display in an editor view, and it works with most system utilities. This includes any compiled or interpreted source that you develop which effectively allows you to create Sublime Text extensions in any programming language that your system supports.
 
-## 12. Custom Themes
+## 12. [SASS/SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
+
+SASS/SCSS takes CSS syntax to the next level. It is an expanded version that includes all the CSS features plus Sass features. Semi-colons and brackets are still used, but you don't have to worry about indentation or white spaces.
+
+## 13. [Search Stack Overflow](https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin)
+
+Simple search on Stack Overflow utility for Sublime Text 2
+
+If you do a lot of searches on StackOverflow, then we got a helping hand for you a plugin name **Search Stack Overflow** it will find exactly what you are looking for on StackOverFlow.
+
+## 14. [SublimeLinter-ruby](https://github.com/SublimeLinter/SublimeLinter-ruby)
+
+This linter plugin for SublimeLinter provides an interface to linting via ruby -wc. It will be used with files that have the "Ruby" syntax.
+
+## 15. [Sublime RuboCop](https://github.com/pderichs/sublime_rubocop)
+
+This plugin runs Ruby based style guide and checks RuboCop on your Ruby files in the editor. It will mark issues right inside the view but it can also be called as a "compiler" from the ST menu.
+
+## 16. [RSpec](https://github.com/SublimeText/RSpec)
+
+RSpec is a Behavior Driven Development (BDD) testing framework designed for Ruby that makes Test Driven Development (TDD) easier, specify Ruby apps and contains plenty of snippets and syntax highlighting. Although this problem is no longer maintained, feel free to improving this plugin by creating an issue.
+
+## 17. [JsFormat](https://github.com/jdc0589/JsFormat)
+
+JsFormat is a javascript formatting plugin. All settings can be customized to suit your needs. It uses jsbeautifier to format whole js or json files, or the selected portion(s).
+
+## 18. [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch)
+
+Fetch the latest version of remote files and zip packages
+
+It automatically pull the latest version of a remote file and zip packages.
+
+## 19. [Sass textmate bundle](https://github.com/nathos/sass-textmate-bundle)
+
+This add-on adds syntax highlighting and tab/code completion for Sass and SCSS files. It features Zen Coding shortcuts for many CSS properties, making you look like some kind of stylesheet wizard to everyone around you. You've got to like that.
+
+## 20. Custom Themes
 
 It is not exactly a 'plugin', custom themes can improve the UI of your text editor. Many authors have created themes for Sublime Text, you'll find plenty of [custom themes online](https://packagecontrol.io/browse/labels/theme).
 
-There are many other plugins ranging from the simple to the complex. Once you incorporate them into your workflow, you will see a massive boost in your productivity. And if you want more - make sure to read [Even More Sublime Text Plugins for Beginners](/even-more-sublime-text-plugins-for-beginners).
+There are many other plugins ranging from the simple to the complex. Once you incorporate them into your workflow, you will see a massive boost in your productivity.
