@@ -9,50 +9,48 @@ description: Firebase offers different services such as app testing, backend opt
 image: https://i.imgur.com/oZRnWLu.png
 ---
 
-Every one of us wants the same for our apps. We want them to contain a richer feature set, appear more stable, and be used by more users, not to mention having quicker development cycles. This can cost a lot of your most important resources: time and money. Wouldn’t it be perfect if someone has already made the solution ready to be used as a service?
+We want our apps to contain a richer feature set, more stable, and used by more users. This can cut down the cost of your most important resources: time and money. It would be fortune if _someone have already build the solution_ ready to be used.
 
-Fortunately, we are lucky. Firebase provides us with over a dozen different services that cover a lot of areas, including app testing, backend options, different app variants and more. It’s also integrated with Android Studio for the sake of simplicity. In this article, we will help you resolve some of the issues you might be experiencing with your app. Just scroll down to the relevant section and see how using Firebase can benefit your app.
+Hang on, I got something for you.
 
-## Is your app too unstable?
+Firebase provides with dozens of different services that cover a lot of areas, including app testing, backend options, different app variants and more. It is a mobile and web application development platform.
 
-Ever since the first bug appeared 70 years ago (by the way, it was a real insect then, hence the name), bugs became an inherent part of software. As hated as they are, they still appear today and will appear as long as software is made by humans, and then maybe even a little longer. So how can we work around that?
+![Firebase platform feature image](https://i.imgur.com/gnGSogI.png)
 
-One function aiding discovering bugs is **Firebase Test Lab**. It is often not enough to test an app only on your device, even if you own a few of them. It’s also tedious to click and test everything by hand. Fortunately, Test Lab can help you in just that.
+## Firebase Test Lab
 
-It allows you to run custom instrumentation tests on lots of different, physical devices. From there, you get detailed reports on crashes, as well as screenshots and videos. It also integrates cleanly with the existing continuous integration framework, and even if you don’t write custom tests, you can still benefit from it with their intelligent bot, Robo, that automatically navigates through your app.
+Run automatic and customized tests for your app on virtual and physical devices hosted by Google. Use Firebase Test Lab throughout your development lifecycle to discover bugs and inconsistencies so that you can offer up a great experience on a wide variety of devices.
 
-Sometimes, this might still not be enough. As soon as your app gains traction, some bugs can appear on some users’ obscure configurations, and it would be a shame if you couldn’t catch them before things get out of hand.
+## Firebase Crash Reporting
 
-**Firebase Crash Reporting** will help you with that. This tool will inform you about all the crashes your app has had on your users’ devices along with comprehensive data, including stack traces – also when the device was offline. Firebase Crash Reporting produces neat lists ordered by priority and impact, so you won’t need to waste your time on setting priorities. You will be able to jump right in and get your hands on fixing the issue immediately.
+Reduce your troubleshooting time by turning an avalanche of crashes into a manageable list of issues. Get clear, actionable insight into which issues to tackle first by seeing the user impact right in the Crashlytics dashboard. Realtime alerts will help you stay on top of stability even on the go. Crashlytics is the primary crash reporter for Firebase.
 
-## Do you want to know more about your users?
+## Google Analytics
 
-The **Analytics** module allows you to collect data about everything users do in your app. It presents you with one dashboard, which can contain even 500 event types with 25 attributes each. You can further filter your data by user age, location and gender, and export the data for custom querying. It’s also integrated with many services mentioned below.
+Analyze user attributions and behavior in a single dashboard to make informed decisions on your product roadmap. Gain realtime insights from reports, or export your raw event data to Google BigQuery for custom analysis.
 
-## Is your app not flexible enough?
+## Remote Config
 
-**Remote Config** may look simple at first, but it is a powerful tool that allows your app to fetch key-value pairs from the cloud on each app run, making it easy to tweak your app’s settings, run A/B tests on your audience, and gradually roll out important changes.
+Customize how your app renders for each user. Change the look and feel, roll out features gradually, run A/B tests, deliver customized content to certain users, or make other updates without deploying a new version—all from the Firebase console. Monitor the impact of your changes and make adjustments in a matter of minutes.
 
-## Is your app’s growth too sluggish?
+## App Indexing
 
-Your app is only useful when someone actually uses it. Luckily, user base is another area that Firebase can help you with.
+Re-engage users with their installed apps with this Google Search integration. If users have your app and they search for related content, they could launch it directly from the results. If users don't have your app yet, an installation card shows up when they search for similar apps.
 
-**App Indexing** allows your app to appear in Google Search results, instead of a mobile website. Consuming content on a dedicated app is proven to generate more clicks compared to consuming it on a mobile website. Besides driving re-engagement, App Indexing also allows for quick app installation with a handy install button in search results.
+## Push Notifications
 
-You can further use the API to allow users to find their personal data, such us notes, in their phone’s search results.
+Send messages and notifications to users across platforms—Android, iOS, and the web—for free. Messages can be sent to single devices, groups of devices, or specific topics or user segments. Firebase Cloud Messaging (FCM) scales to even the largest apps, delivering hundreds of billions of messages per day.
 
-**Push Notifications** can be a great strategy to remind your users that they have your app sitting on their device. Don’t overuse it though, because no one likes spam, and it's important for notifications to have real value to users. What counts as real value is info about promotions, special events or new cool features.
+## A/B Testing
 
-**Invites** alleviate your users from the pain of sending invite links (or vouchers for in-app purchases) to their friends by hand and their friends from typing in or copying them after app install. The Invites module enables you to use the Dynamic Links infrastructure and lets users painlessly invite their friends via email or free text messages. The Invites contain a content-rich page that allows invitees to install the app, and after that, a voucher is redeemed automatically (if one has been sent).  It’s pretty straightforward to then use and check conversion data in **Analytics**.
+Improve your app by running product and marketing experiments, without worrying about setting up the infrastructure to run A/B tests. Customize experiments to suit your goals. Test a variety of updates to your app, like message copy or new features. Then, only roll-out changes proven to move the needle on your key metrics.
 
-**Dynamic Links** (already mentioned above) allow you to achieve even more. Now, you can send your users to any content in your app, even if they need to install it in the meantime. The possibilities are endless, including an easy conversion of web users to app users and sharing users between app and the web.
+## Dynamic Links
 
-## Do you waste your time doing the same over and over again?
+Use Dynamic Links to deliver a customized user experience for iOS, Android, and the web. You can use them to power mobile web to drive native app conversions, user to user sharing, social and marketing campaigns, and more. Dynamic Links provides you with the attributions you need to better understand your mobile growth.
 
-**Authentication** is only one example of a function that almost every app contains. Instead of building an authentication module by hand, you can use a pre-made solution in Firebase, which enables logging on with credentials or social media accounts.
+## Authentication
 
-As you can see, Firebase is a great solution for developers who don’t like to waste their time and money. That’s not everything Firebase has to offer – for more info about their other services, such as AdWords, AdMob and other services targeted at backend developers, visit [Firebase’s website](//firebase.google.com/).
+Manage your users in a simple and secure way. Firebase Auth offers multiple methods to authenticate, including email and password, third-party providers like Google or Facebook, and using your existing account system directly. Build your own interface, or take advantage of our open source, fully customizable UI.
 
-## P.S. Can we send you an email?
-
-Once a week or so we send an email with our best content. We never bug you; we just send you our latest piece of content. [Subscribe Here](#subscribe).
+As you can see, Firebase is a great solution for developers, but that’s not everything Firebase has to offer – for more info about their other services, such as AdWords, AdMob and other services targeted at backend developers, visit [Firebase’s website](https://firebase.google.com/).
