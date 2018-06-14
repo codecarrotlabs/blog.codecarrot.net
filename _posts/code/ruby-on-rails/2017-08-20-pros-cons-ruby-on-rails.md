@@ -6,7 +6,7 @@ date: 2017-08-20 10:00:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails
 description: Selecting a technology to develop a web app is difficult. A wrong decision may cost much. Learn what are the pros and cons of Ruby on Rails and choose wisely.
-image: https://cdn.codecarrot.net/images/pros-cons-ruby-on-rails.jpg
+image: https://i.imgur.com/JSa7XoK.jpg
 ---
 
 Selecting a technology in which you will develop a web app is a challenge that every product or business owner has to face. If you make the right choice, it will give you a solid base for growth and expansion. If you choose wrong though, it may cost you an arm and a leg.
