@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: Ruby on Rails - Pros & Cons. What You Should Know Before Choosing The Technology
+title: Ruby on Rails - Pros & Cons
 date: 2017-08-20 10:00:00 +0530
 categories: code
 tags: ruby-on-rails ruby rails technology
