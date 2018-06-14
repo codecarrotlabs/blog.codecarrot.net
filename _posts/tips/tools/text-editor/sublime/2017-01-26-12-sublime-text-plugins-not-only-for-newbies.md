@@ -6,7 +6,7 @@ date: 2017-01-26 16:22:30 +0530
 categories: tips
 tags: tips coding sublime-text sublime text-editor
 description: One reason for Sublime Text's popularity is its large library of plugins. Check out the list of 11 essentials we picked - suitable for not only for beginners!
-image: https://cdn.codecarrot.net/images/1430744838-sublime.png
+image: https://i.imgur.com/1ZJIEXn.jpg
 ---
 
 In a few short years, [Sublime Text](//www.sublimetext.com/) has evolved as the development tool of choice for serious and casual programmers alike, alongside Vim and Emacs. It is free, lightweight, cross-platform compatible and boasts seemingly endless customization options.
