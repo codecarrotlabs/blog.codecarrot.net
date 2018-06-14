@@ -1,17 +1,17 @@
 ---
 layout: post
 author: yashumittal
-title: How To Create An Admin Panel In Rails
+title: How To Create An Admin Panel In Ruby on Rails
 date: 2017-09-05 16:13:10 +0530
 categories: code
-tags: ruby-on-rails ruby rails RailsAdmin ActiveAdmin Administrate
+tags: ruby-on-rails ruby rails
 description: How to create an admin panel in Rails using these different admin panel tools like - RailsAdmin, ActiveAdmin and Administrate.
-image: https://cdn.codecarrot.net/images/ruby-on-rails.png
+image: https://i.imgur.com/V8MiCYT.png
 ---
 
 I did some research on admin panel tools, that is RailsAdmin, ActiveAdmin and Administrate. Every tool did its job perfectly, but there were some major differences.
 
-## [ActiveAdmin](//github.com/activeadmin/activeadmin)
+## [ActiveAdmin](https://github.com/activeadmin/activeadmin)
 
 **Pros:**
 
@@ -25,9 +25,7 @@ I did some research on admin panel tools, that is RailsAdmin, ActiveAdmin and Ad
 * Has a slow startup comparing to two other tools
 * Doesn’t support nested relations by default, you have to write it on your own
 
-
-
-## [RailsAdmin](//github.com/sferik/rails_admin)
+## [RailsAdmin](https://github.com/sferik/rails_admin)
 
 **Pros:**
 
@@ -41,7 +39,7 @@ I did some research on admin panel tools, that is RailsAdmin, ActiveAdmin and Ad
 * Much harder to learn and to do more complex stuff
 * Harder to create things that are not included in base gem, modify views
 
-## [Administrate](//github.com/thoughtbot/administrate)
+## [Administrate](https://github.com/thoughtbot/administrate)
 
 * Doesn’t have any DSL
 * You can override anything without doing hacks, controllers and views are available for you to override
@@ -60,4 +58,4 @@ I won’t talk much about **Administrate**, because it’s not ready yet, but I 
 
 You’ve probably noticed that I wrote about **nested relations** a couple of times, that’s because admin panels mostly don’t have any special logic and are pretty standard, so you’ll mostly spend time on things that are not implemented by default, that is: nested relations. You’ll have to display them in the show action, you’ll have to create forms for them in the edit/new action, you’ll have to show some kind of a summary of them in index actions. That’s the most annoying part of maintaining an admin panel, because you know it doesn’t provide any other additional value than “you don’t have to go to posts section, create a post, then move to comments section and create a comment for that post”, you can do that in one place. In my opinion that’s the biggest benefit of RailsAdmin - you don't have to do that basic stuff all the time.
 
-[![Make your business online with a website](https://i.imgur.com/MAphtcZ.png)](//www.codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/MAphtcZ.png)](https://www.codecarrot.net/)

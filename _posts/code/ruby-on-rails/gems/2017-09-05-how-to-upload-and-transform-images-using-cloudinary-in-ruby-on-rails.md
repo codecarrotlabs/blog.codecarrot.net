@@ -1,12 +1,12 @@
 ---
 layout: post
 author: yashumittal
-title: How To Upload And Transform Images in Ruby on Rails Using Cloudinary
+title: How To Upload And Transform Images Using Cloudinary in Ruby on Rails
 date: 2017-09-05 05:35:00 +0530
 categories: code
-tags: ruby-on-rails ruby rails images cloudinary application
+tags: ruby-on-rails ruby rails integration
 description: Upload And Transform Images - Short and great guide to setup and configure Cloudinary in your Ruby on Rails application.
-image: https://cdn.codecarrot.net/images/ruby-on-rails.png
+image: https://i.imgur.com/V8MiCYT.png
 ---
 
 Cloudinary is the image back-end for web and mobile developers. In other words, it allows you to upload images to the cloud (let's say it's something similar to S3), but in addition it allows you to do many different image (and video!) transformations on the fly, just by changing URL params.
@@ -16,7 +16,7 @@ Cloudinary is the image back-end for web and mobile developers. In other words, 
 * change image and video format/size/resolution
 * add filters and change image shape
 * add watermarks (text and image)
-* automatic image optimization (Cloudinary serves different image type for different devices, with support for retina and other high DPI displays)
+* automatic image optimization _(Cloudinary serves different image type for different devices, with support for retina and other high DPI displays)_
 * manage access for your assets
 
 ## Why and when should I use it?
@@ -49,17 +49,17 @@ As you can see, Cloudinary is very flexible tool which you should consider in yo
 
 **Setup carrierwave**
 
-To start using Cloudinary you need to setup carrierwave first, you can do it really easily by following tutorial on [carrierwave's github](//github.com/carrierwaveuploader/carrierwave#installation).
+To start using Cloudinary you need to setup carrierwave first, you can do it really easily by following tutorial on [carrierwave's github](https://github.com/carrierwaveuploader/carrierwave#installation).
 
 ## Step 2
 
 **Login to cloudinary**
 
-Before we start you need to login at [cloudinary.com](//cloudinary.com/). Create your own account or use credentials provided by your client.
+Before we start you need to login at [cloudinary.com](https://cloudinary.com/). Create your own account or use credentials provided by your client.
 
 On the Dashboard page, you should see all account details, just click on `YML link` and save this file in app `config` directory.
 
-![Dashboard view of cloudinary.com](https://cdn.codecarrot.net/images/dashboard-view-of-cloudinarycom.png)
+![Dashboard view of cloudinary.com](https://i.imgur.com/yhK0gS5.png)
 
 *It's highly recommended to avoid storing API keys in repo*, so you should later edit this config file and move keys to `secrets.yml` or `ENV`.
 
@@ -69,31 +69,31 @@ On the Dashboard page, you should see all account details, just click on `YML li
 
 Add this line to your gemfile (remember to put it right after carrierwave gem):
 
-```
+```gemfile
 gem 'cloudinary'
 ```
 
 and include this module to any uploader that should use Cloudinary:
 
-```
+```rb
 include Cloudinary::CarrierWave
 ```
 
 After these two simple steps, every uploaded image will be stored in Cloudinary!
 
-For any further details, please take a look at [official Cloudinary documentation](//cloudinary.com/documentation/rails_carrierwave#carrierwave_integration).
+For any further details, please take a look at [official Cloudinary documentation](https://cloudinary.com/documentation/rails_carrierwave#carrierwave_integration).
 
 ## Example image transformation
 
 Just use `cl_image_tag` helper in your views like this:
 
-```
+```rb
 cl_image_tag your_model.your_image_field, height: 200, width: 200, crop: :thumb, radius: :max
 ```
 
 You can also still use regular `image_tag`, but to get it work with Cloudinary you need to use absolute image URL. Simply append `_url` to your field name. The code will look like below:
 
-```
+```rb
 image_tag your_model.your_image_field_url
 ```
 
@@ -104,7 +104,7 @@ Keep in mind that image transformations are only available through `cl_image_tag
 Available file formats: jpg, png, gif, webp, wdp, bmp, pdf, tiff, ico, mp4, webm, ogv, mp3, ogg, wav *(you can extract audio from videos)*.
 To change file format just change file extension in URL:
 
-```
+```rb
 cl_image_tag "your_filename.selected_extension"
 ```
 
@@ -114,7 +114,7 @@ Available cropping types: scale, limit, fill, fit, crop, thumb, pad, lfill, lpad
 
 Sample usage:  
 
-```
+```rb
 cl_image_tag your_model.your_image_field, height: 200, width: 200, crop: :selected_cropping_type
 ```
 
@@ -124,13 +124,13 @@ Available effects: grayscale, blackwhite, sepia, brightness, saturation, hue, oi
 
 Sample usage:
 
-```
+```rb
 cl_image_tag your_model.your_image_field, effect: "effect_name"
 ```
 
 You can also chain many transformations together, just like that:
 
-```
+```rb
 cl_image_tag your_model.your_image_field, transformation: [ { radius: 7, effect: "sepia" }, { angle: 108 }, { effect: "pixelate_region:74" } ]
 ```
 
@@ -140,4 +140,4 @@ If you don't want to search through documentation for any advices, I recommend u
 
 Cloudinary is a great, easy to use tool which can considerably speed up your development. If you need to process images, it's definitely worth to try. If you have any questions, feel free to ask in comment section below.
 
-[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](//www.codecarrot.net/)
+[![Make your business online with a website](https://i.imgur.com/ISrEDIW.png)](https://www.codecarrot.net/)
