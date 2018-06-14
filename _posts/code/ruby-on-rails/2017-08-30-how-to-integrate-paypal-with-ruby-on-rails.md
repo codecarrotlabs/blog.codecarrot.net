@@ -1,15 +1,15 @@
 ---
 layout: post
 author: yashumittal
-title: How To Integrate Rails With PayPal
+title: How To Integrate PayPal With Ruby on Rails
 date: 2017-08-30 12:10:00 +0530
 categories: code
-tags: ruby-on-rails ruby rails paypal payment-gateway
+tags: ruby-on-rails ruby rails integration
 description: If you are looking for solutions to implement payment gateways in your Rails app, you've found the right place. Here's a quick guide for PayPal integration.
-image: https://cdn.codecarrot.net/images/integrate-rails-with-paypal.png
+image: https://i.imgur.com/a8qugwb.png
 ---
 
-If you are looking for solutions to implement payment gateways in your Rails app, you've found the right place. Here's a quick guide for PayPal integration.
+PayPal is a online payments system that supports online money transfers. With the help of this guide you will be able to integrate intercom no time.
 
 We have two different approaches available when implementing PayPal gateway:
 
@@ -29,7 +29,7 @@ Active Merchant is a gem extracted from Shopify.
 
 I'd recommend Active Merchant only when your project is a shop and requires only simple payments.
 
-Instructions for Active Merchant can be found [here](//jldbasa.github.io/blog/2014/01/25/rails-4-paypal-express-checkout-integration/).
+Instructions for Active Merchant can be found [here](https://jldbasa.github.io/blog/2014/01/25/rails-4-paypal-express-checkout-integration/).
 
 ## Official PayPal SDK
 
@@ -47,15 +47,15 @@ PayPal Ruby SDK uses REST API and is recommended and maintained by PayPal.
 
 Use official PayPal Ruby SDK every time you need customized solution and single payment method (PayPal).
 
-**Step 1**
+### Step 1
 
-Install and configure gem following [gem README instructions](//github.com/paypal/PayPal-Ruby-SDK#installation).
+Install and configure gem following [gem README instructions](https://github.com/paypal/PayPal-Ruby-SDK#installation).
 
-**Step 2**
+### Step 2
 
-Familiarize yourself with [simple usage guide](//devtools-paypal.com/guide/pay_paypal/ruby).
+Familiarize yourself with [simple usage guide](https://devtools-paypal.com/guide/pay_paypal/ruby).
 
-**Step 3**
+### Step 3
 
 How to use this SDK in Rails:
 
@@ -70,12 +70,8 @@ It has four main actions for every step:
 * **done**, this action is immediately invoked after redirect from paypal acceptance page. In this method we can finalize the whole transaction and additionally save record to our database
 * **cancel** takes care of clients who reconsider their payment and cancel acceptance on paypal page
 
-**Step 4**
+### Step 4
 
 Good idea is to create a Service which handles some of SDK operations:
 
 [code]
-
-## Summary
-
-Using PayPal Ruby gem is not plug-and-play solution, however it's flexible and still easy to set up, so any experienced developer should have absolutely no problems implementing it. You can create very customized solution and, thanks to Ruby, keep it simple and beatiful.
