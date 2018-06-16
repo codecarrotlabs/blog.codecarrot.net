@@ -21,7 +21,7 @@ It is not uncommon to see a gradual decrease in performance of your development 
 
 If you have no technical background, than probably you will always be surprised that changing the position of an element or adding a new modal can take so much time. Especially, when it took only a moment a few months ago! Have you ever wondered what makes it so hard?
 
-We’ve jot down the most popular reasons for the dropping productivity and increasing costs of [frontend maintenance](/6-non-design-reasons-webpage-has-poor-conversion-rates).
+We’ve jot down the most popular reasons for the dropping productivity and increasing costs of [frontend maintenance](/why-your-webpage-has-poor-conversion-rates).
 
 ## No Automatic Build Process and Deployment
 
