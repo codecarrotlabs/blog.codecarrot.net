@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: How Developers Can Impact Your SEO Ranking?
+title: How Can Developers Impact Your SEO Ranking?
 date: 2017-07-10 12:00:00 +0530
 categories: tips
 tags: seo developer search-engine-optimization
