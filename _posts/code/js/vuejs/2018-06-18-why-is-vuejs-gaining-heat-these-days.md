@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: Why Vue.js Is Gaining 🔥 Heat These Days?
+title: Why Is Vue.js Gaining 🔥 Heat These Days?
 date: 2018-06-18 11:17:11 +0530
 categories: code
 tags: vuejs javascript framework
