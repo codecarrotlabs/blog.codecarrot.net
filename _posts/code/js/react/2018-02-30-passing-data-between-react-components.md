@@ -5,121 +5,168 @@ title: Passing Data Between React Components
 date: 2018-02-30 21:29:00 +0530
 categories: code
 tags: coding react facebook framework react component
-description: Because of React’s one-way data flow, it often can be tricky to see how data can flow from one component to another
+description: React is popular in writing reusable and modular UI components, and one-way data flow. One-way data binding can make React more performant than Angular.
 image: https://i.imgur.com/JGMaIAf.jpg
 ---
 
-Because of React’s one-way data flow, it often can be tricky to see how data can flow from one component to another. Data sometimes needs to be able to move from children to parent, parent to children, or between siblings.
+React is popular in writing reusable and modular UI components, and one-way data flow. One-way data binding can make React more performant than Angular.
 
-Here is example structure of the React components which comprise my app:
+But the tricky part is to pass the data from one component to another. Data sometimes needs to be passed from children to parent, parent to children, or between the siblings.
+
+Here is an **tree structure** of an React Navigation components:
 
 ```js
-    App
-     |
-     |__ InputBar
-     |
-     |__ ToDoList
-           |
-           |__ToDoItem
+	App
+	 |
+	 |__ Navigation
+	 |
+	 |__ Navitem
+		   |
+		   |__ Navlinks
 ```
 
-**Parent to Child — Use Prop**
+One of the easiest way to pass the data is from Parent to it's childern.
 
-This is the easiest direction in React to transfer data. If I have access to data in my parent component that I need my child component to have access to, I can pass it as a prop to the child when I instantiate it within the parent.
+## Parent to Child — Use Prop
 
-In my example, if I need to pass something from the App to the ToDoList:
+If you have access to data your childern componet need from the parent component, all you need is to pass it as a prop to the child.
+
+**Passing data** from the App to the Navigation:
 
 ```js
 class App extends React.Component {
-    render() {
-    [... somewhere in here I define a variable listName which I think will be useful as data in my ToDoList component...]
-        
-        return (
-            <div>
-                  <InputBar/>
-                  <ToDoList listNameFromParent={listName}/>
-            </div>
-        );
-    }
+	render() {	
+		return (
+			<div>
+				<Navigation itemNameFromParent={itemName}/>
+			</div>
+		);
+	}
 }
 ```
 
-Now in the ToDoList component, if I use this.props.listNameFromParent I will have access to that data.
+Using `this.props.itemNameFromParent` will give access to that data, inside Navigation component.
 
-**Child to Parent — Use a callback and states**
+## Child to Parent — Use a callback and states
 
-This one is a bit trickier. If I have data in my child that my parent needs access to, I can do the following:
+### Option 1
 
-1. Define a callback in my parent which takes the data I need in as a parameter.
-2. Pass that callback as a prop to the child (see above).
-3. Call the callback using this.props.[callback] in the child (insert your own name where it says [callback] of course), and pass in the data as the argument.
+Here's the best part. Having some data that the parents need access to:
 
-Here’s what that might look like if I had data in ToDoItem that I need to access in ToDoList:
+1. Define a callback in parent which takes the data as a parameter.
+2. Pass that callback as a prop to the child _(see above)_.
+3. Call the callback using `this.props.[callback]` in the child, and pass in the data as the argument.
+
+**Passing data** from the `Navlinks` to the `Navitem`:
 
 ```js
-class ToDoList extends React.Component {
-    myCallback = (dataFromChild) => {
-        [...we will use the dataFromChild here...]
-    },
-    render() {
-        return (
-            <div>
-                  <ToDoItem callbackFromParent={this.myCallback}/>
-            </div>
-        );
-    }
+class Navitem extends React.Component {
+	Callback = (dataFromChildern) => {
+		// Using the dataFromChildern
+	},
+	render() {
+		return (
+			<div>
+				<Navlinks callbackFromParent={this.Callback}/>
+			</div>
+		);
+	}
 }
 ```
 
-Now from within ToDoItem we can pass something to callbackFromParent:
+Passing something to `callbackFromParent` within `Navitem`:
 
 ```js
-class ToDoItem extends React.Component{
-    someFn = () => {
-        [...somewhere in here I define a variable listInfo which    I think will be useful as data in my ToDoList component...]
-        this.props.callbackFromParent(listInfo);
-    },
-    render() {
-        [...]
-    }
+class Navitem extends React.Component{
+	function = () => {
+		// Define a variable NavitemInfo, containg useful data
+		this.props.callbackFromParent(NavitemInfo);
+	},
+	render() {
+		// ...
+	}
 };
 ```
-ToDoList will now be able to use listInfo within it’s myCallback function!
 
-But what if I want to use listInfo in a different function within ToDoList, not just in myCallback? With this implementation, I would only have access as a parameter passed into that one specific method.
+### Option 2
 
-**Easy:** set this parameter as a state within ToDoList. You can almost think of it as creating a variable within the scope of ToDoList that all the methods within that component can access. In that case my code defining ToDoList might look something like:
+Use `NavitemInfo` in a different function within `Navitem`.
 
 ```js
-class ToDoList extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            listDataFromChild: null
-        };    
-    },
-    myCallback = (dataFromChild) => {
-        this.setState({ listDataFromChild: dataFromChild });
-    },
-    otherFn = () => {
-        [...within this other function now I still have access to this.state.listDataFromChild...]
-    }
-    render() {
-        return (
-            <div>
-                  <ToDoItem callbackFromParent={this.myCallback}/>
-                  [...now here I can pass this.state.listDataFromChild as a prop to any other child component...]  
-      
-            </div>
-        );
-    }
+class Navitem extends React.Component {
+	constructor(props) {
+		super(props);
+		this.state = {
+			listDataFromChildern: null
+		};    
+	},
+	Callback = (dataFromChildern) => {
+		this.setState({ listDataFromChildern: dataFromChildern });
+	},
+	function = () => {
+		// You have access to this.state.listDataFromChildern
+	}
+	render() {
+		return (
+			<div>
+				<Navlinks callbackFromParent={this.Callback}/>
+				// Pass this.state.listDataFromChildern as a prop to any other child component
+			</div>
+		);
+	}
 });
 ```
 
-Note the use of the arrow function in the definition of myCallback. This allows us to avoid using .bind when invoking, as it will retain the context of where it is called.
+**Note:** By using the arrow function in the definition of `Callback`. Allows you to avoid using `.bind` when invoking, as it will retain the context of where it is called.
 
-**Between Siblings — Combine the above**
+## Between Siblings
 
-Not surprisingly, to pass data between siblings, you have to use the parent as an intermediary. First pass the data from the child to the parent, as an argument into a callback from the parent. Set this incoming parameter as a state on the parent component, then pass it as a prop to the other child (see above example). The sibling can then use the data as a prop.
+To pass data between siblings, you have to use the parent as an intermediary. First pass the data from the child to the parent, as an argument into a callback from the parent.
 
-Passing data between React components can be a little tricky at first (without using Redux that is), but once you practice these three techniques you’ll be able to pass data between whichever components you’d like.
+Set this incoming parameter as a state on the parent component, then pass it as a prop to the other child. The sibling can then use the data as a prop.
+
+```js
+class Navitem extends React.Component {
+	getInitialState() {
+  	return {
+			initialState: "init"
+		};
+  },
+  updateShared(action) {
+  	this.setState({
+			initialState: action
+		})
+  },
+  render() {
+    return (
+			// ...
+		);
+  }
+};
+
+var Navlinks1 = React.createClass({
+	updateShared() {
+  	this.props.updateShared('clicked');
+  },
+	render() {
+    return (
+			<button onClick={this.updateShared} style={this.props.initialState == 'clicked' ? {color: "green"} : null} >
+				// ...
+			</button>
+		);
+  }
+});
+
+var Navlinks2 = React.createClass({
+	updateShared() {
+  	this.props.updateShared('touch');
+  },
+	render: function() {
+    return (<button onClick={this.updateShared} style={this.props.initialState == 'touch' ? {color: "orange"} : null}>
+    	// ...
+    </button>);
+  }
+});
+```
+
+Passing data between React components can be a little tricky for new commers, but once you practice these techniques it will like second hand for you.
