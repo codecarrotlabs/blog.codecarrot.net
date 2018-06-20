@@ -1,10 +1,10 @@
 ---
 layout: post
 author: yashumittal
-title: Card Sorting
+title: Card Sorting in Product Design Sprint
 date: 2018-04-03 15:34:13 +0530
 categories: design
-tags: design product-design-sprint
+tags: product-design-sprint pds
 description: When we design a product, we choose words and group content to help users use the product. Those decisions form the basis of the product’s information architecture.
 image: https://i.imgur.com/TjVp8qh.jpg
 ---
@@ -69,7 +69,7 @@ Each participant goes through this exercise one at a time.
 3. At the end of each participant’s session, take a picture of which cards in set #1 were matched to cards in set #2.
 4. Repeat.
 
-![card-sorting-gif](https://i.imgur.com/O4d3fbw.gifv)
+![card-sorting-gif](https://i.imgur.com/O4d3fbw.gif)
 
 ## Gathering results
 
