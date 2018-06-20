@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: What Bots Can (and Can't) Do for Your Online Store
+title: What Can Bots (and Can't) Do for Your Online Store
 date: 2017-10-05 05:27:00 +0530
 categories: business
 tags: business bots marketing online-store store conversational-commerce ecommerce-trends how-to-sell-online
