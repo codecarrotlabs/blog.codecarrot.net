@@ -161,4 +161,8 @@ FoodiesFeed offers thousands of beautiful realistic free food pictures in high r
 
 Canva photos is an extensive collection of high-quality photos and images to help both designers and non-designers with their designs.
 
+## 21. [Pikwizard](http://www.pikwizard.com/)
+
+Pikwizard is a great new stock photography website that has over 100,000 high-quality images. 20,000 of these are completely exclusive and there is no attribution required with Pikwizard.
+
 Start using these images in your [new blogging website](https://www.codecarrot.net/).
