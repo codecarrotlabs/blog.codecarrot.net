@@ -4,7 +4,7 @@ author: yashumittal
 title: Google's mobile-first index - How you can prepare your website
 date: 2017-08-20 12:00:00 +0530
 categories: tips
-tags: tips website seo google
+tags: seo google mobile
 description: You may or may not have heard the Google is switching to mobile-first index in the near future. What does that mean for your website, how can you prepare?
 image: https://i.imgur.com/pEcM6Wy.jpg
 ---
