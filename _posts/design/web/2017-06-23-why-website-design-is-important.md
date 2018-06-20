@@ -4,7 +4,7 @@ author: yashumittal
 title: Why website design is important?
 date: 2017-06-23 12:00:00 +0530
 categories: design
-tags: website designing
+tags: ui ux
 description: Web design is one of the most effective services you can utilize for your business. But any web designer will tell you, creating sites isn't just a service—it's an art.
 image: https://cdn.codecarrot.net/images/why-website-design-is-important.jpg
 ---
