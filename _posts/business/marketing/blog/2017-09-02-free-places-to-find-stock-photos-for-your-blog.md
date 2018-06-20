@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: 15 Free Places to Find Stock Photos for Your Blog
+title: 20+ Free Places to Find Stock Photos for Your Blog
 date: 2017-09-02 12:00:00 +0530
 categories: business
 tags: business blogging photos
@@ -109,7 +109,7 @@ You can also buy premium photos in themed packs. You “pay what you want,” an
 
 Photos released on Negative Space have no copyright restrictions.
 
-## 11. [StockSnap.io](https://stocksnap.io/)
+## 11. [StockSnap](https://stocksnap.io/)
 
 If you’re looking for free photos, StockSnap is the easiest site to navigate. It offers hundreds of images and adds more every week. All photos are free from copyright restrictions and attribution isn’t required.
 
@@ -141,9 +141,23 @@ Organized by location, BigFoto is perfect for travel bloggers. If your recent tr
 
 Photos are free to use, even for commercial purposes. The site asks for a link back to BigFoto.
 
-**Pro tip**
+## 16. [Pexels](https://www.pexels.com/)
 
-## 16. [Canva](https://www.canva.com/photos/)
+Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. All photos are nicely tagged, searchable and also easy to discover through their discover pages.
+
+## 17. [Burst](https://burst.shopify.com/)
+
+Burst is a resource from Shopify that provides free stock photos for entrepreneurs. Some photos are licensed under Creative Commons CC0 while others fall under Shopify’s own photo license.
+
+## 18. [Pixabay](https://pixabay.com/)
+
+Pixabay offers a large collection of free stock photos, vectors and art illustrations. All photos are released under Creative Commons CC0.
+
+## 19. [FoodiesFeed](https://foodiesfeed.com/)
+
+FoodiesFeed offers thousands of beautiful realistic free food pictures in high resolution. It’s the perfect stock photo site for food bloggers.
+
+## 20. [Canva](https://www.canva.com/photos/)
 
 Canva photos is an extensive collection of high-quality photos and images to help both designers and non-designers with their designs.
 
