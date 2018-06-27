@@ -15,7 +15,7 @@ the differences between Flexbox and CSS Grid Layout. Right now, we can only use 
 
 When people first encounter CSS Grid Layout, they tend to think of Grid as being the controller of the major page layout, providing a framework for headers and sidebars, main content and footers.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/t2cq0sohb4U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/InvP4kWl35A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 You can see this use case in this example. Only the direct children become a Grid Item and so by declaring a Grid on my wrapper the header, panel, content and footer all become Grid Items and can be placed onto that Grid. Any elements inside those main containers can then be laid out by whichever method makes sense.
 
@@ -27,7 +27,7 @@ Here we find the biggest difference between Grid and Flexbox. Flexbox is essenti
 
 Here is the most simple example of one versus two dimensional layout.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/U6HR7KM41xQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RdV87Gz6Z0E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In the top layout I am using Flexbox to display a set of “cards”. The container has flex-wrap set to wrap and so the flex items wrap onto two lines, I have set flex-grow to 1, flex-shrink to 1 and flex-basis to 200 pixels. So my ideal box width is 200 pixels, but items are able to grow larger and shrink smaller.
 

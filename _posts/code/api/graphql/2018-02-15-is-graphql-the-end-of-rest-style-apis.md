@@ -17,6 +17,8 @@ That is why it’s surprising, then, that many developers, have clung to what th
 
 Today, we’re going to look at a technology that is poised to replace, or at the very least, drastically change the way APIs are designed and presented — **GraphQL**. We’ll discuss a little bit of history, what issues REST suffers from, and what GraphQL does differently.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lW_CK0B5OXM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Defining REST and its Limitations
 
 REST or Representational State Transfer, is an API design architecture developed to extend and, in many cases, replace older architectural standards. Objects in REST are defined as addressable **URIs**, and are typically interacted with using the built-in verbs of **HTTP** — specifically, GET, PUT, DELETE, POST, etc. In REST, HATEOAS a.k.a (Hypermedia As The Engine Of Application State) is an architecture constraint in which the client interacts with hypermedia links, rather than through a specific interface.
@@ -106,7 +108,3 @@ Innovation depends on prior technologies to create new functionality. Therefore,
 What we have here is a basic value proposition. GraphQL does what it does well, but the question of integration lies directly on what kind of data you’re processing, and what issues your API is creating. For simple APIs, REST works just fine, but as data gets more complex and the needs of the data providers climbs, so too will the need for more complex and powerful systems.
 
 Adopting GraphQL as an adjunct or extension of the REST ideology, while removing REST from the intellectual space of “too big to not use”, will directly result in more powerful APIs with easier discoverability and greater manageability of the data they handle.
-
-***
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-UsuE_74gOM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

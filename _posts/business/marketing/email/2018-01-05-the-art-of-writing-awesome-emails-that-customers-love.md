@@ -9,7 +9,7 @@ description: Instead of sending thousands of email, it is better to send one awe
 image: https://i.imgur.com/YFztyCc.png
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/qPT2JgM1d6U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lH_vDRw3m_s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Instead of sending thousands of email, it is better to send one awesome email that customers might love.
 
