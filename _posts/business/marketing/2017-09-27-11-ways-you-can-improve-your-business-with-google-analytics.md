@@ -22,7 +22,3 @@ Follow these 11 Ways You Can Improve Your Business With Google Analytics.
 9. what to determine, new products, services or content?
 10. What causes people to leave our website?
 11. What about the goals?
-
-Check out this video to learn more:
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/rsxF5QoA0CQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

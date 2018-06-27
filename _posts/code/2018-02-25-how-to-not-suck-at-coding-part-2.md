@@ -13,8 +13,6 @@ In the [first part](/how-to-not-suck-at-coding-part-1) we talked about strategie
 
 Debugging, also known as the “*why the $#!%* isn’t this working?*” phenomenon.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/L-mC0Mjz22k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Stuck on a Coding Problem?
 
 It’s impossible to describe just how demoralizing it can be to try and fail at bug fixing. If you haven’t yet, at some point you will feel like a prize idiot despite your best efforts.
