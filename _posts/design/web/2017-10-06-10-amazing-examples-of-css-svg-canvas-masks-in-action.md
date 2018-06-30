@@ -15,7 +15,7 @@ I’ve scoured the web to find the below demos of custom clipping masks & SVG/ca
 
 ## Text Masking
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/8f5c404ca1814c25a1cdcd6ee6a77de8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405456726632681%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 For a clean example of text masking in action check out the above video. It uses actual page text in HTML so you can easily alter this text to read whatever you want.
 
@@ -25,7 +25,7 @@ The zooming effect is also created purely in CSS which makes this code snippet e
 
 ## Cutout Mask Polygons
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/93db47d957be4524933eed868fb28c86" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405456253299395%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 The animation in the video is created by using JavaScript for the complex animations but all of the masking is handled through a canvas element. It’s a surprisingly complex idea so trying to follow along with the code will be tough.
 
@@ -35,7 +35,7 @@ This runs a consistent animation and runs on a JS-powered Canvas element which b
 
 ## Image Masking
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/f8da878544544a4ebb660aa01977b19f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405470743297946%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 This cut & dry example shows what a CSS image mask looks like. You get to see the before & after of the above image mask created by Vincent De Oliveira.
 
@@ -45,7 +45,7 @@ You could do this with any texture you want so long as it’s exported with tran
 
 ## Button Hovers
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/9715a7743b3d4d46bcc7a4272041f0fa" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405455986632755%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Ever thought about customizing your button hover effects? Well this code snippet proves you can with a bit of creativity and some CSS masking.
 
@@ -55,7 +55,7 @@ This is certainly an experimental bit of code, but it looks phenomenal in WebKit
 
 ## SVG Text Mask
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/783a5b0bb86f4c3e8cf05ba05078aab9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405466729965014%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Here’s a slightly different example of a text mask effect created by developer Marco Barría.
 
@@ -65,7 +65,7 @@ This is a bit more technical but also grants much more control to the developer.
 
 ## Canvas Text Mask
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/b122f0966ce44d749c5916148da64fe8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405474049964282%2F&show_text=0&width=560" width="100%" height="242" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 With this canvas example by Calvin Davis, you’ll notice it uses raw HTML for the content, but the text itself isn’t selectable.
 
@@ -77,7 +77,7 @@ But it’s a cool example of how far you can push typography with canvas shapes.
 
 ## Animated Gradient
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/a4a09529e4554734b058e8b5b28a77de" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405454003299620%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Another really cool text effect is this animated gradient created by developer Svante Richter.
 
@@ -87,7 +87,7 @@ Since the gradient can animate via CSS it’ll seem as if the text is the only p
 
 ## Animated Clipping Mask
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/837710045e8c43b59c244d15466f9248" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405453293299691%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 This abstract clipping mask animation uses JS-powered bubbles generated randomly to mask over an image. It uses a canvas element along with animated clipping masks put together to form a cohesive SVG blob thing.
 
@@ -99,7 +99,7 @@ Again this may not serve many purposes on a real-world website, but it’s a coo
 
 ## SVG BG Mask
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/321c512b181744d69bf64699d72e92a7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405450713299949%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 On the flip side here’s a masking effect you could run on almost any website.
 
@@ -111,7 +111,7 @@ Not only is this mask practical and usable in a large header, but it’s also re
 
 ## CSS & SVG Masks
 
-<iframe width="100%" height="315" src="https://www.useloom.com/embed/ed2296c1b3bc4dcb8f17abbe8eafd2c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405450223299998%2F&show_text=0&width=560" width="100%" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 This complete gallery of SVG masks really drives home just how much you can do with pure CSS.
 

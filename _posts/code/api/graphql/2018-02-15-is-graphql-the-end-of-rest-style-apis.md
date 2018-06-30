@@ -17,7 +17,7 @@ That is why it’s surprising, then, that many developers, have clung to what th
 
 Today, we’re going to look at a technology that is poised to replace, or at the very least, drastically change the way APIs are designed and presented — **GraphQL**. We’ll discuss a little bit of history, what issues REST suffers from, and what GraphQL does differently.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lW_CK0B5OXM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcodecarrotinc%2Fvideos%2F405418836636470%2F&show_text=0&width=560" width="100%" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ### Defining REST and its Limitations
 
