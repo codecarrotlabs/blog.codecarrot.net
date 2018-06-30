@@ -4,7 +4,7 @@ author: yashumittal
 title: 5 Ways To Bridge The Designer-Developer Gap On Responsive Web Projects
 date: 2018-01-28 12:00:00 +0530
 categories: design
-tags: website responsive developer designer projects
+tags: developer designer
 description: Great web projects don’t succeed through good design or development chops alone—they also need communication and collaboration between designers and developers.
 image: https://cdn.codecarrot.net/images/invisionpost_masthead.jpg
 ---
