@@ -9,11 +9,9 @@ description: Normalize.css, a new CSS tool we can use as an alternative to tradi
 image: https://cdn.codecarrot.net/images/659592657.png
 ---
 
-In this vlog will learn about [Normalize.css](//codecarrotnet.github.io/normalize.css/), a new CSS tool we can use as an alternative to traditional CSS reset methods.
+In this vlog will learn about [Normalize.css](https://codecarrotnet.github.io/normalize.css/), a new CSS tool we can use as an alternative to traditional CSS reset methods.
 
 Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/j6DNn47b4V8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Video Transcription
 
@@ -27,11 +25,11 @@ What Normalize.css does is it preserves useful browser default styles instead of
 
 All HTML elements will render consistently and in line with modern web standards.
 
-You can download Normalize.css at [codecarrotnet.github.io/normalize.css](//codecarrotnet.github.io/normalize.css/). Or grab the files on GitHub at [github.com/codecarrotnet/normalize.css](//github.com/codecarrotnet/normalize.css).
+You can download Normalize.css at [codecarrotnet.github.io/normalize.css](https://codecarrotnet.github.io/normalize.css/). Or grab the files on GitHub at [github.com/codecarrotnet/normalize.css](https://github.com/codecarrotnet/normalize.css).
 
 So save the file in your project folder, then you can link to it from your HTML file right above your main style sheet. Or you can import it from your main style sheet and you’re all set.
 
-**Pro Tip:** You can even use the hosted [normalize.min.css](//codecarrotnet.github.io/normalize.css/css/normalize.min.css) file.
+**Pro Tip:** You can even use the hosted [normalize.min.css](https://codecarrotnet.github.io/normalize.css/css/normalize.min.css) file.
 
 There are some advantages to using Normalize.css over other CSS reset methods. Since it preserves useful default styles, there’s no need to overwrite a lot of element styles. Headings and paragraphs, for example, preserve their default styles consistently across the browsers. Another neat feature is that it also makes form elements cross-browser consistent and styleable.
 
