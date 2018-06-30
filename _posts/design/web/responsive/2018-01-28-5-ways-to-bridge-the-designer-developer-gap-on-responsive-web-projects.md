@@ -6,7 +6,7 @@ date: 2018-01-28 12:00:00 +0530
 categories: design
 tags: developer designer
 description: Great web projects don’t succeed through good design or development chops alone—they also need communication and collaboration between designers and developers.
-image: https://cdn.codecarrot.net/images/invisionpost_masthead.jpg
+image: https://i.imgur.com/Mt7sGsm.jpg
 ---
 
 Great web projects don’t succeed through good design or development chops alone—they also need communication and collaboration between designers and developers.
@@ -19,7 +19,7 @@ In short: responsive design adds more variables and more deliverables—which ca
 
 ## 1. Focus on the “extreme” viewport sizes first
 
-![When in doubt, base your viewport range on common web experiences: the iPhone and an expanded desktop browser](https://cdn.codecarrot.net/images/post_rwdrange.png)
+![When in doubt, base your viewport range on common web experiences: the iPhone and an expanded desktop browser](https://i.imgur.com/qykhsJy.png)
 
 *When in doubt, base your viewport range on common web experiences: the iPhone and an expanded desktop browser.*
 
@@ -50,7 +50,7 @@ Avoid making assumptions about what those adjustments can or should be with your
 
 ## 3. Have an image asset strategy early
 
-![Many responsive images require multiple assets. My personal site’s top home page graphic delivers 1 of 6 different image sizes based on the viewport size and resolution](https://cdn.codecarrot.net/images/post_rwdimages.png)
+![Many responsive images require multiple assets. My personal site’s top home page graphic delivers 1 of 6 different image sizes based on the viewport size and resolution](https://i.imgur.com/BsMyUIT.png)
 
 Many responsive images require multiple assets. My personal site’s top home page graphic delivers 1 of 6 different image sizes based on the viewport size and resolution.
 
