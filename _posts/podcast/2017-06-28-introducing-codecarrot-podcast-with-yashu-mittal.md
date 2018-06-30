@@ -15,13 +15,13 @@ Each week, our Founder & CEO - Yashu Mittal will be sharing one thing he’s lea
 
 So we’d go grab a chia (aka Tea), talk about a topic on the walk over, come back to our office, and sit down for 15-20 minutes to record a new episode.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lm1-xac-kB4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_r_rjDDIhNA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## The Places You Can Listen To CodeCarrot Garage Podcast
 
 You can catch [CodeCarrot Blog Podcast](//blog.codecarrot.net/category/podcast/) in all of the places that you listen to your favorite podcasts — just search for CodeCarrot Podcast — but here are the links so you can subscribe right here, right now so you never miss a new episode:
 
-* Listen to [CodeCarrot Podcast on Youtube](https://www.youtube.com/playlist?list=PLNZlxFOFwh-qw_jE7hUy5PFec0zfu7VIX)
+* Listen to [CodeCarrot Podcast on Youtube](https://www.youtube.com/playlist?list=PLVKRaOCbg3OGBf4Q0nBAP3QsnhV46QJEC)
 
 And don’t hesitate to send or tweet us feedback about the show, including what you want to hear more of.
 
