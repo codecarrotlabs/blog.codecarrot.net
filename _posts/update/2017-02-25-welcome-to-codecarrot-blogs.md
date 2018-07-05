@@ -9,6 +9,10 @@ description: We are very excited to announce the launch of CodeCarrot blog, an A
 image: https://i.imgur.com/wEk87yc.png
 ---
 
+<iframe src="https://anchor.fm/codecarrot/embed/episodes/Welcome-to-CodeCarrot-Blogs-e1oi7k/a-a492ir" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+***
+
 We are very excited to announce the launch of **[CodeCarrot blog](/)**, an Agile team with excellent track record & great communication skills. We love Web and mobile application development! Ping us!
 
 More than half of the population of the world is doing business online, whether it's a industrial business or selling handmade stuff in the market.
