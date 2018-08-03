@@ -28,6 +28,7 @@ Though NPCI has set UPI specifications only for the Android phones, soon iOS and
 1. **Instant transfers**
 
 Considering that UPI also works in real-time and transfers funds immediately without revealing the bank account details to the payee. Undoubtedly, it has become one of the most used payment modes other than the debit/credit cards. Integrating UPI will add another payment mode to your app which attracts users, as the more payment options an app has, the better it is for the users.
+
 2. **Negligible charges**
 
 Moreover, as compared to the other payment methods like NEFT and IMPS, UPI does not charge anything. So, integrating your app with UPI gives your users a free of charge payment method.
