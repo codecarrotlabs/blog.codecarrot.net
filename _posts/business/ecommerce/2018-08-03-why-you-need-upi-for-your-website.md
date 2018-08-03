@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: Why you need UPI for your website?
+title: Why Your Website Needs UPI?
 date: 2018-08-03T12:37:22.547Z
 categories: business
 description: >-
