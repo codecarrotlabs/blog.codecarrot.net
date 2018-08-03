@@ -9,7 +9,7 @@ description: >-
   transfer between bank accounts in real-time using a virtual payment address
   (VPA) without entering bank details whatsoever. Customers can pay the merchant
   either using their VPA or by scanning the QR code at the retail stores.
-image: 'https://i.imgur.com/QjvrPsK.png'
+image: 'https://i.imgur.com/E0nIdlV.jpg'
 ---
 Unified Payment Interface (UPI) allows easy and convenient medium of fund transfer between bank accounts in real-time using a virtual payment address **(VPA)** without entering bank details whatsoever. Customers can pay the merchant either using their VPA or by scanning the QR code at the retail stores.
 
