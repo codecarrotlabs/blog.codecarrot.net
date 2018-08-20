@@ -6,7 +6,7 @@ date: 2018-08-20 22:16:31 +0530
 categories: code
 tags: changelog product-updates logchimp
 description: Keep customers in the loop about your product with LogChimp
-image: https://i.imgur.com/ZVtWbYL.png
+image: https://i.imgur.com/Tk3Vv21.png
 ---
 
 ## What's logChimp?
