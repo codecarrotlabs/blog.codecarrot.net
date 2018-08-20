@@ -2,14 +2,14 @@
 layout: post
 author: yashumittal
 title: LogChimp 🐵 A new way to changelog
-date: 2018-08-20 02:29:40 +0530
+date: 2018-08-20 22:16:31 +0530
 categories: code
 tags: changelog product-updates logchimp
 description: Keep customers in the loop about your product with LogChimp
-image: 
+image: https://i.imgur.com/ZVtWbYL.png
 ---
 
-# What's logChimp?
+## What's logChimp?
 
 [LogChimp](https://logchimp.now.sh/) is a new way to keep your customers in the loop ➰ about your product, and the awesome 👓 part is, it's free and open-source.
 
@@ -17,7 +17,7 @@ image:
 
 To get started with LogChimp, just [fork 🍴 or clone 🔻 this repository](https://gitlab.com/codecarrot/logchimp/starter-kit) and you are good to go 🔰.
 
-# Why LogChimp?
+## Why LogChimp?
 
 You must have created a `changelog.md` file in your repository which looks quite boring 💤 or the the GitHub releases...
 
@@ -36,11 +36,11 @@ let's see it in action...
 
 ![Jasper Logchimp changelog](https://i.imgur.com/BYmQOsY.gif)
 
-# How to get started?
+## How to get started?
 
 To get started with LogChimp, just [fork 🍴 or clone 🔻 this repository](https://gitlab.com/codecarrot/logchimp/starter-kit) and you are good to go 🔰.
 
-# Links
+## Links
 
 1. Website: https://logchimp.now.sh/
 2. Demo: https://mittalyashu.gitlab.io/jasper-changelog/
