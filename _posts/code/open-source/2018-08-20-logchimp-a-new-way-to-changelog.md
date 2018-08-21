@@ -9,39 +9,55 @@ description: Keep customers in the loop about your product with LogChimp
 image: https://i.imgur.com/Tk3Vv21.png
 ---
 
-## What's logChimp?
+> Keep customers in the loop ➰ about your product with LogChimp.
 
-[LogChimp](https://logchimp.now.sh/) is a new way to keep your customers in the loop ➰ about your product, and the awesome 👓 part is, it's free and open-source.
+# Description
 
-![LogChimp website screenshot](https://i.imgur.com/L9aeRDU.png)
+[LogChimp](https://logchimp.now.sh/) by [CodeCarrot](https://www.codecarrot.net/) is modern way to create changelog for your product, no need to learn any language or tool to use it, it's just like publishing a blog.
 
-To get started with LogChimp, just [fork 🍴 or clone 🔻 this repository](https://gitlab.com/codecarrot/logchimp/starter-kit) and you are good to go 🔰.
+[![LogChimp website screenshot](https://i.imgur.com/L9aeRDU.png)](https://logchimp.now.sh/)
 
-## Why LogChimp?
+At the core it is powered 🌟 by [Jekyll](https://jekyllrb.com) and [LogChimp default theme](https://rubygems.org/gems/logchimp) and the awesome 👓 part is, it's free and open-source.
+
+# Features
+
+* 🆓 Free and Open Source
+* 🎀 Branding
+* 👨‍👨‍👧‍👧 Team management
+* 🌈 Permalinked changelogs
+* 📂 Markdown supported
+* 📛 Badges
+* 📅 Relative date
+* 🤖 Scheduled publishing
+* 📰 RSS feeds
+* ✅ Tested
+* 🔨 Maintained
+* ✨ more features _(coming soon)_
+
+# Why?
 
 You must have created a `changelog.md` file in your repository which looks quite boring 💤 or the the GitHub releases...
 
 ![Old way of changelog](https://i.imgur.com/gz9BnTf.gif)
 
-Here's what you can do with LogChimp
+Now let's see 😲 how it looks like with LogChimp
 
-1. 🆓 Free and Open Source
-2. 🎀 Branding
-3. 👨‍👨‍👧‍👧 Teams
-4. 📛 Badges
-5. 📅 Relative date
-6. ✨ more features _(coming soon)_
+[![Jasper Logchimp changelog](https://i.imgur.com/BYmQOsY.gif)](https://mittalyashu.gitlab.io/jasper-changelog/)
 
-let's see it in action...
+# How to get started?
 
-![Jasper Logchimp changelog](https://i.imgur.com/BYmQOsY.gif)
+It's time to ditch `changelog.md` files and get started with LogChimp by cloning this repository.
 
-## How to get started?
+```ssh
+git clone https://gitlab.com/codecarrot/logchimp/logchimp-starter-kit
+cd logchimp-starter-kit
+bundle exec jekyll servegit clone https://gitlab.com/codecarrot/logchimp/starter-kit
+```
 
-To get started with LogChimp, just [fork 🍴 or clone 🔻 this repository](https://gitlab.com/codecarrot/logchimp/starter-kit) and you are good to go 🔰.
+and you are good to go 🔰.
 
-## Links
+# Links
 
 1. Website: https://logchimp.now.sh/
 2. Demo: https://mittalyashu.gitlab.io/jasper-changelog/
-3. Starter kit: https://gitlab.com/codecarrot/logchimp/starter-kit
+3. LogChimp Starter kit: https://gitlab.com/codecarrot/logchimp/logchimp-starter-kit
