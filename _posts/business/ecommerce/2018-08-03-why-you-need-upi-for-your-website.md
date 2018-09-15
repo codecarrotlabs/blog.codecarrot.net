@@ -2,7 +2,7 @@
 layout: post
 author: yashumittal
 title: Why Your Website Needs UPI?
-date: 2018-08-03T12:37:22.547Z
+date: 2018-08-03 12:37:22 +0530
 categories: business
 description: >-
   Unified Payment Interface (UPI) allows easy and convenient medium of fund
