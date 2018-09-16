@@ -1,0 +1,44 @@
+- name: Twitter
+  filename: twitter
+  username: codecarrotnet
+  url: https://www.twitter.com/codecarrotnet
+
+- name: Facebook
+  filename: facebook
+  username: codecarrotinc
+  url: https://www.facebook.com/codecarrotinc
+
+- name: LinkedIn
+  filename: linkedin
+  username: ""
+  url: https://www.linkedin.com/company/13356075
+
+- name: Google Plus
+  filename: google_plus
+  username: ""
+  url: https://plus.google.com/110021331097734315433
+
+- name: GitHub
+  filename: github
+  username: codecarrotnet
+  url: https://www.github.com/codecarrotnet
+
+- name: GitLab
+  filename: gitlab
+  username: codecarrot
+  url: https://www.gitlab.com/codecarrot
+
+- name: Behance
+  filename: behance
+  username: codecarrot
+  url: https://www.behance.net/codecarrot
+
+- name: YouTube
+  filename: youtube
+  username: codecarrot
+  url: https://www.youtube.com/channel/UCeUQVjwShjdrEm-tQJW9KpA
+
+- name: RSS
+  filename: rss
+  username: ""
+  url: https://blog.codecarrot.net/feed.xml
