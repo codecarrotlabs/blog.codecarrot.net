@@ -5,6 +5,7 @@ title: Make the Perfect Responsive Grid with CSS
 date: 2017-10-06 16:37:00 +0530
 categories: design
 tags: design css responsive grid
+description: Knowing how to make a responsive grid is an essential part of web development. Here's a quick comparison of float, flexbox, and CSS grid methods.
 image: https://i.imgur.com/yb636Q1.jpg
 ---
 
@@ -104,8 +105,8 @@ To create a grid, you would give multiple elements a float property, which would
 
 ```css
 .column {
-   display: block;
-   float: left;
+  display: block;
+  float: left;
 }
 ```
 
@@ -122,11 +123,10 @@ You can fix this problem in a couple of ways.
 You can add a `display:` table ruleset to the parent element. Or you can clear the floats by adding an `:after` pseudo-element to the parent with the following styles to clear the floats.
 
 ```css
-.parent:after
-{
-   clear: both;
-   content: "";
-   display: block;
+.parent:after {
+  clear: both;
+  content: "";
+  display: block;
 }
 ```
 
@@ -136,15 +136,15 @@ This declaration includes padding and margins when calculating the final width a
 
 ```css
 *, *:after, *:before {
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-   box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 ```
 
 ### Using media queries to make the grid responsive
 
-To make the grid responsive, we will utilize [media queries](//developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). Using those, we will be able to tell the grid to have a specific layout at certain device widths.
+To make the grid responsive, we will utilize [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries). Using those, we will be able to tell the grid to have a specific layout at certain device widths.
 
 From our notes, we want both main and sidebar elements to be 100% width for mobile, then both 50% side by side on tablet, and then 2/3 and 1/3 width side by side on desktop.
 
@@ -163,8 +163,8 @@ In the CSS, using the mobile-first approach, we would by default set both column
 
 ```css
 .column {
-   display: block;
-   width: 100%;
+  display: block;
+  width: 100%;
 }
 ```
 
@@ -173,11 +173,11 @@ In the CSS, using the mobile-first approach, we would by default set both column
 Then for widths for tablet and greater, we will float the columns to the left and make them 50% width.
 
 ```css
-@media only screen and (min-width: 641px){
-   .column {
-     width: 50%;
-     float: left;
-   }
+@media only screen and (min-width: 641px) {
+  .column {
+    width: 50%;
+    float: left;
+  }
 }
 ```
 
@@ -186,13 +186,13 @@ Then for widths for tablet and greater, we will float the columns to the left an
 For desktop we will add another media query changing the widths of the main and sidebar content to 2/3 and 1/3.
 
 ```css
-@media only screen and (min-width: 1025px){
-   .main {
-      width: 66.66%;
-   }
-   .sidebar {
-      width: 33.33%;
-   }
+@media only screen and (min-width: 1025px) {
+  .main {
+    width: 66.66%;
+  }
+  .sidebar {
+    width: 33.33%;
+  }
 }
 ```
 
@@ -208,15 +208,15 @@ The first thing you’ll have to do is declare that the parent should use flexbo
 
 ```css
 .parent {
-   display: flex;
+  display: flex;
 }
 ```
 
 Then set the flex property on the column divs:
 
 ```css
-.column {
-   flex: 1;
+  .column {
+  flex: 1;
 }
 ```
 
@@ -251,13 +251,14 @@ First, we’ll create the flexbox and set the parent to use `display:` flex.
 We want the columns to be equally-spaced at this width, so we’ll use the flex: 1 declaration for all the column divs. The 1 means that the columns will be the same width relative to one another.
 
 ```css
-@media only screen and (min-width: 641px){
-   .parent {
-   display: flex;
+@media only screen and (min-width: 641px) {
+.parent {
+  display: flex;
 }
+
 .column {
-   flex: 1;
-   }
+  flex: 1;
+}
 }
 ```
 
@@ -268,10 +269,10 @@ On desktop, we want the main content to take up 2/3 of the available width. The 
 To accomplish this, we will increase the flex value of the main column to be 2. The sidebar flex will remain at the 1 set on tablet, so it doesn’t need another declaration for desktop.
 
 ```css
-@media only screen and (min-width: 1025px){
-   .main {
-      flex: 2;
-   }
+@media only screen and (min-width: 1025px) {
+  .main {
+    flex: 2;
+  }
 }
 ```
 
@@ -335,8 +336,8 @@ The `grid-template-columns` property would then have two values, one for each of
 
 ```css
 .parent {
-   display: grid;
-   grid-template-columns: 1fr 1fr;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 ```
 
@@ -360,8 +361,8 @@ We want two child elements of equal width to one another for tablet.
 
 ```css
 .parent {
-   display: grid;
-   grid-template-columns: 1fr 1fr;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 ```
 
@@ -370,10 +371,10 @@ We want two child elements of equal width to one another for tablet.
 We will do a similar ratio of the main column being twice the width of the sidebar column, which calculates out to 2/3 and 1/3 once again.
 
 ```css
-@media only screen and (min-width: 1025px){
-   .parent {
-      grid-template-columns: 2fr 1fr;
-   }
+@media only screen and (min-width: 1025px) {
+  .parent {
+    grid-template-columns: 2fr 1fr;
+  }
 }
 ```
 
