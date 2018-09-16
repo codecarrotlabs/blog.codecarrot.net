@@ -5,8 +5,7 @@ title: Make the Perfect Responsive Grid with CSS
 date: 2017-10-06 16:37:00 +0530
 categories: design
 tags: design css responsive grid
-description: Knowing how to make a responsive grid is an essential part of web development. Here&#039;s a quick comparison of float, flexbox, and CSS grid methods.
-image: https://cdn.codecarrot.net/images/responsive-grid-css.jpg
+image: https://i.imgur.com/yb636Q1.jpg
 ---
 
 Knowing how to make a responsive grid is an essential part of web development.
@@ -31,7 +30,7 @@ Usually you want a total of twelve columns because you can then divide the space
 
 You can see this practice in effect on the Studiopress website theme:
 
-![website-grid-illustration](https://cdn.codecarrot.net/images/website-gridillustration-768x528.png)
+![website-grid-illustration](https://i.imgur.com/ZxGs2yB.png)
 
 The columns don’t all have to be the same width, of course. You might want some columns to span two columns, and others to span four, six, or more.
 
@@ -85,7 +84,7 @@ On **desktop**, we want the main content column to take up 2/3 width and the sid
 
 And this is what we want the grid to look like at each of those breakpoints:
 
-![grid-breakpoints](https://cdn.codecarrot.net/images/grid-breakpoints.png)
+![grid-breakpoints](https://i.imgur.com/Bx17CZU.png)
 
 It’s a little extra work ahead of time, but this plan will save you time because you know what you need to build. This technique is especially useful when you work on bigger and more complicated projects.
 
@@ -97,7 +96,7 @@ You might be wondering why we’re covering float grids, since flexbox and CSS g
 
 The float property in CSS was originally intended for uses like allowing text to flow around an image. Giving the image a float: left ruleset would make the image align, or “float,” on the left side of the parent element.
 
-![image-float](https://cdn.codecarrot.net/images/image-float.png)
+![image-float](https://i.imgur.com/YHXoCey.png)
 
 ## Making a grid with float
 
