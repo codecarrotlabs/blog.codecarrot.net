@@ -9,14 +9,16 @@ description: You may or may not have heard the Google is switching to mobile-fir
 image: https://i.imgur.com/pEcM6Wy.jpg
 ---
 
-You may have heard that Google will be switching to a mobile-first index in the near future, but if you’re not sure what this means or how it will affect your site, don’t panic. With a little preparation, you won’t have to worry about Google turning your rankings upside down. The following information explains the basics of the update and walks you through the steps you should take to get ready.
+It's not a long time, until your website search ranking will start to degrate in the [Google Search results](/google-search-algorithm). Why?
+
+Becuase Google is planning to add mobile-first indexing to their search algorithm in the near future. You don't have to worry about Google turning your rankings upside down. The following information explains the steps you should take to get ready.
 
 ## What does mobile-first indexing mean?
 
 Right now, Google crawls the web from a desktop user’s point of view and catalogs websites based on their desktop version. Being mobile-friendly improves a site’s SEO, but the actual content of a mobile site doesn’t affect the desktop site’s ranking in SERPs currently.
 
 <div class="callout">
-Recently, however, mobile use has started overtaking desktop use.
+Mobile use has started overtaking desktop use
 </div>
 
 In May 2015, Google announced that more searches were conducted from mobile devices than from desktop computers in 10 countries around the world, including the U.S. In November 2016, StatCounter reported that more than half of worldwide internet usage was conducted on smartphones and tablets.
