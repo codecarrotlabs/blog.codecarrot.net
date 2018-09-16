@@ -1,7 +1,7 @@
 ---
 layout: post
 author: yashumittal
-title: How to add class name or id to an image tag inside a markdown file?
+title: How to add a class name or id to an image tag inside a markdown file?
 date: 2018-07-05 23:48:59 +0530
 categories: code
 tags: markdown jekyll gatsby vuepress hugo ghost
