@@ -1,10 +1,10 @@
 ---
 layout: post
 author: yashumittal
-title: How to Write a Perfect ReadMe
+title: How to Write a Perfect Readme
 date: 2017-08-31 00:53:00 +0530
 categories: code
-tags: markdown readme conversion-rates
+tags: markdown readme documentation
 description: Solving the non-design issues will help you boost conversion rates and will also take less time, money and effort than redesign and implementation.
 image: https://i.imgur.com/qd4rNQ7.jpg
 ---
