@@ -61,6 +61,7 @@ Before I take you through the Markdown syntax lets take a look a simple example.
 
 ```
 # CodeCarrot
+
 CodeCarrot is an Agile team with excellent track record & great communication skills. We love Web and mobile application development!
 ```
 
