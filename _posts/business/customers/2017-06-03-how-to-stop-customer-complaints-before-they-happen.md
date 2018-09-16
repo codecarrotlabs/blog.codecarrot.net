@@ -119,7 +119,7 @@ It's crucial that you don't just copy and paste these templates verbatim. Custom
 
 Here are three basic email templates that you can use as a jump-off point for responding to complaints.
 
-Here are three basic [email templates](https://cdn.codecarrot.net/documents/e-mail-template-for-responding.pdf) that you can use as a jump-off point for responding to complaints.
+Here are three basic [email templates](https://www.dropbox.com/s/un2drb0bq9ujgny/e-mail-template-for-responding.pdf?dl=0) that you can use as a jump-off point for responding to complaints.
 
 ## Create a Better Shopping Experience for Your Customers
 
