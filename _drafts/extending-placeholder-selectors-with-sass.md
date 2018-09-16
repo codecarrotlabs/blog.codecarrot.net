@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/extending-placeholder-selectors-with-sass

@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/find-your-dream-job-in-3-steps

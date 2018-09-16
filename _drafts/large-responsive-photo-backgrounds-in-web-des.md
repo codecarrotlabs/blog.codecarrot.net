@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/large-responsive-photo-backgrounds-in-web-design

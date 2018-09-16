@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/best-jquery-date-picker-plugins-for-input-fields

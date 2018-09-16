@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/screencasts-an-easy-solution-for-video-marketing

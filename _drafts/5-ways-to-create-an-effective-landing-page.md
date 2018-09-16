@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/5-ways-to-create-an-effective-landing-page

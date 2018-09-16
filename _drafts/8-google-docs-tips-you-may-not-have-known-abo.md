@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/8-google-docs-tips-you-may-not-have-known-about

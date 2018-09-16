@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/20-steps-to-better-wireframing

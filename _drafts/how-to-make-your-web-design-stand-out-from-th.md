@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/how-to-make-your-web-design-stand-out-from-the-crowd

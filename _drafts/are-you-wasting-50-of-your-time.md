@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/are-you-wasting-50-of-your-time

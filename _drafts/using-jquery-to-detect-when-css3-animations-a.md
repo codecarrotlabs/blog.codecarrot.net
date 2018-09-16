@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/using-jquery-to-detect-when-css3-animations-and-transitions-end

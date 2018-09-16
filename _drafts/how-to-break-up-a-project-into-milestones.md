@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/how-to-break-up-a-project-into-milestones

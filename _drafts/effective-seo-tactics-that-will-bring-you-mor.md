@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/effective-seo-tactics-that-will-bring-you-more-traffic

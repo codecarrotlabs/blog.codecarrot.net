@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/when-you-fail-its-time-to-try-again-2

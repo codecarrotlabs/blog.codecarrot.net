@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/17-awesome-web-developer-cheat-sheets

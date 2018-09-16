@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/organize-your-code-with-requirejs

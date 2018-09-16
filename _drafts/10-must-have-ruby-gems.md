@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/10-must-have-ruby-gems

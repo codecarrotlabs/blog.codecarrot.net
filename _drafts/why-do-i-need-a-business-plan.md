@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/why-do-i-need-a-business-plan

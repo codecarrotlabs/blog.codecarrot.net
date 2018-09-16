@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/craft-job-search-strategy

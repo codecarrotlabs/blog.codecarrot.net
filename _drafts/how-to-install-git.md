@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/how-to-install-git

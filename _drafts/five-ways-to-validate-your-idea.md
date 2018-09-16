@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/five-ways-to-validate-your-idea

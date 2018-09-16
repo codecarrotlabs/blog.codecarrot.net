@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/15-tips-for-freelancers-starting-their-own-business

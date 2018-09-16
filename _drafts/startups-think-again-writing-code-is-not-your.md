@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/startups-think-again-writing-code-is-not-your-biggest-challenge

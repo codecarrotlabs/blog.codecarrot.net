@@ -1,1 +1,0 @@
-http://blog.teamtreehouse.com/how-to-get-started-with-the-twitter-api
