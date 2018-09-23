@@ -75,21 +75,19 @@
 			position: relative
 			top: -2px
 
-	.social
-		margin: 0 auto
-		list-style: none
-		text-align: center
+	.footer-social
+		flex-wrap: wrap
 
 		li
+			margin: 2px 5px
+			background-color: $gray-400
 			display: inline-block
 
 			a
-				background: #d3d9dd
-				background-size: 24px 24px
-				border-radius: 50%
+				display: inline-block
 
-				svg
-					width: 16px
-					height: 16px
-					fill: #fff
-					margin: 0 5px
+		li, li > a > img
+			width: 30px
+			height: 30px
+			border-radius: 30px
+
