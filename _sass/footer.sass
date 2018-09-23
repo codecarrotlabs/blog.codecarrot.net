@@ -54,26 +54,23 @@
 		font-size: 14px
 		text-align: center
 
+	.footer-nav, .footer-social
+		display: flex
+		flex-direction: row
+		justify-content: center
+
 	.footer-nav
-		text-align: center
+		margin-bottom: 20px
+		flex-wrap: wrap
+		align-items: center
 
-		li
-			list-style: none
-			color: #3a4142
-			font:
-				size: 14px
-
-			a
-				text-decoration: none
-				color: #2e353b
-
-				&:hover
-					color: #3a4142
+		a
+			color: $gray-700
 
 		.dot
-			font-size: 10px
-			position: relative
-			top: -2px
+			font-size: 9px
+			margin: 0px 5px
+			color: $gray-700
 
 	.footer-social
 		flex-wrap: wrap
