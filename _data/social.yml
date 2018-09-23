@@ -13,6 +13,11 @@
   username: ""
   url: https://www.linkedin.com/company/13356075
 
+- name: Instagram
+  filename: instagram
+  username: codecarrot
+  url: https://www.instagram.com/codecarrot/
+
 - name: Google Plus
   filename: google_plus
   username: ""
