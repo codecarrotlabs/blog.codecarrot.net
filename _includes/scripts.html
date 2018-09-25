@@ -1,0 +1,10 @@
+{% assign search_page = page.url | slice: 1, 6 %}
+
+	{% if search_page == "search" %}
+		<script type="text/javascript" src="/assets/js/lunr.min.js"></script>
+		<script type="text/javascript" src="/assets/js/search.js"></script>
+	{% endif %}
+	{% if search_page == "search" %}
+		<script type="text/javascript" src="/assets/js/lunr.js"></script>
+		<script type="text/javascript" src="/assets/js/search.js"></script>
+	{% endif %}
