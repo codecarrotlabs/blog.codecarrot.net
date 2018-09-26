@@ -1,0 +1,87 @@
+.search-field
+	margin-top: 80px
+	margin-bottom: 30px
+	font-size: 14px
+	position: relative
+
+	.search-field-form-icon, #search-field-form-reset-icon
+		position: absolute
+		display: flex
+
+	.search-field-form-icon
+		user-select: none
+		top: calc(50% - 18px/2)
+		left: 12px
+
+		svg
+			height: 16px
+			width: 16px
+			fill: $gray-500
+
+	#search-field-form-reset-icon
+		top: calc(50% - 12px/2)
+		right: 13px
+		cursor: pointer
+
+		svg
+			width: 12px
+			height: 12px
+
+	#search-field-form-input
+		height: 46px
+		font: inherit
+		border: 1px solid $gray-300
+		border-radius: 5px
+		width: 100%
+		box-shadow: 0 1px 1px 0 rgba(85, 95, 110, 0.2)
+		transition: box-shadow .4s ease, background .4s ease
+		padding: 10px 35px
+		vertical-align: middle
+
+		&:focus
+			box-shadow: none
+			outline: 0
+
+#no-result
+	color: $gray-600
+	text-align: center
+
+#search-pagination
+	margin-top: 80px
+	text-align: center
+
+.search-by-topic
+	text-align: center
+	margin: 80px auto
+	max-width: 768px
+
+	h3
+		margin: 24px 0
+		color: $gray-900
+		display: block
+		font-weight: 700
+		font-size: 24px
+		line-height: 1.4
+
+	ul
+		li
+			display: inline-block
+			margin: 10px 0
+
+			a
+				border-radius: 50px
+				background: transparent
+				border: 2px solid $gray-200
+				color: $gray-700
+				display: inline-block
+				// margin: 0
+				font-weight: 700
+				text-decoration: none
+				text-align: center
+				transition: color 200ms ease, background-color 200ms ease, border-color 200ms ease, width 200ms ease, opacity 200ms ease
+				font-size: 13px
+				padding: 8px 22px
+
+				&:hover
+					border: 2px solid $brand-1
+					color: $brand-1

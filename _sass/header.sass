@@ -1,0 +1,78 @@
+@media (max-width: 767px)
+	.is-close
+		display: none
+
+	.is-open
+		display: flex
+
+	.nav-list
+		width: 100%
+		margin-top: 30px
+		flex-direction: column
+
+		li
+			margin-left: 0
+			margin-bottom: 10px
+
+@media (min-width: 767px)
+	header
+		.nav-toggle
+			display: none
+
+		.nav-list
+			display: flex
+
+.header-stripe
+	height: 4px
+	background-color: $brand-1
+
+header
+	position: sticky
+	background-color: $white
+	z-index: 100
+	top: 0
+	box-shadow: 0 0 4px rgba(0,0,0,.4)
+	padding: 20px
+	display: flex
+	flex-wrap: wrap
+	align-items: center
+
+.nav-toggle
+	+background('../img/icons/menu.svg', no-repeat, cover, center center)
+	cursor: $cursor-pointer
+	display: flex
+	width: 25px
+	height: 18px
+	margin-left: auto
+
+.nav-list
+	margin-left: auto
+	align-items: center
+
+	li
+		margin-left: 40px
+
+		a
+			color: $gray-800
+			font-weight: 800
+
+			&:hover
+				color: $black
+
+	.search-icon
+		display: flex
+
+		svg
+			width: 16px
+			height: 16px
+			fill: #2E353B
+
+			&:hover
+				fill: $black
+
+	.nav-cta
+		color: $brand-1
+		transition: $transition-base
+
+		&:hover
+			color: $brand-2

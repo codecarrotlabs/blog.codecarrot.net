@@ -1,0 +1,85 @@
+---
+layout: default
+title: Search - CodeCarrot Blogs
+robots: noindex, follow
+---
+
+{% include hero-heading.html title="Search" pagination=false %}
+
+<div class="container">
+	<div class="search-field">
+		<form class="search-field-form" action="/search" method="get">
+			<div class="search-field-form-icon">
+				{% include icons/search.svg %}
+			</div>
+			<input type="text" id="search-field-form-input" name="query">
+		</form>
+	</div>
+
+	<ul class="cards-container" id="search-results"></ul>
+	<p id="no-result"></p>
+
+	<div class="search-by-topic">
+		<h3>Search topics</h3>
+		<ul>
+			<li>
+				<a href="?query=html">HTML</a>
+			</li>
+			<li>
+				<a href="?query=css">CSS</a>
+			</li>
+			<li>
+				<a href="?query=design">Design</a>
+			</li>
+			<li>
+				<a href="?query=javascript">Javascript</a>
+			</li>
+			<li>
+				<a href="?query=ruby">Ruby</a>
+			</li>
+			<li>
+				<a href="?query=php">PHP</a>
+			</li>
+			<li>
+				<a href="?query=wordpress">WordPress</a>
+			</li>
+			<li>
+				<a href="?query=development-tools">Development Tools</a>
+			</li>
+			<li>
+				<a href="?query=business">Business</a>
+			</li>
+			<li>
+				<a href="?query=ios">iOS</a>
+			</li>
+			<li>
+				<a href="?query=android">Android</a>
+			</li>
+			<li>
+				<a href="?query=python">Python</a>
+			</li>
+			<li>
+				<a href="?query=java">Java</a>
+			</li>
+			<li>
+				<a href="?query=digital-literacy">Digital Literacy</a>
+			</li>
+
+		</ul>
+	</div>
+</div>
+
+<script>
+	window.store = {
+		{% for post in site.posts %}
+			"{{ post.url | slugify }}": {
+				"image": "{{ post.image }}",
+				"title": "{{ post.title | xml_escape }}",
+				"category": "{{ post.categories }}",
+				"description": {{ post.description | strip_html | strip_newlines | jsonify }},
+				"url": "{{ post.url | xml_escape }}"
+			}
+			{% unless forloop.last %}, {% endunless %}
+		{% endfor %}
+	}
+</script>
