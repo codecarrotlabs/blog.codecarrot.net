@@ -1,0 +1,70 @@
+::selection
+	background: $brand-1
+	color: $white
+
+*
+	margin: 0
+	padding: 0
+	box-sizing: border-box
+
+body
+	font-family: $font-family
+	font-size: $font-size
+	line-height: $line-height
+	-webkit-font-smoothing: antialiased
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6
+	line-height: $heading-line-height
+	font-weight: $heading-font-weight
+
+h1, .h1
+	font-size: $h1-font-size
+
+h2, .h2
+	font-size: $h2-font-size
+
+h3, .h3
+	font-size: $h3-font-size
+
+h4, .h4
+	font-size: $h4-font-size
+
+h5, .h5
+	font-size: $h5-font-size
+
+h6, .h6
+	font-size: $h6-font-size
+
+a
+	cursor: $link-active-cursor
+	text-decoration: $link-decoration
+
+ul, li
+	list-style: none
+
+.codecarrot-logo
+	+background('../../assets/img/codecarrot-logo.svg', no-repeat, cover, center)
+	width: 160px
+	height: 25px
+
+@media (min-width: 576px)
+	.container
+		width: 550px
+
+@media (min-width: 768px)
+	.container
+		width: 750px
+
+@media (min-width: 992px)
+	.container
+		width: 970px
+
+@media (min-width: 1200px)
+	.container
+		width: 1170px
+
+.container
+	margin-right: auto
+	margin-left: auto
+	padding-left: 20px
+	padding-right: 20px
