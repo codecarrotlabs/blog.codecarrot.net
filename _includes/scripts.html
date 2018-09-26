@@ -1,0 +1,17 @@
+{% assign search_page = page.url | slice: 1, 6 %}
+
+{% if jekyll.environment == "production" %}
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="/assets/js/script.min.js"></script>
+	{% if search_page == "search" %}
+		<script type="text/javascript" src="/assets/js/lunr.min.js"></script>
+		<script type="text/javascript" src="/assets/js/search.min.js"></script>
+	{% endif %}
+{% else %}
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	<script type="text/javascript" src="/assets/js/script.js"></script>
+	{% if search_page == "search" %}
+		<script type="text/javascript" src="/assets/js/lunr.js"></script>
+		<script type="text/javascript" src="/assets/js/search.js"></script>
+	{% endif %}
+{% endif %}
