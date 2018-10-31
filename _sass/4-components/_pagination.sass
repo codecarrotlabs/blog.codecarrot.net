@@ -1,0 +1,29 @@
+.pagination
+	text-align: center
+	font-size: $font-size-sm
+	font-weight: $serif-font-weight-semi-bold
+	margin-bottom: 80px
+
+	.current
+		border-color: $gray-500
+
+	.disabled
+		border-color: $gray-100
+		color: lighten($gray-800, 30%)
+		cursor: not-allowed
+
+		&:hover
+			border-color: none
+
+	.dots
+		border: none
+
+.page-numbers
+	border: 2px solid $gray-300
+	font-weight: $serif-font-weight-extra-bold
+	margin: 5px
+	color: $gray-800
+	border-radius: 5px
+	padding: 8px 14px
+	display: inline-block
+	transition: $transition-base

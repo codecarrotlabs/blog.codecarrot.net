@@ -1,0 +1,6 @@
+<div style="background-image: url(/assets/img/bg-pattern.svg)" class="hero-heading">
+	{% if include.pagination == true %}
+		<p>Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
+	{% endif %}
+	<h1>{{ include.title }}</h1>
+</div>

@@ -1,0 +1,17 @@
+{% assign image = "" %}
+{% if jekyll.environment == "production" %}
+  {% assign image = include.image %}
+{% else %}
+  {% assign image = "https://via.placeholder.com/350x230" %}
+{% endif %}
+
+<li class="card">
+  <a class="card-image" style="background-image: url({{image}})" href="{{ include.url }}"></a>
+  <div class="card-content">
+    <div class="card-category">{{ include.category }}</div>
+		<a class="h4" href="{{ include.url }}">
+			{{ include.title }}
+		</a>
+    <p>{{ include.description | truncate: 120, "" }}</p>
+  </div>
+</li>

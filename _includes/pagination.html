@@ -1,51 +1,65 @@
-<section>
-	<div class="pagination">
-		<div class="container">
+<div class="pagination">
+	<div class="container">
 
-			<!-- Previous Button -->
-			{% if paginator.previous_page %}
-				<a href="{{ paginator.previous_page_path }}" class="page-numbers">Previous</a>
+		<!-- Previous Button Start -->
+		<a href="{{ paginator.previous_page_path }}" class="page-numbers {% unless paginator.previous_page %} disabled {% endunless %}">Previous</a>
+		<!-- Previous Button End -->
+
+		{% if paginator.previous_page %}
+			<a href="/" class="page-numbers">1</a>
+		{% endif %}
+
+		<!-- Dot Before Total Page Start -->
+		{% assign minus_three_from_previous = paginator.previous_page | minus: 3 %}
+		{% if minus_three_from_previous >= 2 %}
+		<span class="page-numbers dots">...</span>
+		{% endif %}
+		<!-- Dot Before Total Page End -->
+
+		<!-- Previous Page From Current Start -->
+		{% assign previous_minus_two = paginator.previous_page | minus: 2 %}
+		{% for i in (previous_minus_two..paginator.previous_page) %}
+			{% if i <= 1 %}
+				{% continue %}
 			{% else %}
-				<span style="display: none" class="page-numbers current">Previous</span>
+				<a href="/page/{{ i }}" class="page-numbers">{{ i }}</a>
 			{% endif %}
+		{% endfor %}
+		<!-- Previous Page From Current End -->
 
-			{% if paginator.page >= 3 %}
-				<a href="/" class="page-numbers">1</a>
+		<!-- Current Page Button Start -->
+		<span class="page-numbers current">{{ paginator.page }}</span>
+		<!-- Current Page Button End -->
 
+		<!-- Next Page From Current Page Start -->
+		{% assign next_plus_two = paginator.next_page | plus: 2 %}
+		{% for i in (paginator.next_page..next_plus_two) %}
+			{% if i == paginator.total_pages or paginator.page == paginator.total_pages %}
+				{% break %}
+			{% else %}
+				<a href="/page/{{ i }}" class="page-numbers">{{ i }}</a>
+			{% endif %}
+		{% endfor %}
+		<!-- Next Page From Current Page End -->
+
+		<!-- Dot Before Total Page Start -->
+		{% for i in (paginator.next_page..next_plus_two) offset: 2 %}
+			{% assign plus_two_to_the_last = paginator.total_pages | minus: i %}
+			{% if plus_two_to_the_last >= 2 and paginator.page != paginator.total_pages %}
 				<span class="page-numbers dots">...</span>
 			{% endif %}
+		{% endfor %}
+		<!-- Dot Before Total Page End -->
 
-			<!-- Previous Page Number Button -->
-			{% if paginator.previous_page %}
-				<a href="{{ paginator.previous_page_path }}" class="page-numbers">{{ paginator.previous_page }}</a>
-			{% else %}
-				<span style="display: none" class="page-numbers current">{{ paginator.previous_page }}</span>
-			{% endif %}
+		<!-- Last Page Button Start -->
+		{% if paginator.next_page %}
+			<a href="/page/{{ paginator.total_pages }}" class="page-numbers">{{ paginator.total_pages }}</a>
+		{% endif %}
+		<!-- Last Page Button End -->
 
-			<!-- Current Page Button -->
-			<span class="page-numbers current">{{ paginator.page }}</span>
+		<!-- Next Button Start -->
+		<a href="{{ paginator.next_page_path }}" class="page-numbers {% unless paginator.next_page %} disabled {% endunless %}">Next</a>
+		<!-- Next Button End -->
 
-			<!-- Next Page Number Button -->
-			{% if paginator.next_page %}
-				<a href="{{ paginator.next_page_path }}" class="page-numbers">{{ paginator.next_page }}</a>
-			{% else %}
-				<span style="display: none" class="page-numbers current">{{ paginator.next_page }}</span>
-			{% endif %}
-
-			{% assign page_end = paginator.total_pages | minus: 1 %}
-			{% if paginator.page < page_end %}
-				<span class="page-numbers dots">...</span>
-
-				<a href="/page/{{ paginator.total_pages }}/" class="page-numbers">{{ paginator.total_pages }}</a>
-			{% endif %}
-
-			<!-- Next Button -->
-			{% if paginator.next_page %}
-				<a href="{{ paginator.next_page_path }}" class="page-numbers">Next</a>
-			{% else %}
-				<span style="display: none" class="page-numbers current">Next</span>
-			{% endif %}
-
-		</div>
 	</div>
-</section>
+</div>

@@ -4,28 +4,17 @@
 	font-size: 14px
 	position: relative
 
-	.search-field-form-icon, #search-field-form-reset-icon
-		position: absolute
-		display: flex
-
 	.search-field-form-icon
 		user-select: none
 		top: calc(50% - 18px/2)
 		left: 12px
+		position: absolute
+		display: flex
 
 		svg
-			height: 16px
-			width: 16px
+			height: 18px
+			width: 18px
 			fill: $gray-500
-
-	#search-field-form-reset-icon
-		top: calc(50% - 12px/2)
-		right: 13px
-		cursor: pointer
-
-		svg
-			width: 12px
-			height: 12px
 
 	#search-field-form-input
 		height: 46px
@@ -44,10 +33,6 @@
 
 #no-result
 	color: $gray-600
-	text-align: center
-
-#search-pagination
-	margin-top: 80px
 	text-align: center
 
 .search-by-topic
