@@ -1,0 +1,36 @@
+
+.post-header
+	margin: 0 auto
+	width: 100%
+	overflow: hidden
+	text-align: center
+	background:
+		size: cover
+		position: 50%
+	position: relative
+
+	&:before
+		content: ""
+		background-color: rgba($gray-100, 0.5)
+		position: absolute
+		top: 0
+		left: 0
+		right: 0
+		bottom: 0
+		z-index: 1
+
+	.container
+		z-index: 2
+		position: relative
+
+		a
+			text-transform: uppercase
+			color: $white
+
+			&:hover
+				font-weight: $serif-font-weight-bold
+
+		h1
+			color: $white
+			margin-top: 15px
+			font-weight: $serif-font-weight-bold

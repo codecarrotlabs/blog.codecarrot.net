@@ -8,17 +8,22 @@
 
 	<body>
 
+{% assign image = "" %}
+{% if jekyll.environment == "production" %}
+	{% assign image = page.image %}
+{% else %}
+	{% assign image = "https://via.placeholder.com/1349x531.8" %}
+{% endif %}
 
-		<div style="background-image: url({{page.image}})" class="post-header">
+<div style="background-image: url({{image}})" class="post-header">
 
-			<div class="container">
-				<p>
-					<a href="/category/{{ page.categories }}">{{ page.categories }}</a>
-
-				</p>
-				<h1>{{page.title}}</h1>
-			</div>
-		</div>
+	<div class="container">
+		<p>
+			<a href="/category/{{ page.categories }}">{{ page.categories }}</a>
+		</p>
+		<h1>{{ page.title }}</h1>
+	</div>
+</div>
 
 		<div class="container">
 			<main class="article">
