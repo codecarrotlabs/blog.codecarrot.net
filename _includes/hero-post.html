@@ -1,0 +1,13 @@
+<div class="hero-post">
+
+	{% for card in site.posts limit:1 %}
+		<div style="background-image: url({{card.image}});" class="hero-post-img">
+			<div class="container">
+				<div class="hero-post-title">
+					<a class="h3" href="{{ card.url }}">{{ card.title }}</a>
+				</div>
+			</div>
+		</div>
+	{% endfor %}
+
+</div>
