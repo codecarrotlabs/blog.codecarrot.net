@@ -96,7 +96,7 @@ DEPENDENCIES
   jekyll (= 3.8)
   jekyll-feed (~> 0.10.0)
   jekyll-paginate
-  jekyll-seo-tag
+  jekyll-seo-tag (~> 2.5.0)
   jemoji
   minima (~> 2.0)
   tzinfo-data
