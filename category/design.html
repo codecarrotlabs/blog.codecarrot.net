@@ -1,31 +1,16 @@
 ---
 layout: default
+title: "Category: Design"
 ---
 
-<section class="latest-post">
-	<div class="container">
+{% include hero-heading.html title=page.title %}
 
-		<!-- Cards -->
-		<ul class="cards-container">
+{% include subnav.html %}
 
-				{% for card in site.categories.design %}
-					<li class="card">
-						<div class="card-content">
-							<a href="{{site.baseurl}}{{ card.url }}">
-								<div class="card-content-image" style="background-image: url({{ card.image }})"></div>
-							</a>
-							<div class="card-content-text">
-								<a href="{{site.baseurl}}{{ card.url }}">
-									<h2>
-										{{ card.title | truncate: 60, "..." }}
-									</h2>
-								</a>
-								<p>{{ card.description | truncate: 121, "..." }}</p>
-							</div>
-						</div>
-					</li>
-				{% endfor %}
-		</ul>
-
-	</div>
-</section>
+<div class="container">
+	<ul class="cards-container">
+		{% for post in site.categories.design %}
+			{% include card.html url=post.url image=post.image category=post.categories title=post.title description=post.description author=post.author content=post.content %}
+		{% endfor %}
+	</ul>
+</div>
