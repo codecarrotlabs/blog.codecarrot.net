@@ -1,29 +1,15 @@
+---
+layout: empty
+---
 
- <html>
-	<head>
-		{% include meta.html %}
-	</head>
+<head>
+	{% include meta.html %}
+</head>
 
 <body>
 	{% include header.html %}
 
-		{% if paginator.page == 1 %}
-			{% include header-post.html %}
-		{% else %}
-			{% include header-page.html %}
-		{% endif %}
+	{{ content }}
 
-		{% include subnav.html %}
-
-		{% if paginator.page > 1 %}
-			{% include pagination.html %}
-		{% endif %}
-
-		{{ content }}
-
-		{% include pagination.html %}
-
-		{% include footer.html %}
-
-	</body>
-</html>
+	{% include footer.html %}
+</body>
