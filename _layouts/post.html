@@ -1,12 +1,6 @@
-
- <html>
-	<head>
-
-		{% include meta.html %}
-
-	</head>
-
-	<body>
+---
+layout: default
+---
 
 {% assign image = "" %}
 {% if jekyll.environment == "production" %}
@@ -57,8 +51,5 @@
 
 {% include comments.html %}
 
-		{% include footer.html %}
-	</body>
-</html>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-590a3c202dedf7a6"></script>
