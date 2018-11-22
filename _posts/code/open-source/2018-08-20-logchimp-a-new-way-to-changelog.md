@@ -58,6 +58,6 @@ and you are good to go 🔰.
 
 # Links
 
-1. Website: https://logchimp.now.sh/
-2. Demo: https://mittalyashu.gitlab.io/jasper-changelog/
-3. LogChimp Starter kit: https://gitlab.com/codecarrot/logchimp/logchimp-starter-kit
+1. **Website:** [https://logchimp.now.sh/](https://logchimp.now.sh/)
+2. **Demo:** [https://mittalyashu.gitlab.io/jasper-changelog/](https://mittalyashu.gitlab.io/jasper-changelog/)
+3. **LogChimp Starter kit:** [https://gitlab.com/codecarrot/logchimp/logchimp-starter-kit](https://gitlab.com/codecarrot/logchimp/logchimp-starter-kit)
