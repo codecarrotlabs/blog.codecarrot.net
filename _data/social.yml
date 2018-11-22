@@ -18,11 +18,6 @@
   username: codecarrot
   url: https://www.instagram.com/codecarrot/
 
-- name: Google Plus
-  filename: google_plus
-  username: ""
-  url: https://plus.google.com/110021331097734315433
-
 - name: GitHub
   filename: github
   username: codecarrotnet
