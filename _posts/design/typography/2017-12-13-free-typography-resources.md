@@ -91,7 +91,7 @@ A font match made in Heaven—and you get to be cupid!
 * [Typewolf](//www.typewolf.com/) – Combine various fonts and check out what’s trending in typography
 * [Typespiration](//typespiration.com/) – Browse tons of web font combinations
 * [Font Flame](//fontflame.com/) – Choose whether you love a font or hate it! They refer to themselves as “Tinder for font pairing”
-* [Just My Type](//justmytype.co/) – A collection of font pairings from Typekit and H&FJ
+* [Font Combination Tool](//www.boldwebdesign.com.au/font-combinations-for-web-designers.html) – A new font combination tool that provides over 400 Google font combinations, and renders the page as a clean website typography layout.
 * [Canva font combinations](//www.canva.com/font-combinations/) – Select the right combinations for your design needs
 
 Pssstttt… Check out the [guide to pairing fonts](/how-to-pair-fonts).
