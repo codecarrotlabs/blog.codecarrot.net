@@ -18,7 +18,7 @@ layout: default
 	<ul class="cards-container">
 
 		{% for post in paginator.posts %}
-		{% include card.html url=post.url image=post.image category=post.categories title=post.title description=post.description author=post.author content=post.content %}
+			{% include card.html url=post.url image=post.image category=post.categories title=post.title description=post.description author=post.author content=post.content %}
 		{% endfor %}
 
 	</ul>
