@@ -45,11 +45,11 @@ new Vue({
 });
 ```
 
-Now, we will add a `p` tag, and inside it, we will wrap `title` with two curly braces. This is how Vue declaratively render’s the data. The Syntax `{{}}` is called **String Interpolation**.
+Now, we will add a `p` tag, and inside it, we will wrap `title` with two curly braces. This is how Vue declaratively render’s the data. The Syntax {% raw %} {{}} {% endraw %} is called **String Interpolation**.
 
 ```html
 <div id="app-root">
-    <p> {{ title }} </p>
+  <p> {{ title }} </p>
 </div>
 ```
 
@@ -59,8 +59,8 @@ Now we will pass an input tag with Vue [Event handler](https://vuejs.org/v2/guid
 
 ```html
 <div id="app-root">
-    <input type="text" v-on:input="changeTitle">
-    <p> {{ title }} </p>
+  <input type="text" v-on:input="changeTitle">
+  <p> {{ title }} </p>
 </div>
 ```
 
