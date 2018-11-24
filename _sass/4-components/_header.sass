@@ -1,4 +1,15 @@
 @media (max-width: 767px)
+	.header--spacer
+		height: 58px
+
+	.nav-toggle
+		+background('../img/icons/menu.svg', no-repeat, cover, center)
+		cursor: $cursor-pointer
+		display: flex
+		width: 25px
+		height: 18px
+		margin-left: auto
+
 	.is-close
 		display: none
 
@@ -15,49 +26,47 @@
 			margin-bottom: 10px
 
 @media (min-width: 767px)
-	header
-		.nav-toggle
-			display: none
+	.header--spacer
+		height: 74.67px
 
-		.nav-list
-			display: flex
+	.nav-toggle
+		display: none
 
-.header-stripe
-	height: 4px
-	background-color: $brand-1
+	.nav-list
+		display: flex
+
+		li
+			margin-left: 40px
+			text-align: right
 
 header
-	position: sticky
+	position: fixed
 	background-color: $white
 	z-index: 100
 	top: 0
-	box-shadow: 0 0 4px rgba(0,0,0,.4)
-	padding: 20px
+	box-shadow: 0 1px 4px rgba(33, 37, 41, 0.15)
+	padding: 15px 20px
 	display: flex
 	flex-wrap: wrap
 	align-items: center
+	width: 100%
+	transition: top 0.2s ease-in-out
 
-.nav-toggle
-	+background('../img/icons/menu.svg', no-repeat, cover, center center)
-	cursor: $cursor-pointer
-	display: flex
-	width: 25px
-	height: 18px
-	margin-left: auto
+.header-hide
+	top: -80px
 
 .nav-list
 	margin-left: auto
 	align-items: center
 
-	li
-		margin-left: 40px
+	a
+		color: $gray-800
+		font:
+			size: 14px
+			weight: $serif-font-weight-bold
 
-		a
-			color: $gray-800
-			font-weight: 800
-
-			&:hover
-				color: $black
+		&:hover
+			color: $black
 
 	.search-icon
 		display: flex
@@ -71,8 +80,4 @@ header
 				fill: $black
 
 	.nav-cta
-		color: $brand-1
-		transition: $transition-base
-
-		&:hover
-			color: $brand-2
+		@extend %primary-solid-button
