@@ -14,22 +14,12 @@
 		svg
 			height: 18px
 			width: 18px
-			fill: $gray-500
+			fill: $gray-400
 
 	#search-field-form-input
-		height: 46px
-		font: inherit
-		border: 1px solid $gray-300
-		border-radius: 5px
+		@extend %input-field
 		width: 100%
-		box-shadow: 0 1px 1px 0 rgba(85, 95, 110, 0.2)
-		transition: box-shadow .4s ease, background .4s ease
-		padding: 10px 35px
-		vertical-align: middle
-
-		&:focus
-			box-shadow: none
-			outline: 0
+		padding-left: 35px
 
 #no-result
 	color: $gray-600
@@ -59,7 +49,6 @@
 				border: 2px solid $gray-200
 				color: $gray-700
 				display: inline-block
-				// margin: 0
 				font-weight: 700
 				text-decoration: none
 				text-align: center
