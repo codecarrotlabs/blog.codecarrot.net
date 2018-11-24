@@ -1,0 +1,56 @@
+footer
+	display: flex
+	margin: 80px 0
+	flex-direction: column
+	text-align: center
+
+	.copyright, .footer-nav
+		font-size: $font-size-sm
+		font-weight: $serif-font-weight-bold
+
+	.codecarrot-logo
+		display: inline-block
+
+	.copyright
+		margin: 10px 0
+		color: $gray-700
+
+	.footer-nav, .footer-social
+		display: flex
+		flex-direction: row
+		justify-content: center
+
+	.footer-nav
+		margin-bottom: 20px
+		flex-wrap: wrap
+		align-items: center
+
+		a
+			color: $gray-700
+			font-weight: $serif-font-weight-medium
+
+		.dot
+			font-size: 9px
+			margin: 0px 5px
+			color: $gray-700
+
+	.footer-social
+		flex-wrap: wrap
+
+		li
+			margin: 2px 5px
+			background-color: $gray-400
+			display: inline-block
+
+			a
+				display: inline-block
+
+		li, li > a > img
+			width: 30px
+			height: 30px
+			border-radius: 30px
+
+.footer-stripe
+	height: 10px
+	width: 100%
+	+background('../../assets/img/footer-stripe.svg', null, null, null)

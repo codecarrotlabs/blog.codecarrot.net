@@ -1,0 +1,20 @@
+<div class="hero-post">
+
+    {% for card in site.posts limit:1 %}
+        {% assign image = "" %}
+        {% if jekyll.environment == "production" %}
+            {% assign image = card.image %}
+        {% else %}
+            {% assign image = "https://via.placeholder.com/1260x280" %}
+        {% endif %}
+
+        <div style="background-image: url({{image}});" class="hero-post-img">
+            <div class="container">
+                <div class="hero-post-title">
+                    <a class="h3" href="{{ card.url }}">{{ card.title }}</a>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+
+</div>

@@ -1,0 +1,17 @@
+=background($url, $repeat, $size, $position)
+	@if $url == 'null'
+		@debug 'The value input is null'
+	@else
+		background-image: url($url)
+	@if $repeat == 'null'
+		@debug 'The value input is null'
+	@else
+		background-repeat: $repeat
+	@if $size == 'null'
+		@debug 'The value input is null'
+	@else
+		background-size: $size
+	@if $position == 'null'
+		@debug 'The value input is null'
+	@else
+		background-position: $position

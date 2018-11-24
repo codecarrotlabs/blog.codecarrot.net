@@ -1,14 +1,18 @@
-<div class="subnav">
+{% if paginator.page == 1 %}
+	{% assign margin_bottom = "margin: 0 0 80px" %}
+{% endif %}
+
+<div style="{{margin_bottom}}" class="subnav">
 	<div class="container">
 		<ul class="subnav-list">
 			<li>
 				<a href="/">All</a>
 			</li>
 			<li>
-				<a href="/category/design/">Design</a>
+				<a href="/category/code/">Coding</a>
 			</li>
 			<li>
-				<a href="/category/code/">Coding</a>
+				<a href="/category/design/">Design</a>
 			</li>
 			<li>
 				<a href="/category/business/">Business</a>
@@ -18,9 +22,6 @@
 			</li>
 			<li>
 				<a href="/category/podcast/">Podcast</a>
-			</li>
-			<li>
-				<a href="/tag/vlog/">Vlogs</a>
 			</li>
 		</ul>
 	</div>

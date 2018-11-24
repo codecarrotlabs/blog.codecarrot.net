@@ -1,0 +1,61 @@
+.search-field
+	margin-top: 80px
+	margin-bottom: 30px
+	font-size: 14px
+	position: relative
+
+	.search-field-form-icon
+		user-select: none
+		top: calc(50% - 18px/2)
+		left: 12px
+		position: absolute
+		display: flex
+
+		svg
+			height: 18px
+			width: 18px
+			fill: $gray-400
+
+	#search-field-form-input
+		@extend %input-field
+		width: 100%
+		padding-left: 35px
+
+#no-result
+	color: $gray-600
+	text-align: center
+
+.search-by-topic
+	text-align: center
+	margin: 80px auto
+	max-width: 768px
+
+	h3
+		margin: 24px 0
+		color: $gray-900
+		display: block
+		font-weight: 700
+		font-size: 24px
+		line-height: 1.4
+
+	ul
+		li
+			display: inline-block
+			margin: 10px 0
+
+			a
+				border-radius: 50px
+				background: transparent
+				border: 2px solid $gray-200
+				color: $gray-700
+				display: inline-block
+				font-weight: 700
+				text-decoration: none
+				text-align: center
+				transition: color 200ms ease, background-color 200ms ease, border-color 200ms ease, width 200ms ease, opacity 200ms ease
+				font-size: 13px
+				padding: 8px 22px
+
+				&:hover
+					border: 2px solid $brand-1
+					color: $brand-1

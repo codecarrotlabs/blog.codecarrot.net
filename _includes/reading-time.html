@@ -1,0 +1,8 @@
+{% assign words = include.content | size %}
+{% assign min_read = "min read" %}
+
+{% if words < 360 %}
+	1 {{min_read}}
+{% else %}
+	{{ words | divided_by: 180 }} {{ min_read }} 
+{% endif %}

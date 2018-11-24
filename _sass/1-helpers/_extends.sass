@@ -1,0 +1,43 @@
+%primary-solid-button
+	color: $white
+	transition: $transition-base
+	background-color: $brand-1
+	border-radius: 50px
+	font:
+			size: $font-size-sm
+		weight: $serif-font-weight-semi-bold
+	padding: 12px 25px
+	display: flex
+	cursor: $cursor-pointer
+
+	&:hover
+		background-color: $link-color-hover
+		color: $white
+
+%primary-outline-button
+	cursor: $cursor-pointer
+	color: $brand-1
+	transition: $transition-base
+	background-color: $white
+	border-radius: 50px
+	border: 1px solid $gray-200
+	font:
+		size: $font-size-sm
+		weight: $serif-font-weight-semi-bold
+	padding: 12px 25px
+
+	&:hover
+		color: $white
+		background-color: $brand-1
+		border-color: $brand-1
+
+%input-field
+	padding: 12px 15px
+	border-radius: 5px
+	border: 1px solid $gray-400
+	font:
+		size: $font-size-sm
+		family: $font-family
+		weight: $serif-font-weight-medium
+	color: $gray-800
+	outline: none

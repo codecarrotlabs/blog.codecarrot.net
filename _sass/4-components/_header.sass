@@ -1,0 +1,83 @@
+@media (max-width: 767px)
+	.header--spacer
+		height: 58px
+
+	.nav-toggle
+		+background('../img/icons/menu.svg', no-repeat, cover, center)
+		cursor: $cursor-pointer
+		display: flex
+		width: 25px
+		height: 18px
+		margin-left: auto
+
+	.is-close
+		display: none
+
+	.is-open
+		display: flex
+
+	.nav-list
+		width: 100%
+		margin-top: 30px
+		flex-direction: column
+
+		li
+			margin-left: 0
+			margin-bottom: 10px
+
+@media (min-width: 767px)
+	.header--spacer
+		height: 74.67px
+
+	.nav-toggle
+		display: none
+
+	.nav-list
+		display: flex
+
+		li
+			margin-left: 40px
+			text-align: right
+
+header
+	position: fixed
+	background-color: $white
+	z-index: 100
+	top: 0
+	box-shadow: 0 1px 4px rgba(33, 37, 41, 0.15)
+	padding: 15px 20px
+	display: flex
+	flex-wrap: wrap
+	align-items: center
+	width: 100%
+	transition: top 0.2s ease-in-out
+
+.header-hide
+	top: -80px
+
+.nav-list
+	margin-left: auto
+	align-items: center
+
+	a
+		color: $gray-800
+		font:
+			size: 14px
+			weight: $serif-font-weight-bold
+
+		&:hover
+			color: $black
+
+	.search-icon
+		display: flex
+
+		svg
+			width: 16px
+			height: 16px
+			fill: #2E353B
+
+			&:hover
+				fill: $black
+
+	.nav-cta
+		@extend %primary-solid-button

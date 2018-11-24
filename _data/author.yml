@@ -1,0 +1,15 @@
+- name: CodeCarrot
+  username: codecarrot
+  twitter: codecarrotnet
+  image: https://www.codecarrot.net/images/favicon.png
+  bio: CodeCarrot Technologies
+  link: https://www.codecarrot.net
+  location: Servers
+
+- name: Yashu Mittal
+  username: yashumittal
+  twitter: mittalyashu77
+  image: https://i.imgur.com/YzI8pnE.jpg
+  bio: Founder &amp; CEO at CodeCarrot
+  link: https://mittalyashu.now.sh
+  location: India

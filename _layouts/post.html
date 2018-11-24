@@ -1,81 +1,55 @@
+---
+layout: default
+---
 
- <html>
-	<head>
+{% assign image = "" %}
+{% if jekyll.environment == "production" %}
+	{% assign image = page.image %}
+{% else %}
+	{% assign image = "https://via.placeholder.com/1349x531.8" %}
+{% endif %}
 
-		{% include meta.html %}
+<div style="background-image: url({{image}})" class="post-header">
 
-	</head>
+	<div class="container">
+		<p>
+			<a href="/category/{{ page.categories }}">{{ page.categories }}</a>
+		</p>
+		<h1>{{ page.title }}</h1>
+	</div>
+</div>
 
-	<body>
+<div class="article">
 
-		{% include navigation.html %}
+	<div class="post-authors">
+		{% for author in site.data.author %}
+			{% if author.username == page.author %}
+			<a target="blank" href="{{ author.link }}">
+				<img src="{{ author.image }}" alt="{{ author.name }}">
+			</a>
 
-		<div style="background-image: url({{page.image}})" class="post-header">
-
-			<div class="container">
-				<p>
-					<a href="/category/{{ page.categories }}">{{ page.categories }}</a>
-
-				</p>
-				<h1>{{page.title}}</h1>
+			<div class="post-author-detail">
+				<span>{{ author.name }}</span>
+				<span>{{ author.bio }}</span>
+				<p>{{ page.date | date: "%B %d, %Y" }} • {% include reading-time.html content=page.content %}</p>
 			</div>
-		</div>
+			{% endif %}
+		{% endfor %}
+	</div>
 
-		<div class="container">
-			<main class="article">
+	<div class="addthis_inline_share_toolbox"></div>
 
-				<div class="post-authors">
-					{% if page.author %}
-						{% include author/{{page.author}}.html %}
-					{% else %}
-						{% include author/codecarrot.html %}
-					{% endif %}
-				</div>
+	<main class="main-article">
+		{{ content }}
+	</main>
 
-				<!-- Go to www.addthis.com/dashboard to customize your tools -->
-				<div class="addthis_inline_share_toolbox"></div>
+	{% include tag-bar.html %}
 
-				{{content}}
+	<div class="addthis_relatedposts_inline"></div>
 
-				{% include tag-bar.html %}
+</div>
 
-				<!-- Go to www.addthis.com/dashboard to customize your tools -->
-				<div class="addthis_relatedposts_inline"></div>
+{% include comments.html %}
 
-			</main>
-		</div>
-
-		<div class="comment-section">
-			<div class="container">
-				<div class="comments">
-					<h3>Response to “{{page.title}}”</h3>
-
-					<div id="disqus_thread"></div>
-					<script>
-
-					/**
-					*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-					*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-					/*
-					var disqus_config = function () {
-					this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-					this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-					};
-					*/
-					(function() { // DON'T EDIT BELOW THIS LINE
-					var d = document, s = d.createElement('script');
-					s.src = 'https://codecarrot.disqus.com/embed.js';
-					s.setAttribute('data-timestamp', +new Date());
-					(d.head || d.body).appendChild(s);
-					})();
-					</script>
-				</div>
-			</div>
-		</div>
-
-		<!-- Go to www.addthis.com/dashboard to customize your tools -->
-		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-590a3c202dedf7a6"></script>
-
-		{% include footer.html %}
-	</body>
-</html>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-590a3c202dedf7a6"></script>
