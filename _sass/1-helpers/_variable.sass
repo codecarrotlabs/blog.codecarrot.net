@@ -6,6 +6,8 @@ $brand-3: #424243
 
 $white: #ffffff
 $black: #000000
+$error: #ED1C24
+$success: #2FC072
 
 $gray-50: #F8F9FA
 $gray-100: #F1F3F5
@@ -21,6 +23,7 @@ $gray-900: #212529
 // Links
 
 $link-color: $brand-1
+$link-color-hover: darken($link-color, 3%)
 $link-decoration: none
 $link-hover-color: darken($link-color, 15%)
 $link-hover-decoration: underline
@@ -33,7 +36,7 @@ $font-family: 'Montserrat', sans-serif
 $font-family-code: 'Space Mono', monospace
 
 $font-size: 1rem // Assumes the browser default, typically `16px`
-$font-size-sm: $font-size * .875
+$font-size-sm: $font-size * .870
 $font-size-lg: $font-size * 1.25
 
 $line-height: 1.5
@@ -51,7 +54,7 @@ $mono-font-weight-normal: 400
 $heading-line-height: 1.2
 $heading-font-weight: $serif-font-weight-bold
 
-$h1-font-size: $font-size * 2.5
+$h1-font-size: $font-size * 2.25
 $h2-font-size: $font-size * 2
 $h3-font-size: $font-size * 1.75
 $h4-font-size: $font-size * 1.5
@@ -60,4 +63,5 @@ $h6-font-size: $font-size * 1
 
 // Transition
 
+$transition: 0.2s
 $transition-base: 0.45s all ease-in-out
