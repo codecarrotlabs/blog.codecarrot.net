@@ -38,6 +38,6 @@ The demand for articles may vary, and contributors looking to send readers to th
 * Share your Dropbox Paper with **[yashu@codecarrot.net](mailto:yashu@codecarrot.net)**. Make sure we can edit it.
 * Allow one-two weeks for a response to your pitch or submission before following up (We get a lot of ‘em!).
 
-What topics would you like to see covered on CodeCarrot Blogs? You can comment in this [card](https://trello.com/c/lUGGS5Qa).
+What topics would you like to see covered on CodeCarrot Blogs? You can comment below.
 
 Let me know if you have any further questions, drop an email at **[blog@codecarrot.net](mailto:blog@codecarrot.net)** or start a chat with us.
