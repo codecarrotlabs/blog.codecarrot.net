@@ -29,7 +29,7 @@ CodeCarrot seeks practical, actionable advice on business, growth, project manag
 
 ✅ Fluency in English
 
-The demand for articles may vary, and contributors looking to send readers to their website, portfolio can opt for a link in their bio of payment.
+The demand for articles may vary, and contributors looking to send readers to their website or portfolio can opt for a link in their bio of payment.
 
 ## Ready to get started? Consult this checklist:
 
