@@ -13,7 +13,7 @@ Every day, thousands of press releases are distributed via the newswires and pub
 
 Today, releases remain as one of the most misunderstood marketing tools in public relations. Varied controversies are linked to it, claiming that it is no longer useful for gaining media coverage. Many believe that it is already dead.
 
-It can no longer be used for search engine optimization (SEO) tool, and it doesn't serve any use in gaining backlinks. Are you thinking why it remains as an effective tool for marketers, despite these issues, check this out to find out.
+It can no longer be used for search engine optimization (SEO) tool, and it doesn't serve any use in gaining backlinks. Are you thinking why it remains as an effective tool for marketers, despite these issues, <a href="https://www.newswire.com/features/distribution">check this out</a> to find out.
 
 The secret lies behind the art of storytelling. Surely, it is a great accompaniment for your content marketing tactics because it helps you tell a better story.
 
