@@ -55,7 +55,7 @@ Its collection of food photography is available for personal or commercial use, 
 
 In addition to its collection of free images, FoodiesFeed offers a few Premium packages, which grant you lifetime access to hundreds of more photos, regular updates/notifications, and thematic photo bundles.
 
-## 4. [Startup Stock Photos](https://startupstockphotos.com/)
+## 4. [Startup Stock Photos](http://startupstockphotos.com/)
 
 No stuffy suits, phony smiles or post-meeting high fives here — Startup Stock Photos offers free **business stock photography for the modern creative professional**.
 
@@ -71,11 +71,11 @@ Here you’ll find beautiful images related to fashion, food, and interior desig
 
 Images are free and can be used for personal or commercial use.
 
-## 6. [Minimography](https://minimography.com/)
+## 6. [Free Stock Photo Sites](https://www.stockphotosecrets.com/best-free-stock-photo-sites)
 
-Modern, minimalist photography (think lots of white space and clean lines, with purposeful pops of color). Categories include nature, objects, animals and architecture.
+As free photo licenses can be more complex than they appear at first glance, you must choose a site that gives you not only the perfect photos for your blog but also the safest ones from a legal point of view. 
 
-All images are free to use for personal or commercial use.   
+This handy list of 27+ best (and safest) free stock photo sites is a great way to find them, as all the sites listed have been carefully reviewed in terms of library offer, image quality and legal safety.
 
 ## 7. [Death to the Stock Photo](https://deathtothestockphoto.com/)
 
