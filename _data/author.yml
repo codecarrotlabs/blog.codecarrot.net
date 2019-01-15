@@ -1,33 +1,33 @@
-- name: CodeCarrot
-  username: codecarrot
-  twitter: codecarrotnet
-  image: https://www.codecarrot.net/images/favicon.png
-  bio: CodeCarrot Technologies
-  link: https://www.codecarrot.net
-  location: Servers
+- name: "CodeCarrot"
+  username: "codecarrot"
+  twitter: "codecarrotnet"
+  image: "https://www.codecarrot.net/images/favicon.png"
+  bio: "CodeCarrot Technologies"
+  link: "https://www.codecarrot.net"
+  location: "Cloud"
 
-- name: Yashu Mittal
-  username: yashumittal
-  twitter: mittalyashu77
-  image: https://i.imgur.com/YzI8pnE.jpg
-  bio: Founder &amp; CEO at CodeCarrot
-  link: https://mittalyashu.now.sh
-  location: India
+- name: "Yashu Mittal"
+  username: "yashumittal"
+  twitter: "mittalyashu77"
+  image: "https://i.imgur.com/YzI8pnE.jpg"
+  bio: "Founder & CEO at CodeCarrot"
+  link: "https://mittalyashu.now.sh"
+  location: "India"
 
-- name: Fred Griffin
-  username: fredgriffin
+- name: "Fred Griffin"
+  username: "fredgriffin"
   twitter: ""
-  image: https://i.imgur.com/0VuHDGr.jpg
-  bio: Marketing consultant
+  image: "https://i.imgur.com/0VuHDGr.jpg"
+  bio: "Marketing consultant"
   link: ""
   location: ""
 
-- name: Elaine Bennett
-  username: elainecbennet
-  twitter: ElaineCBennet
-  image: https://i.imgur.com/6BHgIXt.jpg
-  bio: Marketing specialist & Blogger
-  link: https://bizzmarkblog.com/
+- name: "Elaine Bennett"
+  username: "elainecbennet"
+  twitter: "ElaineCBennet"
+  image: "https://i.imgur.com/6BHgIXt.jpg"
+  bio: "Marketing specialist & Blogger"
+  link: "https://bizzmarkblog.com/"
   location: ""
 
 - name: "Debbie Morgan"
