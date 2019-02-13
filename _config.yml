@@ -26,3 +26,6 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+include:
+  - _header
