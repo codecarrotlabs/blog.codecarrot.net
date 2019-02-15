@@ -11,6 +11,7 @@ layout: null
   <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
   <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <copyright>{{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</copyright>
   <id>{{ page.url | absolute_url | xml_escape }}</id>
 
   {% assign title = site.title | default: site.name %}
