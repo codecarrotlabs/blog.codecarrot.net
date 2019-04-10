@@ -2,7 +2,7 @@
 layout: post
 author: elainecbennet
 title: Recapping the video marketing trends of 2018
-date: 2019-04-10 22:27:00 +0530
+date: 2019-04-10 13:20:00 +0530
 categories: business
 tags: video marketing
 description: Video is the best ROI, and marketers who take advantage of video in their campaigns grow revenue 49% faster than non-video users.
