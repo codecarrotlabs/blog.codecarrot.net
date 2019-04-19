@@ -1,6 +1,6 @@
 ---
 layout: post
-author: elainecbennet
+author: ellandineen
 title: Recapping the video marketing trends of 2018
 date: 2019-04-10 13:20:00 +0530
 categories: business
