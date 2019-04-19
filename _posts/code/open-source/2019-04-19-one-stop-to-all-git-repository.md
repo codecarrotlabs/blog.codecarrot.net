@@ -6,7 +6,7 @@ date: 2019-04-19 11:35:45 +0530
 categories: code
 tags: thermal
 description: Thermal is open-source desktop application allows you to manage all Git repository at one place by providing you a simple to use graphic user interface with built-in features commits, history, repository settings and more.
-image: https://thepracticaldev.s3.amazonaws.com/i/6uwhsjn5tplyi0yxwrp5.png
+image: https://thepracticaldev.s3.amazonaws.com/i/37a9zxxdtl5okmstio9l.png
 ---
 
 # What is Thermal?
