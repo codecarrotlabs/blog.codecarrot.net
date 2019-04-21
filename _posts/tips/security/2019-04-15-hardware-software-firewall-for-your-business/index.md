@@ -6,7 +6,7 @@ date: 2019-04-15 15:46:39 +0530
 categories: tips
 tags: security hardware software firewall
 description: In this digital day and age of seamless global communication where sensitive data travels the world and is exchanged on a daily basis, you cannot afford to get hacked.
-image: https://i.imgur.com/JtXAVUP.jpg
+image: ./matthew-henry-87142-unsplash.jpg
 ---
 
 In this digital day and age of seamless global communication where sensitive data travels the world and is exchanged on a daily basis, you cannot afford to get hacked.
