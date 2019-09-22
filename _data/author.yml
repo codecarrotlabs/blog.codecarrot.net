@@ -53,3 +53,11 @@
   bio: "Marketing Associate at Design Wizard"
   link: "https://www.designwizard.com/"
   location: ""
+
+- name: "Jack Warner"
+  username: "jackwarner"
+  twitter: "JackWar59728831"
+  image: "https://i.imgur.com/eYcMpbm.png"
+  bio: "Cybersecurity expert"
+  link: "https://www.techwarn.com/"
+  location: ""
