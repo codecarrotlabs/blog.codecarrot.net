@@ -25,7 +25,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.5)
+    jekyll (3.8.6)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -93,7 +93,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  jekyll (= 3.8.5)
+  jekyll (= 3.8.6)
   jekyll-feed (~> 0.13.0)
   jekyll-paginate
   jekyll-seo-tag (~> 2.6.1)
