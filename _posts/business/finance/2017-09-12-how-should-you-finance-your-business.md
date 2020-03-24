@@ -48,7 +48,7 @@ Don’t be fooled by the name — you could borrow up to $50,000 through a micro
 If a business credit card doesn’t fit your needs but you can’t qualify for a loan, microloans serve as a middle ground.
 </div>
 
-They’re easier to obtain than business loans and the interest rates are reasonable.
+They’re easier to [obtain than business loans](https://debtreviews.com/get-out-of-debt/) and the interest rates are reasonable.
 
 Although there are many lenders that offer microloans, the most popular way to find a lender is through the U.S. Small Business Administration (SBA). The SBA connects business owners with lenders through its Lender Match program. It also offers business training and in some cases requires you to complete that training before it will process your loan application.
 
