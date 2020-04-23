@@ -2,7 +2,7 @@
 layout: post
 author: elainecbennet
 title: Blockchain and Crypto Trends You Should Look Out For
-date: 2019-04-23 12:38:04 +0530
+date: 2020-04-23 12:38:04 +0530
 categories: business
 tags: crypto blockchain
 description: Blockchain technology and cryptocurrencies have been among the most popular buzzwords across both the offline and online world
