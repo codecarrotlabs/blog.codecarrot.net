@@ -3,11 +3,8 @@ updates:
 - package-ecosystem: bundler
   directory: "/"
   schedule:
-    interval: daily
-    time: "23:30"
+    interval: monthly
   open-pull-requests-limit: 10
-  assignees:
-  - mittalyashu
   ignore:
   - dependency-name: nokogiri
     versions:
